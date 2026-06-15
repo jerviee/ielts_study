@@ -53668,13 +53668,19 @@ export const mockWords: IELTSWord[] = [
     "level": "IELTS7",
     "root": "etern",
     "rootMeaning": "永远",
-    "rootMeaningEn": "everlasting; infinite",
+    "rootMeaningEn": "forever; eternal",
     "rootOrigin": "Latin",
-    "rootOriginNote": "源自拉丁语 aeternus",
+    "rootOriginNote": "源自拉丁语 aeternus（永恒的）前缀：e-（出 向外 向上 完全）；词根：etern（永远）；后缀：-al（形容词后缀，表示与...相关的）",
     "relatedWords": [],
     "phonetic": "/ɪˈtɜːnl/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，永恒的重要性怎么强调都不为过。"
+    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，永恒的重要性怎么强调都不为过。",
+    "prefix": "e-",
+    "prefixMeaning": "出；向外；向上；完全",
+    "prefixMeaningEn": "out; out of; up; completely",
+    "suffix": "-al",
+    "suffixMeaning": "形容词后缀，表示与...相关的",
+    "suffixMeaningEn": "adjective suffix, denoting relating to"
   },
   {
     "id": "word_2731",
