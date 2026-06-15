@@ -53395,13 +53395,19 @@ export const mockWords: IELTSWord[] = [
     "level": "IELTS5",
     "root": "err",
     "rootMeaning": "徘徊；错误",
-    "rootMeaningEn": "mistake; fault",
+    "rootMeaningEn": "wander; mistake",
     "rootOrigin": "Latin",
-    "rootOriginNote": "源自拉丁语 error",
+    "rootOriginNote": "源自拉丁语 error（错误），来自动词 errare（徘徊、迷路、犯错）前缀：无；词根：err（徘徊 错误）；后缀：-or（名词后缀，表示行为或结果）",
     "relatedWords": [],
     "phonetic": "/ˈerə/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会错误的发展。"
+    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会错误的发展。",
+    "prefix": "",
+    "prefixMeaning": "",
+    "prefixMeaningEn": "",
+    "suffix": "-or",
+    "suffixMeaning": "名词后缀，表示行为或结果",
+    "suffixMeaningEn": "noun suffix, denoting action or result"
   },
   {
     "id": "word_2718",
