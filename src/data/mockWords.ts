@@ -53458,13 +53458,19 @@ export const mockWords: IELTSWord[] = [
     "level": "IELTS5",
     "root": "spec",
     "rootMeaning": "看；观察",
-    "rootMeaningEn": "particularly; mainly",
+    "rootMeaningEn": "look; observe",
     "rootOrigin": "Latin",
-    "rootOriginNote": "源自拉丁语 specialis",
+    "rootOriginNote": "源自拉丁语 specialis（特殊的）前缀：es-（出 向外 向上 完全）；词根：spec（看 观察）；后缀：-ially（形容词后缀+副词后缀）",
     "relatedWords": [],
     "phonetic": "/ɪˈspeʃəli/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n特别的应用革新了各个行业。"
+    "example": "The application of this concept has revolutionized various industries.\n特别的应用革新了各个行业。",
+    "prefix": "es-",
+    "prefixMeaning": "出；向外；向上；完全",
+    "prefixMeaningEn": "out; out of; up; completely",
+    "suffix": "-ially",
+    "suffixMeaning": "形容词后缀+副词后缀",
+    "suffixMeaningEn": "adjective suffix + adverb suffix"
   },
   {
     "id": "word_2721",
