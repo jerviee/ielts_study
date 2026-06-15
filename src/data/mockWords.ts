@@ -53353,13 +53353,19 @@ export const mockWords: IELTSWord[] = [
     "level": "IELTS6",
     "root": "rect",
     "rootMeaning": "直的；正确",
-    "rootMeaningEn": "build; upright",
+    "rootMeaningEn": "straight; correct",
     "rootOrigin": "Latin",
-    "rootOriginNote": "源自拉丁语 erigere",
+    "rootOriginNote": "源自拉丁语 erigere（建立、竖起）前缀：e-（出 向外 向上 完全）；词根：rect（直的 正确）；后缀：无",
     "relatedWords": [],
     "phonetic": "/ɪˈrekt/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n建立的理论为理解这一现象提供了框架。"
+    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n建立的理论为理解这一现象提供了框架。",
+    "prefix": "e-",
+    "prefixMeaning": "出；向外；向上；完全",
+    "prefixMeaningEn": "out; out of; up; completely",
+    "suffix": "",
+    "suffixMeaning": "",
+    "suffixMeaningEn": ""
   },
   {
     "id": "word_2716",
