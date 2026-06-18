@@ -40,7 +40,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbæk/",
     "frequency": "高频",
-    "example": "She was taken aback by the news.\n她被这个消息吓了一跳。"
+    "example": "She was taken aback by the unexpected news.\n她被这个意外的消息吓了一跳。"
   },
   {
     "id": "word_2",
@@ -61,7 +61,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbændən/",
     "frequency": "中频",
-    "example": "They had to abandon their ship.\n他们不得不放弃他们的船。"
+    "example": "They had to abandon their ship due to the storm.\n由于风暴，他们不得不放弃他们的船。"
   },
   {
     "id": "word_3",
@@ -82,7 +82,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbeɪt/",
     "frequency": "低频",
-    "example": "The storm began to abate.\n暴风雨开始减弱。"
+    "example": "The storm began to abate after several hours.\n几个小时后，暴风雨开始减弱。"
   },
   {
     "id": "word_4",
@@ -103,7 +103,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbi/",
     "frequency": "高频",
-    "example": "The ancient abbey attracts many tourists.\n这座古老的修道院吸引了许多游客。"
+    "example": "The ancient abbey attracts many tourists every year.\n这座古老的修道院每年吸引许多游客。"
   },
   {
     "id": "word_5",
@@ -124,7 +124,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbət/",
     "frequency": "中频",
-    "example": "The abbot led the morning prayer.\n院长主持了晨祷。"
+    "example": "The abbot led the morning prayer in the monastery.\n修道院院长主持了晨祷。"
   },
   {
     "id": "word_6",
@@ -166,7 +166,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbaɪd/",
     "frequency": "高频",
-    "example": "I cannot abide his behavior.\n我无法忍受他的行为。"
+    "example": "I cannot abide his rude behavior.\n我无法忍受他粗鲁的行为。"
   },
   {
     "id": "word_8",
@@ -187,7 +187,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɪləti/",
     "frequency": "高频",
-    "example": "She has the ability to solve complex problems.\n她有解决复杂问题的能力。"
+    "example": "She has the ability to solve complex problems quickly.\n她有快速解决复杂问题的能力。"
   },
   {
     "id": "word_9",
@@ -208,7 +208,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbleɪz/",
     "frequency": "低频",
-    "example": "The building was set ablaze.\n那栋建筑被点燃了。"
+    "example": "The building was set ablaze by the fire.\n那栋建筑被大火点燃。"
   },
   {
     "id": "word_10",
@@ -229,7 +229,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪbl/",
     "frequency": "高频",
-    "example": "She is able to speak three languages.\n她能说三种语言。"
+    "example": "She is able to speak three languages fluently.\n她能流利地说三种语言。"
   },
   {
     "id": "word_11",
@@ -397,7 +397,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbreɪʒn/",
     "frequency": "低频",
-    "example": "The abrasion on his knee needed treatment.\n他膝盖上的擦伤需要治疗。"
+    "example": "The abrasion on his knee needed medical treatment.\n他膝盖上的擦伤需要治疗。"
   },
   {
     "id": "word_19",
@@ -460,7 +460,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrɔːd/",
     "frequency": "低频",
-    "example": "She studied abroad for three years.\n她在国外学习了三年。"
+    "example": "She studied abroad for two years.\n她在国外学习了两年。"
   },
   {
     "id": "word_22",
@@ -481,7 +481,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrʌpt/",
     "frequency": "高频",
-    "example": "There was an abrupt change in the weather.\n天气突然变了。"
+    "example": "The meeting came to an abrupt end.\n会议突然结束了。"
   },
   {
     "id": "word_23",
@@ -502,7 +502,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbses/",
     "frequency": "中频",
-    "example": "He had an abscess on his gum.\n他牙龈上长了一个脓肿。"
+    "example": "The doctor drained the abscess.\n医生把脓肿排干了。"
   },
   {
     "id": "word_24",
@@ -523,7 +523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈskɒnd/",
     "frequency": "低频",
-    "example": "The thief absconded with the money.\n小偷带着钱潜逃了。"
+    "example": "The suspect absconded with the stolen money.\n嫌疑人带着赃款潜逃了。"
   },
   {
     "id": "word_25",
@@ -544,7 +544,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsəns/",
     "frequency": "高频",
-    "example": "His absence from the meeting was noticeable.\n他缺席会议很显眼。"
+    "example": "His absence from work was noticed.\n他没来上班引起了注意。"
   },
   {
     "id": "word_26",
@@ -565,7 +565,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsənt/",
     "frequency": "中频",
-    "example": "He was absent from school today.\n他今天没来上学。"
+    "example": "She was absent from school yesterday.\n她昨天没来上学。"
   },
   {
     "id": "word_27",
@@ -586,7 +586,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsəluːt/",
     "frequency": "中频",
-    "example": "There is no absolute truth in this matter.\n这件事没有绝对的真理。"
+    "example": "You have my absolute support.\n我绝对支持你。"
   },
   {
     "id": "word_28",
@@ -607,7 +607,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈzɒlv/",
     "frequency": "低频",
-    "example": "The court absolved him of all charges.\n法院赦免了他的所有指控。"
+    "example": "The court absolved him of all charges.\n法院宣告他无罪。"
   },
   {
     "id": "word_29",
@@ -628,7 +628,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈzɔːb/",
     "frequency": "高频",
-    "example": "Plants absorb carbon dioxide from the air.\n植物从空气中吸收二氧化碳。"
+    "example": "Plants absorb carbon dioxide.\n植物吸收二氧化碳。"
   },
   {
     "id": "word_30",
@@ -649,7 +649,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbstrækt/",
     "frequency": "中频",
-    "example": "Beauty is an abstract concept.\n美是一个抽象的概念。"
+    "example": "This is an abstract concept.\n这是一个抽象概念。"
   },
   {
     "id": "word_31",
@@ -670,7 +670,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈsɜːd/",
     "frequency": "低频",
-    "example": "It is absurd to think that money can buy happiness.\n认为金钱能买到幸福是荒谬的。"
+    "example": "That idea is completely absurd.\n那个想法完全荒谬。"
   },
   {
     "id": "word_32",
@@ -691,7 +691,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbʌndəns/",
     "frequency": "中频",
-    "example": "The garden has an abundance of flowers.\n花园里有大量的花。"
+    "example": "The area has an abundance of wildlife.\n这个地区野生动物丰富。"
   },
   {
     "id": "word_33",
@@ -712,7 +712,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbʌndənt/",
     "frequency": "中频",
-    "example": "The forest is abundant in wildlife.\n森林里野生动物丰富。"
+    "example": "The region is abundant in natural resources.\n该地区自然资源丰富。"
   },
   {
     "id": "word_34",
@@ -733,7 +733,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɪs/",
     "frequency": "低频",
-    "example": "They gazed into the abyss of the ocean.\n他们凝视着海洋的深渊。"
+    "example": "He stared into the abyss below.\n他凝视着下方的深渊。"
   },
   {
     "id": "word_35",
@@ -775,7 +775,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækəˈdemɪk/",
     "frequency": "高频",
-    "example": "She has an academic background in physics.\n她有物理学学术背景。"
+    "example": "She has an academic background in physics.\n她有物理学的学术背景。"
   },
   {
     "id": "word_37",
@@ -796,7 +796,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkædəmi/",
     "frequency": "中频",
-    "example": "He graduated from the military academy.\n他从军事学院毕业。"
+    "example": "He graduated from the military academy.\n他毕业于军事学院。"
   },
   {
     "id": "word_38",
@@ -817,7 +817,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈseləreɪt/",
     "frequency": "中频",
-    "example": "The car began to accelerate.\n汽车开始加速。"
+    "example": "The car began to accelerate rapidly.\n汽车开始快速加速。"
   },
   {
     "id": "word_39",
@@ -859,7 +859,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsentʃueɪt/",
     "frequency": "中频",
-    "example": "The dress accentuates her figure.\n这条裙子突出了她的身材。"
+    "example": "The dress accentuates her figure.\n这件连衣裙突显了她的身材。"
   },
   {
     "id": "word_41",
@@ -901,7 +901,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈseptəns/",
     "frequency": "中频",
-    "example": "Her proposal met with general acceptance.\n她的提议得到了普遍认可。"
+    "example": "Her acceptance of the award surprised everyone.\n她接受奖项让所有人都感到惊讶。"
   },
   {
     "id": "word_43",
@@ -922,7 +922,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækses/",
     "frequency": "高频",
-    "example": "Students have access to the library.\n学生可以使用图书馆。"
+    "example": "You need a keycard for access to the building.\n你需要门禁卡才能进入大楼。"
   },
   {
     "id": "word_44",
@@ -943,7 +943,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsesəbl/",
     "frequency": "中频",
-    "example": "The museum is accessible to wheelchair users.\n博物馆对轮椅使用者开放。"
+    "example": "The building is accessible to wheelchair users.\n这座建筑对轮椅使用者是无障碍的。"
   },
   {
     "id": "word_45",
@@ -964,7 +964,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæksɪdənt/",
     "frequency": "高频",
-    "example": "He was injured in a car accident.\n他在车祸中受伤了。"
+    "example": "He was injured in a car accident.\n他在一场车祸中受伤了。"
   },
   {
     "id": "word_46",
@@ -985,7 +985,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkleɪm/",
     "frequency": "中频",
-    "example": "The film received critical acclaim.\n这部电影获得了评论界的好评。"
+    "example": "The novel received critical acclaim.\n这部小说获得了评论界的好评。"
   },
   {
     "id": "word_47",
@@ -1006,7 +1006,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæklɪmeɪt/",
     "frequency": "高频",
-    "example": "It took time to acclimate to the new environment.\n适应新环境需要时间。"
+    "example": "It took time to acclimate to the new climate.\n适应新气候需要时间。"
   },
   {
     "id": "word_48",
@@ -1048,7 +1048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkʌmpəni/",
     "frequency": "中频",
-    "example": "May I accompany you to the station?\n我可以陪你去车站吗？"
+    "example": "She asked me to accompany her to the party.\n她请我陪她去参加派对。"
   },
   {
     "id": "word_50",
@@ -1069,7 +1069,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒmplɪs/",
     "frequency": "高频",
-    "example": "He was arrested as an accomplice.\n他作为同谋被捕了。"
+    "example": "The police arrested the accomplice.\n警察逮捕了同谋。"
   },
   {
     "id": "word_51",
@@ -1090,7 +1090,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkʌmplɪʃ/",
     "frequency": "中频",
-    "example": "She accomplished her goal successfully.\n她成功实现了目标。"
+    "example": "We accomplished our goal ahead of schedule.\n我们提前完成了目标。"
   },
   {
     "id": "word_52",
@@ -1111,7 +1111,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɔːd/",
     "frequency": "低频",
-    "example": "The two countries signed a peace accord.\n两国签署了和平协议。"
+    "example": "The decision was in accord with our policy.\n这个决定符合我们的政策。"
   },
   {
     "id": "word_53",
@@ -1132,7 +1132,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒst/",
     "frequency": "高频",
-    "example": "He was accosted by a stranger on the street.\n他在街上被一个陌生人搭讪。"
+    "example": "A stranger accosted her on the street.\n一个陌生人在街上拦住了她。"
   },
   {
     "id": "word_54",
@@ -1153,7 +1153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊnt/",
     "frequency": "高频",
-    "example": "I opened a bank account yesterday.\n我昨天开了一个银行账户。"
+    "example": "Please give me a detailed account of what happened.\n请详细描述一下发生了什么。"
   },
   {
     "id": "word_55",
@@ -1195,7 +1195,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊntənt/",
     "frequency": "中频",
-    "example": "She works as an accountant.\n她是一名会计师。"
+    "example": "She works as an accountant for a large company.\n她在一家大公司做会计。"
   },
   {
     "id": "word_57",
@@ -1216,7 +1216,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊntɪŋ/",
     "frequency": "中频",
-    "example": "Accounting is a useful skill for business.\n会计是商业中一项有用的技能。"
+    "example": "He studied accounting at university.\n他在大学学习会计。"
   },
   {
     "id": "word_58",
@@ -1237,7 +1237,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkredɪt/",
     "frequency": "低频",
-    "example": "The university is accredited by the government.\n这所大学获得了政府认证。"
+    "example": "The university is accredited by the government.\n这所大学得到了政府的认可。"
   },
   {
     "id": "word_59",
@@ -1258,7 +1258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkriːʃn/",
     "frequency": "高频",
-    "example": "The accretion of sediment formed the delta.\n沉积物的堆积形成了三角洲。"
+    "example": "The accretion of ice on the roads made driving dangerous.\n道路上的积冰使驾驶变得危险。"
   },
   {
     "id": "word_60",
@@ -1279,7 +1279,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkjuːmjʊleɪt/",
     "frequency": "中频",
-    "example": "We need to accumulate more data.\n我们需要积累更多数据。"
+    "example": "Dust tends to accumulate in corners.\n灰尘容易积聚在角落里。"
   },
   {
     "id": "word_61",
@@ -1342,7 +1342,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækjuˈzeɪʃn/",
     "frequency": "中频",
-    "example": "He denied the accusation.\n他否认了指控。"
+    "example": "He denied the accusation against him.\n他否认对他的指控。"
   },
   {
     "id": "word_64",
@@ -1384,7 +1384,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtʃiːv/",
     "frequency": "高频",
-    "example": "She worked hard to achieve her goals.\n她努力工作以实现目标。"
+    "example": "She hopes to achieve her goals.\n她希望实现自己的目标。"
   },
   {
     "id": "word_66",
@@ -1405,7 +1405,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtʃiːvmənt/",
     "frequency": "高频",
-    "example": "This is a great achievement.\n这是一项伟大的成就。"
+    "example": "This is a great achievement for the team.\n这对团队来说是一项伟大的成就。"
   },
   {
     "id": "word_67",
@@ -1426,7 +1426,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækrəˈmætɪk/",
     "frequency": "中频",
-    "example": "This lens is achromatic.\n这个镜头是消色差的。"
+    "example": "The painting uses achromatic colors.\n这幅画使用了无彩色。"
   },
   {
     "id": "word_68",
@@ -1468,7 +1468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪdɪk/",
     "frequency": "高频",
-    "example": "Soil can become too acidic for plants.\n土壤可能会变得对植物来说太酸。"
+    "example": "The soil in this area is very acidic.\n这个地区的土壤非常酸性。"
   },
   {
     "id": "word_70",
@@ -1489,7 +1489,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪdɪfaɪ/",
     "frequency": "中频",
-    "example": "Pollution can acidify oceans.\n污染会使海洋酸化。"
+    "example": "Pollution can acidify the ocean.\n污染会使海洋酸化。"
   },
   {
     "id": "word_71",
@@ -1510,7 +1510,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈnɒlɪdʒ/",
     "frequency": "高频",
-    "example": "I acknowledge receipt of your letter.\n我确认收到你的来信。"
+    "example": "He refused to acknowledge his mistake.\n他拒绝承认自己的错误。"
   },
   {
     "id": "word_72",
@@ -1531,7 +1531,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkɔːn/",
     "frequency": "低频",
-    "example": "Squirrels store acorns for winter.\n松鼠储存橡果过冬。"
+    "example": "Squirrels store acorns for winter.\n松鼠储存橡子过冬。"
   },
   {
     "id": "word_73",
@@ -1552,7 +1552,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkuːstɪk/",
     "frequency": "高频",
-    "example": "This is an acoustic guitar.\n这是一把原声吉他。"
+    "example": "The acoustic quality of the hall is excellent.\n大厅的音响效果非常好。"
   },
   {
     "id": "word_74",
@@ -1573,7 +1573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkweɪnt/",
     "frequency": "中频",
-    "example": "Let me acquaint you with the rules.\n让我来让你熟悉一下规则。"
+    "example": "Let me acquaint you with the rules.\n让我向你介绍一下规则。"
   },
   {
     "id": "word_75",
@@ -1594,7 +1594,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwiˈes/",
     "frequency": "低频",
-    "example": "He acquiesced to their demands.\n他默许了他们的要求。"
+    "example": "She acquiesced to their demands.\n她默许了他们的要求。"
   },
   {
     "id": "word_76",
@@ -1615,7 +1615,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwaɪə/",
     "frequency": "高频",
-    "example": "She acquired a new skill.\n她获得了一项新技能。"
+    "example": "The company plans to acquire its competitor.\n公司计划收购其竞争对手。"
   },
   {
     "id": "word_77",
@@ -1636,7 +1636,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwɪˈzɪʃn/",
     "frequency": "中频",
-    "example": "The company announced a new acquisition.\n公司宣布了一项新的收购。"
+    "example": "The acquisition was completed last month.\n收购已于上月完成。"
   },
   {
     "id": "word_78",
@@ -1657,7 +1657,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwɪt/",
     "frequency": "中频",
-    "example": "The jury acquitted the defendant.\n陪审团宣告被告无罪。"
+    "example": "The jury decided to acquit him.\n陪审团决定宣判他无罪。"
   },
   {
     "id": "word_79",
@@ -1678,7 +1678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwɪtl/",
     "frequency": "低频",
-    "example": "The acquittal surprised everyone.\n无罪判决让所有人感到惊讶。"
+    "example": "The acquittal came as a surprise.\n无罪判决令人惊讶。"
   },
   {
     "id": "word_80",
@@ -1699,7 +1699,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkə/",
     "frequency": "低频",
-    "example": "The farm covers 100 acres.\n这个农场占地100英亩。"
+    "example": "The farm covers 50 acres.\n这个农场占地50英亩。"
   },
   {
     "id": "word_81",
@@ -1720,7 +1720,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkərɪdʒ/",
     "frequency": "中频",
-    "example": "The total acreage is 500 hectares.\n总面积为500公顷。"
+    "example": "The total acreage of the estate is impressive.\n庄园的总面积令人印象深刻。"
   },
   {
     "id": "word_82",
@@ -1741,7 +1741,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækrɪd/",
     "frequency": "低频",
-    "example": "The smoke had an acrid smell.\n烟雾有一股刺鼻的味道。"
+    "example": "The acrid smell filled the room.\n刺鼻的气味充满了房间。"
   },
   {
     "id": "word_83",
@@ -1762,7 +1762,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkrɒs/",
     "frequency": "高频",
-    "example": "She walked across the street.\n她穿过了街道。"
+    "example": "We walked across the bridge.\n我们走过了桥。"
   },
   {
     "id": "word_84",
@@ -1783,7 +1783,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkrɪlɪk/",
     "frequency": "中频",
-    "example": "Acrylic paint dries quickly.\n丙烯颜料干得很快。"
+    "example": "She painted with acrylic paint.\n她用丙烯颜料画画。"
   },
   {
     "id": "word_85",
@@ -1804,7 +1804,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ækt/",
     "frequency": "中频",
-    "example": "You need to act quickly.\n你需要迅速行动。"
+    "example": "His brave act saved the child.\n他勇敢的行为救了那个孩子。"
   },
   {
     "id": "word_86",
@@ -1825,7 +1825,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækʃn/",
     "frequency": "中频",
-    "example": "We need to take action now.\n我们现在需要采取行动。"
+    "example": "We need to take action immediately.\n我们需要立即采取行动。"
   },
   {
     "id": "word_87",
@@ -1846,7 +1846,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪveɪt/",
     "frequency": "中频",
-    "example": "Click here to activate your account.\n点击此处激活您的账户。"
+    "example": "Please activate the alarm system.\n请启动报警系统。"
   },
   {
     "id": "word_88",
@@ -1867,7 +1867,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪv/",
     "frequency": "高频",
-    "example": "She is very active in sports.\n她在体育运动方面很活跃。"
+    "example": "She leads an active lifestyle.\n她过着积极的生活方式。"
   },
   {
     "id": "word_89",
@@ -1888,7 +1888,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪvɪst/",
     "frequency": "高频",
-    "example": "She is a human rights activist.\n她是一名人权活动家。"
+    "example": "The environmental activist organized a protest.\n这位环保活动家组织了一场抗议。"
   },
   {
     "id": "word_90",
@@ -1909,7 +1909,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ækˈtɪvəti/",
     "frequency": "高频",
-    "example": "Outdoor activities are good for health.\n户外活动对健康有益。"
+    "example": "Physical activity is good for health.\n体育活动对健康有益。"
   },
   {
     "id": "word_91",
@@ -1930,7 +1930,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktə/",
     "frequency": "高频",
-    "example": "He is a famous actor.\n他是一位著名的演员。"
+    "example": "He is a famous movie actor.\n他是一位著名的电影演员。"
   },
   {
     "id": "word_92",
@@ -1951,7 +1951,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktrəs/",
     "frequency": "低频",
-    "example": "She is a talented actress.\n她是一位有才华的女演员。"
+    "example": "She became a successful actress.\n她成为了一名成功的女演员。"
   },
   {
     "id": "word_93",
@@ -1993,7 +1993,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktʃuəli/",
     "frequency": "中频",
-    "example": "Actually, I don't know.\n实际上，我不知道。"
+    "example": "Actually, I changed my mind.\n实际上，我改变主意了。"
   },
   {
     "id": "word_95",
@@ -2014,7 +2014,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktʃueɪt/",
     "frequency": "低频",
-    "example": "The motor actuates the valve.\n电机驱动阀门。"
+    "example": "The lever actuates the mechanism.\n杠杆驱动该机构。"
   },
   {
     "id": "word_96",
@@ -2035,7 +2035,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækjəmən/",
     "frequency": "高频",
-    "example": "She has great business acumen.\n她有很高的商业敏锐度。"
+    "example": "He has great business acumen.\n他有很强的商业头脑。"
   },
   {
     "id": "word_97",
@@ -2056,7 +2056,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkjuːt/",
     "frequency": "低频",
-    "example": "She has an acute sense of hearing.\n她有敏锐的听觉。"
+    "example": "She suffers from acute pain.\n她患有剧烈疼痛。"
   },
   {
     "id": "word_98",
@@ -2077,7 +2077,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædəmənt/",
     "frequency": "低频",
-    "example": "She remained adamant about her decision.\n她对自己的决定依然很坚决。"
+    "example": "He remained adamant in his decision.\n他对自己的决定坚定不移。"
   },
   {
     "id": "word_99",
@@ -2098,7 +2098,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdæpt/",
     "frequency": "高频",
-    "example": "Animals adapt to their environment.\n动物适应它们的环境。"
+    "example": "Animals must adapt to their environment.\n动物必须适应它们的环境。"
   },
   {
     "id": "word_100",
@@ -2119,7 +2119,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædæpˈteɪʃn/",
     "frequency": "中频",
-    "example": "The film is an adaptation of a novel.\n这部电影是一部小说的改编作品。"
+    "example": "This is a film adaptation of a novel.\n这是一部小说改编的电影。"
   },
   {
     "id": "word_101",
@@ -2140,7 +2140,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æd/",
     "frequency": "高频",
-    "example": "Please add some sugar.\n请加一些糖。"
+    "example": "Please add more sugar to the tea.\n请在茶里加更多糖。"
   },
   {
     "id": "word_102",
@@ -2161,7 +2161,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædɪd/",
     "frequency": "低频",
-    "example": "There are added costs.\n有额外的费用。"
+    "example": "The added sugar makes it too sweet.\n添加的糖使它太甜了。"
   },
   {
     "id": "word_103",
@@ -2182,7 +2182,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdendəm/",
     "frequency": "高频",
-    "example": "The report includes an addendum.\n这份报告包含一个附录。"
+    "example": "The report includes an addendum with new data.\n报告包含一份新数据的补遗。"
   },
   {
     "id": "word_104",
@@ -2203,7 +2203,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɪʃn/",
     "frequency": "高频",
-    "example": "In addition, we need more time.\n此外，我们需要更多时间。"
+    "example": "The new addition to the building is impressive.\n大楼的新扩建部分令人印象深刻。"
   },
   {
     "id": "word_105",
@@ -2224,7 +2224,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɪʃənl/",
     "frequency": "高频",
-    "example": "We need additional information.\n我们需要额外的信息。"
+    "example": "Additional funding is required.\n需要额外的资金。"
   },
   {
     "id": "word_106",
@@ -2245,7 +2245,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædl/",
     "frequency": "高频",
-    "example": "The heat addled his brain.\n酷热使他头脑发昏。"
+    "example": "The hot weather addled his brain.\n炎热的天气使他头脑发昏。"
   },
   {
     "id": "word_107",
@@ -2287,7 +2287,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdjuːs/",
     "frequency": "低频",
-    "example": "He adduced evidence to support his claim.\n他举出证据支持他的主张。"
+    "example": "He tried to adduce evidence to support his claim.\n他试图举出证据支持他的主张。"
   },
   {
     "id": "word_109",
@@ -2329,7 +2329,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædɪkwət/",
     "frequency": "中频",
-    "example": "We need adequate time to finish this.\n我们需要足够的时间来完成这件事。"
+    "example": "We need adequate preparation.\n我们需要充分的准备。"
   },
   {
     "id": "word_111",
@@ -2371,7 +2371,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈhiːsɪv/",
     "frequency": "高频",
-    "example": "This adhesive is very strong.\n这种粘合剂非常牢固。"
+    "example": "Use an adhesive to stick the pieces together.\n用粘合剂把碎片粘在一起。"
   },
   {
     "id": "word_113",
@@ -2392,7 +2392,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒɔɪn/",
     "frequency": "中频",
-    "example": "Our house adjoins the park.\n我们的房子毗邻公园。"
+    "example": "Our property adjoins a park.\n我们的房产毗邻一个公园。"
   },
   {
     "id": "word_114",
@@ -2413,7 +2413,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒɜːn/",
     "frequency": "低频",
-    "example": "The meeting was adjourned.\n会议休会了。"
+    "example": "The meeting was adjourned until next week.\n会议休会到下周。"
   },
   {
     "id": "word_115",
@@ -2434,7 +2434,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʒʌŋkt/",
     "frequency": "高频",
-    "example": "The machine is an adjunct to the main system.\n这台机器是主系统的附属设备。"
+    "example": "She works as an adjunct professor.\n她担任兼职教授。"
   },
   {
     "id": "word_116",
@@ -2476,7 +2476,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒʌst/",
     "frequency": "中频",
-    "example": "Please adjust the temperature.\n请调整温度。"
+    "example": "Please adjust the temperature.\n请调节温度。"
   },
   {
     "id": "word_118",
@@ -2497,7 +2497,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædmən/",
     "frequency": "高频",
-    "example": "He works as an adman.\n他是一名广告人。"
+    "example": "He started his career as an adman.\n他从广告人开始了他的职业生涯。"
   },
   {
     "id": "word_119",
@@ -2518,7 +2518,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmeʒə/",
     "frequency": "中频",
-    "example": "They admeasured the land.\n他们测量了土地。"
+    "example": "They admeasured the land carefully.\n他们仔细测量了土地。"
   },
   {
     "id": "word_120",
@@ -2539,7 +2539,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪnɪstə/",
     "frequency": "低频",
-    "example": "The nurse will administer the medicine.\n护士会给药。"
+    "example": "The nurse will administer the medication.\n护士将给药。"
   },
   {
     "id": "word_121",
@@ -2623,7 +2623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmaɪə/",
     "frequency": "中频",
-    "example": "I admire your courage.\n我钦佩你的勇气。"
+    "example": "I admire your dedication.\n我钦佩你的奉献精神。"
   },
   {
     "id": "word_125",
@@ -2644,7 +2644,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪʃn/",
     "frequency": "低频",
-    "example": "Admission is free.\n入场免费。"
+    "example": "Admission to the museum is free.\n博物馆免费入场。"
   },
   {
     "id": "word_126",
@@ -2665,7 +2665,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪt/",
     "frequency": "高频",
-    "example": "She admitted her mistake.\n她承认了自己的错误。"
+    "example": "He admitted his mistake.\n他承认了自己的错误。"
   },
   {
     "id": "word_127",
@@ -2686,7 +2686,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɒnɪʃ/",
     "frequency": "低频",
-    "example": "The teacher admonished the students.\n老师警告了学生们。"
+    "example": "The teacher admonished the students.\n老师告诫了学生们。"
   },
   {
     "id": "word_128",
@@ -2707,7 +2707,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdəʊbi/",
     "frequency": "高频",
-    "example": "The house is made of adobe.\n这房子是用土坯建造的。"
+    "example": "The house was built with adobe bricks.\n这房子是用土坯砖建造的。"
   },
   {
     "id": "word_129",
@@ -2728,7 +2728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædəˈlesnt/",
     "frequency": "中频",
-    "example": "Adolescent development is crucial.\n青少年的发展至关重要。"
+    "example": "Adolescent behavior can be unpredictable.\n青少年的行为可能难以预测。"
   },
   {
     "id": "word_130",
@@ -2749,7 +2749,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɒpt/",
     "frequency": "高频",
-    "example": "We decided to adopt a new policy.\n我们决定采用新政策。"
+    "example": "They decided to adopt a child.\n他们决定收养一个孩子。"
   },
   {
     "id": "word_131",
@@ -2770,7 +2770,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɒpʃn/",
     "frequency": "高频",
-    "example": "The adoption of new technology improved efficiency.\n新技术的采用提高了效率。"
+    "example": "The adoption process took six months.\n收养过程花了六个月。"
   },
   {
     "id": "word_132",
@@ -2791,7 +2791,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædəˈreɪʃn/",
     "frequency": "高频",
-    "example": "She received adoration from her fans.\n她受到粉丝们的崇拜。"
+    "example": "She looked at him with adoration.\n她崇拜地看着他。"
   },
   {
     "id": "word_133",
@@ -2812,7 +2812,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɔːn/",
     "frequency": "中频",
-    "example": "Flowers adorned the table.\n鲜花装饰着桌子。"
+    "example": "The room was adorned with flowers.\n房间装饰着鲜花。"
   },
   {
     "id": "word_134",
@@ -2833,7 +2833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdriːnl/",
     "frequency": "低频",
-    "example": "Adrenal hormones affect metabolism.\n肾上腺激素影响新陈代谢。"
+    "example": "Adrenal glands secrete hormones.\n肾上腺分泌激素。"
   },
   {
     "id": "word_135",
@@ -2854,7 +2854,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdrɪft/",
     "frequency": "高频",
-    "example": "The boat was adrift at sea.\n小船在海上漂泊。"
+    "example": "The boat was adrift in the ocean.\n船在海洋中漂流。"
   },
   {
     "id": "word_136",
@@ -2875,7 +2875,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdrɔɪt/",
     "frequency": "中频",
-    "example": "She is adroit at handling difficult situations.\n她善于处理困难局面。"
+    "example": "He is adroit at solving problems.\n他善于解决问题。"
   },
   {
     "id": "word_137",
@@ -2896,7 +2896,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈsɔːb/",
     "frequency": "低频",
-    "example": "The material can adsorb gases.\n这种材料能吸附气体。"
+    "example": "Charcoal can adsorb impurities.\n木炭可以吸附杂质。"
   },
   {
     "id": "word_138",
@@ -2917,7 +2917,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædʒʊˈleɪʃn/",
     "frequency": "中频",
-    "example": "He received adulation from his followers.\n他受到追随者的奉承。"
+    "example": "He enjoyed the adulation of his fans.\n他喜欢粉丝们的追捧。"
   },
   {
     "id": "word_139",
@@ -2959,7 +2959,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʌmbreɪt/",
     "frequency": "低频",
-    "example": "The report adumbrates future developments.\n这份报告预示了未来的发展。"
+    "example": "The report adumbrates future plans.\n报告概述了未来计划。"
   },
   {
     "id": "word_141",
@@ -3001,7 +3001,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːnst/",
     "frequency": "高频",
-    "example": "She has advanced knowledge in this field.\n她在这个领域有高深的知识。"
+    "example": "She has advanced knowledge of physics.\n她有高深的物理学知识。"
   },
   {
     "id": "word_143",
@@ -3022,7 +3022,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːntɪdʒ/",
     "frequency": "高频",
-    "example": "This gives us an advantage.\n这给了我们一个优势。"
+    "example": "This gives us a competitive advantage.\n这给了我们竞争优势。"
   },
   {
     "id": "word_144",
@@ -3043,7 +3043,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvent/",
     "frequency": "高频",
-    "example": "The advent of technology changed our lives.\n技术的出现改变了我们的生活。"
+    "example": "The advent of the internet changed everything.\n互联网的出现改变了一切。"
   },
   {
     "id": "word_145",
@@ -3064,7 +3064,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈventʃə/",
     "frequency": "中频",
-    "example": "They went on an adventure.\n他们去冒险了。"
+    "example": "He went on a great adventure.\n他进行了一次伟大的冒险。"
   },
   {
     "id": "word_146",
@@ -3085,7 +3085,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɜːbiəl/",
     "frequency": "低频",
-    "example": "This is an adverbial phrase.\n这是一个副词短语。"
+    "example": "This is an adverbial phrase.\n这是一个状语短语。"
   },
   {
     "id": "word_147",
@@ -3106,7 +3106,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvəsəri/",
     "frequency": "高频",
-    "example": "He is a formidable adversary.\n他是一个 formidable 的对手。"
+    "example": "He defeated his adversary in the final.\n他在决赛中击败了对手。"
   },
   {
     "id": "word_148",
@@ -3127,7 +3127,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvɜːs/",
     "frequency": "高频",
-    "example": "The project faced adverse conditions.\n该项目面临不利条件。"
+    "example": "The decision had adverse effects.\n这个决定产生了不利影响。"
   },
   {
     "id": "word_149",
@@ -3148,7 +3148,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvətaɪz/",
     "frequency": "高频",
-    "example": "They advertise their products online.\n他们在网上宣传产品。"
+    "example": "We need to advertise our products.\n我们需要为我们的产品做广告。"
   },
   {
     "id": "word_150",
@@ -3169,7 +3169,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɜːtɪsmənt/",
     "frequency": "高频",
-    "example": "The advertisement caught my attention.\n这则广告吸引了我的注意。"
+    "example": "I saw an advertisement for this product.\n我看到了这个产品的广告。"
   },
   {
     "id": "word_151",
@@ -3190,7 +3190,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvətaɪzɪŋ/",
     "frequency": "高频",
-    "example": "Advertising is everywhere.\n广告无处不在。"
+    "example": "She works in advertising.\n她从事广告工作。"
   },
   {
     "id": "word_152",
@@ -3232,7 +3232,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪz/",
     "frequency": "高频",
-    "example": "I advise you to study hard.\n我建议你努力学习。"
+    "example": "I advise you to be careful.\n我建议你小心。"
   },
   {
     "id": "word_154",
@@ -3253,7 +3253,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪzə/",
     "frequency": "高频",
-    "example": "He is a financial adviser.\n他是一名财务顾问。"
+    "example": "She is a financial adviser.\n她是一名财务顾问。"
   },
   {
     "id": "word_155",
@@ -3274,7 +3274,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvəkeɪt/",
     "frequency": "中频",
-    "example": "She advocates for environmental protection.\n她倡导环境保护。"
+    "example": "He advocates for environmental protection.\n他倡导环境保护。"
   },
   {
     "id": "word_156",
@@ -3295,7 +3295,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈiːdʒɪs/",
     "frequency": "中频",
-    "example": "The project was done under the aegis of the government.\n该项目是在政府的支持下完成的。"
+    "example": "The project was completed under his aegis.\n这个项目在他的支持下完成了。"
   },
   {
     "id": "word_157",
@@ -3316,7 +3316,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈiːən/",
     "frequency": "低频",
-    "example": "It took aeons to form this canyon.\n形成这个峡谷花了漫长的时间。"
+    "example": "It took aeons for the mountains to form.\n山脉形成花了漫长的时间。"
   },
   {
     "id": "word_158",
@@ -3337,7 +3337,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeəriəl/",
     "frequency": "低频",
-    "example": "Birds are aerial creatures.\n鸟类是空中生物。"
+    "example": "The aerial view shows the entire city.\n鸟瞰图展示了整个城市。"
   },
   {
     "id": "word_159",
@@ -3358,7 +3358,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/iːsˈθetɪk/",
     "frequency": "低频",
-    "example": "She has good aesthetic taste.\n她有很好的审美品味。"
+    "example": "The design has great aesthetic appeal.\n这个设计具有很强的美学吸引力。"
   },
   {
     "id": "word_160",
@@ -3379,7 +3379,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæfəbl/",
     "frequency": "低频",
-    "example": "She is an affable person.\n她是一个和蔼可亲的人。"
+    "example": "He is an affable person.\n他是一个和蔼可亲的人。"
   },
   {
     "id": "word_161",
@@ -3421,7 +3421,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfekt/",
     "frequency": "高频",
-    "example": "Climate change affects agriculture.\n气候变化影响农业。"
+    "example": "The weather affects my mood.\n天气影响我的心情。"
   },
   {
     "id": "word_163",
@@ -3442,7 +3442,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæfekˈteɪʃn/",
     "frequency": "中频",
-    "example": "Her politeness was just affectation.\n她的礼貌只是装出来的。"
+    "example": "His mannerisms were pure affectation.\n他的举止纯粹是装出来的。"
   },
   {
     "id": "word_164",
@@ -3463,7 +3463,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfekʃn/",
     "frequency": "中频",
-    "example": "She has great affection for her family.\n她非常爱她的家人。"
+    "example": "She has great affection for her family.\n她对家人有深厚的感情。"
   },
   {
     "id": "word_165",
@@ -3505,7 +3505,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfɪlieɪt/",
     "frequency": "高频",
-    "example": "The company is affiliated with a larger group.\n这家公司隶属于一个更大的集团。"
+    "example": "This company is affiliated with a larger group.\n这家公司隶属于一个更大的集团。"
   },
   {
     "id": "word_167",
@@ -3526,7 +3526,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfɪnəti/",
     "frequency": "低频",
-    "example": "She has an affinity for music.\n她对音乐有亲和力。"
+    "example": "She has an affinity for music.\n她对音乐有天赋。"
   },
   {
     "id": "word_168",
@@ -3547,7 +3547,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfɜːm/",
     "frequency": "中频",
-    "example": "I affirm that this is true.\n我确认这是真的。"
+    "example": "I affirm that this statement is true.\n我确认这份陈述是真实的。"
   },
   {
     "id": "word_169",
@@ -3562,7 +3562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/affix/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对affix的认识显著提高。"
+    "example": "Please affix your signature here.\n请在这里签名。"
   },
   {
     "id": "word_170",
@@ -3577,7 +3577,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/afflict/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，afflict的重要性怎么强调都不为过。"
+    "example": "Many people are afflicted by poverty.\n许多人遭受贫困之苦。"
   },
   {
     "id": "word_171",
@@ -3592,7 +3592,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/affluent/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n人的理论为理解这一现象提供了框架。"
+    "example": "He comes from an affluent family.\n他来自一个富裕的家庭。"
   },
   {
     "id": "word_172",
@@ -3607,7 +3607,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfɔːd/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与负担得起相关的实践技能在工作场所受到高度重视。"
+    "example": "I cannot afford a new car.\n我买不起新车。"
   },
   {
     "id": "word_173",
@@ -3622,7 +3622,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/afforestation/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会行为的发展。"
+    "example": "Afforestation helps combat climate change.\n植树造林有助于应对气候变化。"
   },
   {
     "id": "word_174",
@@ -3637,7 +3637,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aficionado/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，aficionado的研究取得了重大进展。"
+    "example": "He is a wine aficionado.\n他是一个葡萄酒爱好者。"
   },
   {
     "id": "word_175",
@@ -3652,7 +3652,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/afield/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索afield的新方面。"
+    "example": "They ventured far afield.\n他们冒险远行。"
   },
   {
     "id": "word_176",
@@ -3667,7 +3667,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/afloat/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nafloat的应用革新了各个行业。"
+    "example": "The boat remained afloat.\n船保持漂浮状态。"
   },
   {
     "id": "word_177",
@@ -3682,7 +3682,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aforesaid/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对aforesaid的认识显著提高。"
+    "example": "The aforesaid document is important.\n上述文件很重要。"
   },
   {
     "id": "word_178",
@@ -3697,7 +3697,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfreɪd/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，害怕的重要性怎么强调都不为过。"
+    "example": "I am afraid of heights.\n我恐高。"
   },
   {
     "id": "word_179",
@@ -3712,7 +3712,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/afresh/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nafresh的理论为理解这一现象提供了框架。"
+    "example": "Let us start afresh.\n让我们重新开始。"
   },
   {
     "id": "word_180",
@@ -3727,7 +3727,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/african/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与african相关的实践技能在工作场所受到高度重视。"
+    "example": "She is of African descent.\n她是非洲裔。"
   },
   {
     "id": "word_181",
@@ -3742,7 +3742,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːftə/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会在...之后 conj. 在...之后的发展。"
+    "example": "We met after work.\n我们下班后见面。"
   },
   {
     "id": "word_182",
@@ -3757,7 +3757,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/afterlife/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，afterlife的研究取得了重大进展。"
+    "example": "Many people believe in an afterlife.\n许多人相信来世。"
   },
   {
     "id": "word_183",
@@ -3772,7 +3772,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːftəˈnuːn/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索下午的新方面。"
+    "example": "We will meet in the afternoon.\n我们下午见面。"
   },
   {
     "id": "word_184",
@@ -3787,7 +3787,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/afterward/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nafterward的应用革新了各个行业。"
+    "example": "Afterward, we went for dinner.\n之后，我们去吃了晚餐。"
   },
   {
     "id": "word_185",
@@ -3802,7 +3802,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈɡen/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对又的认识显著提高。"
+    "example": "Try again.\n再试一次。"
   },
   {
     "id": "word_186",
@@ -3817,7 +3817,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈɡenst/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，反对的重要性怎么强调都不为过。"
+    "example": "He is against the proposal.\n他反对这个提议。"
   },
   {
     "id": "word_187",
@@ -3832,7 +3832,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪdʒ/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n年龄的理论为理解这一现象提供了框架。"
+    "example": "What is your age?\n你几岁了？"
   },
   {
     "id": "word_188",
@@ -3847,7 +3847,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aged/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与已...相关的实践技能在工作场所受到高度重视。"
+    "example": "The aged man walked slowly.\n那位老人走得很慢。"
   },
   {
     "id": "word_189",
@@ -3862,7 +3862,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪdʒənsi/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会代理的发展。"
+    "example": "I work for a travel agency.\n我在一家旅行社工作。"
   },
   {
     "id": "word_190",
@@ -3877,7 +3877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/agenda/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，议程的研究取得了重大进展。"
+    "example": "What is on the agenda today?\n今天的议程是什么？"
   },
   {
     "id": "word_191",
@@ -3892,7 +3892,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪdʒənt/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索代理人的新方面。"
+    "example": "He is a real estate agent.\n他是一名房地产经纪人。"
   },
   {
     "id": "word_192",
@@ -3907,7 +3907,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/agglomerate/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n使...的应用革新了各个行业。"
+    "example": "The particles agglomerate into clusters.\n颗粒聚集成团。"
   },
   {
     "id": "word_193",
@@ -3922,7 +3922,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/agglutination/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对行为的认识显著提高。"
+    "example": "Agglutination is used in blood typing.\n凝集反应用于血型鉴定。"
   },
   {
     "id": "word_194",
@@ -3937,7 +3937,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aggrandize/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，aggrandize的重要性怎么强调都不为过。"
+    "example": "He tried to aggrandize his achievements.\n他试图夸大自己的成就。"
   },
   {
     "id": "word_195",
@@ -3952,7 +3952,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aggravate/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n使...的理论为理解这一现象提供了框架。"
+    "example": "This will only aggravate the situation.\n这只会加剧局势。"
   },
   {
     "id": "word_196",
@@ -3967,7 +3967,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aggregate/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与使...相关的实践技能在工作场所受到高度重视。"
+    "example": "The aggregate amount is .\n总额是1000美元。"
   },
   {
     "id": "word_197",
@@ -3982,7 +3982,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aggression/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会行为的发展。"
+    "example": "His aggression caused problems.\n他的攻击性造成了问题。"
   },
   {
     "id": "word_198",
@@ -3997,7 +3997,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈɡresɪv/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，侵略性的研究取得了重大进展。"
+    "example": "She has an aggressive style of play.\n她的比赛风格很激进。"
   },
   {
     "id": "word_199",
@@ -4012,7 +4012,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aggrieve/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索aggrieve的新方面。"
+    "example": "His words aggrieved her.\n他的话使她伤心。"
   },
   {
     "id": "word_200",
@@ -4027,7 +4027,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/agile/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nagile的应用革新了各个行业。"
+    "example": "She is very agile.\n她非常敏捷。"
   },
   {
     "id": "word_201",
@@ -4042,7 +4042,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aging/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对正在...的认识显著提高。"
+    "example": "Aging is a natural process.\n衰老是一个自然过程。"
   },
   {
     "id": "word_202",
@@ -4057,7 +4057,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/agnostic/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的重要性怎么强调都不为过。"
+    "example": "He describes himself as agnostic.\n他自称是不可知论者。"
   },
   {
     "id": "word_203",
@@ -4072,7 +4072,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈɡriː/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n同意的理论为理解这一现象提供了框架。"
+    "example": "I agree with your opinion.\n我同意你的意见。"
   },
   {
     "id": "word_204",
@@ -4087,7 +4087,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/agreed/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与已...相关的实践技能在工作场所受到高度重视。"
+    "example": "It is agreed that we will meet at 3.\n我们同意3点见面。"
   },
   {
     "id": "word_205",
@@ -4102,7 +4102,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈɡriːmənt/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会协议的发展。"
+    "example": "We reached an agreement.\n我们达成了协议。"
   },
   {
     "id": "word_206",
@@ -4117,7 +4117,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/agricultural/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，农业的研究取得了重大进展。"
+    "example": "The region is primarily agricultural.\n该地区以农业为主。"
   },
   {
     "id": "word_207",
@@ -4132,7 +4132,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæɡrɪkʌltʃə/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索农业的新方面。"
+    "example": "Agriculture is the backbone of this country.\n农业是这个国家的支柱。"
   },
   {
     "id": "word_208",
@@ -4147,7 +4147,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aground/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\naground的应用革新了各个行业。"
+    "example": "The ship ran aground.\n船搁浅了。"
   },
   {
     "id": "word_209",
@@ -4162,7 +4162,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ah/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对啊的认识显著提高。"
+    "example": "Ah, I see!\n啊，我明白了！"
   },
   {
     "id": "word_210",
@@ -4177,7 +4177,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈhed/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，在前面的重要性怎么强调都不为过。"
+    "example": "There is a bright future ahead.\n前方有光明的未来。"
   },
   {
     "id": "word_211",
@@ -4192,7 +4192,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪd/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n帮助的理论为理解这一现象提供了框架。"
+    "example": "They provided aid to the victims.\n他们向受害者提供援助。"
   },
   {
     "id": "word_212",
@@ -4207,7 +4207,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aide/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与助手相关的实践技能在工作场所受到高度重视。"
+    "example": "She works as a personal aide.\n她担任私人助理。"
   },
   {
     "id": "word_213",
@@ -4222,7 +4222,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ail/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会使苦恼的发展。"
+    "example": "He has been ailing for weeks.\n他已经病了几个星期了。"
   },
   {
     "id": "word_214",
@@ -4237,7 +4237,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ailment/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，行为的研究取得了重大进展。"
+    "example": "She suffers from a minor ailment.\n她患有轻微的疾病。"
   },
   {
     "id": "word_215",
@@ -4252,7 +4252,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪm/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索瞄准的新方面。"
+    "example": "What is your aim in life?\n你的人生目标是什么？"
   },
   {
     "id": "word_216",
@@ -4267,7 +4267,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aimless/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n无目标的应用革新了各个行业。"
+    "example": "He wandered aimlessly.\n他漫无目的地徘徊。"
   },
   {
     "id": "word_217",
@@ -4282,7 +4282,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eə/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对空气的认识显著提高。"
+    "example": "The air is fresh today.\n今天空气很清新。"
   },
   {
     "id": "word_218",
@@ -4297,7 +4297,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeəkrɑːft/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，飞机的重要性怎么强调都不为过。"
+    "example": "The aircraft took off on time.\n飞机准时起飞。"
   },
   {
     "id": "word_219",
@@ -4312,7 +4312,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/airfield/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n飞机场的理论为理解这一现象提供了框架。"
+    "example": "The plane landed at the airfield.\n飞机降落在机场。"
   },
   {
     "id": "word_220",
@@ -4327,7 +4327,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/airforce/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与空军相关的实践技能在工作场所受到高度重视。"
+    "example": "He serves in the airforce.\n他在空军服役。"
   },
   {
     "id": "word_221",
@@ -4342,7 +4342,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeəlaɪn/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会航空公司的发展。"
+    "example": "I work for an airline.\n我在一家航空公司工作。"
   },
   {
     "id": "word_222",
@@ -4357,7 +4357,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/airmail/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，航空邮件的研究取得了重大进展。"
+    "example": "I sent the letter by airmail.\n我通过航空邮件寄了这封信。"
   },
   {
     "id": "word_223",
@@ -4372,7 +4372,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/airmen/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索空军士兵的新方面。"
+    "example": "The airmen completed their mission.\n飞行员完成了他们的任务。"
   },
   {
     "id": "word_224",
@@ -4387,7 +4387,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeəpɔːt/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n机场的应用革新了各个行业。"
+    "example": "We arrived at the airport early.\n我们很早就到了机场。"
   },
   {
     "id": "word_225",
@@ -4402,7 +4402,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/airship/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对飞船的认识显著提高。"
+    "example": "The airship floated gracefully.\n飞艇优雅地漂浮着。"
   },
   {
     "id": "word_226",
@@ -4417,7 +4417,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/airtight/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，密封的重要性怎么强调都不为过。"
+    "example": "The container must be airtight.\n容器必须密封。"
   },
   {
     "id": "word_227",
@@ -4432,7 +4432,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/airway/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n航线的理论为理解这一现象提供了框架。"
+    "example": "The airway was blocked.\n气道被堵塞了。"
   },
   {
     "id": "word_228",
@@ -4447,7 +4447,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aisle/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与走廊相关的实践技能在工作场所受到高度重视。"
+    "example": "Please move down the aisle.\n请沿着过道走。"
   },
   {
     "id": "word_229",
@@ -4462,7 +4462,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlɑːm/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会警报的发展。"
+    "example": "The alarm went off at midnight.\n警报在午夜响起。"
   },
   {
     "id": "word_230",
@@ -4477,7 +4477,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alarmist/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人的研究取得了重大进展。"
+    "example": "Do not be an alarmist.\n不要危言耸听。"
   },
   {
     "id": "word_231",
@@ -4492,7 +4492,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/albedo/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索albedo的新方面。"
+    "example": "The albedo of snow is very high.\n雪的反照率非常高。"
   },
   {
     "id": "word_232",
@@ -4507,7 +4507,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælbəm/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n相册的应用革新了各个行业。"
+    "example": "She released a new album.\n她发行了一张新专辑。"
   },
   {
     "id": "word_233",
@@ -4522,7 +4522,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/albumen/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对albumen的认识显著提高。"
+    "example": "Egg white is also called albumen.\n蛋白也叫蛋清。"
   },
   {
     "id": "word_234",
@@ -4537,7 +4537,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alchemy/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，alchemy的重要性怎么强调都不为过。"
+    "example": "Alchemy was practiced in the Middle Ages.\n炼金术在中世纪很流行。"
   },
   {
     "id": "word_235",
@@ -4552,7 +4552,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælkəhɒl/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n酒精的理论为理解这一现象提供了框架。"
+    "example": "He does not consume alcohol.\n他不饮酒。"
   },
   {
     "id": "word_236",
@@ -4567,7 +4567,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alcove/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与alcove相关的实践技能在工作场所受到高度重视。"
+    "example": "There is a cozy alcove in the room.\n房间里有一个舒适的壁龛。"
   },
   {
     "id": "word_237",
@@ -4582,7 +4582,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aldehyde/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会aldehyde的发展。"
+    "example": "Formaldehyde is an aldehyde.\n甲醛是一种醛。"
   },
   {
     "id": "word_238",
@@ -4597,7 +4597,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alderman/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，alderman的研究取得了重大进展。"
+    "example": "The alderman attended the meeting.\n市议员出席了会议。"
   },
   {
     "id": "word_239",
@@ -4612,7 +4612,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alert/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索警觉的新方面。"
+    "example": "Stay alert at all times.\n时刻保持警惕。"
   },
   {
     "id": "word_240",
@@ -4627,7 +4627,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alerts/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nalerts的应用革新了各个行业。"
+    "example": "The system sends alerts when needed.\n系统在需要时发送警报。"
   },
   {
     "id": "word_241",
@@ -4648,7 +4648,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈældʒɪbrə/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对代数学的认识显著提高。"
+    "example": "I studied algebra in high school.\n我在高中学习了代数。"
   },
   {
     "id": "word_242",
@@ -4981,7 +4981,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæləkeɪt/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，分配的研究取得了重大进展。"
+    "example": "We need to allocate resources carefully.\n我们需要谨慎分配资源。"
   },
   {
     "id": "word_263",
@@ -4996,7 +4996,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allot/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索allot的新方面。"
+    "example": "They allotted seats for the guests.\n他们为客人分配了座位。"
   },
   {
     "id": "word_264",
@@ -5011,7 +5011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaʊ/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n允许的应用革新了各个行业。"
+    "example": "Please allow me to explain.\n请允许我解释。"
   },
   {
     "id": "word_265",
@@ -5026,7 +5026,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allowable/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对可...的认识显著提高。"
+    "example": "This expense is not allowable.\n这笔费用是不允许的。"
   },
   {
     "id": "word_266",
@@ -5047,7 +5047,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaʊəns/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，津贴的重要性怎么强调都不为过。"
+    "example": "She receives a monthly allowance.\n她每月领取津贴。"
   },
   {
     "id": "word_267",
@@ -5068,7 +5068,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælɔɪ/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n合金的理论为理解这一现象提供了框架。"
+    "example": "Brass is an alloy of copper and zinc.\n黄铜是铜和锌的合金。"
   },
   {
     "id": "word_268",
@@ -5089,7 +5089,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈluːd/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与allude相关的实践技能在工作场所受到高度重视。"
+    "example": "He alluded to the problem.\n他暗示了这个问题。"
   },
   {
     "id": "word_269",
@@ -5110,7 +5110,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈljʊər/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会行为的发展。"
+    "example": "The city has a certain allure.\n这座城市有一种独特的魅力。"
   },
   {
     "id": "word_270",
@@ -5131,7 +5131,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈluːviəl/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，冲积的研究取得了重大进展。"
+    "example": "The soil is rich alluvial deposit.\n这片土壤是肥沃的冲积层。"
   },
   {
     "id": "word_271",
@@ -5152,7 +5152,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælaɪ/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索同盟国的新方面。"
+    "example": "They became allies in the war.\n他们在战争中成为盟友。"
   },
   {
     "id": "word_272",
@@ -5173,7 +5173,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlmənæk/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nalmanac的应用革新了各个行业。"
+    "example": "He consulted the almanac.\n他查阅了年鉴。"
   },
   {
     "id": "word_273",
@@ -5194,7 +5194,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈmaɪti/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对全能的认识显著提高。"
+    "example": "The almighty God.\n万能的上帝。"
   },
   {
     "id": "word_274",
@@ -5215,7 +5215,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlməʊst/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，几乎的重要性怎么强调都不为过。"
+    "example": "We are almost there.\n我们快到了。"
   },
   {
     "id": "word_275",
@@ -5236,7 +5236,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæləʊ/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n芦荟的理论为理解这一现象提供了框架。"
+    "example": "Aloe vera is good for the skin.\n芦荟对皮肤有好处。"
   },
   {
     "id": "word_276",
@@ -5257,7 +5257,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlɒft/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与在空中相关的实践技能在工作场所受到高度重视。"
+    "example": "The balloon floated aloft.\n气球飘向高空。"
   },
   {
     "id": "word_277",
@@ -5278,7 +5278,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈloʊhɑː/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会问候文化的发展。"
+    "example": "Aloha means hello in Hawaiian.\nAloha在夏威夷语中是你好的意思。"
   },
   {
     "id": "word_278",
@@ -5299,7 +5299,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈləʊn/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，单独的研究取得了重大进展。"
+    "example": "He prefers to be alone.\n他喜欢独处。"
   },
   {
     "id": "word_279",
@@ -5320,7 +5320,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlɒŋ/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索沿着道路前进的新方面。"
+    "example": "Walk along the street.\n沿着街道走。"
   },
   {
     "id": "word_280",
@@ -5341,7 +5341,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌlɒŋˈsaɪd/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n在旁边工作的应用革新了各个行业。"
+    "example": "The boat sailed alongside.\n船并排航行。"
   },
   {
     "id": "word_281",
@@ -5362,7 +5362,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælfə/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对开端的认识显著提高。"
+    "example": "He is the alpha male.\n他是领头的雄性。"
   },
   {
     "id": "word_282",
