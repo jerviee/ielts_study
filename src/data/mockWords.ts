@@ -4663,7 +4663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alias/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，alias的重要性怎么强调都不为过。"
+    "example": "He used an alias to hide his identity.\n他使用化名来隐藏身份。"
   },
   {
     "id": "word_243",
@@ -4678,7 +4678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alibi/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nalibi的理论为理解这一现象提供了框架。"
+    "example": "The suspect had a solid alibi for the night.\n嫌疑人对当晚有确凿的不在场证明。"
   },
   {
     "id": "word_244",
@@ -4693,7 +4693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alien/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与外星人相关的实践技能在工作场所受到高度重视。"
+    "example": "The concept was alien to her.\n这个概念对她来说是陌生的。"
   },
   {
     "id": "word_245",
@@ -4708,7 +4708,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alienate/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会使...的发展。"
+    "example": "His behavior alienated his friends.\n他的行为疏远了他的朋友。"
   },
   {
     "id": "word_246",
@@ -4723,7 +4723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/align/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，align的研究取得了重大进展。"
+    "example": "We need to align our strategies.\n我们需要调整我们的策略。"
   },
   {
     "id": "word_247",
@@ -4738,7 +4738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaɪk/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索相似的新方面。"
+    "example": "The twins look exactly alike.\n这对双胞胎长得一模一样。"
   },
   {
     "id": "word_248",
@@ -4783,7 +4783,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaɪv/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，活着的重要性怎么强调都不为过。"
+    "example": "The tradition is still alive in this village.\n这个传统在这个村庄仍然存在。"
   },
   {
     "id": "word_251",
@@ -4798,7 +4798,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/all/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nall的理论为理解这一现象提供了框架。"
+    "example": "All students must attend the meeting.\n所有学生都必须参加会议。"
   },
   {
     "id": "word_252",
@@ -4813,7 +4813,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allay/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与allay相关的实践技能在工作场所受到高度重视。"
+    "example": "The doctor tried to allay her fears.\n医生试图减轻她的恐惧。"
   },
   {
     "id": "word_253",
@@ -4828,7 +4828,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allegation/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会指控的发展。"
+    "example": "The allegation was proven false.\n该指控被证明是虚假的。"
   },
   {
     "id": "word_254",
@@ -4849,7 +4849,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈledʒ/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，断言的研究取得了重大进展。"
+    "example": "They allege that he stole the money.\n他们声称他偷了钱。"
   },
   {
     "id": "word_255",
@@ -4894,7 +4894,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alleviate/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对减轻的认识显著提高。"
+    "example": "The medicine alleviated his pain.\n这种药减轻了他的疼痛。"
   },
   {
     "id": "word_258",
@@ -4909,7 +4909,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alley/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，alley的重要性怎么强调都不为过。"
+    "example": "They walked down the dark alley.\n他们沿着黑暗的小巷走去。"
   },
   {
     "id": "word_259",
@@ -4930,7 +4930,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaɪəns/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n联盟的理论为理解这一现象提供了框架。"
+    "example": "The two countries formed an alliance.\n这两个国家结成了联盟。"
   },
   {
     "id": "word_260",
@@ -4981,7 +4981,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæləkeɪt/",
     "frequency": "低频",
-    "example": "We need to allocate resources carefully.\n我们需要谨慎分配资源。"
+    "example": "We need to allocate resources wisely.\n我们需要明智地分配资源。"
   },
   {
     "id": "word_263",
@@ -4996,7 +4996,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allot/",
     "frequency": "低频",
-    "example": "They allotted seats for the guests.\n他们为客人分配了座位。"
+    "example": "Each student was allotted a desk.\n每个学生都分配了一张课桌。"
   },
   {
     "id": "word_264",
@@ -5011,7 +5011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaʊ/",
     "frequency": "高频",
-    "example": "Please allow me to explain.\n请允许我解释。"
+    "example": "Please allow me to explain.\n请允许我解释一下。"
   },
   {
     "id": "word_265",
@@ -5047,7 +5047,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaʊəns/",
     "frequency": "低频",
-    "example": "She receives a monthly allowance.\n她每月领取津贴。"
+    "example": "He receives a weekly allowance.\n他每周收到一笔零花钱。"
   },
   {
     "id": "word_267",
@@ -5068,7 +5068,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælɔɪ/",
     "frequency": "低频",
-    "example": "Brass is an alloy of copper and zinc.\n黄铜是铜和锌的合金。"
+    "example": "Steel is an alloy of iron and carbon.\n钢是铁和碳的合金。"
   },
   {
     "id": "word_268",
@@ -5089,7 +5089,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈluːd/",
     "frequency": "中频",
-    "example": "He alluded to the problem.\n他暗示了这个问题。"
+    "example": "He alluded to the problem indirectly.\n他间接地提到了这个问题。"
   },
   {
     "id": "word_269",
@@ -5110,7 +5110,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈljʊər/",
     "frequency": "低频",
-    "example": "The city has a certain allure.\n这座城市有一种独特的魅力。"
+    "example": "The allure of the city attracted many.\n城市的魅力吸引了很多人。"
   },
   {
     "id": "word_270",
@@ -5152,7 +5152,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælaɪ/",
     "frequency": "低频",
-    "example": "They became allies in the war.\n他们在战争中成为盟友。"
+    "example": "She is a trusted ally.\n她是一个值得信赖的盟友。"
   },
   {
     "id": "word_272",
@@ -5173,7 +5173,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlmənæk/",
     "frequency": "中频",
-    "example": "He consulted the almanac.\n他查阅了年鉴。"
+    "example": "The almanac predicts the weather.\n年鉴预测天气。"
   },
   {
     "id": "word_273",
@@ -5194,7 +5194,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈmaɪti/",
     "frequency": "低频",
-    "example": "The almighty God.\n万能的上帝。"
+    "example": "People prayed to the almighty.\n人们向全能的神祈祷。"
   },
   {
     "id": "word_274",
@@ -5215,7 +5215,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlməʊst/",
     "frequency": "高频",
-    "example": "We are almost there.\n我们快到了。"
+    "example": "He almost finished the work.\n他几乎完成了工作。"
   },
   {
     "id": "word_275",
@@ -5236,7 +5236,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæləʊ/",
     "frequency": "中频",
-    "example": "Aloe vera is good for the skin.\n芦荟对皮肤有好处。"
+    "example": "Aloe vera is good for skin.\n芦荟对皮肤有益。"
   },
   {
     "id": "word_276",
@@ -5299,7 +5299,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈləʊn/",
     "frequency": "高频",
-    "example": "He prefers to be alone.\n他喜欢独处。"
+    "example": "She prefers to work alone.\n她更喜欢独自工作。"
   },
   {
     "id": "word_279",
@@ -5320,7 +5320,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlɒŋ/",
     "frequency": "高频",
-    "example": "Walk along the street.\n沿着街道走。"
+    "example": "We walked along the river.\n我们沿着河边走。"
   },
   {
     "id": "word_280",
@@ -5341,7 +5341,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌlɒŋˈsaɪd/",
     "frequency": "低频",
-    "example": "The boat sailed alongside.\n船并排航行。"
+    "example": "He works alongside his father.\n他和父亲一起工作。"
   },
   {
     "id": "word_281",
@@ -5383,7 +5383,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælfəbet/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，字母表的重要性怎么强调都不为过。"
+    "example": "Children learn the alphabet early.\n孩子们很早就学习字母表。"
   },
   {
     "id": "word_283",
@@ -5425,7 +5425,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈredi/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与时间相关的实践技能在工作场所受到高度重视。"
+    "example": "I have already finished my homework.\n我已经完成了作业。"
   },
   {
     "id": "word_285",
@@ -5467,7 +5467,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlsəʊ/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，也的研究取得了重大进展。"
+    "example": "She also speaks French.\n她也会说法语。"
   },
   {
     "id": "word_287",
@@ -5488,7 +5488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːltər/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索祭坛文化的新方面。"
+    "example": "They prayed at the altar.\n他们在祭坛前祈祷。"
   },
   {
     "id": "word_288",
@@ -5509,7 +5509,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːltə/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n改变的应用革新了各个行业。"
+    "example": "We need to alter the plan.\n我们需要改变计划。"
   },
   {
     "id": "word_289",
@@ -5530,7 +5530,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɔːltəˈreɪʃn/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对变更的认识显著提高。"
+    "example": "The alteration cost extra money.\n修改花费了额外的钱。"
   },
   {
     "id": "word_290",
@@ -5572,7 +5572,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈtɜːnət/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n交替的理论为理解这一现象提供了框架。"
+    "example": "They alternate shifts every week.\n他们每周轮流值班。"
   },
   {
     "id": "word_292",
@@ -5593,7 +5593,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈtɜːnətɪv/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与替代选择相关的实践技能在工作场所受到高度重视。"
+    "example": "We need an alternative solution.\n我们需要一个替代方案。"
   },
   {
     "id": "word_293",
@@ -5614,7 +5614,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈðəʊ/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n尽管面临挑战，许多因素仍促成了社会的发展。"
+    "example": "Although it rained, we went out.\n虽然下雨了，我们还是出去了。"
   },
   {
     "id": "word_294",
@@ -5635,7 +5635,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæltruɪzəm/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，利他主义的研究取得了重大进展。"
+    "example": "His altruism inspired many people.\n他的利他主义激励了许多人。"
   },
   {
     "id": "word_295",
@@ -5656,7 +5656,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈluːmɪnəm/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索铝材料的新应用。"
+    "example": "Aluminum is a lightweight metal.\n铝是一种轻质金属。"
   },
   {
     "id": "word_296",
@@ -5698,7 +5698,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlweɪz/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对始终如一的认识显著提高。"
+    "example": "She always arrives on time.\n她总是准时到达。"
   },
   {
     "id": "word_298",
@@ -5761,7 +5761,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmətə/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与业余爱好相关的实践技能在工作场所受到高度重视。"
+    "example": "He is an amateur photographer.\n他是一名业余摄影师。"
   },
   {
     "id": "word_301",
@@ -5782,7 +5782,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmeɪz/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了令人惊奇的社会发展。"
+    "example": "Her performance amazed everyone.\n她的表演让所有人惊叹。"
   },
   {
     "id": "word_302",
@@ -5803,7 +5803,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmeɪzɪŋ/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，令人惊异的研究取得了重大进展。"
+    "example": "The view from the top is amazing.\n顶部的景色令人惊叹。"
   },
   {
     "id": "word_303",
@@ -5824,7 +5824,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbæsədə/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索外交大使的新角色。"
+    "example": "The ambassador met with the president.\n大使会见了总统。"
   },
   {
     "id": "word_304",
@@ -5845,7 +5845,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbər/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n琥珀在珠宝和科学研究中的应用革新了多个行业。"
+    "example": "The amber necklace was beautiful.\n琥珀项链很漂亮。"
   },
   {
     "id": "word_305",
@@ -5929,7 +5929,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪɡjuəs/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与处理模糊信息相关的实践技能在工作场所受到高度重视。"
+    "example": "His answer was ambiguous.\n他的回答模棱两可。"
   },
   {
     "id": "word_309",
@@ -5971,7 +5971,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪʃn/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，对抱负的研究取得了重大进展。"
+    "example": "Her ambition is to become a doctor.\n她的志向是成为一名医生。"
   },
   {
     "id": "word_311",
@@ -5992,7 +5992,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪʃəs/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索有雄心抱负的新方向。"
+    "example": "He is an ambitious young man.\n他是一个有抱负的年轻人。"
   },
   {
     "id": "word_312",
@@ -6013,7 +6013,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪvələnt/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n矛盾心理的研究应用革新了心理学领域。"
+    "example": "She felt ambivalent about the decision.\n她对这个决定感到矛盾。"
   },
   {
     "id": "word_313",
@@ -6034,7 +6034,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbl/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对漫步的认识显著提高。"
+    "example": "They ambled through the park.\n他们在公园里漫步。"
   },
   {
     "id": "word_314",
@@ -6076,7 +6076,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbjələns/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n救护车的设计理论为理解急救系统提供了框架。"
+    "example": "The ambulance arrived quickly.\n救护车很快到达了。"
   },
   {
     "id": "word_316",
@@ -6097,7 +6097,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbʊʃ/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与伏击战术相关的实践技能在军事领域受到高度重视。"
+    "example": "The soldiers set up an ambush.\n士兵们设下了埋伏。"
   },
   {
     "id": "word_317",
@@ -6139,7 +6139,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmiːliəreɪt/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，改善方法的研究取得了重大进展。"
+    "example": "The new policy ameliorated the situation.\n新政策改善了情况。"
   },
   {
     "id": "word_319",
@@ -6160,7 +6160,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmiːnəbl/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索顺从特质的新方面。"
+    "example": "He is amenable to suggestions.\n他乐于接受建议。"
   },
   {
     "id": "word_320",
@@ -6181,7 +6181,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmend/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n修改修订的应用革新了法律和出版行业。"
+    "example": "They amended the contract.\n他们修改了合同。"
   },
   {
     "id": "word_321",
@@ -6286,7 +6286,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmɪkəbl/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会友好关系的发展。"
+    "example": "They reached an amicable agreement.\n他们达成了友好的协议。"
   },
   {
     "id": "word_326",
@@ -6307,7 +6307,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɪd/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，在中间位置的研究取得了重大进展。"
+    "example": "He stood amid the crowd.\n他站在人群中。"
   },
   {
     "id": "word_327",
@@ -6328,7 +6328,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɪs/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索错误原因的新方面。"
+    "example": "Something seemed amiss.\n有些事情似乎不对劲。"
   },
   {
     "id": "word_328",
@@ -6349,7 +6349,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmˌmiːtər/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n电流表的应用革新了电气行业。"
+    "example": "Use an ammeter to measure current.\n用电流表测量电流。"
   },
   {
     "id": "word_329",
@@ -6391,7 +6391,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈniːziə/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，记忆健康的重要性怎么强调都不为过。"
+    "example": "He suffered from amnesia after the accident.\n事故后他患上了失忆症。"
   },
   {
     "id": "word_331",
@@ -6412,7 +6412,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmnəsti/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n大赦的理论为理解司法赦免提供了框架。"
+    "example": "The government granted amnesty to political prisoners.\n政府对政治犯给予大赦。"
   },
   {
     "id": "word_332",
@@ -6433,7 +6433,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmʌŋ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n团队协作的实践技能在工作场所受到高度重视。"
+    "example": "She was popular among her classmates.\n她在同学中很受欢迎。"
   },
   {
     "id": "word_333",
@@ -6454,7 +6454,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪˈmɒrəl/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会非道德行为的发展。"
+    "example": "His actions were completely amoral.\n他的行为完全是非道德的。"
   },
   {
     "id": "word_334",
@@ -6475,7 +6475,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmərəs/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，爱情心理学的研究取得了重大进展。"
+    "example": "He wrote amorous poems to his beloved.\n他给心爱的人写了情诗。"
   },
   {
     "id": "word_335",
@@ -6496,7 +6496,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɔːfəs/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索无定形物质的新方面。"
+    "example": "The organization has an amorphous structure.\n这个组织结构模糊不清。"
   },
   {
     "id": "word_336",
@@ -6559,7 +6559,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmaʊnt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，数量统计的重要性怎么强调都不为过。"
+    "example": "A large amount of money was spent.\n花费了大量金钱。"
   },
   {
     "id": "word_339",
@@ -6580,7 +6580,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmʊər/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n恋情心理学的理论为理解这一现象提供了框架。"
+    "example": "They had a secret amour.\n他们有一段秘密的恋情。"
   },
   {
     "id": "word_340",
@@ -6601,7 +6601,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpeər/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与安培相关的实践技能在电气工程领域受到高度重视。"
+    "example": "The current is measured in amperes.\n电流以安培为单位测量。"
   },
   {
     "id": "word_341",
@@ -6685,7 +6685,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpl/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n充足资源的应用革新了各个行业。"
+    "example": "We have ample time to finish.\n我们有充足的时间完成。"
   },
   {
     "id": "word_345",
@@ -6727,7 +6727,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpjuteɪt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，外科手术的重要性怎么强调都不为过。"
+    "example": "The doctor had to amputate his leg.\n医生不得不截去他的腿。"
   },
   {
     "id": "word_347",
@@ -6790,7 +6790,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmjuːz/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了娱乐产业的发展。"
+    "example": "The clown amused the children.\n小丑逗乐了孩子们。"
   },
   {
     "id": "word_350",
@@ -6811,7 +6811,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈkɒndə/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，水蟒的研究取得了重大进展。"
+    "example": "The anaconda is a large snake.\n森蚺是一种巨大的蛇。"
   },
   {
     "id": "word_351",
@@ -6853,7 +6853,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈrəʊbɪk/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n厌氧技术的应用革新了生物工程行业。"
+    "example": "Anaerobic exercise builds muscle.\n无氧运动可以增强肌肉。"
   },
   {
     "id": "word_353",
@@ -6895,7 +6895,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəlˈdʒiːzɪk/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，止痛药的重要性怎么强调都不为过。"
+    "example": "Take an analgesic for the pain.\n服用止痛药来缓解疼痛。"
   },
   {
     "id": "word_355",
@@ -6916,7 +6916,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlɒɡ/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n模拟技术的理论为理解这一现象提供了框架。"
+    "example": "Analog signals are continuous.\n模拟信号是连续的。"
   },
   {
     "id": "word_356",
@@ -6937,7 +6937,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnælədʒi/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与类比推理相关的实践技能在工作场所受到高度重视。"
+    "example": "He drew an analogy between the two systems.\n他在两个系统之间做了类比。"
   },
   {
     "id": "word_357",
@@ -6958,7 +6958,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlaɪz/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了数据分析的发展。"
+    "example": "We need to analyse the data.\n我们需要分析数据。"
   },
   {
     "id": "word_358",
@@ -6979,7 +6979,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnæləsɪs/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，数据分析的研究取得了重大进展。"
+    "example": "The analysis showed interesting results.\n分析显示了有趣的结果。"
   },
   {
     "id": "word_359",
@@ -7000,7 +7000,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlɪst/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索分析师角色的新方面。"
+    "example": "She works as a financial analyst.\n她是一名金融分析师。"
   },
   {
     "id": "word_360",
@@ -7021,7 +7021,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlaɪz/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n数据分析的应用革新了各个行业。"
+    "example": "Let us analyze the situation.\n让我们分析一下情况。"
   },
   {
     "id": "word_361",
@@ -7084,7 +7084,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəki/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n无政府状态的理论为理解这一现象提供了框架。"
+    "example": "The country fell into anarchy.\n国家陷入了无政府状态。"
   },
   {
     "id": "word_364",
@@ -7126,7 +7126,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænsestə/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了祖先文化的发展。"
+    "example": "My ancestors came from Ireland.\n我的祖先来自爱尔兰。"
   },
   {
     "id": "word_366",
@@ -7147,7 +7147,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænsestri/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，血统研究取得了重大进展。"
+    "example": "He is proud of his ancestry.\n他为自己的血统感到自豪。"
   },
   {
     "id": "word_367",
@@ -7168,7 +7168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkə/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索锚定技术的新方面。"
+    "example": "The ship dropped anchor.\n船抛锚了。"
   },
   {
     "id": "word_368",
@@ -7210,7 +7210,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪnʃənt/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对古代文明的认识显著提高。"
+    "example": "The ancient ruins attract tourists.\n古代遗迹吸引了游客。"
   },
   {
     "id": "word_370",
@@ -7231,7 +7231,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈsɪləri/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，辅助功能的重要性怎么强调都不为过。"
+    "example": "Ancillary services are available.\n辅助服务可用。"
   },
   {
     "id": "word_371",
@@ -7252,7 +7252,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænd/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n连词的理论为理解语言结构提供了框架。"
+    "example": "You and I can work together.\n你和我可以一起工作。"
   },
   {
     "id": "word_372",
@@ -7336,7 +7336,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪkdəʊt/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索轶事文化的新方面。"
+    "example": "He told an amusing anecdote.\n他讲了一个有趣的轶事。"
   },
   {
     "id": "word_376",
@@ -7399,7 +7399,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænesˈθetɪk/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，麻醉技术的重要性怎么强调都不为过。"
+    "example": "The anesthetic wore off quickly.\n麻醉剂很快失效了。"
   },
   {
     "id": "word_379",
@@ -7420,7 +7420,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪndʒl/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n天使的概念为理解宗教现象提供了框架。"
+    "example": "She is like an angel.\n她像个天使。"
   },
   {
     "id": "word_380",
@@ -7462,7 +7462,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡə/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了愤怒情绪的产生。"
+    "example": "He could not hide his anger.\n他无法掩饰自己的愤怒。"
   },
   {
     "id": "word_382",
@@ -7546,7 +7546,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡl/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对角度概念的认识显著提高。"
+    "example": "The angle of the roof is steep.\n屋顶的角度很陡。"
   },
   {
     "id": "word_386",
@@ -7609,7 +7609,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡri/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与情绪管理相关的实践技能在工作场所受到高度重视。"
+    "example": "She was angry at the news.\n她对这个消息很生气。"
   },
   {
     "id": "word_389",
@@ -7651,7 +7651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡwɪʃ/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，心理痛苦的研究取得了重大进展。"
+    "example": "She cried out in anguish.\n她痛苦地大叫。"
   },
   {
     "id": "word_391",
@@ -7672,7 +7672,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡjʊlə/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索几何角度的新方面。"
+    "example": "The building has an angular design.\n这座建筑有棱角分明的设计。"
   },
   {
     "id": "word_392",
@@ -7714,7 +7714,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪml/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对动物保护的认识显著提高。"
+    "example": "The animal kingdom is diverse.\n动物界是多样化的。"
   },
   {
     "id": "word_394",
@@ -7756,7 +7756,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪmeɪt/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n动画的理论为理解视觉艺术提供了框架。"
+    "example": "The cartoon characters are animated.\n卡通人物是动画的。"
   },
   {
     "id": "word_396",
@@ -7840,7 +7840,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkl/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索关节健康的新方面。"
+    "example": "She twisted her ankle.\n她扭伤了脚踝。"
   },
   {
     "id": "word_400",
@@ -7903,7 +7903,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænlz/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，历史文献的重要性怎么强调都不为过。"
+    "example": "The event was recorded in the annals.\n这一事件被记录在编年史中。"
   },
   {
     "id": "word_403",
@@ -7924,7 +7924,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈniːl/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n退火的理论为理解材料科学提供了框架。"
+    "example": "Glass is annealed to strengthen it.\n玻璃经过退火处理以增强强度。"
   },
   {
     "id": "word_404",
@@ -7945,7 +7945,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈneks/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与建筑扩建相关的实践技能在工程领域受到高度重视。"
+    "example": "They decided to annex the territory.\n他们决定吞并该领土。"
   },
   {
     "id": "word_405",
@@ -7966,7 +7966,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaɪəleɪt/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了灭绝生物学的发展。"
+    "example": "The army was annihilated.\n军队被歼灭了。"
   },
   {
     "id": "word_406",
@@ -7987,7 +7987,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈteɪʃn/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，注释技术的研究取得了重大进展。"
+    "example": "The annotation explains the passage.\n注释解释了这段话。"
   },
   {
     "id": "word_407",
@@ -8008,7 +8008,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaʊns/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索新闻发布的新方面。"
+    "example": "They announced their engagement.\n他们宣布订婚了。"
   },
   {
     "id": "word_408",
@@ -8029,7 +8029,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaʊnsmənt/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n公告的应用革新了媒体传播行业。"
+    "example": "The announcement surprised everyone.\n这个公告让所有人惊讶。"
   },
   {
     "id": "word_409",
@@ -8050,7 +8050,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɔɪ/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对社交礼仪的认识显著提高。"
+    "example": "His constant talking annoyed me.\n他不停地说话让我很烦。"
   },
   {
     "id": "word_410",
@@ -8071,7 +8071,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɔɪəns/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，心理健康的重要性怎么强调都不为过。"
+    "example": "She showed her annoyance openly.\n她公开表示不满。"
   },
   {
     "id": "word_411",
@@ -8092,7 +8092,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænjuəl/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n年度审核的理论为理解企业管理提供了框架。"
+    "example": "The annual meeting is in June.\n年会将在六月举行。"
   },
   {
     "id": "word_412",
@@ -8113,7 +8113,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnʌl/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与法律废除相关的实践技能在司法领域受到高度重视。"
+    "example": "The court annulled the contract.\n法院宣布合同无效。"
   },
   {
     "id": "word_413",
@@ -8155,7 +8155,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəʊd/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，电子元件的研究取得了重大进展。"
+    "example": "Connect the wire to the anode.\n把电线连接到阳极上。"
   },
   {
     "id": "word_415",
@@ -8176,7 +8176,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɒməli/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索异常现象的新方面。"
+    "example": "This result is an anomaly.\n这个结果是异常的。"
   },
   {
     "id": "word_416",
@@ -8239,7 +8239,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɒnɪməs/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，网络安全的的重要性怎么强调都不为过。"
+    "example": "The donor wished to remain anonymous.\n捐赠者希望保持匿名。"
   },
   {
     "id": "word_419",
@@ -8281,7 +8281,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnʌðə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与选择相关的实践技能在工作场所受到高度重视。"
+    "example": "Would you like another cup?\n你要再来一杯吗？"
   },
   {
     "id": "word_421",
@@ -8302,7 +8302,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːnsə/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了问答系统的发展。"
+    "example": "Please answer the question.\n请回答这个问题。"
   },
   {
     "id": "word_422",
@@ -8323,7 +8323,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænt/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，昆虫行为学的研究取得了重大进展。"
+    "example": "The ant carried a crumb.\n蚂蚁搬运着面包屑。"
   },
   {
     "id": "word_423",
@@ -8344,7 +8344,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtæɡənɪst/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索社会竞争关系的新方面。"
+    "example": "The antagonist in the story is evil.\n故事中的反派是邪恶的。"
   },
   {
     "id": "word_424",
@@ -8407,7 +8407,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtenə/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，通讯技术的重要性怎么强调都不为过。"
+    "example": "The antenna receives signals.\n天线接收信号。"
   },
   {
     "id": "word_427",
@@ -8428,7 +8428,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪəriə/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n解剖学理论为理解这一现象提供了框架。"
+    "example": "The anterior part of the body.\n身体的前部。"
   },
   {
     "id": "word_428",
@@ -8470,7 +8470,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænθəm/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了音乐文化的发展。"
+    "example": "They sang the national anthem.\n他们唱了国歌。"
   },
   {
     "id": "word_430",
@@ -8512,7 +8512,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈθɒlədʒi/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索文学编辑的新方面。"
+    "example": "She bought an anthology of poems.\n她买了一本诗集。"
   },
   {
     "id": "word_432",
@@ -8575,7 +8575,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænθrəpɔɪd/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，人类学研究的重要性怎么强调都不为过。"
+    "example": "Anthropoid apes are intelligent.\n类人猿很聪明。"
   },
   {
     "id": "word_435",
@@ -8596,7 +8596,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænθrəˈpɒlədʒi/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n文化研究的理论为理解这一现象提供了框架。"
+    "example": "He studies anthropology at university.\n他在大学学习人类学。"
   },
   {
     "id": "word_436",
@@ -8680,7 +8680,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntibaɪˈɒtɪk/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索医学研究的新方面。"
+    "example": "The doctor prescribed antibiotics.\n医生开了抗生素。"
   },
   {
     "id": "word_440",
@@ -8701,7 +8701,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntibɒdi/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n医学技术的应用革新了各个行业。"
+    "example": "Antibodies fight infections.\n抗体对抗感染。"
   },
   {
     "id": "word_441",
@@ -8764,7 +8764,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪsɪpeɪt/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n预测理论为理解这一现象提供了框架。"
+    "example": "We anticipate a good result.\n我们期待一个好的结果。"
   },
   {
     "id": "word_444",
@@ -8827,7 +8827,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntidəʊt/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，医学研究取得了重大进展。"
+    "example": "The antidote saved his life.\n解毒剂救了他的命。"
   },
   {
     "id": "word_447",
@@ -8848,7 +8848,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪdʒən/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索免疫学的新方面。"
+    "example": "The antigen triggered a response.\n抗原引发了反应。"
   },
   {
     "id": "word_448",
@@ -8869,7 +8869,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪpəθi/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n心理学研究的应用革新了各个行业。"
+    "example": "She felt antipathy toward him.\n她对他感到厌恶。"
   },
   {
     "id": "word_449",
@@ -8890,7 +8890,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪfən/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对宗教音乐的认识显著提高。"
+    "example": "The choir sang an antiphon.\n合唱团唱了一首对唱圣歌。"
   },
   {
     "id": "word_450",
@@ -8911,7 +8911,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪpədəl/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，地理学概念的重要性怎么强调都不为过。"
+    "example": "Antipodal points are opposite.\n对极点是相对的。"
   },
   {
     "id": "word_451",
@@ -8932,7 +8932,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪpəʊd/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n地理学理论为理解这一现象提供了框架。"
+    "example": "The antipode of this location.\n这个位置的对极点。"
   },
   {
     "id": "word_452",
@@ -8953,7 +8953,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntɪˈkweəriən/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与历史研究相关的实践技能在工作场所受到高度重视。"
+    "example": "He is an antiquarian scholar.\n他是一位古文物学者。"
   },
   {
     "id": "word_453",
@@ -8974,7 +8974,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪkweɪtɪd/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会文化的发展。"
+    "example": "The system is antiquated.\n这个系统已经过时了。"
   },
   {
     "id": "word_454",
@@ -8995,7 +8995,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtiːk/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，历史文化研究取得了重大进展。"
+    "example": "She collects antique furniture.\n她收集古董家具。"
   },
   {
     "id": "word_455",
@@ -9016,7 +9016,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪθəsɪs/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索哲学概念的新方面。"
+    "example": "His behavior is the antithesis of hers.\n他的行为与她的截然相反。"
   },
   {
     "id": "word_456",
@@ -9037,7 +9037,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntlə(r)/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n动物学研究的应用革新了各个行业。"
+    "example": "The deer has large antlers.\n这头鹿有很大的鹿角。"
   },
   {
     "id": "word_457",
@@ -9058,7 +9058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntlaɪən/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对昆虫学的认识显著提高。"
+    "example": "The antlion digs a pit.\n蚁狮挖了一个坑。"
   },
   {
     "id": "word_458",
@@ -9079,7 +9079,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntənɪm/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，语言学习的重要性怎么强调都不为过。"
+    "example": "Hot is the antonym of cold.\n热是冷的反义词。"
   },
   {
     "id": "word_459",
@@ -9100,7 +9100,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntrəl/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n解剖学理论为理解这一现象提供了框架。"
+    "example": "Antral follicles develop in the ovary.\n窦卵泡在卵巢中发育。"
   },
   {
     "id": "word_460",
@@ -9121,7 +9121,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æŋˈzaɪəti/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与心理健康相关的实践技能在工作场所受到高度重视。"
+    "example": "She suffers from anxiety.\n她患有焦虑症。"
   },
   {
     "id": "word_461",
@@ -9142,7 +9142,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkʃəs/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会心理健康的发展。"
+    "example": "She was anxious about the exam.\n她对考试感到焦虑。"
   },
   {
     "id": "word_462",
@@ -9163,7 +9163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeni/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，语言学研究取得了重大进展。"
+    "example": "Any help would be appreciated.\n任何帮助都将不胜感激。"
   },
   {
     "id": "word_463",
@@ -9184,7 +9184,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈenibɒdi/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索语言表达的新方面。"
+    "example": "Anybody can learn to code.\n任何人都可以学习编程。"
   },
   {
     "id": "word_464",
@@ -9205,7 +9205,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈenihaʊ/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n沟通技巧的应用革新了各个行业。"
+    "example": "Anyhow, we must finish the work.\n无论如何，我们必须完成工作。"
   },
   {
     "id": "word_465",
@@ -9226,7 +9226,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniwʌn/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对语言表达的认识显著提高。"
+    "example": "Anyone interested should apply.\n任何感兴趣的人都应该申请。"
   },
   {
     "id": "word_466",
@@ -9247,7 +9247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniθɪŋ/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，包容性的重要性怎么强调都不为过。"
+    "example": "Anything is possible.\n一切皆有可能。"
   },
   {
     "id": "word_467",
@@ -9268,7 +9268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniweɪ/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n语言表达理论为理解这一现象提供了框架。"
+    "example": "Anyway, let us continue.\n无论如何，让我们继续。"
   },
   {
     "id": "word_468",
@@ -9289,7 +9289,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniweə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与空间表达相关的实践技能在工作场所受到高度重视。"
+    "example": "You can go anywhere you want.\n你可以去任何你想去的地方。"
   },
   {
     "id": "word_469",
@@ -9310,7 +9310,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪˈɔːtə/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了医学研究的发展。"
+    "example": "The aorta carries blood from the heart.\n主动脉将血液从心脏输送出去。"
   },
   {
     "id": "word_470",
@@ -9331,7 +9331,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpeɪs/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，社会发展的研究取得了重大进展。"
+    "example": "The work proceeded apace.\n工作进行得很快。"
   },
   {
     "id": "word_471",
@@ -9352,7 +9352,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpənɪdʒ/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索历史制度的新方面。"
+    "example": "This was his apanage.\n这是他的特权。"
   },
   {
     "id": "word_472",
@@ -9373,7 +9373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɑːt/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n空间思维的应用革新了各个行业。"
+    "example": "The two houses are apart.\n这两所房子分开着。"
   },
   {
     "id": "word_473",
@@ -9394,7 +9394,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɑːtmənt/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对居住空间的认识显著提高。"
+    "example": "She lives in a small apartment.\n她住在一间小公寓里。"
   },
   {
     "id": "word_474",
@@ -9415,7 +9415,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpəθi/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，心理健康的重要性怎么强调都不为过。"
+    "example": "His apathy concerned everyone.\n他的冷漠让所有人担忧。"
   },
   {
     "id": "word_475",
@@ -9436,7 +9436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpətʃə/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n光学原理的理论为理解这一现象提供了框架。"
+    "example": "Adjust the aperture of the camera.\n调整相机的光圈。"
   },
   {
     "id": "word_476",
@@ -9457,7 +9457,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpeks/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与空间表达相关的实践技能在工作场所受到高度重视。"
+    "example": "He reached the apex of his career.\n他达到了职业生涯的顶峰。"
   },
   {
     "id": "word_477",
@@ -9478,7 +9478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfeɪziə/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了医学研究的发展。"
+    "example": "Aphasia affects speech ability.\n失语症影响说话能力。"
   },
   {
     "id": "word_478",
@@ -9499,7 +9499,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪfɪd/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，生态研究取得了重大进展。"
+    "example": "Aphids damage plants.\n蚜虫会损害植物。"
   },
   {
     "id": "word_479",
@@ -9520,7 +9520,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæfərɪzəm/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索语言表达的新方面。"
+    "example": "The aphorism is profound.\n这句格言很深刻。"
   },
   {
     "id": "word_480",
@@ -9541,7 +9541,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpiəri/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n生态农业的应用革新了各个行业。"
+    "example": "The apiary has many beehives.\n养蜂场有很多蜂箱。"
   },
   {
     "id": "word_481",
@@ -9562,7 +9562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpɪkʌltʃə/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对生态农业的认识显著提高。"
+    "example": "Apiculture is an important industry.\n养蜂业是一个重要的产业。"
   },
   {
     "id": "word_482",
@@ -9583,7 +9583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æpˈniːə/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，健康意识的重要性怎么强调都不为过。"
+    "example": "Sleep apnea is a serious condition.\n睡眠呼吸暂停是一种严重的状况。"
   },
   {
     "id": "word_483",
@@ -9604,7 +9604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒkəlɪps/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n文化研究的理论为理解这一现象提供了框架。"
+    "example": "The apocalypse is a terrifying concept.\n末日是一个可怕的概念。"
   },
   {
     "id": "word_484",
@@ -9625,7 +9625,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒkrɪfl/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与文本分析相关的实践技能在工作场所受到高度重视。"
+    "example": "The story is apocryphal.\n这个故事是可疑的。"
   },
   {
     "id": "word_485",
@@ -9646,7 +9646,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpədʒiː/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了科学发展。"
+    "example": "The satellite reached its apogee.\n卫星到达了远地点。"
   },
   {
     "id": "word_486",
@@ -9667,7 +9667,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpɒləˈdʒetɪk/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，社会交往的研究取得了重大进展。"
+    "example": "He was apologetic about the mistake.\n他对这个错误表示歉意。"
   },
   {
     "id": "word_487",
@@ -9688,7 +9688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈləʊdʒiə/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索语言表达的新方面。"
+    "example": "He wrote an apologia for his actions.\n他为自己的行为写了一份辩护。"
   },
   {
     "id": "word_488",
@@ -9709,7 +9709,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒlədʒaɪz/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n沟通技巧的应用革新了各个行业。"
+    "example": "You should apologize to her.\n你应该向她道歉。"
   },
   {
     "id": "word_489",
@@ -9730,7 +9730,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒlədʒi/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对沟通礼仪的认识显著提高。"
+    "example": "He made a sincere apology.\n他做出了真诚的道歉。"
   },
   {
     "id": "word_490",
@@ -9751,7 +9751,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpəpleksi/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，健康意识的重要性怎么强调都不为过。"
+    "example": "Apoplexy is a medical emergency.\n中风是一种医疗紧急情况。"
   },
   {
     "id": "word_491",
@@ -9772,7 +9772,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstəsi/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n社会制度研究的理论为理解这一现象提供了框架。"
+    "example": "His apostasy shocked the community.\n他的叛教震惊了社区。"
   },
   {
     "id": "word_492",
@@ -9793,7 +9793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒsl/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与领导力相关的实践技能在工作场所受到高度重视。"
+    "example": "The apostle spread the message.\n使徒传播了这个信息。"
   },
   {
     "id": "word_493",
@@ -9814,7 +9814,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstəlɪt/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了宗教研究的发展。"
+    "example": "His apostolate was influential.\n他的使徒工作很有影响力。"
   },
   {
     "id": "word_494",
@@ -9835,7 +9835,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstrəfi/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，语言学研究取得了重大进展。"
+    "example": "Use an apostrophe correctly.\n正确使用撇号。"
   },
   {
     "id": "word_495",
@@ -9856,7 +9856,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒθɪkəri/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索药学发展的新方面。"
+    "example": "The apothecary prepared the medicine.\n药剂师准备了药物。"
   },
   {
     "id": "word_496",
@@ -9877,7 +9877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpɒθiˈəʊsɪs/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n艺术创作的应用革新了各个行业。"
+    "example": "This was the apotheosis of his career.\n这是他职业生涯的巅峰。"
   },
   {
     "id": "word_497",
@@ -9898,7 +9898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔːl/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对社会问题的认识显著提高。"
+    "example": "The news appalled everyone.\n这个消息震惊了所有人。"
   },
   {
     "id": "word_498",
@@ -9919,7 +9919,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈreɪtəs/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，科学设备的重要性怎么强调都不为过。"
+    "example": "The laboratory apparatus is expensive.\n实验室设备很昂贵。"
   },
   {
     "id": "word_499",
@@ -9940,7 +9940,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpærənt/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n语言学理论为理解这一现象提供了框架。"
+    "example": "The cause was apparent.\n原因很明显。"
   },
   {
     "id": "word_500",
@@ -9961,7 +9961,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpiːl/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与沟通技巧相关的实践技能在工作场所受到高度重视。"
+    "example": "The appeal was successful.\n上诉成功了。"
   },
   {
     "id": "word_501",
@@ -9982,7 +9982,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɪə/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了文化发展。"
+    "example": "The sun appeared from behind the clouds.\n太阳从云层后面出现了。"
   },
   {
     "id": "word_502",
@@ -10003,7 +10003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɪərəns/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，社会学研究取得了重大进展。"
+    "example": "Her appearance changed dramatically.\n她的外貌发生了巨大变化。"
   },
   {
     "id": "word_503",
@@ -10024,7 +10024,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpiːz/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索心理学的新方面。"
+    "example": "They tried to appease the angry crowd.\n他们试图安抚愤怒的人群。"
   },
   {
     "id": "word_504",
@@ -10045,7 +10045,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈleɪʃn/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n命名学的应用革新了各个行业。"
+    "example": "The appellation is formal.\n这个称呼是正式的。"
   },
   {
     "id": "word_505",
@@ -10066,7 +10066,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpend/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对信息技术的认识显著提高。"
+    "example": "Please append your signature.\n请附上您的签名。"
   },
   {
     "id": "word_506",
@@ -10087,7 +10087,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpendɪdʒ/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，系统组件的重要性怎么强调都不为过。"
+    "example": "The appendage serves a function.\n这个附属物有功能。"
   },
   {
     "id": "word_507",
@@ -10108,7 +10108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈteɪn/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n法律理论为理解这一现象提供了框架。"
+    "example": "These rights appertain to citizens.\n这些权利属于公民。"
   },
   {
     "id": "word_508",
@@ -10129,7 +10129,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtənt/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与积极性相关的实践技能在工作场所受到高度重视。"
+    "example": "He was appetent for knowledge.\n他渴望知识。"
   },
   {
     "id": "word_509",
@@ -10150,7 +10150,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtaɪt/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了健康意识的发展。"
+    "example": "She has a good appetite.\n她胃口很好。"
   },
   {
     "id": "word_510",
@@ -10171,7 +10171,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtaɪzə/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，餐饮文化研究取得了重大进展。"
+    "example": "The appetizer was delicious.\n开胃菜很美味。"
   },
   {
     "id": "word_511",
@@ -10192,7 +10192,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplɔːd/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索社交互动的新方面。"
+    "example": "The audience applauded loudly.\n观众大声鼓掌。"
   },
   {
     "id": "word_512",
@@ -10213,7 +10213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpl/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n农业技术的应用革新了各个行业。"
+    "example": "She ate an apple.\n她吃了一个苹果。"
   },
   {
     "id": "word_513",
@@ -10234,7 +10234,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplaɪəns/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对科技产品的认识显著提高。"
+    "example": "The appliance is energy-efficient.\n这个电器是节能的。"
   },
   {
     "id": "word_514",
@@ -10255,7 +10255,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplɪkəbl/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，实用性的重要性怎么强调都不为过。"
+    "example": "The rule is applicable here.\n这条规则在这里适用。"
   },
   {
     "id": "word_515",
@@ -10276,7 +10276,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæplɪkənt/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n社会学理论为理解这一现象提供了框架。"
+    "example": "Each applicant must submit a form.\n每个申请人都必须提交表格。"
   },
   {
     "id": "word_516",
@@ -10297,7 +10297,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæplɪˈkeɪʃn/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与信息技术相关的实践技能在工作场所受到高度重视。"
+    "example": "Submit your application online.\n在线提交您的申请。"
   },
   {
     "id": "word_517",
@@ -10318,7 +10318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplaɪ/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会发展的进步。"
+    "example": "You can apply for the job.\n你可以申请这份工作。"
   },
   {
     "id": "word_518",
@@ -10339,7 +10339,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔɪnt/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人力资源管理研究取得了重大进展。"
+    "example": "They appointed a new director.\n他们任命了一位新主管。"
   },
   {
     "id": "word_519",
@@ -10360,7 +10360,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔɪntmənt/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索时间管理的新方面。"
+    "example": "I have an appointment at 3 pm.\n我下午3点有个预约。"
   },
   {
     "id": "word_520",
@@ -10381,7 +10381,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔːʃn/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n资源管理的应用革新了各个行业。"
+    "example": "We need to apportion the costs.\n我们需要分配成本。"
   },
   {
     "id": "word_521",
@@ -10402,7 +10402,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpreɪzl/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对质量管理的认识显著提高。"
+    "example": "The appraisal was positive.\n评估是积极的。"
   },
   {
     "id": "word_522",
@@ -10423,7 +10423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpreɪz/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，价值评估的重要性怎么强调都不为过。"
+    "example": "We need to appraise the situation.\n我们需要评估情况。"
   },
   {
     "id": "word_523",
@@ -10444,7 +10444,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpriːʃieɪt/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n经济学理论为理解这一现象提供了框架。"
+    "example": "I appreciate your help.\n我感谢你的帮助。"
   },
   {
     "id": "word_524",
@@ -10465,7 +10465,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpriːʃiˈeɪʃn/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与艺术鉴赏相关的实践技能在工作场所受到高度重视。"
+    "example": "She showed appreciation for the gift.\n她对礼物表示感激。"
   },
   {
     "id": "word_525",
@@ -10486,7 +10486,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhend/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了法律体系的发展。"
+    "example": "The police apprehended the suspect.\n警察逮捕了嫌疑人。"
   },
   {
     "id": "word_526",
@@ -10507,7 +10507,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhensəbl/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，语言学研究取得了重大进展。"
+    "example": "The concept is apprehensible.\n这个概念是可以理解的。"
   },
   {
     "id": "word_527",
@@ -10528,7 +10528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhenʃn/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索认知科学的新方面。"
+    "example": "She felt apprehension about the future.\n她对未来感到忧虑。"
   },
   {
     "id": "word_528",
@@ -10549,7 +10549,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprentɪs/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n职业培训的应用革新了各个行业。"
+    "example": "He works as an apprentice.\n他作为一名学徒工作。"
   },
   {
     "id": "word_529",
@@ -10570,7 +10570,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprəʊtʃ/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对科学研究方法的认识显著提高。"
+    "example": "We need a new approach.\n我们需要一种新方法。"
   },
   {
     "id": "word_530",
@@ -10591,7 +10591,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprəˈbeɪʃn/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，道德认同的重要性怎么强调都不为过。"
+    "example": "His approbation was encouraging.\n他的认可令人鼓舞。"
   },
   {
     "id": "word_531",
@@ -10612,7 +10612,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprəʊpriət/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n教育学理论为理解这一现象提供了框架。"
+    "example": "This behavior is not appropriate.\n这种行为是不恰当的。"
   },
   {
     "id": "word_532",
@@ -10633,7 +10633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpruːvl/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与管理技能相关的实践技能在工作场所受到高度重视。"
+    "example": "The project received approval.\n项目获得了批准。"
   },
   {
     "id": "word_533",
@@ -10654,7 +10654,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpruːv/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会治理的进步。"
+    "example": "The committee approved the plan.\n委员会批准了该计划。"
   },
   {
     "id": "word_534",
@@ -10675,7 +10675,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprɒksɪmət/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，数学研究取得了重大进展。"
+    "example": "This is an approximate value.\n这是一个近似值。"
   },
   {
     "id": "word_535",
@@ -10696,7 +10696,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɜːtɪnəns/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索法律概念的新方面。"
+    "example": "The appurtenance belongs to the estate.\n这个附属物属于庄园。"
   },
   {
     "id": "word_536",
@@ -10717,7 +10717,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪprɪkɒt/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n农业技术的应用革新了各个行业。"
+    "example": "She bought fresh apricots.\n她买了新鲜的杏子。"
   },
   {
     "id": "word_537",
@@ -10738,7 +10738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprəˈpəʊ/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对语言表达的认识显著提高。"
+    "example": "His comment was apropos.\n他的评论很恰当。"
   },
   {
     "id": "word_538",
@@ -10759,7 +10759,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæptə/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，生物学的的重要性怎么强调都不为过。"
+    "example": "This solution is apter.\n这个解决方案更恰当。"
   },
   {
     "id": "word_539",
@@ -10780,7 +10780,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæptɪˈtjuːd/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n教育心理学理论为理解这一现象提供了框架。"
+    "example": "He has a natural aptitude for music.\n他有天生的音乐天赋。"
   },
   {
     "id": "word_540",
@@ -10801,7 +10801,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与海洋学相关的实践技能在工作场所受到高度重视。"
+    "example": "Aqua is a shade of blue.\n水色是一种蓝色调。"
   },
   {
     "id": "word_541",
@@ -10822,7 +10822,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwəkʌltʃə/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了可持续农业的发展。"
+    "example": "Aquaculture is growing rapidly.\n水产养殖业正在快速增长。"
   },
   {
     "id": "word_542",
@@ -10843,7 +10843,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwədaɪˈnæmɪk/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，工程学的研究取得了重大进展。"
+    "example": "Aquadynamic vehicles are efficient.\n水动力车辆效率高。"
   },
   {
     "id": "word_543",
@@ -10864,7 +10864,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwəlʌŋ/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索海洋科学的新方面。"
+    "example": "He used an aqualung for diving.\n他用水下呼吸器潜水。"
   },
   {
     "id": "word_544",
@@ -10885,7 +10885,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkweəriəm/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n旅游业的应用革新了各个行业。"
+    "example": "The aquarium has many fish.\n水族馆里有很多鱼。"
   },
   {
     "id": "word_545",
@@ -10906,7 +10906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwætɪk/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对生态保护的认识显著提高。"
+    "example": "Aquatic plants need water.\n水生植物需要水。"
   },
   {
     "id": "word_546",
@@ -10927,7 +10927,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwɪdʌkt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，古代建筑的重要性怎么强调都不为过。"
+    "example": "The aqueduct carries water.\n渡槽输送水。"
   },
   {
     "id": "word_547",
@@ -10948,7 +10948,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwɪfə/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n地质学理论为理解这一现象提供了框架。"
+    "example": "The aquifer provides fresh water.\n含水层提供淡水。"
   },
   {
     "id": "word_548",
@@ -10969,7 +10969,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌærəˈbesk/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与艺术设计相关的实践技能在工作场所受到高度重视。"
+    "example": "The dancer performed an arabesque.\n舞者做了一个阿拉贝斯克动作。"
   },
   {
     "id": "word_549",
@@ -10990,7 +10990,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈærəbl/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了农业的发展。"
+    "example": "Arable land is valuable.\n可耕地很有价值。"
   },
   {
     "id": "word_550",
@@ -11011,7 +11011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈræknɪd/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，生物学研究取得了重大进展。"
+    "example": "Spiders are arachnids.\n蜘蛛是蛛形纲动物。"
   },
   {
     "id": "word_551",
@@ -11032,7 +11032,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtə/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索法律制度的新方面。"
+    "example": "He acted as an arbiter.\n他充当仲裁者。"
   },
   {
     "id": "word_552",
@@ -11053,7 +11053,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtrəri/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n决策科学的应用革新了各个行业。"
+    "example": "The decision was arbitrary.\n这个决定是武断的。"
   },
   {
     "id": "word_553",
@@ -11074,7 +11074,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtreɪt/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对法律程序的意识显著提高。"
+    "example": "They agreed to arbitrate the dispute.\n他们同意仲裁争议。"
   },
   {
     "id": "word_554",
@@ -11095,7 +11095,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbə/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，园艺学的重要性怎么强调都不为过。"
+    "example": "The arbor provides shade.\n凉亭提供阴凉。"
   },
   {
     "id": "word_555",
@@ -11116,7 +11116,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈbɔːriəl/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n生态学理论为理解这一现象提供了框架。"
+    "example": "Monkeys are arboreal animals.\n猴子是树栖动物。"
   },
   {
     "id": "word_556",
@@ -11137,7 +11137,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈbjuːtəs/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与植物学相关的实践技能在工作场所受到高度重视。"
+    "example": "The arbutus tree blooms in spring.\n杨梅树在春天开花。"
   },
   {
     "id": "word_557",
@@ -11158,7 +11158,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːk/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了几何学的发展。"
+    "example": "The arc of the bridge is beautiful.\n桥的弧形很美。"
   },
   {
     "id": "word_558",
@@ -11179,7 +11179,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪd/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，城市规划研究取得了重大进展。"
+    "example": "They walked through the arcade.\n他们穿过拱廊。"
   },
   {
     "id": "word_559",
@@ -11200,7 +11200,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪn/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索神秘学的新方面。"
+    "example": "The knowledge was arcane.\n这些知识是神秘的。"
   },
   {
     "id": "word_560",
@@ -11221,7 +11221,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːkiˈɒlədʒi/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n历史研究的成果革新了各个行业。"
+    "example": "Archaeology studies ancient civilizations.\n考古学研究古代文明。"
   },
   {
     "id": "word_561",
@@ -11242,7 +11242,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪɪk/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对语言学的认识显著提高。"
+    "example": "The language is archaic.\n这种语言是古老的。"
   },
   {
     "id": "word_562",
@@ -11263,7 +11263,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkitaɪp/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，心理学的重要性怎么强调都不为过。"
+    "example": "This is an archetype of the genre.\n这是该类型的原型。"
   },
   {
     "id": "word_563",
@@ -11284,7 +11284,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːkɪˈmiːdiːz/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n物理学理论为理解这一现象提供了框架。"
+    "example": "Archimedes was a great mathematician.\n阿基米德是一位伟大的数学家。"
   },
   {
     "id": "word_564",
@@ -11305,7 +11305,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːkɪˈpeləɡəʊ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与地理学相关的实践技能在工作场所受到高度重视。"
+    "example": "The archipelago has many islands.\n群岛有很多岛屿。"
   },
   {
     "id": "word_565",
@@ -11326,7 +11326,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪtekt/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会建筑行业的发展。"
+    "example": "The architect designed the building.\n建筑师设计了这座建筑。"
   },
   {
     "id": "word_566",
@@ -11347,7 +11347,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪtektʃə/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，建筑学的研究取得了重大进展。"
+    "example": "The architecture is impressive.\n建筑风格令人印象深刻。"
   },
   {
     "id": "word_567",
@@ -11368,7 +11368,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkaɪv/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索历史资料的新方面。"
+    "example": "The archive contains old documents.\n档案馆保存着旧文件。"
   },
   {
     "id": "word_568",
@@ -11389,7 +11389,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪvɪst/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n信息技术的应用革新了各个行业。"
+    "example": "The archivist manages the records.\n档案管理员管理记录。"
   },
   {
     "id": "word_569",
@@ -11410,7 +11410,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkjuət/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对几何学的认识显著提高。"
+    "example": "The arcuate structure is unique.\n弧形结构是独特的。"
   },
   {
     "id": "word_570",
@@ -11431,7 +11431,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdnt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，激情的重要性怎么强调都不为过。"
+    "example": "He is an ardent supporter.\n他是一位热情的支持者。"
   },
   {
     "id": "word_571",
@@ -11452,7 +11452,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdə/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n心理学理论为理解这一现象提供了框架。"
+    "example": "His ardor was evident.\n他的热情显而易见。"
   },
   {
     "id": "word_572",
@@ -11473,7 +11473,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdjuəs/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与项目管理相关的实践技能在工作场所受到高度重视。"
+    "example": "The task was arduous.\n这项任务很艰巨。"
   },
   {
     "id": "word_573",
@@ -11488,7 +11488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeəriə/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会区域的发展。"
+    "example": "The area is large.\n这个区域很大。"
   },
   {
     "id": "word_574",
@@ -11503,7 +11503,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arena/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，竞技场的研究取得了重大进展。",
+    "example": "The arena was crowded.\n竞技场挤满了人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11524,7 +11524,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/argon/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索argon的新方面。",
+    "example": "Argon is a noble gas.\n氩是一种惰性气体。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -11545,7 +11545,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/argot/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nargot的应用革新了各个行业。"
+    "example": "The argot is hard to understand.\n这种俚语很难理解。"
   },
   {
     "id": "word_577",
@@ -11560,7 +11560,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːɡjuː/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对争论的认识显著提高。",
+    "example": "They argued about the issue.\n他们争论这个问题。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11581,7 +11581,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːɡjumənt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，争论的重要性怎么强调都不为过。",
+    "example": "His argument was convincing.\n他的论点很有说服力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11602,7 +11602,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/argyle/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nargyle的理论为理解这一现象提供了框架。",
+    "example": "He wore argyle socks.\n他穿了菱形花纹袜子。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11623,7 +11623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aria/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与aria相关的实践技能在工作场所受到高度重视。",
+    "example": "She sang a beautiful aria.\n她唱了一首优美的咏叹调。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11644,7 +11644,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arid/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会干旱的发展。",
+    "example": "The desert is arid.\n沙漠是干旱的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11665,7 +11665,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪz/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，产生的研究取得了重大进展。",
+    "example": "Problems may arise.\n问题可能会出现。",
     "prefix": "a-",
     "prefixMeaning": "向上",
     "prefixMeaningEn": "up",
@@ -11686,7 +11686,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːm/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索手臂的新方面。",
+    "example": "He injured his arm.\n他伤了他的手臂。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11707,7 +11707,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armada/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n舰队的应用革新了各个行业。",
+    "example": "The armada sailed across the sea.\n舰队横渡大海。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11728,7 +11728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armament/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对行为的认识显著提高。",
+    "example": "The armament was powerful.\n军备很强大。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11749,7 +11749,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armature/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，行为的重要性怎么强调都不为过。",
+    "example": "The armature supports the structure.\n电枢支撑着结构。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11770,7 +11770,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armistice/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\narmistice的理论为理解这一现象提供了框架。",
+    "example": "The armistice ended the war.\n停战协定结束了战争。",
     "prefix": "ar-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -11791,7 +11791,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armor/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与装甲相关的实践技能在工作场所受到高度重视。",
+    "example": "The knight wore armor.\n骑士穿着盔甲。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11812,7 +11812,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armory/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会军械库的发展。",
+    "example": "The armory stores weapons.\n军械库储存武器。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11833,7 +11833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːmi/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，军队的研究取得了重大进展。",
+    "example": "The army marched forward.\n军队向前行进。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11854,7 +11854,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aroma/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索芳香的新方面。",
+    "example": "The aroma of coffee filled the room.\n咖啡的香气充满了房间。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11875,7 +11875,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aromatic/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n芳香的应用革新了各个行业。",
+    "example": "The herb is aromatic.\n这种草药有香味。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11896,7 +11896,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraʊnd/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对在...周围的认识显著提高。"
+    "example": "They walked around the park.\n他们在公园周围走。"
   },
   {
     "id": "word_594",
@@ -11911,7 +11911,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arpeggio/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，arpeggio的重要性怎么强调都不为过。",
+    "example": "He played an arpeggio.\n他演奏了一个琶音。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11932,7 +11932,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrack/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\narrack的理论为理解这一现象提供了框架。",
+    "example": "Arrack is a type of liquor.\n亚力酒是一种烈酒。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11953,7 +11953,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈreɪndʒ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与安排相关的实践技能在工作场所受到高度重视。",
+    "example": "Please arrange the meeting.\n请安排会议。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -11974,7 +11974,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈreɪndʒmənt/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会安排的发展。",
+    "example": "The arrangement was perfect.\n安排很完美。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -11995,7 +11995,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrant/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人的研究取得了重大进展。",
+    "example": "He is an arrant liar.\n他是一个彻头彻尾的骗子。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12016,7 +12016,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/array/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索一排的新方面。",
+    "example": "An array of options was available.\n有一系列选择可用。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12037,7 +12037,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈrest/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n逮捕的应用革新了各个行业。",
+    "example": "The police arrested him.\n警察逮捕了他。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12058,7 +12058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪvl/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对到达的认识显著提高。",
+    "example": "Her arrival was unexpected.\n她的到来出乎意料。",
     "prefix": "ar-",
     "prefixMeaning": "向；到",
     "prefixMeaningEn": "toward",
@@ -12079,7 +12079,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪv/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，到达的重要性怎么强调都不为过。",
+    "example": "They arrived late.\n他们迟到了。",
     "prefix": "ar-",
     "prefixMeaning": "向；到",
     "prefixMeaningEn": "toward",
@@ -12100,7 +12100,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrogant/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n傲慢的理论为理解这一现象提供了框架。",
+    "example": "He is arrogant and rude.\n他傲慢且粗鲁。",
     "prefix": "ar-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "toward; intensive",
@@ -12121,7 +12121,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈærəʊ/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与箭相关的实践技能在工作场所受到高度重视。",
+    "example": "He shot an arrow.\n他射了一箭。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12142,7 +12142,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrowhead/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会arrowhead的发展。",
+    "example": "The arrowhead was sharp.\n箭头很锋利。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12163,7 +12163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrowroot/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，arrowroot的研究取得了重大进展。",
+    "example": "Arrowroot is used in cooking.\n竹芋用于烹饪。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12184,7 +12184,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arsenal/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索兵工厂的新方面。",
+    "example": "The arsenal was well-stocked.\n军械库储备充足。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12205,7 +12205,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arsenic/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n...的应用革新了各个行业。",
+    "example": "Arsenic is poisonous.\n砷是有毒的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12226,7 +12226,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arson/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对arson的认识显著提高。",
+    "example": "Arson is a serious crime.\n纵火是一种严重的犯罪。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12247,7 +12247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/art/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，艺术的重要性怎么强调都不为过。",
+    "example": "She loves art.\n她热爱艺术。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12268,7 +12268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arterial/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的理论为理解这一现象提供了框架。",
+    "example": "Arterial blood is oxygen-rich.\n动脉血富含氧气。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12289,7 +12289,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artery/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与动脉相关的实践技能在工作场所受到高度重视。",
+    "example": "The artery carries blood.\n动脉输送血液。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12310,7 +12310,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artful/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会狡猾的发展。",
+    "example": "He is artful and cunning.\n他狡猾且诡计多端。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12331,7 +12331,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arthritic/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的研究取得了重大进展。",
+    "example": "She suffers from arthritic pain.\n她患有关节炎疼痛。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12352,7 +12352,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arthropod/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索arthropod的新方面。",
+    "example": "Insects are arthropods.\n昆虫是节肢动物。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12373,7 +12373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artichoke/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nartichoke的应用革新了各个行业。",
+    "example": "She cooked an artichoke.\n她煮了一个洋蓟。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12394,7 +12394,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːtɪkl/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对文章的认识显著提高。",
+    "example": "The article was informative.\n这篇文章很有启发性。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12415,7 +12415,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/articulate/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，清晰发音的重要性怎么强调都不为过。",
+    "example": "He is articulate and clear.\n他表达清晰明了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12436,7 +12436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artifact/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n人工制品的理论为理解这一现象提供了框架。",
+    "example": "The artifact is ancient.\n这件文物很古老。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12457,7 +12457,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːtɪˈfɪʃl/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与人造相关的实践技能在工作场所受到高度重视。",
+    "example": "The flavor is artificial.\n这种味道是人造的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12478,7 +12478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artisan/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会工匠的发展。",
+    "example": "The artisan crafted beautiful pottery.\n工匠制作了精美的陶器。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12499,7 +12499,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːtɪst/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，艺术家的研究取得了重大进展。",
+    "example": "She is a talented artist.\n她是一位有才华的艺术家。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12520,7 +12520,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈtɪstɪk/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索艺术的新方面。",
+    "example": "His artistic skills are impressive.\n他的艺术技巧令人印象深刻。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12541,7 +12541,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artistry/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n艺术技巧的应用革新了各个行业。",
+    "example": "Her artistry is evident in her work.\n她的艺术性在她的作品中显而易见。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12562,7 +12562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artless/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对无...的认识显著提高。",
+    "example": "Her artless charm was appealing.\n她天真无邪的魅力很吸引人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12583,7 +12583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artwork/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，艺术品的重要性怎么强调都不为过。",
+    "example": "The artwork is stunning.\n这件艺术品令人惊叹。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12604,7 +12604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arum/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\narum的理论为理解这一现象提供了框架。",
+    "example": "The arum plant has unique flowers.\n天南星科植物有独特的花朵。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12625,7 +12625,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/as/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与因为相关的实践技能在工作场所受到高度重视。",
+    "example": "As I said before, it is important.\n正如我之前所说，这很重要。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12646,7 +12646,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asbestos/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会asbestos的发展。",
+    "example": "Asbestos is hazardous.\n石棉是有害的。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -12667,7 +12667,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascend/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，上升的研究取得了重大进展。",
+    "example": "They ascended the mountain.\n他们登上了山。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12688,7 +12688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascendant/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索人的新方面。",
+    "example": "He is in an ascendant position.\n他处于上升地位。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12709,7 +12709,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascertain/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n确定的应用革新了各个行业。",
+    "example": "We need to ascertain the facts.\n我们需要查明事实。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12730,7 +12730,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascetic/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的认识显著提高。",
+    "example": "He leads an ascetic life.\n他过着苦行的生活。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12751,7 +12751,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascribe/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，归因于的重要性怎么强调都不为过。",
+    "example": "They ascribed the success to teamwork.\n他们将成功归功于团队合作。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12772,7 +12772,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aseptic/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的理论为理解这一现象提供了框架。",
+    "example": "The aseptic conditions are maintained.\n无菌条件得以维持。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -12793,7 +12793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ash/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与灰相关的实践技能在工作场所受到高度重视。",
+    "example": "The ash from the fire was gray.\n火灰是灰色的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12814,7 +12814,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ashamed/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会惭愧的发展。",
+    "example": "He was ashamed of his behavior.\n他对自己的行为感到羞耻。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12835,7 +12835,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ashore/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，在岸上的研究取得了重大进展。",
+    "example": "They went ashore.\n他们上岸了。",
     "prefix": "a-",
     "prefixMeaning": "向；朝",
     "prefixMeaningEn": "toward; on",
@@ -12856,7 +12856,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asian/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索asian的新方面。",
+    "example": "She is Asian.\n她是亚洲人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12877,7 +12877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsaɪd/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n在旁边的应用革新了各个行业。",
+    "example": "He stepped aside.\n他退到一边。",
     "prefix": "a-",
     "prefixMeaning": "向；在...旁边",
     "prefixMeaningEn": "on; at the side of",
@@ -12898,7 +12898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːsk/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对问的认识显著提高。",
+    "example": "Please ask him for help.\n请向他求助。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12919,7 +12919,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsliːp/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，睡着的重要性怎么强调都不为过。",
+    "example": "The baby is asleep.\n婴儿睡着了。",
     "prefix": "a-",
     "prefixMeaning": "在...状态中",
     "prefixMeaningEn": "in a state of",
@@ -12940,7 +12940,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæspekt/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n方面的理论为理解这一现象提供了框架。",
+    "example": "Consider every aspect of the problem.\n考虑问题的各个方面。",
     "prefix": "a-",
     "prefixMeaning": "向；朝",
     "prefixMeaningEn": "toward; at",
@@ -12961,7 +12961,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asphalt/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与asphalt相关的实践技能在工作场所受到高度重视。",
+    "example": "The road is paved with asphalt.\n这条路是用沥青铺的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12982,7 +12982,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asphyxiate/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会使...的发展。",
+    "example": "The gas can asphyxiate victims.\n这种气体可以使受害者窒息。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -13003,7 +13003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aspire/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，渴望的研究取得了重大进展。",
+    "example": "He aspires to become a leader.\n他渴望成为一名领导者。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13024,7 +13024,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assail/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索攻击的新方面。",
+    "example": "The enemy assailed the fortress.\n敌人袭击了堡垒。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13045,7 +13045,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assault/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n攻击的应用革新了各个行业。",
+    "example": "The assault was brutal.\n袭击是残酷的。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13066,7 +13066,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assay/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对assay的认识显著提高。",
+    "example": "They assayed the gold sample.\n他们化验了金样品。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13087,7 +13087,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsembl/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，集合的重要性怎么强调都不为过。",
+    "example": "They assembled in the hall.\n他们在大厅集合。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13108,7 +13108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsembli/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n集合的理论为理解这一现象提供了框架。",
+    "example": "The assembly passed the resolution.\n议会通过了决议。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13129,7 +13129,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɜːt/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与断言相关的实践技能在工作场所受到高度重视。",
+    "example": "He asserted his rights.\n他主张他的权利。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13150,7 +13150,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈses/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会评估的发展。"
+    "example": "We need to assess the damage.\n我们需要评估损失。"
   },
   {
     "id": "word_654",
@@ -13165,7 +13165,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assessment/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，评估的研究取得了重大进展。",
+    "example": "The assessment was thorough.\n评估很彻底。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13186,7 +13186,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæset/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索资产的新方面。",
+    "example": "The company has valuable assets.\n公司有宝贵的资产。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13207,7 +13207,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asseverate/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n使...的应用革新了各个行业。",
+    "example": "He asseverated his innocence.\n他郑重声明自己是无辜的。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13228,7 +13228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assiduous/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的认识显著提高。"
+    "example": "He is an assiduous worker.\n他是一个勤奋的工作者。"
   },
   {
     "id": "word_658",
@@ -13243,7 +13243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsaɪn/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，分配的重要性怎么强调都不为过。",
+    "example": "They assigned him a new task.\n他们给他分配了一个新任务。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13264,7 +13264,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assignation/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n行为的理论为理解这一现象提供了框架。",
+    "example": "The assignation was secret.\n约会是秘密的。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13285,7 +13285,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsaɪnmənt/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与分配相关的实践技能在工作场所受到高度重视。",
+    "example": "The assignment was challenging.\n作业很有挑战性。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13306,7 +13306,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assimilate/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会同化的发展。",
+    "example": "They assimilated into the culture.\n他们融入了这种文化。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13327,7 +13327,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪst/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，帮助的研究取得了重大进展。",
+    "example": "Please assist me with this task.\n请协助我完成这项任务。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13348,7 +13348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪstəns/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索帮助的新方面。",
+    "example": "Your assistance was invaluable.\n你的帮助是无价的。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13369,7 +13369,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪstənt/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n助手的应用革新了各个行业。",
+    "example": "She works as an assistant.\n她担任助理。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13390,7 +13390,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assize/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对assize的认识显著提高。",
+    "example": "The assize court met regularly.\n巡回法院定期开庭。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13411,7 +13411,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsəʊʃieɪt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，交往的重要性怎么强调都不为过。",
+    "example": "He is an associate professor.\n他是一名副教授。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13432,7 +13432,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌsəʊsiˈeɪʃn/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n协会的理论为理解这一现象提供了框架。",
+    "example": "The association held a meeting.\n协会举行了一次会议。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13453,7 +13453,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assonance/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与行为相关的实践技能在工作场所受到高度重视。",
+    "example": "The poem uses assonance.\n这首诗使用了谐音。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13474,7 +13474,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assort/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会assort的发展。"
+    "example": "They assort the goods by type.\n他们按类型分类货物。"
   },
   {
     "id": "word_670",
@@ -13489,7 +13489,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assuage/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，行为的研究取得了重大进展。",
+    "example": "The medicine assuaged her pain.\n药物缓解了她的疼痛。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13510,7 +13510,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsjuːm/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索假设的新方面。"
+    "example": "Do not assume anything.\n不要假设任何事情。"
   },
   {
     "id": "word_672",
@@ -13525,7 +13525,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assumption/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n假设的应用革新了各个行业。",
+    "example": "The assumption was incorrect.\n假设是不正确的。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13546,7 +13546,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assurance/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对保证的认识显著提高。",
+    "example": "He gave his assurance.\n他给出了保证。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13567,7 +13567,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈʃɔː/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，保证的重要性怎么强调都不为过。",
+    "example": "I assure you it is safe.\n我向你保证它是安全的。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13588,7 +13588,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asterisk/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n星号的理论为理解这一现象提供了框架。",
+    "example": "The asterisk indicates a footnote.\n星号表示脚注。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13609,7 +13609,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astern/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与astern相关的实践技能在工作场所受到高度重视。",
+    "example": "The ship moved astern.\n船向后移动。",
     "prefix": "a-",
     "prefixMeaning": "向；朝",
     "prefixMeaningEn": "toward",
@@ -13630,7 +13630,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asthma/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会气喘的发展。",
+    "example": "She suffers from asthma.\n她患有哮喘。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13651,7 +13651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astigmatic/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的研究取得了重大进展。",
+    "example": "He is astigmatic.\n他有散光。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -13672,7 +13672,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astir/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索astir的新方面。",
+    "example": "The whole house was astir.\n整个房子都在骚动。",
     "prefix": "a-",
     "prefixMeaning": "处于...状态",
     "prefixMeaningEn": "in a state of",
@@ -13693,7 +13693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈstɒnɪʃ/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n使惊讶的应用革新了各个行业。",
+    "example": "The news astonished everyone.\n这个消息震惊了所有人。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13714,7 +13714,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astound/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对使震惊的认识显著提高。",
+    "example": "The result astounded us.\n结果让我们大吃一惊。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13735,7 +13735,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astral/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的重要性怎么强调都不为过。",
+    "example": "The astral body is a concept.\n星体是一个概念。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13756,7 +13756,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astringent/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n人的理论为理解这一现象提供了框架。",
+    "example": "The astringent tightened the skin.\n收敛剂收紧了皮肤。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13777,7 +13777,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astrobiology/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与astrobiology相关的实践技能在工作场所受到高度重视。",
+    "example": "Astrobiology studies life in space.\n天体生物学研究太空中的生命。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13798,7 +13798,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astrolabe/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会astrolabe的发展。",
+    "example": "The astrolabe was used for navigation.\n星盘用于导航。",
     "prefix": "astro-",
     "prefixMeaning": "星星；天体",
     "prefixMeaningEn": "star; celestial",
@@ -13819,7 +13819,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astrology/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，astrology的研究取得了重大进展。",
+    "example": "She believes in astrology.\n她相信占星术。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13840,7 +13840,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈstrɒnəmi/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索天文学的新方面。",
+    "example": "Astronomy is fascinating.\n天文学很迷人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13861,7 +13861,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astute/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n精明的应用革新了各个行业。",
+    "example": "He is an astute businessman.\n他是一位精明的商人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13882,7 +13882,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asunder/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对人的认识显著提高。",
+    "example": "The family was torn asunder.\n家庭被撕裂了。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13903,7 +13903,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asylum/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，庇护的重要性怎么强调都不为过。"
+    "example": "They sought asylum in another country.\n他们在另一个国家寻求庇护。"
   },
   {
     "id": "word_691",
@@ -13918,7 +13918,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asymmetric/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的理论为理解这一现象提供了框架。",
+    "example": "The design is asymmetric.\n设计是不对称的。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -13939,7 +13939,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/at/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与在...相关的实践技能在工作场所受到高度重视。",
+    "example": "He is at home.\n他在家。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13960,7 +13960,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atavism/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会主义的发展。",
+    "example": "Atavism is a biological phenomenon.\n返祖现象是一种生物学现象。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13981,7 +13981,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atelier/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人的研究取得了重大进展。",
+    "example": "She works in an atelier.\n她在工作室工作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14002,7 +14002,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atheism/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索无神论的新方面。",
+    "example": "He practices atheism.\n他信奉无神论。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -14023,7 +14023,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atherosclerosis/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\natherosclerosis的应用革新了各个行业。",
+    "example": "Atherosclerosis is a health risk.\n动脉粥样硬化是一种健康风险。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14044,7 +14044,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/athlete/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对运动员的认识显著提高。",
+    "example": "He is a professional athlete.\n他是一名职业运动员。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14065,7 +14065,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/athletic/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，运动的重要性怎么强调都不为过。",
+    "example": "She has an athletic build.\n她有运动员的身材。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14086,7 +14086,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atlas/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n地图册的理论为理解这一现象提供了框架。",
+    "example": "The atlas shows world maps.\n地图集显示世界地图。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14107,7 +14107,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈætməsfɪə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与大气相关的实践技能在工作场所受到高度重视。",
+    "example": "The atmosphere was tense.\n气氛紧张。",
     "prefix": "atm(o)-",
     "prefixMeaning": "蒸汽；大气",
     "prefixMeaningEn": "vapor; atmosphere",
@@ -14128,7 +14128,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atoll/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会atoll的发展。",
+    "example": "The atoll is a ring-shaped island.\n环礁是一个环形岛屿。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14149,7 +14149,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atom/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，原子的研究取得了重大进展。",
+    "example": "An atom is the smallest unit.\n原子是最小的单位。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -14170,7 +14170,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atonal/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的新方面。",
+    "example": "The music is atonal.\n这种音乐是无调性的。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -14191,7 +14191,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atone/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\natone的应用革新了各个行业。",
+    "example": "He tried to atone for his sins.\n他试图赎罪。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14212,7 +14212,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atrium/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对atrium的认识显著提高。",
+    "example": "The atrium is spacious.\n中庭很宽敞。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14233,7 +14233,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atrocious/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的重要性怎么强调都不为过。",
+    "example": "The crime was atrocious.\n罪行极其恶劣。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14254,7 +14254,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atrophy/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\natrophy的理论为理解这一现象提供了框架。",
+    "example": "Muscle atrophy is a concern.\n肌肉萎缩是一个问题。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -14275,7 +14275,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtætʃ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与附上相关的实践技能在工作场所受到高度重视。",
+    "example": "Please attach the file.\n请附上文件。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14296,7 +14296,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtæk/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会攻击的发展。",
+    "example": "The attack was sudden.\n袭击很突然。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14317,7 +14317,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attain/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，达到的研究取得了重大进展。",
+    "example": "He attained his goal.\n他实现了他的目标。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14338,7 +14338,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtempt/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索尝试的新方面。",
+    "example": "He made an attempt to fix it.\n他尝试修复它。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14359,7 +14359,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtend/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n出席的应用革新了各个行业。",
+    "example": "Please attend the meeting.\n请参加会议。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14380,7 +14380,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attendance/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对出席的认识显著提高。",
+    "example": "Attendance is mandatory.\n出席是强制性的。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14401,7 +14401,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attendant/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，服务员的重要性怎么强调都不为过。",
+    "example": "The attendant was helpful.\n服务员很乐于助人。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14422,7 +14422,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtenʃn/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n注意的理论为理解这一现象提供了框架。",
+    "example": "Pay attention to details.\n注意细节。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14443,7 +14443,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attenuate/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与使变细相关的实践技能在工作场所受到高度重视。",
+    "example": "The signal attenuated over distance.\n信号在距离上衰减了。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14464,7 +14464,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attest/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会证实的发展。",
+    "example": "He attested to the truth.\n他证明了真相。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14485,7 +14485,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attic/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的研究取得了重大进展。",
+    "example": "The attic is full of boxes.\n阁楼满是箱子。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14506,7 +14506,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attire/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索attire的新方面。",
+    "example": "Her attire was elegant.\n她的服装很优雅。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14527,7 +14527,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈætɪtjuːd/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n态度的应用革新了各个行业。",
+    "example": "Her attitude is positive.\n她的态度是积极的。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14548,7 +14548,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtɜːni/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对律师的认识显著提高。",
+    "example": "The attorney defended him.\n律师为他辩护。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14569,7 +14569,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtrækt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，吸引的重要性怎么强调都不为过。",
+    "example": "The magnet attracts metal.\n磁铁吸引金属。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14590,7 +14590,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtrækʃn/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n吸引力的理论为理解这一现象提供了框架。",
+    "example": "The attraction is popular.\n这个景点很受欢迎。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14611,7 +14611,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtræktɪv/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与吸引人相关的实践技能在工作场所受到高度重视。",
+    "example": "She is attractive and smart.\n她既漂亮又聪明。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14632,7 +14632,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtrɪbjuːt/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会归因于的发展。",
+    "example": "He attributed his success to hard work.\n他将成功归因于努力工作。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14653,7 +14653,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atypical/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的研究取得了重大进展。",
+    "example": "This is an atypical case.\n这是一个非典型的案例。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -14674,7 +14674,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auburn/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索褐色的新方面。",
+    "example": "She has auburn hair.\n她有赤褐色的头发。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14695,7 +14695,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auctioneer/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n...的人Auctione的应用革新了各个行业。",
+    "example": "The auctioneer sold the item.\n拍卖师卖出了这件物品。",
     "prefix": "auc-",
     "prefixMeaning": "增加；提高",
     "prefixMeaningEn": "increase; raise",
@@ -14716,7 +14716,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/audacious/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对大胆的认识显著提高。",
+    "example": "He made an audacious move.\n他做出了大胆的举动。",
     "prefix": "aud-",
     "prefixMeaning": "大胆；勇敢",
     "prefixMeaningEn": "bold; brave",
@@ -14737,7 +14737,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/audible/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，可听见的重要性怎么强调都不为过。",
+    "example": "The sound was audible.\n声音是可听见的。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14758,7 +14758,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːdiəns/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n观众的理论为理解这一现象提供了框架。",
+    "example": "The audience clapped.\n观众鼓掌。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14779,7 +14779,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/audio/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与音频相关的实践技能在工作场所受到高度重视。",
+    "example": "The audio quality is good.\n音频质量很好。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14800,7 +14800,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/audit/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会审计的发展。",
+    "example": "The audit was thorough.\n审计很彻底。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14821,7 +14821,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auditor/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，审计员的研究取得了重大进展。",
+    "example": "The auditor checked the accounts.\n审计员检查了账目。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14842,7 +14842,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auger/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的人Aug的新方面。",
+    "example": "Use an auger to drill.\n用钻头钻孔。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14863,7 +14863,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/augment/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n增加的应用革新了各个行业。",
+    "example": "They augmented the budget.\n他们增加了预算。",
     "prefix": "aug-",
     "prefixMeaning": "增加；提高",
     "prefixMeaningEn": "increase; raise",
@@ -14884,7 +14884,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/augur/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对预示的认识显著提高。",
+    "example": "This augurs well for the future.\n这对未来是个好兆头。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14905,7 +14905,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/augury/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，预言的重要性怎么强调都不为过。",
+    "example": "The augury was positive.\n预言是积极的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14926,7 +14926,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/august/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n威严的理论为理解这一现象提供了框架。",
+    "example": "August is a summer month.\n八月是夏季月份。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14947,7 +14947,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aunt/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与姑妈相关的实践技能在工作场所受到高度重视。",
+    "example": "My aunt visited us.\n我阿姨来看我们了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14968,7 +14968,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aureate/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会使...的发展。",
+    "example": "The aureate decoration was beautiful.\n金色的装饰很美丽。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14989,7 +14989,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/austere/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，严厉的研究取得了重大进展。",
+    "example": "The room was austere.\n房间很简朴。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15010,7 +15010,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/austerity/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索严厉的新方面。",
+    "example": "Austerity measures were implemented.\n紧缩措施已实施。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15031,7 +15031,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/authentic/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n真正的应用革新了各个行业。",
+    "example": "The document is authentic.\n文件是真实的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15052,7 +15052,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːθə/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对作者的认识显著提高。",
+    "example": "The author wrote a novel.\n作者写了一部小说。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15073,7 +15073,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/authoritative/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，权威性的重要性怎么强调都不为过。",
+    "example": "He gave an authoritative answer.\n他给出了权威的回答。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15094,7 +15094,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːˈθɒrəti/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n权威的理论为理解这一现象提供了框架。",
+    "example": "The authority approved the plan.\n当局批准了该计划。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15115,7 +15115,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/authorize/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与授权相关的实践技能在工作场所受到高度重视。",
+    "example": "They authorized the transaction.\n他们授权了这笔交易。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15136,7 +15136,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autism/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会主义的发展。",
+    "example": "Autism affects communication.\n自闭症影响交流。",
     "prefix": "aut-",
     "prefixMeaning": "自己；自动",
     "prefixMeaningEn": "self; automatic",
@@ -15157,7 +15157,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auto/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，汽车的研究取得了重大进展。",
+    "example": "He bought a new auto.\n他买了一辆新车。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15178,7 +15178,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autobiography/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索自传的新方面。",
+    "example": "She wrote an autobiography.\n她写了一本自传。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15199,7 +15199,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autocracy/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n独裁政治的应用革新了各个行业。",
+    "example": "The country is an autocracy.\n这个国家是一个独裁国家。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15220,7 +15220,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autocrat/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对独裁者的认识显著提高。",
+    "example": "He is an autocrat.\n他是一个独裁者。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15241,7 +15241,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autograph/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，autograph的重要性怎么强调都不为过。",
+    "example": "He signed an autograph.\n他签了名。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15262,7 +15262,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɔːtəˈmætɪk/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n自动的理论为理解这一现象提供了框架。",
+    "example": "The door is automatic.\n门是自动的。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15283,7 +15283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/automatically/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与自动地相关的实践技能在工作场所受到高度重视。",
+    "example": "It happens automatically.\n它自动发生。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15304,7 +15304,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/automaton/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会automaton的发展。",
+    "example": "The automaton moved.\n自动装置动了。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15325,7 +15325,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autonomous/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，自治的研究取得了重大进展。",
+    "example": "The region is autonomous.\n该地区是自治的。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15346,7 +15346,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autonomy/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索自治的新方面。",
+    "example": "They fought for autonomy.\n他们为自治而斗争。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15367,7 +15367,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autopsy/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nautopsy的应用革新了各个行业。",
+    "example": "An autopsy was performed.\n进行了尸检。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15388,7 +15388,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autumn/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对秋天的认识显著提高。",
+    "example": "Autumn leaves are beautiful.\n秋叶很美。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15409,7 +15409,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auxiliary/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，辅助的重要性怎么强调都不为过。",
+    "example": "The auxiliary system is backup.\n辅助系统是备份。",
     "prefix": "aux-",
     "prefixMeaning": "帮助；支持",
     "prefixMeaningEn": "help; support",
@@ -15430,7 +15430,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avail/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n有用的理论为理解这一现象提供了框架。",
+    "example": "His efforts did not avail.\n他的努力没有奏效。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15451,7 +15451,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈveɪləbl/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与可用相关的实践技能在工作场所受到高度重视。",
+    "example": "The product is available.\n产品可用。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15472,7 +15472,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avalanche/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会雪崩的发展。",
+    "example": "The avalanche was dangerous.\n雪崩很危险。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15493,7 +15493,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avantgarde/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，先锋派的研究取得了重大进展。",
+    "example": "The design is avant-garde.\n设计是前卫的。",
     "prefix": "avant-",
     "prefixMeaning": "向前",
     "prefixMeaningEn": "before; forward",
@@ -15514,7 +15514,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avarice/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索贪婪的新方面。",
+    "example": "His avarice was evident.\n他的贪婪显而易见。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15535,7 +15535,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avast/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n停住的应用革新了各个行业。",
+    "example": "Avast! cried the sailor.\n停下！船员喊道。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15556,7 +15556,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avatar/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对化身的认识显著提高。",
+    "example": "He chose a new avatar.\n他选择了一个新头像。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15577,7 +15577,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avenge/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，avenge的重要性怎么强调都不为过。",
+    "example": "He wanted to avenge his father.\n他想为父亲报仇。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15598,7 +15598,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avenue/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n大街的理论为理解这一现象提供了框架。",
+    "example": "The avenue is lined with trees.\n大道两旁种着树。",
     "prefix": "av-",
     "prefixMeaning": "朝向；途径",
     "prefixMeaningEn": "toward; way",
@@ -15619,7 +15619,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aver/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...的人Av相关的实践技能在工作场所受到高度重视。",
+    "example": "He averred his innocence.\n他断言自己是无辜的。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15640,7 +15640,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈævərɪdʒ/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会平均的发展。",
+    "example": "The average score was high.\n平均分数很高。",
     "prefix": "aver-",
     "prefixMeaning": "断言；声明",
     "prefixMeaningEn": "assert; declare",
@@ -15661,7 +15661,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/averse/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，反对的研究取得了重大进展。",
+    "example": "He is averse to change.\n他反对改变。",
     "prefix": "a-",
     "prefixMeaning": "不；相反",
     "prefixMeaningEn": "not; against",
@@ -15682,7 +15682,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aversion/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索厌恶的新方面。",
+    "example": "She has an aversion to spiders.\n她对蜘蛛有厌恶感。",
     "prefix": "a-",
     "prefixMeaning": "不；相反",
     "prefixMeaningEn": "not; against",
@@ -15703,7 +15703,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avert/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n防止的应用革新了各个行业。",
+    "example": "He averted his eyes.\n他转移了视线。",
     "prefix": "a-",
     "prefixMeaning": "不；相反",
     "prefixMeaningEn": "not; against",
@@ -15724,7 +15724,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aviary/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对鸟舍的认识显著提高。",
+    "example": "The aviary has many birds.\n鸟舍有很多鸟。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15745,7 +15745,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aviation/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，航空的重要性怎么强调都不为过。",
+    "example": "Aviation is a growing industry.\n航空业是一个不断增长的行业。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15766,7 +15766,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aviator/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n飞行员的理论为理解这一现象提供了框架。",
+    "example": "He is a famous aviator.\n他是一位著名的飞行员。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15787,7 +15787,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avid/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与渴望相关的实践技能在工作场所受到高度重视。",
+    "example": "He is an avid reader.\n他是一个热情的读者。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15808,7 +15808,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avocado/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会avocado的发展。",
+    "example": "She added avocado to the salad.\n她在沙拉里加了鳄梨。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15829,7 +15829,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avocation/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，行为的研究取得了重大进展。",
+    "example": "His avocation is painting.\n他的业余爱好是绘画。",
     "prefix": "a-",
     "prefixMeaning": "离开；不",
     "prefixMeaningEn": "away; not",
@@ -15850,7 +15850,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈvɔɪd/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索避免的新方面。",
+    "example": "Avoid making mistakes.\n避免犯错。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15871,7 +15871,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avow/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\navow的应用革新了各个行业。",
+    "example": "He avowed his love.\n他公开表达了他的爱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15892,7 +15892,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avowal/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的Avow的认识显著提高。",
+    "example": "His avowal was sincere.\n他的声明是真诚的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15913,7 +15913,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/await/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，等候的重要性怎么强调都不为过。",
+    "example": "We await your response.\n我们等待您的回复。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15934,7 +15934,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈweɪk/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n醒来的理论为理解这一现象提供了框架。",
+    "example": "He is awake now.\n他现在醒了。",
     "prefix": "a-",
     "prefixMeaning": "向上；加强语气",
     "prefixMeaningEn": "up; intensifier",
@@ -15955,7 +15955,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awakening/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与正在...相关的实践技能在工作场所受到高度重视。",
+    "example": "The awakening was gradual.\n觉醒是渐进的。",
     "prefix": "a-",
     "prefixMeaning": "向上；加强语气",
     "prefixMeaningEn": "up; intensifier",
@@ -15976,7 +15976,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈwɔːd/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会奖的发展。",
+    "example": "He received an award.\n他获得了一个奖项。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15997,7 +15997,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈweə/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，知道的研究取得了重大进展。",
+    "example": "Be aware of the risks.\n意识到风险。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16018,7 +16018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awareness/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索意识的新方面。",
+    "example": "Awareness is important.\n意识很重要。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16039,7 +16039,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awash/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nawash的应用革新了各个行业。",
+    "example": "The beach was awash.\n海滩被淹没。",
     "prefix": "a-",
     "prefixMeaning": "在；处于",
     "prefixMeaningEn": "in; at",
@@ -16060,7 +16060,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈweɪ/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对离开的认识显著提高。",
+    "example": "He went away.\n他离开了。",
     "prefix": "a-",
     "prefixMeaning": "离开；不",
     "prefixMeaningEn": "away; not",
@@ -16081,7 +16081,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awesome/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，令人惊叹的重要性怎么强调都不为过。",
+    "example": "The view is awesome.\n景色很棒。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16102,7 +16102,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːfl/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n可怕的理论为理解这一现象提供了框架。",
+    "example": "The weather was awful.\n天气很糟糕。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16123,7 +16123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːkwəd/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与尴尬相关的实践技能在工作场所受到高度重视。",
+    "example": "The situation was awkward.\n情况很尴尬。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16144,7 +16144,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awl/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会锥子的发展。",
+    "example": "Use an awl for leather.\n用锥子处理皮革。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16165,7 +16165,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awning/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，遮阳篷的研究取得了重大进展。",
+    "example": "The awning provides shade.\n遮阳篷提供阴凉。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16186,7 +16186,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awry/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索扭曲的新方面。",
+    "example": "The plan went awry.\n计划出了问题。",
     "prefix": "a-",
     "prefixMeaning": "不；偏离",
     "prefixMeaningEn": "not; off",
@@ -16207,7 +16207,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/axe/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n斧头的应用革新了各个行业。",
+    "example": "He used an axe to cut wood.\n他用斧头砍木头。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16228,7 +16228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/axile/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对axile的认识显著提高。",
+    "example": "The axile placentation is unique.\n轴生胎座是独特的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16249,7 +16249,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/axiom/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，公理的重要性怎么强调都不为过。",
+    "example": "The axiom is fundamental.\n公理是基础的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16270,7 +16270,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/axis/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n轴的理论为理解这一现象提供了框架。",
+    "example": "The axis of rotation is clear.\n旋转轴是清晰的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16291,7 +16291,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/axle/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与轴相关的实践技能在工作场所受到高度重视。",
+    "example": "The axle broke under pressure.\n车轴在压力下断裂了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
