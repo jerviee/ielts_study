@@ -40,7 +40,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbæk/",
     "frequency": "高频",
-    "example": "She was taken aback by the unexpected news.\n她被这个意外的消息吓了一跳。"
+    "example": "Taken aback by the news.\n被消息吓到了。\nShe was caught aback.\n她措手不及。"
   },
   {
     "id": "word_2",
@@ -61,7 +61,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbændən/",
     "frequency": "中频",
-    "example": "They had to abandon their ship due to the storm.\n由于风暴，他们不得不放弃他们的船。"
+    "example": "The desperate crew had to abandon the sinking ship in the middle of the ocean.\n绝望的船员不得不在海洋中央放弃下沉的船只。\nShe decided to abandon her previous career to pursue her artistic dreams.\n她决定放弃之前的职业追求艺术梦想。"
   },
   {
     "id": "word_3",
@@ -82,7 +82,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbeɪt/",
     "frequency": "低频",
-    "example": "The storm began to abate after several hours.\n几个小时后，暴风雨开始减弱。"
+    "example": "The storm began to abate.\n暴风雨开始减弱。\nAbate pollution.\n减少污染。"
   },
   {
     "id": "word_4",
@@ -103,7 +103,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbi/",
     "frequency": "高频",
-    "example": "The ancient abbey attracts many tourists every year.\n这座古老的修道院每年吸引许多游客。"
+    "example": "The historic abbey attracts thousands of tourists every year for guided tours.\n历史悠久的修道院每年吸引数千游客进行导览。\nMonks in the abbey follow a strict daily schedule of prayer and work.\n修道院的僧侣遵循严格的祈祷和工作日程。"
   },
   {
     "id": "word_5",
@@ -124,7 +124,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbət/",
     "frequency": "中频",
-    "example": "The abbot led the morning prayer in the monastery.\n修道院院长主持了晨祷。"
+    "example": "The respected abbot led the monastery with wisdom and compassion for decades.\n受人尊敬的院长以智慧和慈悲领导修道院数十年。\nThe new abbot was elected after lengthy discussions among the monks.\n新院长在僧侣之间长时间讨论后被选出。"
   },
   {
     "id": "word_6",
@@ -145,7 +145,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbdəmən/",
     "frequency": "低频",
-    "example": "She felt a sharp pain in her abdomen.\n她感到腹部一阵剧痛。"
+    "example": "The patient complained of severe pain in the lower abdomen after eating.\n病人抱怨进食后下腹部剧烈疼痛。\nDoctors examined his abdomen carefully for any signs of internal injury.\n医生仔细检查他的腹部是否有内伤迹象。"
   },
   {
     "id": "word_7",
@@ -166,7 +166,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbaɪd/",
     "frequency": "高频",
-    "example": "I cannot abide his rude behavior.\n我无法忍受他粗鲁的行为。"
+    "example": "All citizens must abide by the laws and regulations of their country.\n所有公民必须遵守国家的法律法规。\nShe could not abide the constant noise from the neighboring apartment.\n她无法忍受隔壁公寓持续的噪音。"
   },
   {
     "id": "word_8",
@@ -187,7 +187,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɪləti/",
     "frequency": "高频",
-    "example": "She has the ability to solve complex problems quickly.\n她有快速解决复杂问题的能力。"
+    "example": "Her natural ability for mathematics impressed all her teachers greatly.\n她对数学的天赋让所有老师印象深刻。\nThe company values employees with leadership ability and initiative.\n公司重视有领导能力和主动性的员工。"
   },
   {
     "id": "word_9",
@@ -208,7 +208,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbleɪz/",
     "frequency": "低频",
-    "example": "The building was set ablaze by the fire.\n那栋建筑被大火点燃。"
+    "example": "The entire building was ablaze within minutes after the fire started.\n火灾开始后几分钟内整个建筑就着火了。\nThe controversial issue set the political debate ablaze with arguments.\n争议问题让政治辩论充满激烈争论。"
   },
   {
     "id": "word_10",
@@ -229,7 +229,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪbl/",
     "frequency": "高频",
-    "example": "She is able to speak three languages fluently.\n她能流利地说三种语言。"
+    "example": "She proved herself able to handle complex projects under tight deadlines.\n她证明自己能在紧迫期限下处理复杂项目。\nThe disabled athlete remained able to compete in modified sporting events.\n残疾运动员仍能在改良体育赛事中竞争。"
   },
   {
     "id": "word_11",
@@ -250,7 +250,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪbli/",
     "frequency": "中频",
-    "example": "She performed ably in the competition.\n她在比赛中表现出色。"
+    "example": "Perform ably.\n熟练地执行。\nShe ably managed the project.\n她熟练地管理项目。"
   },
   {
     "id": "word_12",
@@ -271,7 +271,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æbˈnɔːml/",
     "frequency": "中频",
-    "example": "The test showed abnormal results.\n测试显示异常结果。"
+    "example": "The abnormal weather patterns caused widespread crop failures this season.\n异常天气模式导致本季节广泛农作物歉收。\nDoctors detected abnormal cells during the routine medical examination.\n医生在常规体检中检测到异常细胞。"
   },
   {
     "id": "word_13",
@@ -292,7 +292,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbəʊd/",
     "frequency": "高频",
-    "example": "This has been my abode for ten years.\n这十年来这里一直是我的住所。"
+    "example": "The ancient abode has been preserved as a historical museum for visitors.\n古老住所被保存为历史博物馆供游客参观。\nThey searched for a permanent abode in the quiet suburban neighborhood.\n他们在安静的郊区寻找永久住所。"
   },
   {
     "id": "word_14",
@@ -313,7 +313,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɒlɪʃ/",
     "frequency": "中频",
-    "example": "They decided to abolish the old law.\n他们决定废除旧法律。"
+    "example": "The government decided to abolish the outdated law from previous century.\n政府决定废除上个世纪的过时法律。\nMany countries have abolished capital punishment completely for humanitarian reasons.\n许多国家因人道主义原因完全废除了死刑。"
   },
   {
     "id": "word_15",
@@ -334,7 +334,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæbəˈlɪʃn/",
     "frequency": "低频",
-    "example": "The abolition of slavery was a landmark event.\n奴隶制的废除是一个里程碑事件。"
+    "example": "The abolition of slavery marked a significant milestone in human rights history.\n奴隶制的废除标志着人权历史上的重要里程碑。\nAbolition of unfair trade practices improved international commerce relations.\n不公平贸易做法的废除改善了国际商业关系。"
   },
   {
     "id": "word_16",
@@ -355,7 +355,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæbəˈrɪdʒənl/",
     "frequency": "高频",
-    "example": "The aboriginal people have lived here for centuries.\n土著居民在这里生活了几个世纪。"
+    "example": "The aboriginal communities have lived in this region for thousands of years.\n原住民社区在这个地区生活了数千年。\nThe aboriginal artwork represents thousands of years of cultural heritage.\n原住民艺术代表数千年的文化遗产。"
   },
   {
     "id": "word_17",
@@ -376,7 +376,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbaʊnd/",
     "frequency": "中频",
-    "example": "The region abounds in natural resources.\n该地区自然资源丰富。"
+    "example": "Wildlife abounds here.\n这里野生动物丰富。\nRumors abound.\n谣言四起。"
   },
   {
     "id": "word_18",
@@ -397,7 +397,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbreɪʒn/",
     "frequency": "低频",
-    "example": "The abrasion on his knee needed medical treatment.\n他膝盖上的擦伤需要治疗。"
+    "example": "Skin abrasion.\n皮肤擦伤。\nSurface abrasion.\n表面磨损。"
   },
   {
     "id": "word_19",
@@ -418,7 +418,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbreɪsɪv/",
     "frequency": "高频",
-    "example": "Sandpaper is an abrasive material.\n砂纸是一种研磨材料。"
+    "example": "Abrasive surface.\n研磨表面。\nAbrasive personality.\n粗糙的个性。"
   },
   {
     "id": "word_20",
@@ -439,7 +439,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrest/",
     "frequency": "中频",
-    "example": "Keep abreast of the latest developments.\n及时了解最新动态。"
+    "example": "Walk abreast.\n并肩行走。\nKeep abreast of news.\n跟上新闻。"
   },
   {
     "id": "word_21",
@@ -460,7 +460,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrɔːd/",
     "frequency": "低频",
-    "example": "She studied abroad for two years.\n她在国外学习了两年。"
+    "example": "Study abroad.\n出国留学。\nTravel abroad.\n出国旅行。"
   },
   {
     "id": "word_22",
@@ -481,7 +481,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrʌpt/",
     "frequency": "高频",
-    "example": "The meeting came to an abrupt end.\n会议突然结束了。"
+    "example": "Abrupt ending.\n突然结束。\nAbrupt departure.\n突然离开。"
   },
   {
     "id": "word_23",
@@ -502,7 +502,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbses/",
     "frequency": "中频",
-    "example": "The doctor drained the abscess.\n医生把脓肿排干了。"
+    "example": "Dental abscess.\n牙脓肿。\nSurgical abscess.\n外科脓肿。"
   },
   {
     "id": "word_24",
@@ -523,7 +523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈskɒnd/",
     "frequency": "低频",
-    "example": "The suspect absconded with the stolen money.\n嫌疑人带着赃款潜逃了。"
+    "example": "Abscond with money.\n携款潜逃。\nAbscond from prison.\n越狱逃跑。"
   },
   {
     "id": "word_25",
@@ -544,7 +544,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsəns/",
     "frequency": "高频",
-    "example": "His absence from work was noticed.\n他没来上班引起了注意。"
+    "example": "Absence makes the heart grow fonder.\n小别胜新婚。\nIn absence of evidence.\n在缺乏证据的情况下。"
   },
   {
     "id": "word_26",
@@ -586,7 +586,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsəluːt/",
     "frequency": "中频",
-    "example": "You have my absolute support.\n我绝对支持你。"
+    "example": "Absolute power.\n绝对权力。\nAbsolute truth.\n绝对真理。"
   },
   {
     "id": "word_28",
@@ -607,7 +607,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈzɒlv/",
     "frequency": "低频",
-    "example": "The court absolved him of all charges.\n法院宣告他无罪。"
+    "example": "Absolve from blame.\n免除责备。\nAbsolve him of guilt.\n免除他的罪责。"
   },
   {
     "id": "word_29",
@@ -628,7 +628,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈzɔːb/",
     "frequency": "高频",
-    "example": "Plants absorb carbon dioxide.\n植物吸收二氧化碳。"
+    "example": "Absorb knowledge.\n吸收知识。\nAbsorb shock.\n吸收冲击。"
   },
   {
     "id": "word_30",
@@ -649,7 +649,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbstrækt/",
     "frequency": "中频",
-    "example": "This is an abstract concept.\n这是一个抽象概念。"
+    "example": "Abstract art.\n抽象艺术。\nAbstract concept.\n抽象概念。"
   },
   {
     "id": "word_31",
@@ -670,7 +670,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈsɜːd/",
     "frequency": "低频",
-    "example": "That idea is completely absurd.\n那个想法完全荒谬。"
+    "example": "Absurd situation.\n荒谬的情况。\nUtterly absurd.\n完全荒谬。"
   },
   {
     "id": "word_32",
@@ -691,7 +691,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbʌndəns/",
     "frequency": "中频",
-    "example": "The area has an abundance of wildlife.\n这个地区野生动物丰富。"
+    "example": "Abundance of food.\n食物充足。\nNatural abundance.\n自然资源丰富。"
   },
   {
     "id": "word_33",
@@ -712,7 +712,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbʌndənt/",
     "frequency": "中频",
-    "example": "The region is abundant in natural resources.\n该地区自然资源丰富。"
+    "example": "Abundant resources.\n丰富的资源。\nAbundant evidence.\n充足的证据。"
   },
   {
     "id": "word_34",
@@ -733,7 +733,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɪs/",
     "frequency": "低频",
-    "example": "He stared into the abyss below.\n他凝视着下方的深渊。"
+    "example": "Deep abyss.\n深渊。\nOcean abyss.\n海洋深渊。"
   },
   {
     "id": "word_35",
@@ -754,7 +754,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkeɪʃə/",
     "frequency": "高频",
-    "example": "The acacia tree is common in Africa.\n金合欢树在非洲很常见。"
+    "example": "Acacia tree.\n金合欢树。\nAcacia wood.\n金合欢木。"
   },
   {
     "id": "word_36",
@@ -796,7 +796,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkædəmi/",
     "frequency": "中频",
-    "example": "He graduated from the military academy.\n他毕业于军事学院。"
+    "example": "National Academy.\n国家学院。\nAcademy Award.\n学院奖。"
   },
   {
     "id": "word_38",
@@ -817,7 +817,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈseləreɪt/",
     "frequency": "中频",
-    "example": "The car began to accelerate rapidly.\n汽车开始快速加速。"
+    "example": "Accelerate growth.\n加速增长。\nAccelerate the car.\n加速汽车。"
   },
   {
     "id": "word_39",
@@ -838,7 +838,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæksent/",
     "frequency": "高频",
-    "example": "She speaks with a French accent.\n她说话带有法国口音。"
+    "example": "Foreign accent.\n外国口音。\nSpeak with accent.\n带口音说话。"
   },
   {
     "id": "word_40",
@@ -859,7 +859,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsentʃueɪt/",
     "frequency": "中频",
-    "example": "The dress accentuates her figure.\n这件连衣裙突显了她的身材。"
+    "example": "Accentuate the positive.\n强调积极面。\nAccentuate differences.\n突出差异。"
   },
   {
     "id": "word_41",
@@ -880,7 +880,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsept/",
     "frequency": "高频",
-    "example": "I accept your apology.\n我接受你的道歉。"
+    "example": "Accept the offer.\n接受提议。\nAccept responsibility.\n承担责任。"
   },
   {
     "id": "word_42",
@@ -901,7 +901,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈseptəns/",
     "frequency": "中频",
-    "example": "Her acceptance of the award surprised everyone.\n她接受奖项让所有人都感到惊讶。"
+    "example": "Gain acceptance.\n获得认可。\nPublic acceptance.\n公众接受。"
   },
   {
     "id": "word_43",
@@ -922,7 +922,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækses/",
     "frequency": "高频",
-    "example": "You need a keycard for access to the building.\n你需要门禁卡才能进入大楼。"
+    "example": "Access granted.\n允许访问。\nEasy access.\n易于访问。"
   },
   {
     "id": "word_44",
@@ -943,7 +943,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsesəbl/",
     "frequency": "中频",
-    "example": "The building is accessible to wheelchair users.\n这座建筑对轮椅使用者是无障碍的。"
+    "example": "Easily accessible.\n易于访问的。\nWheelchair accessible.\n轮椅可进入。"
   },
   {
     "id": "word_45",
@@ -964,7 +964,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæksɪdənt/",
     "frequency": "高频",
-    "example": "He was injured in a car accident.\n他在一场车祸中受伤了。"
+    "example": "Car accident.\n车祸。\nTragic accident.\n悲惨的事故。"
   },
   {
     "id": "word_46",
@@ -985,7 +985,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkleɪm/",
     "frequency": "中频",
-    "example": "The novel received critical acclaim.\n这部小说获得了评论界的好评。"
+    "example": "Receive acclaim.\n获得赞誉。\nWide acclaim.\n广泛赞誉。"
   },
   {
     "id": "word_47",
@@ -1006,7 +1006,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæklɪmeɪt/",
     "frequency": "高频",
-    "example": "It took time to acclimate to the new climate.\n适应新气候需要时间。"
+    "example": "Acclimate to heat.\n适应高温。\nAcclimate to new environment.\n适应新环境。"
   },
   {
     "id": "word_48",
@@ -1027,7 +1027,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒmədeɪt/",
     "frequency": "低频",
-    "example": "The hotel can accommodate 200 guests.\n这家酒店可以容纳200位客人。"
+    "example": "Accommodate guests.\n招待客人。\nAccommodate changes.\n适应变化。"
   },
   {
     "id": "word_49",
@@ -1048,7 +1048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkʌmpəni/",
     "frequency": "中频",
-    "example": "She asked me to accompany her to the party.\n她请我陪她去参加派对。"
+    "example": "Accompany me.\n陪陪我。\nAccompany the singer.\n为歌手伴奏。"
   },
   {
     "id": "word_50",
@@ -1069,7 +1069,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒmplɪs/",
     "frequency": "高频",
-    "example": "The police arrested the accomplice.\n警察逮捕了同谋。"
+    "example": "The accomplice was caught.\n从犯被抓住了。\nIdentify the accomplice.\n识别从犯。"
   },
   {
     "id": "word_51",
@@ -1090,7 +1090,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkʌmplɪʃ/",
     "frequency": "中频",
-    "example": "We accomplished our goal ahead of schedule.\n我们提前完成了目标。"
+    "example": "Accomplish the task.\n完成任务。\nAccomplish goals.\n实现目标。"
   },
   {
     "id": "word_52",
@@ -1111,7 +1111,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɔːd/",
     "frequency": "低频",
-    "example": "The decision was in accord with our policy.\n这个决定符合我们的政策。"
+    "example": "In accord with.\n与...一致。\nAccord peace.\n给予和平。"
   },
   {
     "id": "word_53",
@@ -1132,7 +1132,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒst/",
     "frequency": "高频",
-    "example": "A stranger accosted her on the street.\n一个陌生人在街上拦住了她。"
+    "example": "Accost strangers.\n与陌生人搭话。\nHe accosted her.\n他向她搭话。"
   },
   {
     "id": "word_54",
@@ -1153,7 +1153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊnt/",
     "frequency": "高频",
-    "example": "Please give me a detailed account of what happened.\n请详细描述一下发生了什么。"
+    "example": "Open an account.\n开账户。\nBank account.\n银行账户。"
   },
   {
     "id": "word_55",
@@ -1174,7 +1174,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊntəbl/",
     "frequency": "低频",
-    "example": "Everyone should be accountable for their actions.\n每个人都应该对自己的行为负责。"
+    "example": "Hold accountable.\n追究责任。\nPublicly accountable.\n公开问责。"
   },
   {
     "id": "word_56",
@@ -1195,7 +1195,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊntənt/",
     "frequency": "中频",
-    "example": "She works as an accountant for a large company.\n她在一家大公司做会计。"
+    "example": "Hire an accountant.\n雇一名会计。\nCertified accountant.\n注册会计师。"
   },
   {
     "id": "word_57",
@@ -1237,7 +1237,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkredɪt/",
     "frequency": "低频",
-    "example": "The university is accredited by the government.\n这所大学得到了政府的认可。"
+    "example": "Accredit the school.\n认可学校。\nAccredit the program.\n认证项目。"
   },
   {
     "id": "word_59",
@@ -1258,7 +1258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkriːʃn/",
     "frequency": "高频",
-    "example": "The accretion of ice on the roads made driving dangerous.\n道路上的积冰使驾驶变得危险。"
+    "example": "Slow accretion.\n缓慢积累。\nAccretion of wealth.\n财富积累。"
   },
   {
     "id": "word_60",
@@ -1279,7 +1279,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkjuːmjʊleɪt/",
     "frequency": "中频",
-    "example": "Dust tends to accumulate in corners.\n灰尘容易积聚在角落里。"
+    "example": "Accumulate wealth.\n积累财富。\nAccumulate data.\n积累数据。"
   },
   {
     "id": "word_61",
@@ -1300,7 +1300,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækjərəsi/",
     "frequency": "低频",
-    "example": "The accuracy of the data is crucial.\n数据的准确性至关重要。"
+    "example": "High accuracy.\n高精度。\nMaintain accuracy.\n保持准确性。"
   },
   {
     "id": "word_62",
@@ -1321,7 +1321,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækjərət/",
     "frequency": "高频",
-    "example": "Please provide accurate information.\n请提供准确的信息。"
+    "example": "Accurate information.\n准确信息。\nHighly accurate.\n非常准确。"
   },
   {
     "id": "word_63",
@@ -1342,7 +1342,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækjuˈzeɪʃn/",
     "frequency": "中频",
-    "example": "He denied the accusation against him.\n他否认对他的指控。"
+    "example": "Face accusation.\n面对指控。\nDenounce the accusation.\n谴责指控。"
   },
   {
     "id": "word_64",
@@ -1363,7 +1363,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsiːtɪk/",
     "frequency": "低频",
-    "example": "Vinegar contains acetic acid.\n醋含有乙酸。"
+    "example": "Acetic acid.\n醋酸。\nAcetic fermentation.\n醋酸发酵。"
   },
   {
     "id": "word_65",
@@ -1384,7 +1384,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtʃiːv/",
     "frequency": "高频",
-    "example": "She hopes to achieve her goals.\n她希望实现自己的目标。"
+    "example": "Achieve success.\n取得成功。\nAchieve goals.\n实现目标。"
   },
   {
     "id": "word_66",
@@ -1405,7 +1405,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtʃiːvmənt/",
     "frequency": "高频",
-    "example": "This is a great achievement for the team.\n这对团队来说是一项伟大的成就。"
+    "example": "Great achievement.\n伟大成就。\nPersonal achievement.\n个人成就。"
   },
   {
     "id": "word_67",
@@ -1426,7 +1426,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækrəˈmætɪk/",
     "frequency": "中频",
-    "example": "The painting uses achromatic colors.\n这幅画使用了无彩色。"
+    "example": "Achromatic lens.\n消色差透镜。\nAchromatic colors.\n无彩色。"
   },
   {
     "id": "word_68",
@@ -1447,7 +1447,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæsɪd/",
     "frequency": "中频",
-    "example": "Lemon juice is acidic.\n柠檬汁是酸性的。"
+    "example": "Strong acid.\n强酸。\nAcid rain.\n酸雨。"
   },
   {
     "id": "word_69",
@@ -1468,7 +1468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪdɪk/",
     "frequency": "高频",
-    "example": "The soil in this area is very acidic.\n这个地区的土壤非常酸性。"
+    "example": "Highly acidic.\n强酸性。\nAcidic soil.\n酸性土壤。"
   },
   {
     "id": "word_70",
@@ -1489,7 +1489,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪdɪfaɪ/",
     "frequency": "中频",
-    "example": "Pollution can acidify the ocean.\n污染会使海洋酸化。"
+    "example": "Acidify the solution.\n使溶液酸化。\nSoil will acidify.\n土壤会酸化。"
   },
   {
     "id": "word_71",
@@ -1531,7 +1531,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkɔːn/",
     "frequency": "低频",
-    "example": "Squirrels store acorns for winter.\n松鼠储存橡子过冬。"
+    "example": "Squirrel and acorn.\n松鼠和橡子。\nOak acorn.\n橡树果。"
   },
   {
     "id": "word_73",
@@ -1552,7 +1552,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkuːstɪk/",
     "frequency": "高频",
-    "example": "The acoustic quality of the hall is excellent.\n大厅的音响效果非常好。"
+    "example": "Acoustic guitar.\n原声吉他。\nAcoustic therapy.\n声音疗法。"
   },
   {
     "id": "word_74",
@@ -1573,7 +1573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkweɪnt/",
     "frequency": "中频",
-    "example": "Let me acquaint you with the rules.\n让我向你介绍一下规则。"
+    "example": "Acquaint with facts.\n使熟悉事实。\nBecome acquainted.\n变得熟悉。"
   },
   {
     "id": "word_75",
@@ -1594,7 +1594,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwiˈes/",
     "frequency": "低频",
-    "example": "She acquiesced to their demands.\n她默许了他们的要求。"
+    "example": "Acquiesce to demands.\n默许要求。\nAcquiesce quietly.\n默默同意。"
   },
   {
     "id": "word_76",
@@ -1615,7 +1615,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwaɪə/",
     "frequency": "高频",
-    "example": "The company plans to acquire its competitor.\n公司计划收购其竞争对手。"
+    "example": "Acquire knowledge.\n获取知识。\nAcquire property.\n获得财产。"
   },
   {
     "id": "word_77",
@@ -1636,7 +1636,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwɪˈzɪʃn/",
     "frequency": "中频",
-    "example": "The acquisition was completed last month.\n收购已于上月完成。"
+    "example": "Data acquisition.\n数据采集。\nBusiness acquisition.\n企业收购。"
   },
   {
     "id": "word_78",
@@ -1657,7 +1657,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwɪt/",
     "frequency": "中频",
-    "example": "The jury decided to acquit him.\n陪审团决定宣判他无罪。"
+    "example": "Acquit the defendant.\n宣判被告无罪。\nAcquit yourself well.\n表现良好。"
   },
   {
     "id": "word_79",
@@ -1678,7 +1678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwɪtl/",
     "frequency": "低频",
-    "example": "The acquittal came as a surprise.\n无罪判决令人惊讶。"
+    "example": "Receive acquittal.\n获得无罪释放。\nVerdict of acquittal.\n无罪判决。"
   },
   {
     "id": "word_80",
@@ -1699,7 +1699,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkə/",
     "frequency": "低频",
-    "example": "The farm covers 50 acres.\n这个农场占地50英亩。"
+    "example": "Hundred acres.\n一百英亩。\nCultivate an acre.\n耕种一英亩土地。"
   },
   {
     "id": "word_81",
@@ -1720,7 +1720,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkərɪdʒ/",
     "frequency": "中频",
-    "example": "The total acreage of the estate is impressive.\n庄园的总面积令人印象深刻。"
+    "example": "Total acreage.\n总面积。\nAgricultural acreage.\n农业用地面积。"
   },
   {
     "id": "word_82",
@@ -1741,7 +1741,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækrɪd/",
     "frequency": "低频",
-    "example": "The acrid smell filled the room.\n刺鼻的气味充满了房间。"
+    "example": "Acrid smell.\n刺鼻的气味。\nAcrid smoke.\n刺鼻的烟。"
   },
   {
     "id": "word_83",
@@ -1762,7 +1762,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkrɒs/",
     "frequency": "高频",
-    "example": "We walked across the bridge.\n我们走过了桥。"
+    "example": "Walk across.\n走过去。\nAcross the river.\n在河对面。"
   },
   {
     "id": "word_84",
@@ -1783,7 +1783,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkrɪlɪk/",
     "frequency": "中频",
-    "example": "She painted with acrylic paint.\n她用丙烯颜料画画。"
+    "example": "Acrylic paint.\n丙烯酸颜料。\nAcrylic fibers.\n丙烯酸纤维。"
   },
   {
     "id": "word_85",
@@ -1804,7 +1804,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ækt/",
     "frequency": "中频",
-    "example": "His brave act saved the child.\n他勇敢的行为救了那个孩子。"
+    "example": "Take action.\n采取行动。\nAct immediately.\n立即行动。"
   },
   {
     "id": "word_86",
@@ -1825,7 +1825,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækʃn/",
     "frequency": "中频",
-    "example": "We need to take action immediately.\n我们需要立即采取行动。"
+    "example": "Take action.\n采取行动。\nCall to action.\n号召行动。"
   },
   {
     "id": "word_87",
@@ -1846,7 +1846,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪveɪt/",
     "frequency": "中频",
-    "example": "Please activate the alarm system.\n请启动报警系统。"
+    "example": "Activate the system.\n激活系统。\nActivate alarm.\n启动警报。"
   },
   {
     "id": "word_88",
@@ -1867,7 +1867,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪv/",
     "frequency": "高频",
-    "example": "She leads an active lifestyle.\n她过着积极的生活方式。"
+    "example": "Active lifestyle.\n积极的生活方式。\nStay active.\n保持活跃。"
   },
   {
     "id": "word_89",
@@ -1888,7 +1888,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪvɪst/",
     "frequency": "高频",
-    "example": "The environmental activist organized a protest.\n这位环保活动家组织了一场抗议。"
+    "example": "Human rights activist.\n人权活动家。\nEnvironmental activist.\n环保活动家。"
   },
   {
     "id": "word_90",
@@ -1909,7 +1909,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ækˈtɪvəti/",
     "frequency": "高频",
-    "example": "Physical activity is good for health.\n体育活动对健康有益。"
+    "example": "Physical activity.\n体育活动。\nBusiness activity.\n商业活动。"
   },
   {
     "id": "word_91",
@@ -4663,7 +4663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alias/",
     "frequency": "高频",
-    "example": "He used an alias to hide his identity.\n他使用化名来隐藏身份。"
+    "example": "The suspect used an alias to avoid detection.\n嫌疑人使用化名以避免被发现。\nShe writes under the alias of a famous author.\n她以一位著名作家的笔名写作。"
   },
   {
     "id": "word_243",
@@ -4678,7 +4678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alibi/",
     "frequency": "中频",
-    "example": "The suspect had a solid alibi for the night.\n嫌疑人对当晚有确凿的不在场证明。"
+    "example": "The witness provided an alibi for the defendant.\n证人为被告提供了不在场证明。\nHis alibi was proven false by security footage.\n监控录像证明他的不在场证明是假的。"
   },
   {
     "id": "word_244",
@@ -4693,7 +4693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alien/",
     "frequency": "中频",
-    "example": "The concept was alien to her.\n这个概念对她来说是陌生的。"
+    "example": "The concept was alien to her way of thinking.\n这个概念与她的思维方式格格不入。\nImmigration laws affect alien workers.\n移民法影响外籍工人。"
   },
   {
     "id": "word_245",
@@ -4708,7 +4708,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alienate/",
     "frequency": "高频",
-    "example": "His behavior alienated his friends.\n他的行为疏远了他的朋友。"
+    "example": "His arrogant behavior alienated his colleagues.\n他傲慢的行为疏远了同事。\nThe policy change alienated many supporters.\n政策变化疏远了许多支持者。"
   },
   {
     "id": "word_246",
@@ -4723,7 +4723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/align/",
     "frequency": "中频",
-    "example": "We need to align our strategies.\n我们需要调整我们的策略。"
+    "example": "We need to align our goals with the company strategy.\n我们需要使我们的目标与公司战略保持一致。\nThe wheels must be properly aligned.\n轮子必须正确对齐。"
   },
   {
     "id": "word_247",
@@ -4738,7 +4738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaɪk/",
     "frequency": "中频",
-    "example": "The twins look exactly alike.\n这对双胞胎长得一模一样。"
+    "example": "The twins look very much alike.\n这对双胞胎长得非常像。\nThe two proposals are alike in many ways.\n这两个提议在很多方面都很相似。"
   },
   {
     "id": "word_248",
@@ -4753,7 +4753,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alimentary/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n...的应用革新了各个行业。"
+    "example": "The alimentary canal processes food.\n消化道处理食物。\nAlimentary habits affect overall health.\n饮食习惯影响整体健康。"
   },
   {
     "id": "word_249",
@@ -4798,7 +4798,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/all/",
     "frequency": "中频",
-    "example": "All students must attend the meeting.\n所有学生都必须参加会议。"
+    "example": "All students must attend the assembly.\n所有学生都必须参加集会。\nShe gave her all to the project.\n她全身心投入这个项目。"
   },
   {
     "id": "word_252",
@@ -4813,7 +4813,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allay/",
     "frequency": "中频",
-    "example": "The doctor tried to allay her fears.\n医生试图减轻她的恐惧。"
+    "example": "The medicine helped allay his pain.\n药物帮助减轻了他的疼痛。\nEfforts were made to allay public fears.\n努力减轻公众的恐惧。"
   },
   {
     "id": "word_253",
@@ -4828,7 +4828,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allegation/",
     "frequency": "低频",
-    "example": "The allegation was proven false.\n该指控被证明是虚假的。"
+    "example": "The allegation was investigated thoroughly.\n指控得到了彻底调查。\nHe denied the allegations against him.\n他否认了对他的指控。"
   },
   {
     "id": "word_254",
@@ -4894,7 +4894,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/alleviate/",
     "frequency": "低频",
-    "example": "The medicine alleviated his pain.\n这种药减轻了他的疼痛。"
+    "example": "The medicine helps alleviate symptoms.\n药物有助于缓解症状。\nEfforts were made to alleviate poverty.\n努力减轻贫困。"
   },
   {
     "id": "word_258",
@@ -4930,7 +4930,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlaɪəns/",
     "frequency": "低频",
-    "example": "The two countries formed an alliance.\n这两个国家结成了联盟。"
+    "example": "The two countries formed an alliance.\n两国结成联盟。\nThe alliance strengthened their position.\n联盟加强了他们的地位。"
   },
   {
     "id": "word_260",
@@ -4981,7 +4981,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæləkeɪt/",
     "frequency": "低频",
-    "example": "We need to allocate resources wisely.\n我们需要明智地分配资源。"
+    "example": "We need to allocate resources wisely.\n我们需要明智地分配资源。\nFunds were allocated for research.\n拨款用于研究。"
   },
   {
     "id": "word_263",
@@ -4996,7 +4996,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/allot/",
     "frequency": "低频",
-    "example": "Each student was allotted a desk.\n每个学生都分配了一张课桌。"
+    "example": "Each member was allotted a task.\n每个成员都被分配了一项任务。\nTime was allotted for questions.\n留出了提问时间。"
   },
   {
     "id": "word_264",
@@ -5068,7 +5068,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælɔɪ/",
     "frequency": "低频",
-    "example": "Steel is an alloy of iron and carbon.\n钢是铁和碳的合金。"
+    "example": "Brass is an alloy of copper and zinc.\n黄铜是铜和锌的合金。\nSteel is an alloy of iron and carbon.\n钢是铁和碳的合金。"
   },
   {
     "id": "word_268",
@@ -5089,7 +5089,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈluːd/",
     "frequency": "中频",
-    "example": "He alluded to the problem indirectly.\n他间接地提到了这个问题。"
+    "example": "He alluded to the problem indirectly.\n他间接提到了这个问题。\nThe speaker alluded to recent events.\n演讲者提到了最近的事件。"
   },
   {
     "id": "word_269",
@@ -5110,7 +5110,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈljʊər/",
     "frequency": "低频",
-    "example": "The allure of the city attracted many.\n城市的魅力吸引了很多人。"
+    "example": "The city has a certain allure.\n这座城市有某种魅力。\nThe allure of adventure is strong.\n冒险的诱惑很强烈。"
   },
   {
     "id": "word_270",
@@ -5152,7 +5152,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælaɪ/",
     "frequency": "低频",
-    "example": "She is a trusted ally.\n她是一个值得信赖的盟友。"
+    "example": "They became allies in the conflict.\n他们在冲突中成为盟友。\nShe allied herself with the opposition.\n她与反对派结盟。"
   },
   {
     "id": "word_272",
@@ -5194,7 +5194,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈmaɪti/",
     "frequency": "低频",
-    "example": "People prayed to the almighty.\n人们向全能的神祈祷。"
+    "example": "The Almighty God is worshipped.\n全能的上帝受到崇拜。\nHe felt almighty after winning.\n获胜后他感觉自己无所不能。"
   },
   {
     "id": "word_274",
@@ -5215,7 +5215,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlməʊst/",
     "frequency": "高频",
-    "example": "He almost finished the work.\n他几乎完成了工作。"
+    "example": "She almost missed the deadline.\n她差点错过截止日期。\nThe work is almost complete.\n工作几乎完成了。"
   },
   {
     "id": "word_275",
@@ -5257,7 +5257,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlɒft/",
     "frequency": "低频",
-    "example": "The balloon floated aloft.\n气球飘向高空。"
+    "example": "The bird flew aloft.\n鸟高飞。\nThe flag was raised aloft.\n旗帜被高举。"
   },
   {
     "id": "word_277",
@@ -5299,7 +5299,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈləʊn/",
     "frequency": "高频",
-    "example": "She prefers to work alone.\n她更喜欢独自工作。"
+    "example": "She prefers to be alone.\n她喜欢独处。\nLeave me alone.\n别打扰我。"
   },
   {
     "id": "word_279",
@@ -5320,7 +5320,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlɒŋ/",
     "frequency": "高频",
-    "example": "We walked along the river.\n我们沿着河边走。"
+    "example": "We walked along the beach.\n我们沿着海滩散步。\nCome along with me.\n跟我一起来。"
   },
   {
     "id": "word_280",
@@ -5341,7 +5341,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌlɒŋˈsaɪd/",
     "frequency": "低频",
-    "example": "He works alongside his father.\n他和父亲一起工作。"
+    "example": "The ship docked alongside the pier.\n船停靠在码头旁边。\nShe stood alongside her colleagues.\n她站在同事旁边。"
   },
   {
     "id": "word_281",
@@ -5383,7 +5383,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈælfəbet/",
     "frequency": "低频",
-    "example": "Children learn the alphabet early.\n孩子们很早就学习字母表。"
+    "example": "The English alphabet has 26 letters.\n英语字母表有26个字母。\nChildren learn the alphabet in kindergarten.\n孩子们在幼儿园学习字母表。"
   },
   {
     "id": "word_283",
@@ -5425,7 +5425,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈredi/",
     "frequency": "高频",
-    "example": "I have already finished my homework.\n我已经完成了作业。"
+    "example": "I have already finished my work.\n我已经完成了我的工作。\nShe had already left when I arrived.\n我到达时她已经离开了。"
   },
   {
     "id": "word_285",
@@ -5467,7 +5467,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlsəʊ/",
     "frequency": "高频",
-    "example": "She also speaks French.\n她也会说法语。"
+    "example": "He also plays the piano.\n他也会弹钢琴。\nThis book is also available online.\n这本书也可以在网上获得。"
   },
   {
     "id": "word_287",
@@ -5488,7 +5488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːltər/",
     "frequency": "低频",
-    "example": "They prayed at the altar.\n他们在祭坛前祈祷。"
+    "example": "They gathered at the altar.\n他们聚集在祭坛前。\nThe altar was decorated with flowers.\n祭坛装饰着鲜花。"
   },
   {
     "id": "word_288",
@@ -5509,7 +5509,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːltə/",
     "frequency": "中频",
-    "example": "We need to alter the plan.\n我们需要改变计划。"
+    "example": "She decided to alter her dress.\n她决定修改她的连衣裙。\nThe plan was altered at the last minute.\n计划在最后一刻被修改了。"
   },
   {
     "id": "word_289",
@@ -5551,7 +5551,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɔːltəˈkeɪʃn/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，避免争吵的重要性怎么强调都不为过。"
+    "example": "There was an altercation in the street.\n街上发生了争吵。\nThe altercation escalated quickly.\n争吵迅速升级。"
   },
   {
     "id": "word_291",
@@ -5572,7 +5572,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈtɜːnət/",
     "frequency": "低频",
-    "example": "They alternate shifts every week.\n他们每周轮流值班。"
+    "example": "She took the alternate route.\n她走了另一条路线。\nWe alternate between two options.\n我们在两个选项之间交替。"
   },
   {
     "id": "word_292",
@@ -5593,7 +5593,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈtɜːnətɪv/",
     "frequency": "高频",
-    "example": "We need an alternative solution.\n我们需要一个替代方案。"
+    "example": "We have an alternative plan.\n我们有一个替代计划。\nThere is no alternative but to wait.\n除了等待别无选择。"
   },
   {
     "id": "word_293",
@@ -5635,7 +5635,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæltruɪzəm/",
     "frequency": "低频",
-    "example": "His altruism inspired many people.\n他的利他主义激励了许多人。"
+    "example": "His altruism inspired others.\n他的利他主义激励了他人。\nTrue altruism is rare.\n真正的利他主义是罕见的。"
   },
   {
     "id": "word_295",
@@ -5656,7 +5656,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈluːmɪnəm/",
     "frequency": "高频",
-    "example": "Aluminum is a lightweight metal.\n铝是一种轻质金属。"
+    "example": "The can is made of aluminum.\n这个罐子是铝制的。\nAluminum is lightweight and strong.\n铝既轻又坚固。"
   },
   {
     "id": "word_296",
@@ -5698,7 +5698,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlweɪz/",
     "frequency": "高频",
-    "example": "She always arrives on time.\n她总是准时到达。"
+    "example": "She always arrives early.\n她总是早到。\nI will always remember you.\n我会永远记住你。"
   },
   {
     "id": "word_298",
@@ -5761,7 +5761,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmətə/",
     "frequency": "低频",
-    "example": "He is an amateur photographer.\n他是一名业余摄影师。"
+    "example": "He is an amateur photographer.\n他是一名业余摄影师。\nAmateur athletes compete for fun.\n业余运动员为乐趣而比赛。"
   },
   {
     "id": "word_301",
@@ -5782,7 +5782,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmeɪz/",
     "frequency": "中频",
-    "example": "Her performance amazed everyone.\n她的表演让所有人惊叹。"
+    "example": "The view never fails to amaze me.\n这景色总是让我惊叹。\nYour performance amazed everyone.\n你的表现让所有人惊叹。"
   },
   {
     "id": "word_302",
@@ -5803,7 +5803,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmeɪzɪŋ/",
     "frequency": "中频",
-    "example": "The view from the top is amazing.\n顶部的景色令人惊叹。"
+    "example": "What an amazing discovery!\n多么惊人的发现！\nThe concert was absolutely amazing.\n音乐会太棒了。"
   },
   {
     "id": "word_303",
@@ -5824,7 +5824,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbæsədə/",
     "frequency": "低频",
-    "example": "The ambassador met with the president.\n大使会见了总统。"
+    "example": "The ambassador presented his credentials.\n大使递交了国书。\nShe served as ambassador to France.\n她担任驻法国大使。"
   },
   {
     "id": "word_304",
@@ -5929,7 +5929,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪɡjuəs/",
     "frequency": "低频",
-    "example": "His answer was ambiguous.\n他的回答模棱两可。"
+    "example": "The message was ambiguous.\n这条信息模棱两可。\nHis response remained ambiguous.\n他的回答仍然含糊不清。"
   },
   {
     "id": "word_309",
@@ -5971,7 +5971,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪʃn/",
     "frequency": "中频",
-    "example": "Her ambition is to become a doctor.\n她的志向是成为一名医生。"
+    "example": "She has great ambition.\n她有很大的抱负。\nHis ambition is to become a doctor.\n他的志向是成为一名医生。"
   },
   {
     "id": "word_311",
@@ -5992,7 +5992,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪʃəs/",
     "frequency": "中频",
-    "example": "He is an ambitious young man.\n他是一个有抱负的年轻人。"
+    "example": "It was an ambitious project.\n这是一个雄心勃勃的项目。\nShe is an ambitious young woman.\n她是一个有抱负的年轻女性。"
   },
   {
     "id": "word_312",
@@ -6034,7 +6034,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbl/",
     "frequency": "低频",
-    "example": "They ambled through the park.\n他们在公园里漫步。"
+    "example": "We ambled through the park.\n我们漫步穿过公园。\nShe ambled along the beach.\n她沿着海滩漫步。"
   },
   {
     "id": "word_314",
@@ -6076,7 +6076,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbjələns/",
     "frequency": "高频",
-    "example": "The ambulance arrived quickly.\n救护车很快到达了。"
+    "example": "The ambulance rushed to the scene.\n救护车冲向现场。\nAn ambulance was called immediately.\n立即叫了救护车。"
   },
   {
     "id": "word_316",
@@ -6097,7 +6097,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbʊʃ/",
     "frequency": "低频",
-    "example": "The soldiers set up an ambush.\n士兵们设下了埋伏。"
+    "example": "They laid an ambush for the enemy.\n他们设下埋伏等待敌人。\nThe soldiers were caught in an ambush.\n士兵们陷入了伏击。"
   },
   {
     "id": "word_317",
@@ -6139,7 +6139,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmiːliəreɪt/",
     "frequency": "中频",
-    "example": "The new policy ameliorated the situation.\n新政策改善了情况。"
+    "example": "Steps were taken to ameliorate the situation.\n采取措施改善局面。\nThe new policy helped ameliorate conditions.\n新政策有助于改善条件。"
   },
   {
     "id": "word_319",
@@ -6181,7 +6181,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmend/",
     "frequency": "低频",
-    "example": "They amended the contract.\n他们修改了合同。"
+    "example": "They decided to amend the law.\n他们决定修改法律。\nPlease amend your proposal.\n请修改你的提案。"
   },
   {
     "id": "word_321",
@@ -6244,7 +6244,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmerɪkən/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n美国文化的理论为理解这一现象提供了框架。"
+    "example": "He is an American citizen.\n他是美国公民。\nAmerican culture is diverse.\n美国文化是多样化的。"
   },
   {
     "id": "word_324",
@@ -6286,7 +6286,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmɪkəbl/",
     "frequency": "中频",
-    "example": "They reached an amicable agreement.\n他们达成了友好的协议。"
+    "example": "They reached an amicable agreement.\n他们达成了友好协议。\nThe divorce was amicable.\n离婚是友好的。"
   },
   {
     "id": "word_326",
@@ -6307,7 +6307,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɪd/",
     "frequency": "低频",
-    "example": "He stood amid the crowd.\n他站在人群中。"
+    "example": "Amid the chaos, she remained calm.\n在混乱中，她保持冷静。\nThe decision was made amid controversy.\n这个决定是在争议中做出的。"
   },
   {
     "id": "word_327",
@@ -6328,7 +6328,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɪs/",
     "frequency": "低频",
-    "example": "Something seemed amiss.\n有些事情似乎不对劲。"
+    "example": "Something is amiss.\n有些不对劲。\nThere is nothing amiss with the plan.\n这个计划没有问题。"
   },
   {
     "id": "word_328",
@@ -6349,7 +6349,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmˌmiːtər/",
     "frequency": "高频",
-    "example": "Use an ammeter to measure current.\n用电流表测量电流。"
+    "example": "The ammeter measures current.\n电流表测量电流。\nCheck the ammeter reading.\n检查电流表读数。"
   },
   {
     "id": "word_329",
@@ -6391,7 +6391,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈniːziə/",
     "frequency": "低频",
-    "example": "He suffered from amnesia after the accident.\n事故后他患上了失忆症。"
+    "example": "He suffered from amnesia.\n他患有健忘症。\nAmnesia can be caused by trauma.\n健忘症可能由创伤引起。"
   },
   {
     "id": "word_331",
@@ -6412,7 +6412,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmnəsti/",
     "frequency": "高频",
-    "example": "The government granted amnesty to political prisoners.\n政府对政治犯给予大赦。"
+    "example": "The government granted amnesty.\n政府颁布了特赦。\nAmnesty was offered to prisoners.\n向囚犯提供特赦。"
   },
   {
     "id": "word_332",
@@ -6433,7 +6433,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmʌŋ/",
     "frequency": "高频",
-    "example": "She was popular among her classmates.\n她在同学中很受欢迎。"
+    "example": "She was among the winners.\n她是获胜者之一。\nAmong all options, this is the best.\n在所有选项中，这是最好的。"
   },
   {
     "id": "word_333",
@@ -6454,7 +6454,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪˈmɒrəl/",
     "frequency": "低频",
-    "example": "His actions were completely amoral.\n他的行为完全是非道德的。"
+    "example": "His actions were amoral.\n他的行为是非道德的。\nThe character in the novel is amoral.\n小说中的人物是非道德的。"
   },
   {
     "id": "word_334",
@@ -6559,7 +6559,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmaʊnt/",
     "frequency": "高频",
-    "example": "A large amount of money was spent.\n花费了大量金钱。"
+    "example": "The amount was substantial.\n数量很大。\nWhat is the total amount?\n总金额是多少？"
   },
   {
     "id": "word_339",
@@ -6601,7 +6601,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpeər/",
     "frequency": "高频",
-    "example": "The current is measured in amperes.\n电流以安培为单位测量。"
+    "example": "The current is measured in amperes.\n电流以安培为单位测量。\nOne ampere equals one coulomb per second.\n一安培等于每秒一库仑。"
   },
   {
     "id": "word_341",
@@ -6685,7 +6685,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpl/",
     "frequency": "中频",
-    "example": "We have ample time to finish.\n我们有充足的时间完成。"
+    "example": "There is ample evidence.\n有充足的证据。\nWe have ample time.\n我们有充足的时间。"
   },
   {
     "id": "word_345",
@@ -6727,7 +6727,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpjuteɪt/",
     "frequency": "高频",
-    "example": "The doctor had to amputate his leg.\n医生不得不截去他的腿。"
+    "example": "They had to amputate his leg.\n他们不得不截肢他的腿。\nThe surgeon will amputate the limb.\n外科医生将截肢。"
   },
   {
     "id": "word_347",
@@ -7147,7 +7147,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænsestri/",
     "frequency": "低频",
-    "example": "He is proud of his ancestry.\n他为自己的血统感到自豪。"
+    "example": "She traced her ancestry.\n她追溯了自己的祖先。\nHis ancestry is mixed.\n他有混血血统。"
   },
   {
     "id": "word_367",
@@ -7168,7 +7168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkə/",
     "frequency": "低频",
-    "example": "The ship dropped anchor.\n船抛锚了。"
+    "example": "The ship dropped anchor.\n船抛锚了。\nShe anchored the boat securely.\n她把船安全地锚定。"
   },
   {
     "id": "word_368",
@@ -7210,7 +7210,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪnʃənt/",
     "frequency": "高频",
-    "example": "The ancient ruins attract tourists.\n古代遗迹吸引了游客。"
+    "example": "This is an ancient artifact.\n这是一件古代文物。\nAncient civilizations are fascinating.\n古代文明很迷人。"
   },
   {
     "id": "word_370",
@@ -7252,7 +7252,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænd/",
     "frequency": "低频",
-    "example": "You and I can work together.\n你和我可以一起工作。"
+    "example": "You and I are friends.\n你和我是朋友。\nHe came and went quickly.\n他来去匆匆。"
   },
   {
     "id": "word_372",
@@ -7336,7 +7336,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪkdəʊt/",
     "frequency": "低频",
-    "example": "He told an amusing anecdote.\n他讲了一个有趣的轶事。"
+    "example": "He told an amusing anecdote.\n他讲了一个有趣的轶事。\nThe book is full of anecdotes.\n这本书充满了轶事。"
   },
   {
     "id": "word_376",
@@ -7420,7 +7420,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪndʒl/",
     "frequency": "低频",
-    "example": "She is like an angel.\n她像个天使。"
+    "example": "She is an angel.\n她是一位天使。\nAngels are often depicted with wings.\n天使通常被描绘成有翅膀。"
   },
   {
     "id": "word_380",
@@ -7462,7 +7462,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡə/",
     "frequency": "中频",
-    "example": "He could not hide his anger.\n他无法掩饰自己的愤怒。"
+    "example": "He tried to control his anger.\n他试图控制自己的愤怒。\nHer anger was justified.\n她的愤怒是有道理的。"
   },
   {
     "id": "word_382",
@@ -7546,7 +7546,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡl/",
     "frequency": "中频",
-    "example": "The angle of the roof is steep.\n屋顶的角度很陡。"
+    "example": "The angle of the roof is steep.\n屋顶的角度很陡。\nView it from a different angle.\n从不同角度看它。"
   },
   {
     "id": "word_386",
@@ -7609,7 +7609,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡri/",
     "frequency": "高频",
-    "example": "She was angry at the news.\n她对这个消息很生气。"
+    "example": "She was angry with him.\n她对他生气。\nThe crowd grew angry.\n人群变得愤怒。"
   },
   {
     "id": "word_389",
@@ -7651,7 +7651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡwɪʃ/",
     "frequency": "低频",
-    "example": "She cried out in anguish.\n她痛苦地大叫。"
+    "example": "She cried out in anguish.\n她痛苦地哭了出来。\nHis anguish was evident.\n他的痛苦很明显。"
   },
   {
     "id": "word_391",
@@ -7672,7 +7672,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡjʊlə/",
     "frequency": "高频",
-    "example": "The building has an angular design.\n这座建筑有棱角分明的设计。"
+    "example": "He has an angular face.\n他有一张棱角分明的脸。\nThe design is angular.\n设计是棱角分明的。"
   },
   {
     "id": "word_392",
@@ -7693,7 +7693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænɪmædˈvɜːt/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n批评的艺术革新了学术领域。"
+    "example": "He did not animadvert on the matter.\n他没有评论这件事。\nIt is not wise to animadvert.\n评论是不明智的。"
   },
   {
     "id": "word_393",
@@ -7714,7 +7714,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪml/",
     "frequency": "高频",
-    "example": "The animal kingdom is diverse.\n动物界是多样化的。"
+    "example": "The animal was very large.\n这只动物很大。\nAnimals need water and food.\n动物需要水和食物。"
   },
   {
     "id": "word_394",
@@ -7756,7 +7756,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪmeɪt/",
     "frequency": "中频",
-    "example": "The cartoon characters are animated.\n卡通人物是动画的。"
+    "example": "The cartoon characters are animated.\n卡通人物是动画的。\nShe animated the crowd with her speech.\n她用演讲激励了人群。"
   },
   {
     "id": "word_396",
@@ -7840,7 +7840,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkl/",
     "frequency": "低频",
-    "example": "She twisted her ankle.\n她扭伤了脚踝。"
+    "example": "She twisted her ankle.\n她扭伤了脚踝。\nHis ankle was swollen.\n他的脚踝肿了。"
   },
   {
     "id": "word_400",
@@ -7903,7 +7903,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænlz/",
     "frequency": "低频",
-    "example": "The event was recorded in the annals.\n这一事件被记录在编年史中。"
+    "example": "The event is recorded in the annals.\n这件事记录在史册中。\nHistory annals are important.\n历史记录很重要。"
   },
   {
     "id": "word_403",
@@ -7924,7 +7924,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈniːl/",
     "frequency": "高频",
-    "example": "Glass is annealed to strengthen it.\n玻璃经过退火处理以增强强度。"
+    "example": "The metal was annealed.\n金属被退火处理。\nAnnealing makes metal softer.\n退火使金属变软。"
   },
   {
     "id": "word_404",
@@ -7987,7 +7987,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈteɪʃn/",
     "frequency": "高频",
-    "example": "The annotation explains the passage.\n注释解释了这段话。"
+    "example": "The annotation provided clarity.\n注释提供了清晰度。\nAnnotations help understanding.\n注释有助于理解。"
   },
   {
     "id": "word_407",
@@ -8008,7 +8008,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaʊns/",
     "frequency": "高频",
-    "example": "They announced their engagement.\n他们宣布订婚了。"
+    "example": "They will announce the winner.\n他们将宣布获胜者。\nThe news was announced yesterday.\n消息是昨天宣布的。"
   },
   {
     "id": "word_408",
@@ -8029,7 +8029,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaʊnsmənt/",
     "frequency": "低频",
-    "example": "The announcement surprised everyone.\n这个公告让所有人惊讶。"
+    "example": "The announcement came suddenly.\n公告来得突然。\nWait for the official announcement.\n等待官方公告。"
   },
   {
     "id": "word_409",
@@ -8050,7 +8050,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɔɪ/",
     "frequency": "中频",
-    "example": "His constant talking annoyed me.\n他不停地说话让我很烦。"
+    "example": "The noise annoyed him.\n噪音使他烦恼。\nDon't annoy your sister.\n别惹你姐姐生气。"
   },
   {
     "id": "word_410",
@@ -8071,7 +8071,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɔɪəns/",
     "frequency": "中频",
-    "example": "She showed her annoyance openly.\n她公开表示不满。"
+    "example": "To his annoyance, she was late.\n令他烦恼的是，她迟到了。\nExpress your annoyance politely.\n礼貌地表达你的不满。"
   },
   {
     "id": "word_411",
@@ -8092,7 +8092,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænjuəl/",
     "frequency": "高频",
-    "example": "The annual meeting is in June.\n年会将在六月举行。"
+    "example": "The annual meeting is next week.\n年会在下周举行。\nAnnual reports are due.\n年度报告到期了。"
   },
   {
     "id": "word_412",
@@ -8113,7 +8113,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnʌl/",
     "frequency": "高频",
-    "example": "The court annulled the contract.\n法院宣布合同无效。"
+    "example": "The contract was annulled.\n合同被废除。\nThey decided to annul the marriage.\n他们决定解除婚姻。"
   },
   {
     "id": "word_413",
@@ -8155,7 +8155,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəʊd/",
     "frequency": "低频",
-    "example": "Connect the wire to the anode.\n把电线连接到阳极上。"
+    "example": "The anode is positive.\n阳极是正极。\nElectrons flow toward the anode.\n电子流向阳极。"
   },
   {
     "id": "word_415",
@@ -8176,7 +8176,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɒməli/",
     "frequency": "高频",
-    "example": "This result is an anomaly.\n这个结果是异常的。"
+    "example": "There is an anomaly in the data.\n数据中有异常。\nThe anomaly was investigated.\n异常被调查。"
   },
   {
     "id": "word_416",
@@ -8239,7 +8239,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɒnɪməs/",
     "frequency": "低频",
-    "example": "The donor wished to remain anonymous.\n捐赠者希望保持匿名。"
+    "example": "The donor wished to remain anonymous.\n捐赠者希望匿名。\nAn anonymous letter was sent.\n一封匿名信被寄出。"
   },
   {
     "id": "word_419",
@@ -8281,7 +8281,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnʌðə/",
     "frequency": "高频",
-    "example": "Would you like another cup?\n你要再来一杯吗？"
+    "example": "Have another piece.\n再吃一块。\nAnother day, another dollar.\n一天又一天，挣钱糊口。"
   },
   {
     "id": "word_421",
@@ -8302,7 +8302,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːnsə/",
     "frequency": "高频",
-    "example": "Please answer the question.\n请回答这个问题。"
+    "example": "Please answer the question.\n请回答问题。\nThe answer was correct.\n答案是正确的。"
   },
   {
     "id": "word_422",
@@ -8323,7 +8323,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænt/",
     "frequency": "中频",
-    "example": "The ant carried a crumb.\n蚂蚁搬运着面包屑。"
+    "example": "The ant carried food.\n蚂蚁搬运食物。\nAnts live in colonies.\n蚂蚁生活在群体中。"
   },
   {
     "id": "word_423",
@@ -8344,7 +8344,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtæɡənɪst/",
     "frequency": "低频",
-    "example": "The antagonist in the story is evil.\n故事中的反派是邪恶的。"
+    "example": "The antagonist was defeated.\n对手被击败了。\nHe played the antagonist in the movie.\n他在电影中扮演反派角色。"
   },
   {
     "id": "word_424",
@@ -8365,7 +8365,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntideɪt/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n年代学研究的应用革新了历史研究领域。"
+    "example": "The letter antedates the event.\n这封信的日期早于事件。\nThis document antedates the war.\n这份文件早于战争。"
   },
   {
     "id": "word_425",
@@ -8407,7 +8407,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtenə/",
     "frequency": "低频",
-    "example": "The antenna receives signals.\n天线接收信号。"
+    "example": "The antenna receives signals.\n天线接收信号。\nThe radio antenna broke.\n无线电天线坏了。"
   },
   {
     "id": "word_427",
@@ -8470,7 +8470,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænθəm/",
     "frequency": "低频",
-    "example": "They sang the national anthem.\n他们唱了国歌。"
+    "example": "The national anthem was sung.\n国歌被唱起。\nThe anthem filled the stadium.\n国歌响彻体育场。"
   },
   {
     "id": "word_430",
@@ -8596,7 +8596,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænθrəˈpɒlədʒi/",
     "frequency": "中频",
-    "example": "He studies anthropology at university.\n他在大学学习人类学。"
+    "example": "She studied anthropology.\n她研究人类学。\nCultural anthropology is fascinating.\n文化人类学很迷人。"
   },
   {
     "id": "word_436",
@@ -8680,7 +8680,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntibaɪˈɒtɪk/",
     "frequency": "低频",
-    "example": "The doctor prescribed antibiotics.\n医生开了抗生素。"
+    "example": "Take the antibiotic as prescribed.\n按处方服用抗生素。\nAntibiotics kill bacteria.\n抗生素杀死细菌。"
   },
   {
     "id": "word_440",
@@ -8701,7 +8701,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntibɒdi/",
     "frequency": "高频",
-    "example": "Antibodies fight infections.\n抗体对抗感染。"
+    "example": "The antibody fights infection.\n抗体对抗感染。\nAntibody levels increased.\n抗体水平增加了。"
   },
   {
     "id": "word_441",
@@ -8764,7 +8764,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪsɪpeɪt/",
     "frequency": "中频",
-    "example": "We anticipate a good result.\n我们期待一个好的结果。"
+    "example": "We anticipate good results.\n我们期待好结果。\nAnticipate delays.\n预计会有延误。"
   },
   {
     "id": "word_444",
@@ -8827,7 +8827,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntidəʊt/",
     "frequency": "高频",
-    "example": "The antidote saved his life.\n解毒剂救了他的命。"
+    "example": "There is no antidote.\n没有解药。\nThe antidote saved his life.\n解药救了他的命。"
   },
   {
     "id": "word_447",
@@ -8848,7 +8848,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪdʒən/",
     "frequency": "中频",
-    "example": "The antigen triggered a response.\n抗原引发了反应。"
+    "example": "The antigen triggers an immune response.\n抗原触发免疫反应。\nAntigen testing is common.\n抗原检测很常见。"
   },
   {
     "id": "word_448",
@@ -8869,7 +8869,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪpəθi/",
     "frequency": "低频",
-    "example": "She felt antipathy toward him.\n她对他感到厌恶。"
+    "example": "She felt antipathy towards him.\n她对他感到反感。\nAntipathy grew between them.\n他们之间产生了反感。"
   },
   {
     "id": "word_449",
@@ -8911,7 +8911,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪpədəl/",
     "frequency": "中频",
-    "example": "Antipodal points are opposite.\n对极点是相对的。"
+    "example": "The antipodal points are opposite.\n对跖点是相反的。\nAntipodal regions have different seasons.\n对跖地区季节不同。"
   },
   {
     "id": "word_451",
@@ -9016,7 +9016,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪθəsɪs/",
     "frequency": "高频",
-    "example": "His behavior is the antithesis of hers.\n他的行为与她的截然相反。"
+    "example": "This is the antithesis of good.\n这是善的对立面。\nLove is the antithesis of hate.\n爱是恨的对立面。"
   },
   {
     "id": "word_456",
@@ -9037,7 +9037,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntlə(r)/",
     "frequency": "中频",
-    "example": "The deer has large antlers.\n这头鹿有很大的鹿角。"
+    "example": "The deer has large antlers.\n鹿有大鹿角。\nAntlers are shed annually.\n鹿角每年脱落。"
   },
   {
     "id": "word_457",
@@ -9079,7 +9079,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntənɪm/",
     "frequency": "低频",
-    "example": "Hot is the antonym of cold.\n热是冷的反义词。"
+    "example": "Hot is the antonym of cold.\n热是冷的反义词。\nFind the antonym for this word.\n找出这个词的反义词。"
   },
   {
     "id": "word_459",
@@ -9121,7 +9121,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æŋˈzaɪəti/",
     "frequency": "中频",
-    "example": "She suffers from anxiety.\n她患有焦虑症。"
+    "example": "She suffers from anxiety.\n她患有焦虑症。\nAnxiety can be managed.\n焦虑是可以控制的。"
   },
   {
     "id": "word_461",
@@ -9142,7 +9142,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkʃəs/",
     "frequency": "中频",
-    "example": "She was anxious about the exam.\n她对考试感到焦虑。"
+    "example": "She felt anxious before the exam.\n考试前她感到焦虑。\nDon't be anxious.\n别担心。"
   },
   {
     "id": "word_462",
@@ -9163,7 +9163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeni/",
     "frequency": "高频",
-    "example": "Any help would be appreciated.\n任何帮助都将不胜感激。"
+    "example": "Do you have any questions?\n你有任何问题吗？\nAny person can apply.\n任何人都可以申请。"
   },
   {
     "id": "word_463",
@@ -9184,7 +9184,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈenibɒdi/",
     "frequency": "高频",
-    "example": "Anybody can learn to code.\n任何人都可以学习编程。"
+    "example": "Anybody can do this.\n任何人都可以做到。\nIs anybody home?\n有人在家吗？"
   },
   {
     "id": "word_464",
@@ -9205,7 +9205,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈenihaʊ/",
     "frequency": "中频",
-    "example": "Anyhow, we must finish the work.\n无论如何，我们必须完成工作。"
+    "example": "Anyhow, we tried our best.\n无论如何，我们尽力了。\nAnyhow, it doesn't matter.\n不管怎样，没关系。"
   },
   {
     "id": "word_465",
@@ -9226,7 +9226,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniwʌn/",
     "frequency": "高频",
-    "example": "Anyone interested should apply.\n任何感兴趣的人都应该申请。"
+    "example": "Anyone can join.\n任何人都可以加入。\nDid anyone see what happened?\n有人看到发生了什么吗？"
   },
   {
     "id": "word_466",
@@ -9247,7 +9247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniθɪŋ/",
     "frequency": "高频",
-    "example": "Anything is possible.\n一切皆有可能。"
+    "example": "Is there anything I can do?\n有什么我能做的吗？\nI will do anything for you.\n我愿意为你做任何事。"
   },
   {
     "id": "word_467",
@@ -9268,7 +9268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniweɪ/",
     "frequency": "高频",
-    "example": "Anyway, let us continue.\n无论如何，让我们继续。"
+    "example": "Anyway, let's proceed.\n不管怎样，我们继续。\nIt doesn't matter anyway.\n反正没关系。"
   },
   {
     "id": "word_468",
@@ -9289,7 +9289,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniweə/",
     "frequency": "高频",
-    "example": "You can go anywhere you want.\n你可以去任何你想去的地方。"
+    "example": "You can go anywhere.\n你可以去任何地方。\nI can't find it anywhere.\n我到处都找不到它。"
   },
   {
     "id": "word_469",
@@ -9373,7 +9373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɑːt/",
     "frequency": "高频",
-    "example": "The two houses are apart.\n这两所房子分开着。"
+    "example": "Keep them apart.\n把它们分开。\nThe two buildings are far apart.\n这两座建筑相距很远。"
   },
   {
     "id": "word_473",
@@ -9394,7 +9394,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɑːtmənt/",
     "frequency": "高频",
-    "example": "She lives in a small apartment.\n她住在一间小公寓里。"
+    "example": "She lives in an apartment.\n她住在公寓里。\nThe apartment has two bedrooms.\n这套公寓有两间卧室。"
   },
   {
     "id": "word_474",
@@ -9415,7 +9415,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpəθi/",
     "frequency": "低频",
-    "example": "His apathy concerned everyone.\n他的冷漠让所有人担忧。"
+    "example": "His apathy was disappointing.\n他的冷漠令人失望。\nApathy is a problem.\n冷漠是个问题。"
   },
   {
     "id": "word_475",
@@ -9436,7 +9436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpətʃə/",
     "frequency": "低频",
-    "example": "Adjust the aperture of the camera.\n调整相机的光圈。"
+    "example": "The aperture controls light.\n光圈控制光线。\nAdjust the aperture setting.\n调整光圈设置。"
   },
   {
     "id": "word_476",
@@ -9457,7 +9457,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpeks/",
     "frequency": "低频",
-    "example": "He reached the apex of his career.\n他达到了职业生涯的顶峰。"
+    "example": "The apex of the mountain.\n山顶。\nReach the apex of success.\n达到成功的顶峰。"
   },
   {
     "id": "word_477",
@@ -9478,7 +9478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfeɪziə/",
     "frequency": "低频",
-    "example": "Aphasia affects speech ability.\n失语症影响说话能力。"
+    "example": "He suffers from aphasia.\n他患有失语症。\nAphasia affects language.\n失语症影响语言能力。"
   },
   {
     "id": "word_478",
@@ -9520,7 +9520,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæfərɪzəm/",
     "frequency": "中频",
-    "example": "The aphorism is profound.\n这句格言很深刻。"
+    "example": "The book contains many aphorisms.\n这本书包含许多格言。\nAphorisms are concise sayings.\n格言是简洁的格言。"
   },
   {
     "id": "word_480",
@@ -9541,7 +9541,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpiəri/",
     "frequency": "低频",
-    "example": "The apiary has many beehives.\n养蜂场有很多蜂箱。"
+    "example": "The apiary has many beehives.\n养蜂场有许多蜂箱。\nHe keeps an apiary.\n他经营一个养蜂场。"
   },
   {
     "id": "word_481",
@@ -9562,7 +9562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpɪkʌltʃə/",
     "frequency": "高频",
-    "example": "Apiculture is an important industry.\n养蜂业是一个重要的产业。"
+    "example": "Apiculture is beekeeping.\n养蜂业就是养蜂。\nApiculture produces honey.\n养蜂业生产蜂蜜。"
   },
   {
     "id": "word_482",
@@ -9583,7 +9583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æpˈniːə/",
     "frequency": "中频",
-    "example": "Sleep apnea is a serious condition.\n睡眠呼吸暂停是一种严重的状况。"
+    "example": "Sleep apnea is a disorder.\n睡眠呼吸暂停是一种疾病。\nHe was diagnosed with apnea.\n他被诊断出患有呼吸暂停。"
   },
   {
     "id": "word_483",
@@ -9709,7 +9709,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒlədʒaɪz/",
     "frequency": "中频",
-    "example": "You should apologize to her.\n你应该向她道歉。"
+    "example": "I must apologize.\n我必须道歉。\nShe apologized for being late.\n她为迟到道歉。"
   },
   {
     "id": "word_489",
@@ -9730,7 +9730,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒlədʒi/",
     "frequency": "中频",
-    "example": "He made a sincere apology.\n他做出了真诚的道歉。"
+    "example": "Please accept my apology.\n请接受我的道歉。\nHe made a sincere apology.\n他真诚地道歉。"
   },
   {
     "id": "word_490",
@@ -9772,7 +9772,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstəsi/",
     "frequency": "中频",
-    "example": "His apostasy shocked the community.\n他的叛教震惊了社区。"
+    "example": "His apostasy shocked everyone.\n他的叛教震惊了所有人。\nApostasy is condemned by the church.\n教会谴责叛教。"
   },
   {
     "id": "word_492",
@@ -9793,7 +9793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒsl/",
     "frequency": "低频",
-    "example": "The apostle spread the message.\n使徒传播了这个信息。"
+    "example": "He was an apostle of peace.\n他是和平的倡导者。\nThe apostles spread the faith.\n使徒传播信仰。"
   },
   {
     "id": "word_493",
@@ -9835,7 +9835,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstrəfi/",
     "frequency": "中频",
-    "example": "Use an apostrophe correctly.\n正确使用撇号。"
+    "example": "Use an apostrophe correctly.\n正确使用撇号。\nThe apostrophe indicates possession.\n撇号表示所有格。"
   },
   {
     "id": "word_495",
@@ -9856,7 +9856,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒθɪkəri/",
     "frequency": "低频",
-    "example": "The apothecary prepared the medicine.\n药剂师准备了药物。"
+    "example": "The apothecary prepared medicines.\n药剂师准备药物。\nApothecaries were early pharmacists.\n药剂师是早期的药剂师。"
   },
   {
     "id": "word_496",
@@ -9877,7 +9877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpɒθiˈəʊsɪs/",
     "frequency": "高频",
-    "example": "This was the apotheosis of his career.\n这是他职业生涯的巅峰。"
+    "example": "His achievement was an apotheosis.\n他的成就达到了顶峰。\nThe apotheosis of his career.\n他职业生涯的顶峰。"
   },
   {
     "id": "word_497",
@@ -9919,7 +9919,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈreɪtəs/",
     "frequency": "低频",
-    "example": "The laboratory apparatus is expensive.\n实验室设备很昂贵。"
+    "example": "The apparatus is complex.\n仪器很复杂。\nSet up the apparatus carefully.\n小心设置仪器。"
   },
   {
     "id": "word_499",
@@ -9940,7 +9940,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpærənt/",
     "frequency": "中频",
-    "example": "The cause was apparent.\n原因很明显。"
+    "example": "The mistake was apparent.\n错误很明显。\nHer disappointment was apparent.\n她的失望很明显。"
   },
   {
     "id": "word_500",
@@ -9961,7 +9961,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpiːl/",
     "frequency": "高频",
-    "example": "The appeal was successful.\n上诉成功了。"
+    "example": "The appeal was rejected.\n上诉被驳回。\nMake an appeal for help.\n呼吁帮助。"
   },
   {
     "id": "word_501",
@@ -9982,7 +9982,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɪə/",
     "frequency": "高频",
-    "example": "The sun appeared from behind the clouds.\n太阳从云层后面出现了。"
+    "example": "She appears to be tired.\n她看起来很累。\nThe sun appeared from behind clouds.\n太阳从云层后面出现。"
   },
   {
     "id": "word_502",
@@ -10003,7 +10003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɪərəns/",
     "frequency": "高频",
-    "example": "Her appearance changed dramatically.\n她的外貌发生了巨大变化。"
+    "example": "His appearance changed.\n他的外表变了。\nDon't judge by appearance.\n不要以貌取人。"
   },
   {
     "id": "word_503",
@@ -10045,7 +10045,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈleɪʃn/",
     "frequency": "中频",
-    "example": "The appellation is formal.\n这个称呼是正式的。"
+    "example": "The appellation is important.\n称谓很重要。\nUse the correct appellation.\n使用正确的称谓。"
   },
   {
     "id": "word_505",
@@ -10066,7 +10066,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpend/",
     "frequency": "低频",
-    "example": "Please append your signature.\n请附上您的签名。"
+    "example": "Append the file.\n追加文件。\nAppend your signature.\n附上你的签名。"
   },
   {
     "id": "word_506",
@@ -10150,7 +10150,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtaɪt/",
     "frequency": "中频",
-    "example": "She has a good appetite.\n她胃口很好。"
+    "example": "He has a good appetite.\n他胃口很好。\nLoss of appetite is a symptom.\n食欲不振是一种症状。"
   },
   {
     "id": "word_510",
@@ -10171,7 +10171,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtaɪzə/",
     "frequency": "中频",
-    "example": "The appetizer was delicious.\n开胃菜很美味。"
+    "example": "We had appetizers before dinner.\n我们饭前吃了开胃菜。\nThe appetizer was delicious.\n开胃菜很好吃。"
   },
   {
     "id": "word_511",
@@ -10192,7 +10192,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplɔːd/",
     "frequency": "中频",
-    "example": "The audience applauded loudly.\n观众大声鼓掌。"
+    "example": "The audience applauded loudly.\n观众热烈鼓掌。\nApplaud their efforts.\n为他们的努力鼓掌。"
   },
   {
     "id": "word_512",
@@ -10213,7 +10213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpl/",
     "frequency": "高频",
-    "example": "She ate an apple.\n她吃了一个苹果。"
+    "example": "An apple a day keeps the doctor away.\n一天一苹果，医生远离我。\nShe ate a red apple.\n她吃了一个红苹果。"
   },
   {
     "id": "word_513",
@@ -10255,7 +10255,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplɪkəbl/",
     "frequency": "低频",
-    "example": "The rule is applicable here.\n这条规则在这里适用。"
+    "example": "This rule is applicable.\n这条规则适用。\nThe discount is not applicable here.\n折扣在这里不适用。"
   },
   {
     "id": "word_515",
@@ -10276,7 +10276,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæplɪkənt/",
     "frequency": "高频",
-    "example": "Each applicant must submit a form.\n每个申请人都必须提交表格。"
+    "example": "There are many applicants.\n有许多申请人。\nThe applicant was well qualified.\n申请人资历很好。"
   },
   {
     "id": "word_516",
@@ -10297,7 +10297,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæplɪˈkeɪʃn/",
     "frequency": "高频",
-    "example": "Submit your application online.\n在线提交您的申请。"
+    "example": "Submit your application.\n提交你的申请。\nApplication deadline is tomorrow.\n申请截止日期是明天。"
   },
   {
     "id": "word_517",
@@ -10318,7 +10318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplaɪ/",
     "frequency": "高频",
-    "example": "You can apply for the job.\n你可以申请这份工作。"
+    "example": "Apply for the job.\n申请这份工作。\nApply the cream to your skin.\n把奶油涂在皮肤上。"
   },
   {
     "id": "word_518",
@@ -10339,7 +10339,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔɪnt/",
     "frequency": "中频",
-    "example": "They appointed a new director.\n他们任命了一位新主管。"
+    "example": "They appointed him manager.\n他们任命他为经理。\nAppoint a meeting time.\n指定会议时间。"
   },
   {
     "id": "word_519",
@@ -10360,7 +10360,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔɪntmənt/",
     "frequency": "中频",
-    "example": "I have an appointment at 3 pm.\n我下午3点有个预约。"
+    "example": "I have an appointment.\n我有一个约会。\nMake an appointment.\n预约。"
   },
   {
     "id": "word_520",
@@ -10381,7 +10381,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔːʃn/",
     "frequency": "低频",
-    "example": "We need to apportion the costs.\n我们需要分配成本。"
+    "example": "Apportion the funds.\n分配资金。\nApportion the blame.\n分配责任。"
   },
   {
     "id": "word_521",
@@ -10402,7 +10402,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpreɪzl/",
     "frequency": "高频",
-    "example": "The appraisal was positive.\n评估是积极的。"
+    "example": "The appraisal was positive.\n评价是积极的。\nPerformance appraisal is annual.\n绩效评估是每年一次。"
   },
   {
     "id": "word_522",
@@ -10423,7 +10423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpreɪz/",
     "frequency": "中频",
-    "example": "We need to appraise the situation.\n我们需要评估情况。"
+    "example": "Appraise the value.\n评估价值。\nExperts appraise the painting.\n专家评估这幅画。"
   },
   {
     "id": "word_523",
@@ -10444,7 +10444,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpriːʃieɪt/",
     "frequency": "高频",
-    "example": "I appreciate your help.\n我感谢你的帮助。"
+    "example": "I appreciate your help.\n我感谢你的帮助。\nAppreciate the beauty around you.\n欣赏你周围的美。"
   },
   {
     "id": "word_524",
@@ -10465,7 +10465,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpriːʃiˈeɪʃn/",
     "frequency": "高频",
-    "example": "She showed appreciation for the gift.\n她对礼物表示感激。"
+    "example": "Show your appreciation.\n表达你的感激。\nCurrency appreciation affects exports.\n货币升值影响出口。"
   },
   {
     "id": "word_525",
@@ -10486,7 +10486,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhend/",
     "frequency": "高频",
-    "example": "The police apprehended the suspect.\n警察逮捕了嫌疑人。"
+    "example": "The police apprehended the suspect.\n警察逮捕了嫌疑人。\nI apprehend your meaning.\n我理解你的意思。"
   },
   {
     "id": "word_526",
@@ -10528,7 +10528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhenʃn/",
     "frequency": "低频",
-    "example": "She felt apprehension about the future.\n她对未来感到忧虑。"
+    "example": "There was apprehension in the air.\n空气中弥漫着忧虑。\nApprehension of danger saved him.\n对危险的察觉救了他。"
   },
   {
     "id": "word_528",
@@ -10549,7 +10549,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprentɪs/",
     "frequency": "高频",
-    "example": "He works as an apprentice.\n他作为一名学徒工作。"
+    "example": "He became an apprentice.\n他成为一名学徒。\nThe apprentice learned quickly.\n学徒学得很快。"
   },
   {
     "id": "word_529",
@@ -10591,7 +10591,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprəˈbeɪʃn/",
     "frequency": "低频",
-    "example": "His approbation was encouraging.\n他的认可令人鼓舞。"
+    "example": "Seek approbation from others.\n寻求他人的认可。\nHis work earned approbation.\n他的工作获得认可。"
   },
   {
     "id": "word_531",
@@ -10612,7 +10612,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprəʊpriət/",
     "frequency": "高频",
-    "example": "This behavior is not appropriate.\n这种行为是不恰当的。"
+    "example": "Wear appropriate clothing.\n穿合适的衣服。\nTake appropriate action.\n采取适当行动。"
   },
   {
     "id": "word_532",
@@ -10633,7 +10633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpruːvl/",
     "frequency": "高频",
-    "example": "The project received approval.\n项目获得了批准。"
+    "example": "Give your approval.\n给予你的批准。\nApproval was granted.\n获得批准。"
   },
   {
     "id": "word_533",
@@ -10654,7 +10654,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpruːv/",
     "frequency": "中频",
-    "example": "The committee approved the plan.\n委员会批准了该计划。"
+    "example": "I approve of your plan.\n我赞成你的计划。\nThe committee approved the proposal.\n委员会批准了提案。"
   },
   {
     "id": "word_534",
@@ -10675,7 +10675,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprɒksɪmət/",
     "frequency": "中频",
-    "example": "This is an approximate value.\n这是一个近似值。"
+    "example": "The approximate cost is .\n大约费用是100美元。\nGive me an approximate time.\n给我一个大概的时间。"
   },
   {
     "id": "word_535",
@@ -10738,7 +10738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprəˈpəʊ/",
     "frequency": "高频",
-    "example": "His comment was apropos.\n他的评论很恰当。"
+    "example": "Apropos of your comment.\n关于你的评论。\nThat is apropos.\n那是恰当的。"
   },
   {
     "id": "word_538",
@@ -10780,7 +10780,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæptɪˈtjuːd/",
     "frequency": "低频",
-    "example": "He has a natural aptitude for music.\n他有天生的音乐天赋。"
+    "example": "She has an aptitude for music.\n她有音乐天赋。\nAptitude tests measure ability.\n能力倾向测试衡量能力。"
   },
   {
     "id": "word_540",
@@ -10906,7 +10906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwætɪk/",
     "frequency": "低频",
-    "example": "Aquatic plants need water.\n水生植物需要水。"
+    "example": "Aquatic plants grow in water.\n水生植物生长在水中。\nAquatic sports are popular.\n水上运动很受欢迎。"
   },
   {
     "id": "word_546",
@@ -10927,7 +10927,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwɪdʌkt/",
     "frequency": "高频",
-    "example": "The aqueduct carries water.\n渡槽输送水。"
+    "example": "The aqueduct carries water.\n渡槽输送水。\nAncient aqueducts are impressive.\n古代渡槽令人印象深刻。"
   },
   {
     "id": "word_547",
@@ -10948,7 +10948,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwɪfə/",
     "frequency": "中频",
-    "example": "The aquifer provides fresh water.\n含水层提供淡水。"
+    "example": "The aquifer provides water.\n含水层提供水。\nAquifer depletion is a problem.\n含水层枯竭是个问题。"
   },
   {
     "id": "word_548",
@@ -11011,7 +11011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈræknɪd/",
     "frequency": "中频",
-    "example": "Spiders are arachnids.\n蜘蛛是蛛形纲动物。"
+    "example": "Spiders are arachnids.\n蜘蛛是蛛形纲动物。\nArachnids have eight legs.\n蛛形纲动物有八条腿。"
   },
   {
     "id": "word_551",
@@ -11053,7 +11053,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtrəri/",
     "frequency": "中频",
-    "example": "The decision was arbitrary.\n这个决定是武断的。"
+    "example": "The decision was arbitrary.\n这个决定是武断的。\nDon't make arbitrary choices.\n不要做武断的选择。"
   },
   {
     "id": "word_553",
@@ -11074,7 +11074,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtreɪt/",
     "frequency": "中频",
-    "example": "They agreed to arbitrate the dispute.\n他们同意仲裁争议。"
+    "example": "Arbitrate the dispute.\n仲裁争端。\nHe agreed to arbitrate.\n他同意仲裁。"
   },
   {
     "id": "word_554",
@@ -11095,7 +11095,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbə/",
     "frequency": "低频",
-    "example": "The arbor provides shade.\n凉亭提供阴凉。"
+    "example": "The arbor provides shade.\n凉亭提供阴凉。\nClimb the arbor.\n爬凉亭。"
   },
   {
     "id": "word_555",
@@ -11116,7 +11116,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈbɔːriəl/",
     "frequency": "高频",
-    "example": "Monkeys are arboreal animals.\n猴子是树栖动物。"
+    "example": "Monkeys are arboreal.\n猴子是树栖的。\nArboreal animals live in trees.\n树栖动物生活在树上。"
   },
   {
     "id": "word_556",
@@ -11158,7 +11158,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːk/",
     "frequency": "中频",
-    "example": "The arc of the bridge is beautiful.\n桥的弧形很美。"
+    "example": "The rainbow forms an arc.\n彩虹形成一个弧形。\nDraw an arc.\n画一个弧线。"
   },
   {
     "id": "word_558",
@@ -11179,7 +11179,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪd/",
     "frequency": "高频",
-    "example": "They walked through the arcade.\n他们穿过拱廊。"
+    "example": "Play games at the arcade.\n在游戏厅玩游戏。\nThe shopping arcade is busy.\n购物商场很热闹。"
   },
   {
     "id": "word_559",
@@ -11221,7 +11221,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːkiˈɒlədʒi/",
     "frequency": "低频",
-    "example": "Archaeology studies ancient civilizations.\n考古学研究古代文明。"
+    "example": "Study archaeology.\n研究考古学。\nArchaeology reveals history.\n考古学揭示历史。"
   },
   {
     "id": "word_561",
@@ -11242,7 +11242,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪɪk/",
     "frequency": "高频",
-    "example": "The language is archaic.\n这种语言是古老的。"
+    "example": "The language is archaic.\n这种语言很古老。\nArchaic practices still exist.\n古老的做法仍然存在。"
   },
   {
     "id": "word_562",
@@ -11326,7 +11326,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪtekt/",
     "frequency": "中频",
-    "example": "The architect designed the building.\n建筑师设计了这座建筑。"
+    "example": "The architect designed the building.\n建筑师设计了这座建筑。\nShe is a famous architect.\n她是一位著名的建筑师。"
   },
   {
     "id": "word_566",
@@ -11347,7 +11347,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪtektʃə/",
     "frequency": "中频",
-    "example": "The architecture is impressive.\n建筑风格令人印象深刻。"
+    "example": "Modern architecture is impressive.\n现代建筑令人印象深刻。\nStudy architecture.\n学习建筑。"
   },
   {
     "id": "word_567",
@@ -11368,7 +11368,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkaɪv/",
     "frequency": "高频",
-    "example": "The archive contains old documents.\n档案馆保存着旧文件。"
+    "example": "Archive the documents.\n存档文件。\nThe archive is stored digitally.\n档案以数字方式存储。"
   },
   {
     "id": "word_568",
@@ -11431,7 +11431,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdnt/",
     "frequency": "高频",
-    "example": "He is an ardent supporter.\n他是一位热情的支持者。"
+    "example": "She is an ardent supporter.\n她是一位热心的支持者。\nArdent love is passionate.\n热烈的爱是充满激情的。"
   },
   {
     "id": "word_571",
@@ -11473,7 +11473,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdjuəs/",
     "frequency": "低频",
-    "example": "The task was arduous.\n这项任务很艰巨。"
+    "example": "The journey was arduous.\n旅程很艰难。\nArduous tasks require effort.\n艰巨的任务需要努力。"
   },
   {
     "id": "word_573",
@@ -11488,7 +11488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeəriə/",
     "frequency": "高频",
-    "example": "The area is large.\n这个区域很大。"
+    "example": "The area is large.\n面积很大。\nThis area is restricted.\n这个区域是禁区。"
   },
   {
     "id": "word_574",
@@ -11503,7 +11503,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arena/",
     "frequency": "中频",
-    "example": "The arena was crowded.\n竞技场挤满了人。",
+    "example": "The arena was packed.\n竞技场座无虚席。\nCompete in the arena.\n在竞技场竞争。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11545,7 +11545,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/argot/",
     "frequency": "高频",
-    "example": "The argot is hard to understand.\n这种俚语很难理解。"
+    "example": "Learn the argot.\n学习行话。\nArgot is used by groups.\n行话被群体使用。"
   },
   {
     "id": "word_577",
@@ -11560,7 +11560,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːɡjuː/",
     "frequency": "高频",
-    "example": "They argued about the issue.\n他们争论这个问题。",
+    "example": "They argue often.\n他们经常争吵。\nArgue your point.\n争论你的观点。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11581,7 +11581,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːɡjumənt/",
     "frequency": "高频",
-    "example": "His argument was convincing.\n他的论点很有说服力。",
+    "example": "The argument was heated.\n争论很激烈。\nPresent your argument.\n提出你的论点。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11623,7 +11623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aria/",
     "frequency": "中频",
-    "example": "She sang a beautiful aria.\n她唱了一首优美的咏叹调。",
+    "example": "The soprano sang an aria.\n女高音演唱了一首咏叹调。\nArias are beautiful.\n咏叹调很美。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11644,7 +11644,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arid/",
     "frequency": "低频",
-    "example": "The desert is arid.\n沙漠是干旱的。",
+    "example": "The desert is arid.\n沙漠很干旱。\nArid regions need water.\n干旱地区需要水。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11665,7 +11665,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪz/",
     "frequency": "高频",
-    "example": "Problems may arise.\n问题可能会出现。",
+    "example": "Problems may arise.\n可能会出现问题。\nOpportunities arise daily.\n机会每天都会出现。",
     "prefix": "a-",
     "prefixMeaning": "向上",
     "prefixMeaningEn": "up",
@@ -11686,7 +11686,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːm/",
     "frequency": "高频",
-    "example": "He injured his arm.\n他伤了他的手臂。",
+    "example": "Hold out your arm.\n伸出你的手臂。\nHe broke his arm.\n他摔断了手臂。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11707,7 +11707,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armada/",
     "frequency": "低频",
-    "example": "The armada sailed across the sea.\n舰队横渡大海。",
+    "example": "The armada sailed.\n舰队启航。\nA large armada approached.\n一支庞大的舰队逼近。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11728,7 +11728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armament/",
     "frequency": "高频",
-    "example": "The armament was powerful.\n军备很强大。",
+    "example": "The country increased armaments.\n该国增加了军备。\nArmament costs are high.\n军备成本很高。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11770,7 +11770,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armistice/",
     "frequency": "低频",
-    "example": "The armistice ended the war.\n停战协定结束了战争。",
+    "example": "The armistice ended the war.\n停战协定结束了战争。\nAn armistice was signed.\n签署了停战协定。",
     "prefix": "ar-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -11791,7 +11791,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armor/",
     "frequency": "高频",
-    "example": "The knight wore armor.\n骑士穿着盔甲。",
+    "example": "Knights wore armor.\n骑士穿着盔甲。\nArmor protects soldiers.\n盔甲保护士兵。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11812,7 +11812,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armory/",
     "frequency": "中频",
-    "example": "The armory stores weapons.\n军械库储存武器。",
+    "example": "The armory stores weapons.\n军械库储存武器。\nVisit the armory.\n参观军械库。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11833,7 +11833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːmi/",
     "frequency": "高频",
-    "example": "The army marched forward.\n军队向前行进。",
+    "example": "Join the army.\n参军。\nThe army marched.\n军队行进。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11854,7 +11854,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aroma/",
     "frequency": "高频",
-    "example": "The aroma of coffee filled the room.\n咖啡的香气充满了房间。",
+    "example": "The aroma of coffee filled the room.\n咖啡的香气充满房间。\nDelicious aroma from the kitchen.\n厨房里飘出美味的香气。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11875,7 +11875,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aromatic/",
     "frequency": "中频",
-    "example": "The herb is aromatic.\n这种草药有香味。",
+    "example": "Aromatic spices enhance flavor.\n芳香香料增强风味。\nAromatic oils are soothing.\n芳香油很舒缓。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11896,7 +11896,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraʊnd/",
     "frequency": "高频",
-    "example": "They walked around the park.\n他们在公园周围走。"
+    "example": "Look around.\n环顾四周。\nAround the world.\n世界各地。"
   },
   {
     "id": "word_594",
@@ -11953,7 +11953,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈreɪndʒ/",
     "frequency": "高频",
-    "example": "Please arrange the meeting.\n请安排会议。",
+    "example": "Arrange the books.\n整理书籍。\nArrange a meeting.\n安排会议。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -11974,7 +11974,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈreɪndʒmənt/",
     "frequency": "中频",
-    "example": "The arrangement was perfect.\n安排很完美。",
+    "example": "The arrangement is perfect.\n安排很完美。\nMake arrangements.\n做出安排。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12016,7 +12016,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/array/",
     "frequency": "低频",
-    "example": "An array of options was available.\n有一系列选择可用。",
+    "example": "An array of options.\n一系列选项。\nArray the chairs in rows.\n把椅子排成行。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12037,7 +12037,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈrest/",
     "frequency": "中频",
-    "example": "The police arrested him.\n警察逮捕了他。",
+    "example": "The police made an arrest.\n警察逮捕了人。\nArrest the suspect.\n逮捕嫌疑人。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12058,7 +12058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪvl/",
     "frequency": "高频",
-    "example": "Her arrival was unexpected.\n她的到来出乎意料。",
+    "example": "His arrival was unexpected.\n他的到来出乎意料。\nArrival time is 3pm.\n到达时间是下午3点。",
     "prefix": "ar-",
     "prefixMeaning": "向；到",
     "prefixMeaningEn": "toward",
@@ -12079,7 +12079,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪv/",
     "frequency": "高频",
-    "example": "They arrived late.\n他们迟到了。",
+    "example": "We will arrive tomorrow.\n我们明天到达。\nWhen did you arrive?\n你什么时候到的？",
     "prefix": "ar-",
     "prefixMeaning": "向；到",
     "prefixMeaningEn": "toward",
@@ -12100,7 +12100,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrogant/",
     "frequency": "中频",
-    "example": "He is arrogant and rude.\n他傲慢且粗鲁。",
+    "example": "She is arrogant.\n她很傲慢。\nDon't be arrogant.\n不要傲慢。",
     "prefix": "ar-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "toward; intensive",
@@ -12184,7 +12184,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arsenal/",
     "frequency": "中频",
-    "example": "The arsenal was well-stocked.\n军械库储备充足。",
+    "example": "The arsenal contains weapons.\n军械库包含武器。\nBuild up the arsenal.\n建立军火库。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12205,7 +12205,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arsenic/",
     "frequency": "低频",
-    "example": "Arsenic is poisonous.\n砷是有毒的。",
+    "example": "Arsenic is poisonous.\n砷是有毒的。\nArsenic was used in pesticides.\n砷曾用于杀虫剂。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12226,7 +12226,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arson/",
     "frequency": "高频",
-    "example": "Arson is a serious crime.\n纵火是一种严重的犯罪。",
+    "example": "The fire was caused by arson.\n火灾是纵火造成的。\nArson is a serious crime.\n纵火是严重的罪行。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12247,7 +12247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/art/",
     "frequency": "高频",
-    "example": "She loves art.\n她热爱艺术。",
+    "example": "Appreciate art.\n欣赏艺术。\nArt is everywhere.\n艺术无处不在。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12268,7 +12268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arterial/",
     "frequency": "低频",
-    "example": "Arterial blood is oxygen-rich.\n动脉血富含氧气。",
+    "example": "Arterial blood flow.\n动脉血流。\nArterial roads are busy.\n主干道很繁忙。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12289,7 +12289,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artery/",
     "frequency": "高频",
-    "example": "The artery carries blood.\n动脉输送血液。",
+    "example": "The artery was blocked.\n动脉被堵塞。\nArteries carry blood.\n动脉输送血液。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12415,7 +12415,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/articulate/",
     "frequency": "高频",
-    "example": "He is articulate and clear.\n他表达清晰明了。",
+    "example": "Articulate your thoughts.\n清晰表达你的想法。\nHe is well articulate.\n他表达能力很强。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12436,7 +12436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artifact/",
     "frequency": "中频",
-    "example": "The artifact is ancient.\n这件文物很古老。",
+    "example": "The artifact is ancient.\n这件文物很古老。\nDiscover an artifact.\n发现一件文物。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12457,7 +12457,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːtɪˈfɪʃl/",
     "frequency": "中频",
-    "example": "The flavor is artificial.\n这种味道是人造的。",
+    "example": "Artificial intelligence.\n人工智能。\nArtificial flowers look real.\n人造花看起来很真实。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12793,7 +12793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ash/",
     "frequency": "中频",
-    "example": "The ash from the fire was gray.\n火灰是灰色的。",
+    "example": "The fire left only ash.\n大火只留下灰烬。\nAsh covered the ground.\n灰烬覆盖了地面。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12814,7 +12814,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ashamed/",
     "frequency": "中频",
-    "example": "He was ashamed of his behavior.\n他对自己的行为感到羞耻。",
+    "example": "She felt ashamed.\n她感到羞愧。\nBe ashamed of your actions.\n为你的行为感到羞愧。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12835,7 +12835,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ashore/",
     "frequency": "低频",
-    "example": "They went ashore.\n他们上岸了。",
+    "example": "The ship came ashore.\n船靠岸了。\nWalk ashore.\n上岸走。",
     "prefix": "a-",
     "prefixMeaning": "向；朝",
     "prefixMeaningEn": "toward; on",
@@ -12877,7 +12877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsaɪd/",
     "frequency": "高频",
-    "example": "He stepped aside.\n他退到一边。",
+    "example": "Set aside some time.\n留出一些时间。\nPut your worries aside.\n把你的忧虑放在一边。",
     "prefix": "a-",
     "prefixMeaning": "向；在...旁边",
     "prefixMeaningEn": "on; at the side of",
@@ -12898,7 +12898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːsk/",
     "frequency": "高频",
-    "example": "Please ask him for help.\n请向他求助。",
+    "example": "Ask a question.\n问一个问题。\nAsk for help.\n请求帮助。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12919,7 +12919,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsliːp/",
     "frequency": "高频",
-    "example": "The baby is asleep.\n婴儿睡着了。",
+    "example": "The baby is asleep.\n婴儿睡着了。\nFall asleep.\n入睡。",
     "prefix": "a-",
     "prefixMeaning": "在...状态中",
     "prefixMeaningEn": "in a state of",
@@ -12940,7 +12940,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæspekt/",
     "frequency": "高频",
-    "example": "Consider every aspect of the problem.\n考虑问题的各个方面。",
+    "example": "Consider all aspects.\n考虑所有方面。\nThe financial aspect is important.\n财务方面很重要。",
     "prefix": "a-",
     "prefixMeaning": "向；朝",
     "prefixMeaningEn": "toward; at",
@@ -12961,7 +12961,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asphalt/",
     "frequency": "中频",
-    "example": "The road is paved with asphalt.\n这条路是用沥青铺的。",
+    "example": "The road is paved with asphalt.\n道路铺有沥青。\nAsphalt is durable.\n沥青很耐用。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13003,7 +13003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aspire/",
     "frequency": "高频",
-    "example": "He aspires to become a leader.\n他渴望成为一名领导者。",
+    "example": "Aspire to greatness.\n追求伟大。\nHe aspires to be a leader.\n他渴望成为领导者。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13024,7 +13024,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assail/",
     "frequency": "中频",
-    "example": "The enemy assailed the fortress.\n敌人袭击了堡垒。",
+    "example": "The critics assailed the film.\n评论家抨击这部电影。\nAssailed by doubts.\n受到怀疑的攻击。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13045,7 +13045,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assault/",
     "frequency": "低频",
-    "example": "The assault was brutal.\n袭击是残酷的。",
+    "example": "The assault was violent.\n袭击很暴力。\nHe was charged with assault.\n他被控袭击罪。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13066,7 +13066,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assay/",
     "frequency": "高频",
-    "example": "They assayed the gold sample.\n他们化验了金样品。",
+    "example": "Perform an assay.\n进行化验。\nThe assay showed positive results.\n化验显示阳性结果。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13087,7 +13087,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsembl/",
     "frequency": "中频",
-    "example": "They assembled in the hall.\n他们在大厅集合。",
+    "example": "Assemble the parts.\n组装零件。\nPeople assembled in the square.\n人们聚集在广场上。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13108,7 +13108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsembli/",
     "frequency": "中频",
-    "example": "The assembly passed the resolution.\n议会通过了决议。",
+    "example": "The assembly line is efficient.\n装配线效率很高。\nAssembly required.\n需要组装。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13129,7 +13129,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɜːt/",
     "frequency": "中频",
-    "example": "He asserted his rights.\n他主张他的权利。",
+    "example": "Assert your rights.\n维护你的权利。\nShe asserted her independence.\n她宣称独立。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13150,7 +13150,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈses/",
     "frequency": "高频",
-    "example": "We need to assess the damage.\n我们需要评估损失。"
+    "example": "Assess the damage.\n评估损失。\nExperts assessed the value.\n专家评估了价值。"
   },
   {
     "id": "word_654",
@@ -13165,7 +13165,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assessment/",
     "frequency": "低频",
-    "example": "The assessment was thorough.\n评估很彻底。",
+    "example": "The assessment is complete.\n评估完成。\nPerformance assessment.\n绩效评估。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13186,7 +13186,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæset/",
     "frequency": "高频",
-    "example": "The company has valuable assets.\n公司有宝贵的资产。",
+    "example": "She is an asset to the team.\n她是团队的宝贵财富。\nAssets are valuable.\n资产很有价值。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13243,7 +13243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsaɪn/",
     "frequency": "中频",
-    "example": "They assigned him a new task.\n他们给他分配了一个新任务。",
+    "example": "Assign a task.\n分配任务。\nAssign homework.\n布置作业。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13285,7 +13285,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsaɪnmənt/",
     "frequency": "高频",
-    "example": "The assignment was challenging.\n作业很有挑战性。",
+    "example": "Complete your assignment.\n完成你的作业。\nThe assignment is due tomorrow.\n作业明天到期。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13306,7 +13306,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assimilate/",
     "frequency": "高频",
-    "example": "They assimilated into the culture.\n他们融入了这种文化。",
+    "example": "Immigrants assimilate into society.\n移民融入社会。\nAssimilate new information.\n吸收新信息。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13327,7 +13327,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪst/",
     "frequency": "高频",
-    "example": "Please assist me with this task.\n请协助我完成这项任务。",
+    "example": "I will assist you.\n我会帮助你。\nAssist with the project.\n协助项目。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13348,7 +13348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪstəns/",
     "frequency": "高频",
-    "example": "Your assistance was invaluable.\n你的帮助是无价的。",
+    "example": "Offer assistance.\n提供帮助。\nFinancial assistance.\n财政援助。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13369,7 +13369,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪstənt/",
     "frequency": "高频",
-    "example": "She works as an assistant.\n她担任助理。",
+    "example": "The assistant helped me.\n助手帮助了我。\nShe is my assistant.\n她是我的助手。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13411,7 +13411,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsəʊʃieɪt/",
     "frequency": "高频",
-    "example": "He is an associate professor.\n他是一名副教授。",
+    "example": "Associate with positive people.\n与积极的人交往。\nAssociate professor.\n副教授。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13432,7 +13432,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌsəʊsiˈeɪʃn/",
     "frequency": "高频",
-    "example": "The association held a meeting.\n协会举行了一次会议。",
+    "example": "Join the association.\n加入协会。\nProfessional association.\n专业协会。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13474,7 +13474,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assort/",
     "frequency": "低频",
-    "example": "They assort the goods by type.\n他们按类型分类货物。"
+    "example": "Assort the items.\n分类物品。\nAssorted colors.\n各种颜色。"
   },
   {
     "id": "word_670",
@@ -13489,7 +13489,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assuage/",
     "frequency": "高频",
-    "example": "The medicine assuaged her pain.\n药物缓解了她的疼痛。",
+    "example": "Assuage his fears.\n缓解他的恐惧。\nAssuage hunger.\n缓解饥饿。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13525,7 +13525,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assumption/",
     "frequency": "高频",
-    "example": "The assumption was incorrect.\n假设是不正确的。",
+    "example": "Make an assumption.\n做出假设。\nThe assumption was wrong.\n假设是错误的。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13546,7 +13546,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/assurance/",
     "frequency": "高频",
-    "example": "He gave his assurance.\n他给出了保证。",
+    "example": "Give me an assurance.\n给我一个保证。\nLife assurance.\n人寿保险。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13567,7 +13567,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈʃɔː/",
     "frequency": "高频",
-    "example": "I assure you it is safe.\n我向你保证它是安全的。",
+    "example": "I assure you it is safe.\n我向你保证这是安全的。\nAssure him of your support.\n向他保证你的支持。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13630,7 +13630,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asthma/",
     "frequency": "中频",
-    "example": "She suffers from asthma.\n她患有哮喘。",
+    "example": "He has asthma.\n他患有哮喘。\nAsthma attacks can be severe.\n哮喘发作可能很严重。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13651,7 +13651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astigmatic/",
     "frequency": "低频",
-    "example": "He is astigmatic.\n他有散光。",
+    "example": "Astigmatic vision.\n散光视力。\nAn astigmatic person.\n散光的人。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -13672,7 +13672,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astir/",
     "frequency": "高频",
-    "example": "The whole house was astir.\n整个房子都在骚动。",
+    "example": "The city was astir.\n城市活跃起来。\nEveryone was astir early.\n每个人都很早就活跃起来。",
     "prefix": "a-",
     "prefixMeaning": "处于...状态",
     "prefixMeaningEn": "in a state of",
@@ -13693,7 +13693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈstɒnɪʃ/",
     "frequency": "中频",
-    "example": "The news astonished everyone.\n这个消息震惊了所有人。",
+    "example": "The news astonished everyone.\n这个消息震惊了所有人。\nAstonishing discovery.\n惊人的发现。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13735,7 +13735,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astral/",
     "frequency": "高频",
-    "example": "The astral body is a concept.\n星体是一个概念。",
+    "example": "Astral projection.\n星体投射。\nAstral plane.\n星光层面。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13756,7 +13756,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astringent/",
     "frequency": "中频",
-    "example": "The astringent tightened the skin.\n收敛剂收紧了皮肤。",
+    "example": "Astringent taste.\n涩味。\nAstringent lotion.\n收敛剂。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13819,7 +13819,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astrology/",
     "frequency": "中频",
-    "example": "She believes in astrology.\n她相信占星术。",
+    "example": "Study astrology.\n研究占星术。\nAstrology is not science.\n占星术不是科学。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13840,7 +13840,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈstrɒnəmi/",
     "frequency": "中频",
-    "example": "Astronomy is fascinating.\n天文学很迷人。",
+    "example": "Study astronomy.\n研究天文学。\nAstronomy is fascinating.\n天文学很迷人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13861,7 +13861,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/astute/",
     "frequency": "高频",
-    "example": "He is an astute businessman.\n他是一位精明的商人。",
+    "example": "An astute observer.\n敏锐的观察者。\nAstute business decisions.\n精明的商业决策。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13882,7 +13882,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asunder/",
     "frequency": "中频",
-    "example": "The family was torn asunder.\n家庭被撕裂了。",
+    "example": "Tear asunder.\n撕裂。\nSplit asunder.\n分裂。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -13903,7 +13903,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asylum/",
     "frequency": "低频",
-    "example": "They sought asylum in another country.\n他们在另一个国家寻求庇护。"
+    "example": "Seek asylum.\n寻求庇护。\nPolitical asylum.\n政治庇护。"
   },
   {
     "id": "word_691",
@@ -13939,7 +13939,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/at/",
     "frequency": "高频",
-    "example": "He is at home.\n他在家。",
+    "example": "Look at me.\n看着我。\nAt the moment.\n此刻。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -13960,7 +13960,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atavism/",
     "frequency": "低频",
-    "example": "Atavism is a biological phenomenon.\n返祖现象是一种生物学现象。",
+    "example": "An atavism appeared.\n出现了返祖现象。\nGenetic atavism.\n遗传返祖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14023,7 +14023,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atherosclerosis/",
     "frequency": "低频",
-    "example": "Atherosclerosis is a health risk.\n动脉粥样硬化是一种健康风险。",
+    "example": "Atherosclerosis is a disease.\n动脉粥样硬化是一种疾病。\nPrevent atherosclerosis.\n预防动脉粥样硬化。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14044,7 +14044,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/athlete/",
     "frequency": "中频",
-    "example": "He is a professional athlete.\n他是一名职业运动员。",
+    "example": "He is a professional athlete.\n他是一名职业运动员。\nOlympic athletes train hard.\n奥林匹克运动员训练刻苦。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14065,7 +14065,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/athletic/",
     "frequency": "低频",
-    "example": "She has an athletic build.\n她有运动员的身材。",
+    "example": "She has an athletic build.\n她有运动型身材。\nAthletic activities are healthy.\n运动活动有益健康。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14086,7 +14086,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atlas/",
     "frequency": "低频",
-    "example": "The atlas shows world maps.\n地图集显示世界地图。",
+    "example": "Consult the atlas.\n查阅地图集。\nAn atlas of the world.\n世界地图集。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14107,7 +14107,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈætməsfɪə/",
     "frequency": "高频",
-    "example": "The atmosphere was tense.\n气氛紧张。",
+    "example": "The atmosphere is polluted.\n大气被污染了。\nCreate a friendly atmosphere.\n营造友好的氛围。",
     "prefix": "atm(o)-",
     "prefixMeaning": "蒸汽；大气",
     "prefixMeaningEn": "vapor; atmosphere",
@@ -14149,7 +14149,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atom/",
     "frequency": "中频",
-    "example": "An atom is the smallest unit.\n原子是最小的单位。",
+    "example": "An atom is tiny.\n原子很小。\nAtoms make up matter.\n原子构成物质。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -14191,7 +14191,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atone/",
     "frequency": "中频",
-    "example": "He tried to atone for his sins.\n他试图赎罪。",
+    "example": "Atonement for sins.\n赎罪。\nHe tried to atone.\n他试图赎罪。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14233,7 +14233,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atrocious/",
     "frequency": "高频",
-    "example": "The crime was atrocious.\n罪行极其恶劣。",
+    "example": "An atrocious crime.\n残暴的罪行。\nAtrocious weather.\n恶劣的天气。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14254,7 +14254,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/atrophy/",
     "frequency": "中频",
-    "example": "Muscle atrophy is a concern.\n肌肉萎缩是一个问题。",
+    "example": "Muscle atrophy.\n肌肉萎缩。\nPrevent brain atrophy.\n预防脑萎缩。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -14275,7 +14275,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtætʃ/",
     "frequency": "高频",
-    "example": "Please attach the file.\n请附上文件。",
+    "example": "Attach the file.\n附加文件。\nAttach importance to.\n重视。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14296,7 +14296,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtæk/",
     "frequency": "高频",
-    "example": "The attack was sudden.\n袭击很突然。",
+    "example": "Launch an attack.\n发动攻击。\nHeart attack.\n心脏病发作。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14317,7 +14317,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attain/",
     "frequency": "中频",
-    "example": "He attained his goal.\n他实现了他的目标。",
+    "example": "Attain your goals.\n实现你的目标。\nAttain success.\n获得成功。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14338,7 +14338,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtempt/",
     "frequency": "高频",
-    "example": "He made an attempt to fix it.\n他尝试修复它。",
+    "example": "Make an attempt.\n尝试。\nAttempt to escape.\n企图逃跑。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14359,7 +14359,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtend/",
     "frequency": "高频",
-    "example": "Please attend the meeting.\n请参加会议。",
+    "example": "Attend the meeting.\n参加会议。\nAttend to your work.\n专注于你的工作。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14380,7 +14380,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attendance/",
     "frequency": "中频",
-    "example": "Attendance is mandatory.\n出席是强制性的。",
+    "example": "Attendance is required.\n必须出席。\nPoor attendance.\n出席率低。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14401,7 +14401,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attendant/",
     "frequency": "低频",
-    "example": "The attendant was helpful.\n服务员很乐于助人。",
+    "example": "Flight attendant.\n空乘人员。\nThe attendant helped.\n服务员帮忙了。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14422,7 +14422,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtenʃn/",
     "frequency": "高频",
-    "example": "Pay attention to details.\n注意细节。",
+    "example": "Pay attention.\n注意。\nAttention please.\n请注意。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14443,7 +14443,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attenuate/",
     "frequency": "中频",
-    "example": "The signal attenuated over distance.\n信号在距离上衰减了。",
+    "example": "Attenuate the signal.\n衰减信号。\nAttenuate the impact.\n减轻影响。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14464,7 +14464,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attest/",
     "frequency": "低频",
-    "example": "He attested to the truth.\n他证明了真相。",
+    "example": "Attest to the truth.\n证明真相。\nWitnesses attested.\n证人作证。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14506,7 +14506,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/attire/",
     "frequency": "中频",
-    "example": "Her attire was elegant.\n她的服装很优雅。",
+    "example": "Formal attire.\n正式服装。\nBusiness attire.\n商务着装。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14527,7 +14527,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈætɪtjuːd/",
     "frequency": "高频",
-    "example": "Her attitude is positive.\n她的态度是积极的。",
+    "example": "Positive attitude.\n积极态度。\nChange your attitude.\n改变你的态度。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14548,7 +14548,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtɜːni/",
     "frequency": "中频",
-    "example": "The attorney defended him.\n律师为他辩护。",
+    "example": "Hire an attorney.\n聘请律师。\nPower of attorney.\n委托书。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14569,7 +14569,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtrækt/",
     "frequency": "高频",
-    "example": "The magnet attracts metal.\n磁铁吸引金属。",
+    "example": "Attract attention.\n吸引注意。\nMagnet attracts metal.\n磁铁吸引金属。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14590,7 +14590,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtrækʃn/",
     "frequency": "高频",
-    "example": "The attraction is popular.\n这个景点很受欢迎。",
+    "example": "Tourist attraction.\n旅游景点。\nMutual attraction.\n相互吸引。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14611,7 +14611,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtræktɪv/",
     "frequency": "高频",
-    "example": "She is attractive and smart.\n她既漂亮又聪明。",
+    "example": "An attractive offer.\n有吸引力的报价。\nAttractive appearance.\n迷人的外表。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14632,7 +14632,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtrɪbjuːt/",
     "frequency": "高频",
-    "example": "He attributed his success to hard work.\n他将成功归因于努力工作。",
+    "example": "Attribute success to hard work.\n把成功归因于努力。\nPersonal attributes.\n个人特质。",
     "prefix": "at-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -14695,7 +14695,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auctioneer/",
     "frequency": "中频",
-    "example": "The auctioneer sold the item.\n拍卖师卖出了这件物品。",
+    "example": "The auctioneer started the bidding.\n拍卖师开始竞价。\nProfessional auctioneer.\n专业拍卖师。",
     "prefix": "auc-",
     "prefixMeaning": "增加；提高",
     "prefixMeaningEn": "increase; raise",
@@ -14716,7 +14716,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/audacious/",
     "frequency": "低频",
-    "example": "He made an audacious move.\n他做出了大胆的举动。",
+    "example": "An audacious plan.\n大胆的计划。\nAudacious behavior.\n大胆的行为。",
     "prefix": "aud-",
     "prefixMeaning": "大胆；勇敢",
     "prefixMeaningEn": "bold; brave",
@@ -14737,7 +14737,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/audible/",
     "frequency": "高频",
-    "example": "The sound was audible.\n声音是可听见的。",
+    "example": "The sound is audible.\n声音可听见。\nMake yourself audible.\n让自己被听见。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14758,7 +14758,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːdiəns/",
     "frequency": "高频",
-    "example": "The audience clapped.\n观众鼓掌。",
+    "example": "The audience applauded.\n观众鼓掌。\nTarget audience.\n目标受众。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14779,7 +14779,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/audio/",
     "frequency": "中频",
-    "example": "The audio quality is good.\n音频质量很好。",
+    "example": "Audio equipment.\n音频设备。\nAudio recording.\n录音。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14821,7 +14821,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auditor/",
     "frequency": "高频",
-    "example": "The auditor checked the accounts.\n审计员检查了账目。",
+    "example": "Financial auditor.\n财务审计师。\nIndependent auditor.\n独立审计师。",
     "prefix": "aud-",
     "prefixMeaning": "听；声音",
     "prefixMeaningEn": "hear; sound",
@@ -14863,7 +14863,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/augment/",
     "frequency": "低频",
-    "example": "They augmented the budget.\n他们增加了预算。",
+    "example": "Augment your income.\n增加你的收入。\nAugment the data.\n扩充数据。",
     "prefix": "aug-",
     "prefixMeaning": "增加；提高",
     "prefixMeaningEn": "increase; raise",
@@ -14947,7 +14947,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aunt/",
     "frequency": "低频",
-    "example": "My aunt visited us.\n我阿姨来看我们了。",
+    "example": "My aunt visited.\n我的姑姑来访。\nAunt Mary.\n玛丽阿姨。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -14989,7 +14989,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/austere/",
     "frequency": "低频",
-    "example": "The room was austere.\n房间很简朴。",
+    "example": "An austere lifestyle.\n简朴的生活方式。\nAustere design.\n简洁设计。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15010,7 +15010,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/austerity/",
     "frequency": "高频",
-    "example": "Austerity measures were implemented.\n紧缩措施已实施。",
+    "example": "Age of austerity.\n austerity时代。\nAusterity measures.\n紧缩措施。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15031,7 +15031,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/authentic/",
     "frequency": "高频",
-    "example": "The document is authentic.\n文件是真实的。",
+    "example": "Authentic experience.\n真实体验。\nAuthentic products.\n正品。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15052,7 +15052,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːθə/",
     "frequency": "高频",
-    "example": "The author wrote a novel.\n作者写了一部小说。",
+    "example": "The author signed books.\n作者签名售书。\nFamous author.\n著名作家。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15094,7 +15094,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːˈθɒrəti/",
     "frequency": "高频",
-    "example": "The authority approved the plan.\n当局批准了该计划。",
+    "example": "In authority.\n掌权。\nAcademic authority.\n学术权威。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15115,7 +15115,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/authorize/",
     "frequency": "高频",
-    "example": "They authorized the transaction.\n他们授权了这笔交易。",
+    "example": "Authorize the payment.\n授权支付。\nOfficially authorized.\n官方授权。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15157,7 +15157,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auto/",
     "frequency": "中频",
-    "example": "He bought a new auto.\n他买了一辆新车。",
+    "example": "Auto repair shop.\n汽车修理店。\nAutomatic transmission.\n自动变速箱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15178,7 +15178,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autobiography/",
     "frequency": "低频",
-    "example": "She wrote an autobiography.\n她写了一本自传。",
+    "example": "Write an autobiography.\n写自传。\nRead his autobiography.\n阅读他的自传。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15199,7 +15199,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autocracy/",
     "frequency": "高频",
-    "example": "The country is an autocracy.\n这个国家是一个独裁国家。",
+    "example": "Rule by autocracy.\n独裁统治。\nAutocracy is undemocratic.\n独裁是不民主的。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15220,7 +15220,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autocrat/",
     "frequency": "中频",
-    "example": "He is an autocrat.\n他是一个独裁者。",
+    "example": "The autocrat ruled with an iron fist.\n独裁者铁腕统治。\nAbsolute autocrat.\n绝对独裁者。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15241,7 +15241,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autograph/",
     "frequency": "低频",
-    "example": "He signed an autograph.\n他签了名。",
+    "example": "Get his autograph.\n得到他的签名。\nCelebrity autograph.\n名人签名。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15262,7 +15262,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɔːtəˈmætɪk/",
     "frequency": "中频",
-    "example": "The door is automatic.\n门是自动的。",
+    "example": "Automatic door.\n自动门。\nAutomatic transmission.\n自动变速箱。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15325,7 +15325,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autonomous/",
     "frequency": "低频",
-    "example": "The region is autonomous.\n该地区是自治的。",
+    "example": "Autonomous region.\n自治区。\nAutonomous vehicle.\n自动驾驶汽车。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15346,7 +15346,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autonomy/",
     "frequency": "中频",
-    "example": "They fought for autonomy.\n他们为自治而斗争。",
+    "example": "Personal autonomy.\n个人自主权。\nAcademic autonomy.\n学术自治。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15367,7 +15367,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autopsy/",
     "frequency": "中频",
-    "example": "An autopsy was performed.\n进行了尸检。",
+    "example": "Perform an autopsy.\n进行尸检。\nAutopsy report.\n尸检报告。",
     "prefix": "auto-",
     "prefixMeaning": "自己",
     "prefixMeaningEn": "self",
@@ -15388,7 +15388,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/autumn/",
     "frequency": "低频",
-    "example": "Autumn leaves are beautiful.\n秋叶很美。",
+    "example": "Autumn leaves fall.\n秋天树叶落。\nAutumn harvest.\n秋收。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15409,7 +15409,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/auxiliary/",
     "frequency": "高频",
-    "example": "The auxiliary system is backup.\n辅助系统是备份。",
+    "example": "Auxiliary power.\n辅助电源。\nAuxiliary staff.\n辅助人员。",
     "prefix": "aux-",
     "prefixMeaning": "帮助；支持",
     "prefixMeaningEn": "help; support",
@@ -15430,7 +15430,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avail/",
     "frequency": "中频",
-    "example": "His efforts did not avail.\n他的努力没有奏效。",
+    "example": "Avail yourself of the opportunity.\n利用机会。\nOf no avail.\n无用。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15451,7 +15451,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈveɪləbl/",
     "frequency": "高频",
-    "example": "The product is available.\n产品可用。",
+    "example": "Is it available?\n它可用吗？\nAvailable resources.\n可用资源。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15472,7 +15472,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avalanche/",
     "frequency": "高频",
-    "example": "The avalanche was dangerous.\n雪崩很危险。",
+    "example": "Avalanche warning.\n雪崩警告。\nSnow avalanche.\n雪崩。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15577,7 +15577,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avenge/",
     "frequency": "低频",
-    "example": "He wanted to avenge his father.\n他想为父亲报仇。",
+    "example": "Avenge the wrong.\n报仇。\nHe vowed to avenge his brother.\n他发誓为兄弟报仇。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15598,7 +15598,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avenue/",
     "frequency": "中频",
-    "example": "The avenue is lined with trees.\n大道两旁种着树。",
+    "example": "Tree-lined avenue.\n林荫大道。\nFifth Avenue.\n第五大道。",
     "prefix": "av-",
     "prefixMeaning": "朝向；途径",
     "prefixMeaningEn": "toward; way",
@@ -15619,7 +15619,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aver/",
     "frequency": "中频",
-    "example": "He averred his innocence.\n他断言自己是无辜的。",
+    "example": "Aver the facts.\n断言事实。\nHe averred his innocence.\n他断言自己无罪。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15640,7 +15640,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈævərɪdʒ/",
     "frequency": "高频",
-    "example": "The average score was high.\n平均分数很高。",
+    "example": "Average temperature.\n平均温度。\nAbove average.\n高于平均水平。",
     "prefix": "aver-",
     "prefixMeaning": "断言；声明",
     "prefixMeaningEn": "assert; declare",
@@ -15661,7 +15661,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/averse/",
     "frequency": "高频",
-    "example": "He is averse to change.\n他反对改变。",
+    "example": "Averse to change.\n反对改变。\nRisk-averse.\n风险厌恶。",
     "prefix": "a-",
     "prefixMeaning": "不；相反",
     "prefixMeaningEn": "not; against",
@@ -15682,7 +15682,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aversion/",
     "frequency": "中频",
-    "example": "She has an aversion to spiders.\n她对蜘蛛有厌恶感。",
+    "example": "Strong aversion.\n强烈厌恶。\nAversion to risk.\n风险厌恶。",
     "prefix": "a-",
     "prefixMeaning": "不；相反",
     "prefixMeaningEn": "not; against",
@@ -15703,7 +15703,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avert/",
     "frequency": "低频",
-    "example": "He averted his eyes.\n他转移了视线。",
+    "example": "Avert disaster.\n避免灾难。\nAvert your eyes.\n避开目光。",
     "prefix": "a-",
     "prefixMeaning": "不；相反",
     "prefixMeaningEn": "not; against",
@@ -15724,7 +15724,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aviary/",
     "frequency": "高频",
-    "example": "The aviary has many birds.\n鸟舍有很多鸟。",
+    "example": "Birds in the aviary.\n鸟舍里的鸟。\nVisit the aviary.\n参观鸟舍。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15745,7 +15745,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aviation/",
     "frequency": "中频",
-    "example": "Aviation is a growing industry.\n航空业是一个不断增长的行业。",
+    "example": "Civil aviation.\n民航。\nAviation industry.\n航空业。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15766,7 +15766,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aviator/",
     "frequency": "低频",
-    "example": "He is a famous aviator.\n他是一位著名的飞行员。",
+    "example": "Famous aviator.\n著名飞行员。\nEarly aviators.\n早期飞行员。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15787,7 +15787,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avid/",
     "frequency": "高频",
-    "example": "He is an avid reader.\n他是一个热情的读者。",
+    "example": "Avid reader.\n狂热读者。\nAvid sports fan.\n狂热体育迷。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15808,7 +15808,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avocado/",
     "frequency": "中频",
-    "example": "She added avocado to the salad.\n她在沙拉里加了鳄梨。",
+    "example": "Avocado toast.\n牛油果吐司。\nFresh avocado.\n新鲜牛油果。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15871,7 +15871,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avow/",
     "frequency": "中频",
-    "example": "He avowed his love.\n他公开表达了他的爱。",
+    "example": "Avow your love.\n表白你的爱。\nPublicly avow.\n公开宣称。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15892,7 +15892,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/avowal/",
     "frequency": "低频",
-    "example": "His avowal was sincere.\n他的声明是真诚的。",
+    "example": "Sincere avowal.\n真诚的表白。\nAvowal of faith.\n信仰宣言。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15913,7 +15913,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/await/",
     "frequency": "高频",
-    "example": "We await your response.\n我们等待您的回复。",
+    "example": "Await your reply.\n等待你的回复。\nAwait further instructions.\n等待进一步指示。",
     "prefix": "a-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -15934,7 +15934,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈweɪk/",
     "frequency": "中频",
-    "example": "He is awake now.\n他现在醒了。",
+    "example": "Stay awake.\n保持清醒。\nWake up, awake!\n醒醒！",
     "prefix": "a-",
     "prefixMeaning": "向上；加强语气",
     "prefixMeaningEn": "up; intensifier",
@@ -15955,7 +15955,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awakening/",
     "frequency": "中频",
-    "example": "The awakening was gradual.\n觉醒是渐进的。",
+    "example": "Spiritual awakening.\n精神觉醒。\nMorning awakening.\n早晨醒来。",
     "prefix": "a-",
     "prefixMeaning": "向上；加强语气",
     "prefixMeaningEn": "up; intensifier",
@@ -15976,7 +15976,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈwɔːd/",
     "frequency": "高频",
-    "example": "He received an award.\n他获得了一个奖项。",
+    "example": "Win an award.\n获奖。\nAcademy Award.\n奥斯卡奖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -15997,7 +15997,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈweə/",
     "frequency": "高频",
-    "example": "Be aware of the risks.\n意识到风险。",
+    "example": "Be aware.\n要意识到。\nEnvironmentally aware.\n环保意识。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16018,7 +16018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awareness/",
     "frequency": "中频",
-    "example": "Awareness is important.\n意识很重要。",
+    "example": "Raise awareness.\n提高意识。\nPublic awareness.\n公众意识。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16039,7 +16039,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awash/",
     "frequency": "低频",
-    "example": "The beach was awash.\n海滩被淹没。",
+    "example": "Awash with money.\n资金充裕。\nAwash in tears.\n泪流满面。",
     "prefix": "a-",
     "prefixMeaning": "在；处于",
     "prefixMeaningEn": "in; at",
@@ -16060,7 +16060,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈweɪ/",
     "frequency": "高频",
-    "example": "He went away.\n他离开了。",
+    "example": "Go away.\n走开。\nFar away.\n遥远。",
     "prefix": "a-",
     "prefixMeaning": "离开；不",
     "prefixMeaningEn": "away; not",
@@ -16081,7 +16081,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awesome/",
     "frequency": "高频",
-    "example": "The view is awesome.\n景色很棒。",
+    "example": "Awesome performance.\n精彩表演。\nYou are awesome!\n你太棒了！",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16102,7 +16102,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːfl/",
     "frequency": "中频",
-    "example": "The weather was awful.\n天气很糟糕。",
+    "example": "Awful weather.\n糟糕的天气。\nAn awful mistake.\n严重的错误。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16123,7 +16123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːkwəd/",
     "frequency": "中频",
-    "example": "The situation was awkward.\n情况很尴尬。",
+    "example": "Awkward situation.\n尴尬的局面。\nAwkward silence.\n尴尬的沉默。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16144,7 +16144,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awl/",
     "frequency": "中频",
-    "example": "Use an awl for leather.\n用锥子处理皮革。",
+    "example": "Use an awl.\n使用锥子。\nLeather awl.\n皮革锥。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16186,7 +16186,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/awry/",
     "frequency": "高频",
-    "example": "The plan went awry.\n计划出了问题。",
+    "example": "Plan went awry.\n计划出了差错。\nSomething is awry.\n有点不对劲。",
     "prefix": "a-",
     "prefixMeaning": "不；偏离",
     "prefixMeaningEn": "not; off",
@@ -16207,7 +16207,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/axe/",
     "frequency": "高频",
-    "example": "He used an axe to cut wood.\n他用斧头砍木头。",
+    "example": "Cut with an axe.\n用斧头砍。\nDouble axe.\n双刃斧。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16291,7 +16291,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/axle/",
     "frequency": "中频",
-    "example": "The axle broke under pressure.\n车轴在压力下断裂了。",
+    "example": "Car axle.\n汽车车轴。\nWheel axle.\n轮轴。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -16312,7 +16312,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/azure/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会天蓝色的发展。",
+    "example": "Azure sky.\n蔚蓝的天空。\nAzure waters.\n湛蓝的海水。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",

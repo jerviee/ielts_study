@@ -174,6 +174,13 @@ export default function WordCard({ word, onFlip }: WordCardProps) {
             <p className="text-sm text-primary-200 mb-2">例句</p>
             <p className="text-white/90 italic">{word.example.split('\n')[0]}</p>
             <p className="text-sm text-gray-300 mt-2">{word.example.split('\n')[1] || ''}</p>
+            <div className="mt-4 pt-3 border-t border-white/20">
+              <p className="text-sm text-primary-200 mb-2">例句 2</p>
+              <p className="text-white/90 italic">{word.example.split('
+')[2] || ''}</p>
+              <p className="text-sm text-gray-300 mt-2">{word.example.split('
+')[3] || ''}</p>
+            </div>
           </div>
           
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-4 mb-4">

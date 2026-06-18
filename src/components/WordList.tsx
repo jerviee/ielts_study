@@ -446,7 +446,7 @@ export default function WordList() {
                                                     
                                                     <div className="bg-white/10 rounded-lg p-3 mb-3">
                                                       <div className="flex items-center justify-between mb-1">
-                                                        <p className="text-xs text-blue-200">例句</p>
+                                                        <p className="text-xs text-blue-200">例句 1</p>
                                                         <button
                                                           onClick={(e) => { e.stopPropagation(); handleSpeakExample(word.example); }}
                                                           className="p-1 hover:bg-white/20 rounded transition-colors"
@@ -457,6 +457,20 @@ export default function WordList() {
                                                       </div>
                                                       <p className="text-sm italic text-white">{word.example.split('\n')[0]}</p>
                                                       <p className="text-xs text-gray-300 mt-1">{word.example.split('\n')[1] || ''}</p>
+                                                      <div className="mt-3 pt-3 border-t border-white/20">
+                                                        <div className="flex items-center justify-between mb-1">
+                                                          <p className="text-xs text-blue-200">例句 2</p>
+                                                          <button
+                                                            onClick={(e) => { e.stopPropagation(); handleSpeakExample(word.example.split('\n')[2]); }}
+                                                            className="p-1 hover:bg-white/20 rounded transition-colors"
+                                                            title="朗读例句2"
+                                                          >
+                                                            <Volume2 size={14} className="text-blue-200" />
+                                                          </button>
+                                                        </div>
+                                                        <p className="text-sm italic text-white">{word.example.split('\n')[2] || ''}</p>
+                                                        <p className="text-xs text-gray-300 mt-1">{word.example.split('\n')[3] || ''}</p>
+                                                      </div>
                                                     </div>
                                                     
                                                     {word.relatedWords && word.relatedWords.length > 0 && (
