@@ -1,6 +1,6 @@
 {
   "name": "ielts-study-tool",
-  "version": "5.0.0.1",
+  "version": "6.1.0",
   "private": true,
   "type": "module",
   "scripts": {
