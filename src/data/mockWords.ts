@@ -25528,7 +25528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boa/",
     "frequency": "低频",
-    "example": "The boa constrictor coiled around its prey.\n蟒蛇缠绕在猎物身上。\nA boa scarf kept her warm in the cold weather.\n一条蟒蛇围巾在寒冷天气里让她保持温暖。",
+    "example": "The large boa constrictor coiled itself around the tree branch waiting patiently for unsuspecting prey to wander within striking distance.\n这条大蟒蛇盘绕在树枝上，耐心等待毫无防备的猎物进入攻击距离。\nShe wore an elegant boa made of soft feathers around her shoulders for the glamorous evening gala and formal celebration.\n她在迷人的晚宴和正式庆典上肩上披着一条由柔软羽毛制成的优雅羽毛围巾。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25549,7 +25549,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boar/",
     "frequency": "高频",
-    "example": "The wild boar charged at the hunters.\n野猪向猎人冲去。\nBoar meat is considered a delicacy in some cultures.\n野猪肉在某些文化中被认为是美味。",
+    "example": "Hunters tracked the wild boar through the dense forest using trained dogs to locate the massive animal in its natural habitat.\n猎人通过训练有素的狗追踪野猪穿过茂密的森林，在其自然栖息地找到这头庞大的动物。\nThe aggressive boar charged at the unsuspecting hiker forcing him to quickly climb a tree to avoid the dangerous confrontation.\n这头好斗的野猪冲向毫无防备的徒步旅行者，迫使他迅速爬上树以避免危险的对抗。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25570,7 +25570,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔːd/",
     "frequency": "高频",
-    "example": "The board of directors approved the new plan.\n董事会批准了新计划。\nShe boarded the train to visit her grandmother.\n她登上火车去看望她的祖母。",
+    "example": "The company board of directors gathered in the conference room to discuss important strategic decisions affecting the organizations future direction.\n公司董事会聚集在会议室讨论影响组织未来方向的重要战略决策。\nPassengers began to board the cruise ship eagerly anticipating their tropical vacation and relaxing journey across the Caribbean Sea.\n乘客开始登上游轮，热切期待他们的热带假期和穿越加勒比海的轻松旅程。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25591,7 +25591,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boarder/",
     "frequency": "低频",
-    "example": "The boarder shared the house with three others.\n寄宿生和另外三人合住这所房子。\nHe paid monthly rent as a boarder in the family home.\n他作为寄宿生每月支付租金。",
+    "example": "The college boarder shared a small dormitory room with three other students who came from different parts of the country.\n这位大学寄宿生和其他三名来自全国各地的学生共用一个小宿舍房间。\nDuring the winter storm the boarder helped shovel snow from the driveway and check on elderly neighbors in the neighborhood.\n在冬季风暴期间，寄宿生帮助清理车道上的积雪，并查看附近的老年邻居。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25612,7 +25612,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boarding/",
     "frequency": "高频",
-    "example": "Boarding school can be a challenging experience.\n寄宿学校可能是一次具有挑战性的经历。\nThe boarding pass was checked before boarding the plane.\n登机前检查了登机牌。",
+    "example": "The airline announced the boarding process would begin in ten minutes asking passengers to prepare their boarding passes and identification documents.\n航空公司宣布登机程序将在十分钟后开始，要求乘客准备登机牌和身份证件。\nParents waved goodbye to their children as they boarded the school bus for their first day at the new boarding school.\n父母向登上校车去新寄宿学校第一天的孩子们挥手告别。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25633,7 +25633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boardroom/",
     "frequency": "中频",
-    "example": "The executives met in the boardroom for hours.\n高管们在董事会会议室会面了几个小时。\nThe boardroom was equipped with a large conference table.\n董事会会议室配备了大型会议桌。",
+    "example": "Executives gathered in the spacious and elegantly decorated boardroom to discuss quarterly financial results and plan strategic initiatives.\n高管们聚集在宽敞优雅的董事会会议室讨论季度财务业绩并规划战略举措。\nThe modern boardroom featured large floor-to-ceiling windows overlooking the city skyline and comfortable leather chairs for important meetings.\n现代董事会会议室配有俯瞰城市天际线的大型落地窗和舒适的皮椅，适合重要会议。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25654,7 +25654,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boast/",
     "frequency": "中频",
-    "example": "He likes to boast about his achievements.\n他喜欢吹嘘自己的成就。\nThe hotel boasts a beautiful view of the ocean.\n这家酒店拥有美丽的海景。",
+    "example": "He would often boast about his accomplishments to anyone who would listen exaggerating his achievements and downplaying his failures.\n他经常向任何愿意倾听的人吹嘘自己的成就，夸大自己的功绩并淡化自己的失败。\nThe luxurious hotel could boast of stunning ocean views and world-class amenities that attracted wealthy travelers from around the globe.\n这家豪华酒店可以吹嘘拥有令人惊叹的海景和世界级的设施，吸引了来自全球的富裕旅行者。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25675,7 +25675,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊt/",
     "frequency": "高频",
-    "example": "They rowed the boat across the calm lake.\n他们划船穿过平静的湖面。\nThe boat capsized in the stormy sea.\n船在暴风雨中倾覆了。",
+    "example": "Fishermen set sail early in the morning in their small wooden boat hoping to catch enough fish to sell at the local market.\n渔民们一大早乘着小木船出海，希望能捕到足够的鱼在当地市场出售。\nChildren laughed and splashed water as they rowed the colorful boat across the calm lake on a sunny summer afternoon.\n孩子们在阳光明媚的夏日午后划着彩色小船穿过平静的湖面，笑着戏水。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25696,7 +25696,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boatman/",
     "frequency": "中频",
-    "example": "The boatman ferried passengers across the river.\n船夫载着乘客过河。\nThe old boatman knew every current in the river.\n老船夫知道河里的每一股水流。",
+    "example": "The experienced boatman navigated the narrow river channels with skill guiding tourists through the scenic waterways of the ancient city.\n这位经验丰富的船夫熟练地在狭窄的河道中航行，引导游客穿过古城的风景水道。\nFor generations the boatman family had ferried passengers across the river providing an essential service to the isolated village community.\n几代人以来，船夫家族一直摆渡乘客过河，为这个孤立的村庄社区提供必要的服务。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25717,7 +25717,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boatyard/",
     "frequency": "低频",
-    "example": "The boatyard repairs and stores small boats.\n船坞修理和存放小船。\nSeveral yachts were docked at the boatyard.\n几艘游艇停靠在船坞。",
+    "example": "Workers at the boatyard spent weeks repairing and painting the old wooden sailboat to restore it to its former glory.\n船坞的工人花了几周时间修复和粉刷这艘旧木帆船，使其恢复昔日辉煌。\nThe boatyard offered storage facilities and maintenance services for yacht owners who needed a safe place to keep their vessels.\n船坞为需要安全存放船只的游艇所有者提供存储设施和维护服务。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25738,7 +25738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bob/",
     "frequency": "高频",
-    "example": "The buoy bobbed gently on the water.\n浮标在水面上轻轻浮动。\nShe gave him a playful bob on the cheek.\n她俏皮地在他脸颊上轻吻了一下。",
+    "example": "The buoy would bob gently on the water surface indicating the location of the submerged fishing nets in the deep harbor waters.\n浮标会在水面上轻轻摆动，指示深水港中水下渔网的位置。\nShe decided to bob her hair short for the summer embracing a fresh new look that suited her energetic personality and lifestyle.\n她决定夏天把头发剪短，采用适合她活力个性和生活方式的清新新造型。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25759,7 +25759,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bobbin/",
     "frequency": "中频",
-    "example": "The thread was wound around the bobbin.\n线绕在梭芯上。\nShe replaced the empty bobbin in the sewing machine.\n她更换了缝纫机里的空梭芯。",
+    "example": "The seamstress carefully wound the colorful thread around the wooden bobbin preparing it for use in the vintage sewing machine.\n女裁缝小心翼翼地将彩色线绕在木制线轴上，准备在老式缝纫机上使用。\nTextile factories use large industrial bobbins to hold massive amounts of thread for high-speed weaving and manufacturing processes.\n纺织厂使用大型工业线轴来容纳大量的线，用于高速编织和制造过程。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25780,7 +25780,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bobby/",
     "frequency": "低频",
-    "example": "The bobby patrolled the neighborhood on foot.\n警察徒步巡逻社区。\nIn Britain, a bobby refers to a police officer.\n在英国，bobby指警察。",
+    "example": "The friendly bobby helped the lost tourist find his way back to the hotel providing clear directions through the winding city streets.\n这位友好的警察帮助迷路的游客找到回酒店的路，提供穿过蜿蜒城市街道的清晰方向。\nChildren giggled as they watched the bobby demonstrate his police motorcycle skills during the community safety fair and event.\n孩子们看着警察在社区安全博览会上展示他的警用摩托车技能，咯咯地笑个不停。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25801,7 +25801,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bobcat/",
     "frequency": "高频",
-    "example": "The bobcat hunted for prey in the forest.\n山猫在森林里捕食。\nBobcats have distinctive tufted ears.\n山猫有独特的耳簇。",
+    "example": "Wildlife photographers patiently waited for hours to capture a photograph of the elusive bobcat in its natural mountain habitat.\n野生动物摄影师耐心等待数小时，只为捕捉难以捉摸的山猫在其自然山地栖息地的照片。\nThe bobcats distinctive short tail and tufted ears make it easily recognizable among other wild feline species in North America.\n山猫独特的短尾巴和簇状耳朵使其在北美其他野生猫科动物中很容易被识别。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25822,7 +25822,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boded/",
     "frequency": "中频",
-    "example": "His strange behavior boded ill for the project.\n他奇怪的行为预示着项目不妙。\nThe dark clouds boded a storm was coming.\n乌云预示着暴风雨即将来临。",
+    "example": "The dark clouds and sudden drop in temperature boded ill for the outdoor concert that was scheduled to begin in just an hour.\n乌云和突然下降的温度预示着原定一小时后开始的户外音乐会前景不妙。\nHis sudden silence and avoidant gaze boded trouble though he insisted everything was fine when asked about his concerns.\n他突然的沉默和回避的目光预示着麻烦，尽管当被问及他的担忧时，他坚持说一切都很好。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25843,7 +25843,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bodega/",
     "frequency": "低频",
-    "example": "The bodega sold fresh bread and cheese.\n便利店出售新鲜面包和奶酪。\nShe stopped at the bodega for a quick snack.\n她在便利店停下来买了一份快餐。",
+    "example": "Locals gathered at the corner bodega to buy fresh produce and household essentials from the friendly owner who knew everyone by name.\n当地人聚集在街角的杂货店，从认识每个人名字的友好店主那里购买新鲜农产品和家庭必需品。\nThe family-run bodega had been serving the neighborhood for over forty years becoming a beloved community landmark and gathering place.\n这家家庭经营的杂货店已经为社区服务了四十多年，成为受人喜爱的社区地标和聚会场所。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25864,7 +25864,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bodiless/",
     "frequency": "高频",
-    "example": "The ghost appeared as a bodiless spirit.\n鬼魂以无形的灵魂出现。\nThe bodiless voice echoed through the empty hall.\n无形的声音在空荡荡的大厅里回荡。",
+    "example": "The ghost story described a bodiless spirit that haunted the old mansion wandering the halls and whispering eerie messages to visitors.\n鬼故事描述了一个无实体的幽灵，它在古老的豪宅里游荡，在大厅里徘徊，并向访客低语诡异的信息。\nScientists explored the concept of bodiless consciousness in theoretical physics discussing whether awareness could exist without a physical form.\n科学家们在理论物理学中探索了无实体意识的概念，讨论意识是否可以在没有物理形式的情况下存在。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25885,7 +25885,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boding/",
     "frequency": "中频",
-    "example": "His boding look made everyone uneasy.\n他不祥的表情让每个人都不安。\nThe boding atmosphere preceded the disaster.\n灾难来临前气氛不祥。",
+    "example": "The fortune tellers boding predictions about the coming year made the superstitious villagers anxious about potential disasters and misfortunes.\n算命先生关于来年的不祥预言让迷信的村民们对潜在的灾难和不幸感到焦虑。\nHis constant boding remarks about economic collapse annoyed his colleagues who preferred to focus on positive possibilities and opportunities.\n他关于经济崩溃的不断不祥言论惹恼了他的同事们，他们更愿意关注积极的可能性和机会。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25906,7 +25906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒdi/",
     "frequency": "高频",
-    "example": "The human body is a complex biological machine.\n人体是一个复杂的生物机器。\nShe exercised daily to keep her body fit.\n她每天锻炼保持身体健康。",
+    "example": "Doctors examined the patients body thoroughly looking for any signs of injury or illness during the comprehensive medical checkup.\n医生在全面体检期间彻底检查了患者的身体，寻找任何受伤或疾病的迹象。\nThe search and rescue team recovered the hikers body from the remote mountain trail after an extensive three-day search operation.\n经过三天广泛的搜索行动，救援队从偏远的山路上找到了徒步旅行者的尸体。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25927,7 +25927,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bodyguard/",
     "frequency": "高频",
-    "example": "The celebrity hired a bodyguard for protection.\n这位名人雇了一名保镖保护自己。\nBodyguards must be highly trained professionals.\n保镖必须是训练有素的专业人员。",
+    "example": "The famous celebrity always traveled with a team of trained bodyguards to ensure his safety during public appearances and events.\n这位著名名人出行时总是带着一队训练有素的保镖，以确保他在公开露面和活动期间的安全。\nThe wealthy businessman hired a former special forces soldier as his personal bodyguard impressed by his extensive combat experience and tactical skills.\n这位富商聘请了一名前特种部队士兵作为他的私人保镖，对他丰富的战斗经验和战术技能印象深刻。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25948,7 +25948,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bogey/",
     "frequency": "中频",
-    "example": "The golfer hit the ball past the bogey.\n高尔夫球手把球打过了障碍区。\nBogey is a term used in golf scoring.\n柏忌是高尔夫计分中使用的术语。",
+    "example": "The children were terrified of the bogey man their parents warned them about who supposedly lurked in the dark woods at night.\n孩子们害怕父母警告他们的那个据说晚上潜伏在黑暗树林里的鬼怪。\nGolfers groaned as their ball landed in the sand trap near the bogey hole making it difficult to par the challenging course.\n高尔夫球手们呻吟着，因为他们的球落在了障碍洞附近的沙坑里，很难在这个具有挑战性的球场上打标准杆。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25969,7 +25969,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boggle/",
     "frequency": "低频",
-    "example": "The complex puzzle made his mind boggle.\n复杂的谜题让他困惑。\nShe boggled at the price of the luxury car.\n她对豪华车的价格感到震惊。",
+    "example": "The complex mathematical problem continued to boggle the students mind despite hours of focused study and repeated attempts to solve it.\n尽管经过数小时的专注学习和反复尝试解决，这个复杂的数学问题仍然让学生困惑不已。\nHis mind began to boggle at the sheer scale of the project realizing they would need months of work to complete all the required tasks.\n他开始对这个项目的规模感到困惑，意识到他们需要几个月的工作才能完成所有必要的任务。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25990,7 +25990,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boggy/",
     "frequency": "高频",
-    "example": "The boggy terrain made hiking difficult.\n沼泽地带使徒步旅行变得困难。\nWe struggled through the boggy marshland.\n我们艰难地穿过沼泽地。",
+    "example": "Hikers struggled through the boggy terrain carefully placing each foot to avoid sinking into the thick mud and marshy ground.\n徒步旅行者艰难地穿过泥泞的地形，小心翼翼地放置每只脚，以免陷入厚厚的泥浆和沼泽地。\nThe boggy wetlands provided essential habitat for migratory birds and rare plant species that thrived in the damp conditions.\n沼泽湿地为候鸟和在潮湿条件下茁壮成长的稀有植物物种提供了必要的栖息地。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26011,7 +26011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bogus/",
     "frequency": "中频",
-    "example": "The salesman was selling bogus products.\n推销员在卖假冒产品。\nBogus claims were made about the miracle cure.\n关于神奇疗法有虚假的说法。",
+    "example": "Authorities warned consumers about bogus products being sold online that claimed to be genuine luxury goods but were actually cheap imitations.\n当局警告消费者注意网上销售的假冒产品，这些产品声称是真正的奢侈品，但实际上是廉价仿制品。\nThe scam artist created bogus documents to convince investors to hand over their savings promising unrealistic returns on investment.\n这个骗子伪造文件来说服投资者交出他们的储蓄，承诺不切实际的投资回报。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26032,7 +26032,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bohemian/",
     "frequency": "低频",
-    "example": "She lived a bohemian lifestyle in Paris.\n她在巴黎过着波西米亚式的生活。\nBohemian artists often reject conventional norms.\n波西米亚艺术家常常拒绝传统规范。"
+    "example": "The artist lived a bohemian lifestyle in a cramped apartment filled with paintings musical instruments and eclectic furniture from around the world.\n这位艺术家在一间狭窄的公寓里过着波西米亚式的生活，公寓里摆满了来自世界各地的画作、乐器和不拘一格的家具。\nHer bohemian style of dress featuring flowing fabrics and vibrant colors reflected her creative personality and artistic sensibilities.\n她的波西米亚风格服饰以飘逸的面料和鲜艳的色彩为特色，反映了她富有创造力的个性和艺术敏感性。"
   },
   {
     "id": "word_1290",
@@ -26047,7 +26047,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔɪl/",
     "frequency": "中频",
-    "example": "Bring the water to a boil before adding pasta.\n加水前把水烧开。\nThe kettle began to boil on the stove.\n水壶在炉子上开始沸腾。",
+    "example": "Chefs instructed students to boil the water before adding the pasta explaining that rapid boiling ensures even cooking and al dente texture.\n厨师指导学生在加入意大利面之前将水烧开，解释说快速沸腾确保均匀烹饪和有嚼劲的质地。\nTensions began to boil over during the heated debate as opposing sides refused to compromise on their conflicting viewpoints and demands.\n在激烈的辩论中，紧张局势开始沸腾，因为对立双方拒绝在他们冲突的观点和要求上妥协。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26068,7 +26068,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boiler/",
     "frequency": "中频",
-    "example": "The boiler needs to be serviced regularly.\n锅炉需要定期检修。\nThe old boiler produced enough heat for the building.\n旧锅炉为建筑物提供足够的热量。",
+    "example": "Maintenance workers inspected the industrial boiler regularly to ensure it operated safely and efficiently throughout the cold winter months.\n维修工人定期检查工业锅炉，以确保它在寒冷的冬季安全高效地运行。\nThe old steam boiler in the historic factory had been in continuous operation for over fifty years requiring constant repairs and careful monitoring.\n历史工厂里的旧蒸汽锅炉已经连续运行了五十多年，需要不断维修和仔细监控。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26089,7 +26089,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊld/",
     "frequency": "中频",
-    "example": "She made a bold decision to change careers.\n她做出了一个大胆的决定，改变了职业。\nThe bold colors made the painting stand out.\n大胆的颜色使这幅画脱颖而出。",
+    "example": "The young entrepreneur made a bold decision to invest all her savings in the risky startup despite warnings from family and financial advisors.\n这位年轻的企业家不顾家人和财务顾问的警告，大胆决定将所有积蓄投资于这家风险创业公司。\nUsing bold colors and striking imagery the graphic designer created an eye-catching poster that immediately grabbed viewers attention.\n平面设计师使用大胆的色彩和醒目的图像创作出一张引人注目的海报，立刻吸引了观众的注意力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26110,7 +26110,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boldface/",
     "frequency": "高频",
-    "example": "Important words were printed in boldface.\n重要的词用粗体字印刷。\nUse boldface to emphasize key points in the document.\n使用粗体强调文档中的关键点。",
+    "example": "Publishers frequently use boldface type to emphasize important headings and key pieces of information in textbooks and reference guides.\n出版商经常使用黑体字来强调教科书和参考指南中的重要标题和关键信息。\nThe graphic designer strategically used boldface fonts with larger sizes to create eye-catching headlines that would immediately grab readers attention on magazine covers and advertising materials.\n平面设计师战略性地使用较大尺寸的黑体字体创建引人注目的标题，以立即吸引读者对杂志封面和广告材料的注意力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26131,7 +26131,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bolero/",
     "frequency": "中频",
-    "example": "She danced the bolero with great passion.\n她充满激情地跳波莱罗舞。\nThe bolero is a traditional Spanish dance.\n波莱罗舞是传统的西班牙舞蹈。",
+    "example": "The dancers performed an energetic and passionate bolero routine that combined intricate footwork with rhythmic music and expressive arm movements.\n舞者们表演了一段充满活力和激情的波列罗舞，将复杂的步法与节奏音乐和富有表现力的手臂动作结合在一起。\nShe wore a stylish bolero jacket made of luxurious silk and delicate lace over her elegant evening gown for the formal gala event.\n她在正式的庆典活动中穿着一件由奢华丝绸和精致蕾丝制成的时尚短上衣，搭配优雅的晚礼服。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26152,7 +26152,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bollard/",
     "frequency": "低频",
-    "example": "The ship was tied to the bollard at the dock.\n船被系在码头的系缆柱上。\nBollards prevent vehicles from entering pedestrian areas.\n系缆柱阻止车辆进入行人区。",
+    "example": "City workers installed sturdy bollards along the sidewalk to prevent vehicles from parking in pedestrian zones and blocking foot traffic.\n城市工作人员沿着人行道安装了坚固的护柱，以防止车辆停在行人区并阻碍步行交通。\nShips tied their mooring lines to the massive iron bollards along the dock ensuring they remained securely anchored during stormy weather.\n船只将系泊绳系在码头沿线的巨大铁缆柱上，确保它们在暴风雨天气中保持安全锚定。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26173,7 +26173,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bolster/",
     "frequency": "高频",
-    "example": "Pillows were used to bolster her back.\n枕头被用来支撑她的背部。\nThe new evidence bolstered their case.\n新证据支持了他们的案件。",
+    "example": "Government officials announced new policies to bolster the struggling economy by providing financial support to small businesses and job training programs.\n政府官员宣布了新政策，通过向小企业提供财政支持和职业培训计划来支持陷入困境的经济。\nUsing extra pillows to bolster his back the elderly man settled comfortably in his favorite armchair to read his afternoon newspaper.\n老人用额外的枕头支撑背部，舒适地坐在他最喜欢的扶手椅上阅读下午的报纸。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26194,7 +26194,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊlt/",
     "frequency": "中频",
-    "example": "The horse bolted when it heard the loud noise.\n马听到巨大的噪音时受惊跑了。\nHe locked the door and slid the bolt into place.\n他锁上门并插上插销。",
+    "example": "Construction workers used heavy-duty bolts to secure the steel beams together ensuring the buildings structural integrity and safety.\n建筑工人使用重型螺栓将钢梁固定在一起，确保建筑物的结构完整性和安全性。\nWithout hesitation she bolted from the burning building escaping just moments before the roof collapsed in a shower of sparks and debris.\n她毫不犹豫地从着火的建筑物中冲出来，在屋顶在火花和碎片的阵雨中坍塌前片刻逃脱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26215,7 +26215,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒm/",
     "frequency": "高频",
-    "example": "The bomb exploded in the empty building.\n炸弹在空建筑物中爆炸。\nThe army defused the bomb safely.\n军队安全地拆除了炸弹。",
+    "example": "Military experts defused the unexploded bomb found near the train station working carefully to prevent any accidental detonation.\n军事专家拆除了在火车站附近发现的未爆炸炸弹，小心工作以防止任何意外引爆。\nThe new action movie turned out to be a box office bomb failing to attract audiences despite massive marketing campaigns and celebrity endorsements.\n这部新动作电影结果是票房惨败，尽管有大规模的营销活动和名人代言，但未能吸引观众。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26236,7 +26236,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombard/",
     "frequency": "高频",
-    "example": "Enemy forces began to bombard the city.\n敌军开始轰炸这座城市。\nReporters bombarded the celebrity with questions.\n记者们用问题轰炸这位名人。",
+    "example": "Enemy forces began to bombard the fortified city with artillery fire creating chaos and destruction in the densely populated urban area.\n敌军开始用炮火轰炸这座设防城市，在人口稠密的城区造成混乱和破坏。\nJournalists were bombarded with questions from eager reporters during the press conference about the companys controversial business practices.\n在新闻发布会上，记者们被热切的记者们轰炸式地提问关于公司有争议的商业行为。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26257,7 +26257,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombardier/",
     "frequency": "中频",
-    "example": "The bombardier dropped bombs on enemy targets.\n投弹手向敌人目标投下炸弹。\nBombardiers played a crucial role in aerial warfare.\n投弹手在空战中发挥了关键作用。",
+    "example": "The skilled bombardier calculated precise trajectories for the aircrafts payload ensuring bombs hit their intended targets with deadly accuracy.\n熟练的投弹手计算飞机有效载荷的精确轨迹，确保炸弹以致命的准确性击中预定目标。\nHistorical records documented the bravery of young bombardiers who risked their lives during dangerous combat missions in World War II.\n历史记录记载了在第二次世界大战期间危险战斗任务中冒着生命危险的年轻投弹手的勇敢事迹。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26278,7 +26278,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombardon/",
     "frequency": "低频",
-    "example": "The bombardon is a type of brass instrument.\n邦巴东号是一种铜管乐器。\nThe bombardon produces a deep, resonant sound.\n邦巴东号产生深沉共鸣的声音。",
+    "example": "The brass band featured a bombardon player whose deep resonant tones added richness and depth to the orchestras performance.\n铜管乐队有一名低音号演奏者，其深沉共鸣的音调为管弦乐队的表演增添了丰富性和深度。\nMusic historians studied the bombardon unique construction and tonal characteristics to understand its role in 19th-century military bands.\n音乐历史学家研究了低音号独特的结构和音调特征，以了解其在19世纪军乐队中的作用。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26299,7 +26299,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombast/",
     "frequency": "高频",
-    "example": "His speech was full of empty bombast.\n他的演讲充满了空洞的夸夸其谈。\nThe politician used bombast to impress the crowd.\n政客用夸夸其谈来打动人群。",
+    "example": "Critics dismissed the politicians speech as empty bombast noting that it lacked substantive policies and meaningful proposals for reform.\n批评者认为这位政治家的演讲是空洞的夸大言辞，指出它缺乏实质性政策和有意义的改革建议。\nThe author avoided bombast in his writing preferring clear concise language that communicated ideas directly to readers without unnecessary embellishment.\n作者在写作中避免夸大其词，更喜欢清晰简洁的语言，直接向读者传达思想，没有不必要的修饰。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26320,7 +26320,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bomber/",
     "frequency": "中频",
-    "example": "The bomber aircraft flew over the battlefield.\n轰炸机飞越战场。\nA suicide bomber attacked the crowded market.\n自杀式炸弹袭击者袭击了拥挤的市场。",
+    "example": "The air force deployed stealth bombers to carry out precision strikes against enemy targets deep behind enemy lines.\n空军部署隐形轰炸机对敌方防线后方深处的目标进行精确打击。\nHistorical museums display vintage bombers from World War II allowing visitors to see the massive aircraft that played crucial roles in military history.\n历史博物馆展示二战时期的老式轰炸机，让游客可以看到在军事历史中发挥关键作用的大型飞机。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26341,7 +26341,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombing/",
     "frequency": "低频",
-    "example": "The bombing caused extensive damage to the city.\n轰炸对城市造成了广泛的破坏。\nAir raids and bombings continued throughout the night.\n空袭和轰炸持续了一整夜。",
+    "example": "Authorities investigated the terrorist bombing that had destroyed several buildings and injured dozens of innocent civilians in the city center.\n当局调查了恐怖袭击爆炸事件，该事件摧毁了几栋建筑物并造成市中心数十名无辜平民受伤。\nAnti-war activists organized peaceful protests against the bombing campaign arguing that it caused unnecessary suffering to civilian populations.\n反战活动家组织和平抗议反对轰炸行动，认为这给平民造成了不必要的痛苦。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26362,7 +26362,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒnd/",
     "frequency": "高频",
-    "example": "The bond between mother and child is unbreakable.\n母子之间的纽带是牢不可破的。\nThe chemical bond held the atoms together.\n化学键将原子结合在一起。",
+    "example": "Investors purchased government bonds as a safe investment option that provided steady returns over the long term with minimal risk.\n投资者购买政府债券作为安全的投资选择，长期提供稳定回报，风险最小。\nThe emotional bond between mother and child grows stronger through years of nurturing care shared experiences and unconditional love.\n母子之间的情感纽带通过多年的养育关怀、共同经历和无条件的爱而变得更加牢固。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26383,7 +26383,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bondage/",
     "frequency": "高频",
-    "example": "The novel explores themes of bondage and freedom.\n这部小说探讨了束缚和自由的主题。\nBondage is often depicted in certain types of literature.\n束缚在某些类型的文学中经常被描绘。",
+    "example": "Activists worked tirelessly to end the bondage of slavery and secure freedom for all people regardless of their race or background.\n活动家不懈努力结束奴隶制的束缚，为所有人争取自由，无论其种族或背景如何。\nThe psychological bondage created by years of emotional abuse made it difficult for her to trust others and form healthy relationships.\n多年情感虐待造成的心理束缚使她难以信任他人并建立健康的关系。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26404,7 +26404,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonded/",
     "frequency": "中频",
-    "example": "The bonded laborers worked long hours for little pay.\n保税劳工长时间工作却报酬微薄。\nBonded warehouses store imported goods before customs clearance.\n保税仓库在清关前存储进口货物。",
+    "example": "The bonded laborers worked long hours under harsh conditions with little pay to repay debts they could never hope to fully settle.\n抵债劳工在恶劣条件下长时间工作，报酬微薄，以偿还他们永远无法完全还清的债务。\nCustoms officials inspected the bonded warehouse to ensure imported goods were stored securely until duties were fully paid.\n海关官员检查保税仓库，确保进口货物在关税全额支付前安全储存。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26425,7 +26425,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bondholder/",
     "frequency": "低频",
-    "example": "The bondholder received regular interest payments.\n债券持有人定期收到利息支付。\nBondholders expect repayment when the bond matures.\n债券持有人期望债券到期时偿还。",
+    "example": "Bondholders received regular interest payments from the corporation as specified in the detailed bond agreement and official prospectus document.\n债券持有人按照详细的债券协议和官方招股说明书文件的规定定期从公司收到利息支付。\nLarge institutional bondholders often exert significant influence on corporate decisions through their substantial ownership stakes and voting rights in shareholder meetings.\n大型机构债券持有人通常通过其大量所有权股份和在股东大会上的投票权对公司决策施加重大影响。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26446,7 +26446,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊn/",
     "frequency": "高频",
-    "example": "The dog buried the bone in the backyard.\n狗把骨头埋在后院。\nBroken bones require immediate medical attention.\n骨折需要立即就医。",
+    "example": "Archaeologists carefully excavated ancient bone fragments from the dig site piecing together important clues about prehistoric human life and migration patterns.\n考古学家从挖掘现场小心地挖掘古代骨头碎片，拼凑有关史前人类生活和迁徙模式的重要线索。\nDoctors recommended calcium supplements and regular weight-bearing exercise to strengthen the patients bones after detecting early signs of osteoporosis.\n医生在检测到骨质疏松早期迹象后，建议补充钙和定期负重锻炼以增强患者的骨骼。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26467,7 +26467,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonfire/",
     "frequency": "中频",
-    "example": "They gathered around the bonfire to tell stories.\n他们围坐在篝火旁讲故事。\nThe bonfire crackled and lit up the night sky.\n篝火噼啪作响，照亮了夜空。",
+    "example": "Campers gathered around the bonfire sharing stories and roasting marshmallows as the flames danced under the starry night sky.\n露营者围坐在篝火旁，分享故事，烤棉花糖，火焰在星光闪烁的夜空下跳动。\nVillagers celebrated the harvest festival by building a massive bonfire that could be seen for miles around the countryside.\n村民们通过建造一个巨大的篝火来庆祝丰收节，篝火在乡村周围数英里都能看到。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26488,7 +26488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonhomie/",
     "frequency": "低频",
-    "example": "There was a sense of bonhomie at the holiday party.\n节日派对上有一种友善的氛围。\nHis natural bonhomie made him popular among colleagues.\n他天生的友善使他在同事中很受欢迎。",
+    "example": "The hosts warm bonhomie made all the guests feel welcome and comfortable during the lively dinner party and celebration.\n主人热情友好的态度使所有客人在热闹的晚宴和庆祝活动中感到受欢迎和舒适。\nDespite their different backgrounds and opinions the group maintained an atmosphere of bonhomie throughout the entire collaborative project.\n尽管背景和意见不同，该团队在整个合作项目中保持着友好融洽的氛围。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26509,7 +26509,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonnet/",
     "frequency": "高频",
-    "example": "She wore a stylish bonnet to the tea party.\n她戴着一顶时髦的帽子参加茶会。\nThe vintage car had a leather bonnet.\n这辆老式汽车有一个皮革引擎盖。",
+    "example": "The old-fashioned lady wore a delicate lace bonnet adorned with silk ribbons that perfectly complemented her Victorian-era dress.\n这位老式女士戴着一顶精致的蕾丝帽子，饰有与她维多利亚时代连衣裙完美搭配的丝绸缎带。\nHistorical fashion experts carefully studied the intricate embroidery on the antique bonnet to learn about 19th-century millinery techniques.\n历史时尚专家仔细研究古董帽子上复杂的刺绣，以了解19世纪的女帽制作技术。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26530,7 +26530,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonsai/",
     "frequency": "中频",
-    "example": "He spent years cultivating the beautiful bonsai tree.\n他花了多年时间培育这棵美丽的盆景树。\nBonsai requires careful pruning and maintenance.\n盆景需要精心修剪和维护。",
+    "example": "The master gardener spent years carefully pruning and shaping the bonsai tree to create a miniature masterpiece of natural beauty.\n园艺大师花了多年时间精心修剪和塑造盆景树，创造出一件自然美的微型杰作。\nEnthusiasts gathered at the annual bonsai exhibition to admire the exquisite craftsmanship and artistic designs of these living artworks.\n爱好者们聚集在年度盆景展览会上，欣赏这些活艺术品的精湛工艺和艺术设计。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26551,7 +26551,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonus/",
     "frequency": "中频",
-    "example": "The company gave employees a holiday bonus.\n公司给员工发了节日奖金。\nShe received a signing bonus when she joined the firm.\n她加入公司时获得了签约奖金。",
+    "example": "Employees eagerly awaited their annual performance bonus which was based on individual achievements team contributions and overall company profitability.\n员工们热切期待他们的年度绩效奖金，这是基于个人成就、团队贡献和公司整体盈利能力的。\nThe casino offered a generous sign-up bonus to attract new members and encourage them to try various gaming tables and slot machines on the floor.\n赌场提供慷慨的注册奖金来吸引新会员，并鼓励他们尝试赌场内的各种赌桌和老虎机。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26572,7 +26572,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/booby/",
     "frequency": "高频",
-    "example": "The booby bird nested on the remote island.\n鲣鸟在偏远的岛屿上筑巢。\nA booby trap was set to catch the intruder.\n设置了一个陷阱来捕捉入侵者。",
+    "example": "The clumsy booby kept tripping over his own feet during the dance recital much to the amusement of the audience.\n笨拙的笨蛋在舞蹈表演中不断绊倒自己的脚，让观众感到很有趣。\nScientists studied the booby bird species that nests on remote tropical islands to understand their unique mating behaviors and migration patterns.\n科学家研究在偏远热带岛屿筑巢的鲣鸟物种，以了解它们独特的交配行为和迁徙模式。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26593,7 +26593,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boogie/",
     "frequency": "中频",
-    "example": "They danced the boogie all night at the party.\n他们在派对上整夜跳布吉舞。\nBoogie music was popular in the 1970s.\n布吉音乐在20世纪70年代很流行。",
+    "example": "Young people flocked to the dance club to boogie the night away to the latest pop hits and electronic dance music.\n年轻人涌向舞蹈俱乐部，随着最新的流行歌曲和电子舞曲整夜跳舞。\nThe energetic band encouraged the crowd to boogie on the dance floor creating an atmosphere of pure joy and celebration.\n充满活力的乐队鼓励人群在舞池里跳舞，营造出纯粹快乐和庆祝的氛围。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26614,7 +26614,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boohoo/",
     "frequency": "低频",
-    "example": "The child began to boohoo after falling down.\n孩子摔倒后开始哇哇大哭。\nShe pretended to boohoo to get attention.\n她假装哭泣以引起注意。",
+    "example": "The spoiled child began to boohoo loudly when her mother refused to buy her the expensive toy she wanted from the store.\n当母亲拒绝给她买商店里她想要的昂贵玩具时，被宠坏的孩子开始大声嚎啕大哭。\nInstead of offering sympathy her friends playfully teased her for her dramatic boohoo over such a trivial matter.\n她的朋友们没有表示同情，而是开玩笑地嘲笑她为这么小的事而戏剧性地大哭。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26635,7 +26635,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʊk/",
     "frequency": "高频",
-    "example": "She read a book every week for pleasure.\n她每周读一本书消遣。\nThe library has thousands of books on various subjects.\n图书馆有数千本各种主题的书。",
+    "example": "Students carried heavy backpacks filled with textbooks notebooks and other school supplies to their first class of the day.\n学生们背着装满课本、笔记本和其他学习用品的沉重书包去上他们当天的第一堂课。\nShe spent hours browsing the bookstore selecting novels and nonfiction books to add to her growing personal library.\n她花了几个小时在书店浏览，挑选小说和非小说类书籍添加到她不断增长的个人图书馆中。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26656,7 +26656,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookbind/",
     "frequency": "中频",
-    "example": "He learned to bookbind as a hobby.\n他学会了装订书籍作为爱好。\nBookbinders use special tools and materials.\n装订工人使用特殊工具和材料。",
+    "example": "The skilled artisan used traditional bookbinding techniques to carefully bookbind rare manuscripts and preserve them for future generations to study.\n这位熟练的工匠使用传统的装订技术仔细装订稀有手稿，并为后代保存以供研究。\nModern bookbinding machines can efficiently bookbind hundreds of volumes per hour with precise stitching for libraries and publishing houses.\n现代装订机每小时可以高效装订数百卷，为图书馆和出版社采用精确的缝线。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26677,7 +26677,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/booking/",
     "frequency": "低频",
-    "example": "The booking for the hotel was made online.\n酒店预订是在线进行的。\nThere was a booking error for our flight.\n我们的航班预订有误。",
+    "example": "Travel agents handled thousands of flight bookings on a daily basis ensuring passengers reached their destinations safely and on schedule.\n旅行社每天处理数千个航班预订，确保乘客安全准时到达目的地。\nThe popular downtown restaurant required advance booking several weeks ahead during peak tourist season to secure a prime table with a view of the city skyline.\n这家受欢迎的市中心餐厅在旅游旺季需要提前几周预订才能确保有一个能看到城市天际线的好座位。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26698,7 +26698,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookish/",
     "frequency": "高频",
-    "example": "She was known for her bookish personality.\n她以书呆子的性格闻名。\nThe bookish student spent hours in the library.\n这个书呆子学生在图书馆花了几个小时。",
+    "example": "Her bookish nature made her the go-to person for literary recommendations and discussions about classic novels and contemporary authors.\n她爱读书的天性使她成为文学推荐和关于经典小说和当代作家讨论的首选人物。\nWhile some found him overly bookish others admired his extensive knowledge and thoughtful insights on various academic subjects.\n虽然有些人觉得他过于书呆子气，但其他人钦佩他在各种学术科目上的广泛知识和深思熟虑的见解。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26719,7 +26719,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookmark/",
     "frequency": "中频",
-    "example": "She used a silk ribbon as a bookmark.\n她用一条丝带作为书签。\nThe browser saved the page as a bookmark.\n浏览器将页面保存为书签。",
+    "example": "She used a beautiful leather bookmark with her initials embossed on it to mark her place in the lengthy historical novel.\n她使用一个印有她姓名首字母的漂亮皮革书签来标记她在长篇历史小说中的位置。\nWeb browsers allow users to create bookmarks for their favorite websites making it easy to revisit them later.\n网络浏览器允许用户为他们喜欢的网站创建书签，便于以后重新访问。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26740,7 +26740,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookseller/",
     "frequency": "低频",
-    "example": "The bookseller recommended a new novel.\n书商推荐了一本新小说。\nBooksellers often have extensive knowledge of literature.\n书商通常拥有广泛的文学知识。",
+    "example": "The knowledgeable bookseller helped customers find exactly what they were looking for recommending new releases and hidden literary gems.\n这位知识渊博的书商帮助顾客找到他们正在寻找的东西，推荐新书和隐藏的文学珍品。\nIndependent booksellers often organize author readings and book signings to promote literature and foster community engagement among readers.\n独立书商经常组织作者朗读和签售会，以推广文学并促进读者之间的社区参与。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26761,7 +26761,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookstall/",
     "frequency": "高频",
-    "example": "He bought a newspaper from the bookstall.\n他从书报摊买了一份报纸。\nThe bookstall sold magazines and paperback books.\n书报摊出售杂志和平装书。",
+    "example": "Visitors to the market could browse secondhand books at the charming bookstall run by a retired librarian with decades of experience.\n市场游客可以在由一位拥有数十年经验的退休图书管理员经营的迷人书摊上浏览二手书。\nThe historic train station still features a small bookstall where travelers can purchase reading materials for their journeys.\n这座历史悠久的火车站仍然设有一个小书摊，旅客可以在那里购买旅途中的阅读材料。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26782,7 +26782,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buːm/",
     "frequency": "中频",
-    "example": "The economy experienced a boom after the war.\n战后经济经历了繁荣。\nThe sound of the boom echoed across the valley.\n隆隆声回荡在山谷中。",
+    "example": "The economic boom of the 1990s brought unprecedented prosperity to the region creating new jobs and opportunities for thousands of people.\n20世纪90年代的经济繁荣为该地区带来了前所未有的繁荣，为数千人创造了新的就业机会和机遇。\nAs the fireworks exploded overhead a loud boom echoed across the valley signaling the start of the annual summer festival and celebration.\n随着烟花在头顶爆炸，一声巨响在山谷中回荡，标志着一年一度的夏季节日和庆祝活动的开始。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26803,7 +26803,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boomerang/",
     "frequency": "低频",
-    "example": "The boomerang returned to the thrower.\n回旋镖回到投掷者手中。\nHer words came back like a boomerang.\n她的话像回旋镖一样回来。",
+    "example": "Children played with colorful boomerangs in the park watching them fly through the air and return to their throwers with perfect precision.\n孩子们在公园里玩彩色回旋镖，看着它们在空中飞行并精确地回到投掷者手中。\nHis attempt to spread rumors about his rival boomeranged when the information was traced back to him damaging his own reputation instead.\n他试图传播关于对手的谣言，但结果适得其反，信息被追溯到他身上，反而损害了他自己的声誉。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26824,7 +26824,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boon/",
     "frequency": "高频",
-    "example": "The new library was a boon to the community.\n新图书馆对社区来说是一大恩惠。\nHis help proved to be a boon in our time of need.\n他的帮助在我们需要的时候证明是一大恩惠。",
+    "example": "The new community center proved to be a boon for local residents providing a space for meetings classes and recreational activities.\n新的社区中心被证明对当地居民是一大恩惠，为会议、课程和娱乐活动提供了空间。\nFinding a parking spot near the busy shopping mall on weekends was always a boon for harried shoppers running errands.\n周末在繁忙的购物中心附近找到停车位对忙碌购物的人来说总是一大幸事。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26845,7 +26845,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boor/",
     "frequency": "中频",
-    "example": "The boor made rude comments at the dinner table.\n这个粗鲁的人在餐桌上发表粗鲁的评论。\nHe was considered a boor by polite society.\n他被上流社会认为是个粗鲁的人。",
+    "example": "His boorish behavior at the formal dinner offended the other guests who found his manners rude and his conversation inappropriate.\n他在正式晚宴上的粗鲁行为冒犯了其他客人，他们觉得他举止粗鲁，谈话不合时宜。\nThe arrogant boor refused to listen to anyone elses opinions dismissing suggestions that differed from his own narrow perspective.\n这位傲慢的粗人拒绝听取任何人的意见，对与他狭隘观点不同的建议不屑一顾。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26866,7 +26866,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boost/",
     "frequency": "中频",
-    "example": "The new policy helped boost the economy.\n新政策有助于促进经济。\nDrinking coffee can boost your energy levels.\n喝咖啡可以提高你的能量水平。",
+    "example": "Government incentives helped boost small business growth by providing tax breaks and low-interest loans to entrepreneurs and startups.\n政府激励措施通过向企业家和初创企业提供税收减免和低息贷款来帮助促进小企业增长。\nDrinking a cup of coffee in the morning helps boost my energy levels and prepares me for the busy day ahead at work.\n早上喝一杯咖啡有助于提高我的能量水平，并为我准备好迎接工作中忙碌的一天。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26887,7 +26887,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buːt/",
     "frequency": "高频",
-    "example": "He put on his boots and went outside.\n他穿上靴子出去了。\nThe computer failed to boot up properly.\n电脑无法正常启动。",
+    "example": "She pulled on her sturdy hiking boots and prepared to tackle the challenging mountain trail that wound through the forest.\n她穿上结实的登山靴，准备应对蜿蜒穿过森林的具有挑战性的山间小径。\nAfter repeated policy violations the manager decided to boot the troublesome employee from the company despite his years of service.\n在多次违反政策后，经理决定将这位麻烦的员工开除出公司，尽管他已经服务多年。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26908,7 +26908,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootblack/",
     "frequency": "中频",
-    "example": "The bootblack polished shoes for a living.\n擦鞋匠靠擦鞋为生。\nBootblacks were common in cities decades ago.\n擦鞋匠几十年前在城市里很常见。",
+    "example": "The young bootblack polished shoes on the busy street corner earning enough money to support his family during difficult economic times.\n这位年轻的擦鞋匠在繁忙的街角擦鞋，赚够了钱来在经济困难时期养活家人。\nHistoric photographs show bootblacks working in bustling city centers providing essential shoe shining services to businessmen and travelers alike.\n历史照片显示擦鞋匠在繁华的市中心工作，为商人和旅行者提供必要的擦鞋服务。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26929,7 +26929,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/booth/",
     "frequency": "高频",
-    "example": "They sat in a cozy booth at the restaurant.\n他们坐在餐厅一个舒适的卡座里。\nThe phone booth was removed from the street.\n电话亭被从街上移走了。",
+    "example": "Voters lined up at the polling booth to cast their ballots in the important national election that would shape the countrys future.\n选民在投票站排队投票，参加将决定国家未来的重要全国选举。\nThe phone booth on the street corner had been a landmark for decades before being replaced by modern mobile communication technology.\n街角的电话亭在被现代移动通信技术取代之前，几十年来一直是一个地标。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26950,7 +26950,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootlace/",
     "frequency": "高频",
-    "example": "He tied his bootlaces tightly before hiking.\n徒步旅行前他把鞋带系紧。\nThe bootlace came undone while she was walking.\n她走路时鞋带松了。",
+    "example": "He bent down to tie his bootlaces tightly ensuring they would not come undone during his long hike through the rugged terrain.\n他弯下腰紧紧系好鞋带，确保在穿过崎岖地形的长途徒步旅行中不会松开。\nThe shoemaker carefully threaded the leather bootlace through the eyelets creating a neat crisscross pattern that looked both functional and stylish.\n鞋匠小心地将皮革鞋带穿过鞋带孔，创造出既实用又时尚的整齐交叉图案。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26971,7 +26971,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootleg/",
     "frequency": "中频",
-    "example": "Bootleg recordings were sold on the black market.\n盗版录音在黑市上出售。\nHe was arrested for selling bootleg alcohol.\n他因出售走私酒精被捕。",
+    "example": "Authorities seized thousands of bootleg DVDs and CDs from the illegal warehouse during a raid targeting copyright infringement violations.\n当局在一次针对版权侵权的突袭中从非法仓库查获了数千张盗版DVD和CD。\nProhibition-era gangsters made millions smuggling bootleg alcohol across state lines to meet the high demand for illegal spirits.\n禁酒令时代的歹徒通过跨州走私私酒赚了数百万美元，以满足对非法烈酒的高需求。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26992,7 +26992,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootstrap/",
     "frequency": "低频",
-    "example": "He started the business on a bootstrap budget.\n他用极少的预算创业。\nBootstrap is a popular CSS framework for websites.\nBootstrap是一个流行的网站CSS框架。",
+    "example": "The ambitious entrepreneur used bootstrap methods to launch her startup funding it entirely with personal savings and early customer revenue.\n这位雄心勃勃的企业家使用自力更生的方法创办了她的初创公司，完全用个人储蓄和早期客户收入为其提供资金。\nComputer programmers rely on bootstrap code to initialize systems and load essential components during the boot process of operating systems.\n计算机程序员依靠引导代码在操作系统启动过程中初始化系统并加载必要的组件。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -27013,7 +27013,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bop/",
     "frequency": "高频",
-    "example": "They danced to the upbeat bop music.\n他们跟着欢快的波普音乐跳舞。\nBop music originated in the 1940s.\n波普音乐起源于20世纪40年代。"
+    "example": "Jazz musicians began to bop to the lively rhythm improvising solos that showcased their incredible musical talent and creativity.\n爵士音乐家开始随着活泼的节奏跳舞，即兴演奏独奏，展示他们令人难以置信的音乐天赋和创造力。\nChildren giggled as they watched the clown bop colorful balls into the air during the circus performance and show.\n孩子们看着小丑在马戏团表演中把彩色球抛向空中，咯咯地笑个不停。"
   },
   {
     "id": "word_1337",
@@ -27028,7 +27028,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borax/",
     "frequency": "中频",
-    "example": "Borax is used as a cleaning agent.\n硼砂用作清洁剂。\nShe added borax to the laundry for extra whiteness.\n她在洗衣中加入硼砂以增加白度。"
+    "example": "Household cleaners often contain borax as an effective ingredient for removing tough stains and disinfecting surfaces in kitchens and bathrooms.\n家用清洁剂通常含有硼砂作为有效成分，用于去除厨房和浴室的顽固污渍和消毒表面。\nHistorically borax was mined from dry lake beds and used for various industrial purposes including glass manufacturing and metallurgy.\n历史上，硼砂是从干涸的湖床中开采的，用于各种工业用途，包括玻璃制造和冶金。"
   },
   {
     "id": "word_1338",
@@ -27043,7 +27043,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bordello/",
     "frequency": "低频",
-    "example": "The bordello was shut down by the police.\n妓院被警察关闭。\nBordellos were common in some historic districts.\n妓院在一些历史街区很常见。"
+    "example": "Authorities shut down the illegal bordello operating in the downtown area following a lengthy investigation into criminal activities.\n在对犯罪活动进行长期调查后，当局关闭了在市中心运营的非法妓院。\nHistorical novels set in the 19th century often depict bordellos as places of intrigue danger and forbidden romance.\n以19世纪为背景的历史小说通常将妓院描绘成阴谋、危险和禁忌浪漫的场所。"
   },
   {
     "id": "word_1339",
@@ -27058,7 +27058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɔːdə/",
     "frequency": "高频",
-    "example": "The river forms the border between two countries.\n这条河形成了两国之间的边界。\nShe planted flowers along the border of the garden.\n她沿着花园的边界种花。"
+    "example": "Soldiers patrolled the international border both day and night to prevent illegal crossings and protect national security interests.\n士兵日夜巡逻国际边境，防止非法越境并保护国家安全利益。\nThe beautiful garden featured a border of colorful flowers and neatly trimmed shrubs surrounding the central fountain creating a picturesque scene.\n美丽的花园以环绕中央喷泉的彩色花卉和修剪整齐的灌木边界为特色，创造出如画的景色。"
   },
   {
     "id": "word_1340",
@@ -27073,7 +27073,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borderline/",
     "frequency": "中频",
-    "example": "His behavior was borderline inappropriate.\n他的行为接近不当。\nThe patient was diagnosed with borderline personality disorder.\n患者被诊断为边缘性人格障碍。"
+    "example": "Doctors diagnosed the patient with borderline hypertension after careful examination and multiple blood pressure readings over several weeks.\n医生经过数周的仔细检查和多次血压读数后诊断患者患有临界高血压。\nHer performance in the highly competitive national tournament was borderline excellent earning her a silver medal instead of the gold she had hoped for.\n她在高度竞争的全国锦标赛中的表现接近优秀，为她赢得了银牌而不是她希望的金牌。"
   },
   {
     "id": "word_1341",
@@ -27088,7 +27088,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔː/",
     "frequency": "中频",
-    "example": "The long lecture began to bore the students.\n漫长的演讲开始让学生感到厌烦。\nHe used a drill to bore a hole in the wall.\n他用钻头在墙上钻孔。"
+    "example": "Long-winded speeches that lack substance always bore me to tears making it difficult to stay awake during tedious meetings.\n缺乏实质内容的冗长演讲总是让我无聊到流泪，在乏味的会议中很难保持清醒。\nThe engineer used a specialized drill to bore a hole through the thick metal plate creating a precise opening for the mechanical component.\n工程师使用专门的钻头在厚金属板上钻孔，为机械部件创造一个精确的开口。"
   },
   {
     "id": "word_1342",
@@ -27103,7 +27103,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boreal/",
     "frequency": "高频",
-    "example": "Boreal forests are found in northern regions.\n北方森林位于北方地区。\nBoreal animals have adapted to cold climates.\n北方动物已经适应了寒冷气候。"
+    "example": "The boreal forest stretches across northern Canada and Alaska providing vital habitat for countless species of plants and animals.\n北方森林横跨加拿大北部和阿拉斯加，为无数动植物物种提供重要栖息地。\nScientists study boreal ecosystems to understand how climate change affects cold-adapted species and fragile northern environments over time.\n科学家研究北方生态系统，以了解气候变化如何随着时间影响适应寒冷的物种和脆弱的北方环境。"
   },
   {
     "id": "word_1343",
@@ -27118,7 +27118,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bored/",
     "frequency": "高频",
-    "example": "She felt bored during the long train ride.\n她在漫长的火车旅程中感到无聊。\nThe children were bored on the rainy day.\n孩子们在下雨天感到无聊。"
+    "example": "Children quickly grew bored with the repetitive game and begged their parents to find a more entertaining activity to pass the time.\n孩子们很快对重复的游戏感到厌倦，恳求父母找一个更有趣的活动来打发时间。\nShe stared out the window feeling bored and restless as the train chugged slowly through the monotonous countryside landscape.\n当火车缓慢地穿过单调的乡村景观时，她盯着窗外，感到无聊和不安。"
   },
   {
     "id": "word_1344",
@@ -27133,7 +27133,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boredom/",
     "frequency": "低频",
-    "example": "He tried to avoid boredom by reading books.\n他试图通过读书来避免无聊。\nBoredom can lead to creativity if channeled properly.\n如果引导得当，无聊可以导致创造力。"
+    "example": "To combat boredom during the long flight she brought several books a crossword puzzle and her favorite music to keep herself entertained.\n为了在长途飞行中打发无聊，她带了几本书、一个填字游戏和她最喜欢的音乐来娱乐自己。\nThe psychologist explained that chronic boredom can lead to feelings of apathy and decreased motivation if not addressed proactively.\n心理学家解释说，如果不主动解决，长期的无聊会导致冷漠和动力下降的感觉。"
   },
   {
     "id": "word_1345",
@@ -27148,7 +27148,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borer/",
     "frequency": "高频",
-    "example": "The borer insect damaged the wooden furniture.\n钻蛀虫损坏了木制家具。\nThe tree borer infestation killed several oak trees.\n树蛀虫侵扰杀死了几棵橡树。"
+    "example": "Farmers used pesticides to protect their crops from the destructive borer insects that tunneled through stems and destroyed valuable harvests.\n农民使用杀虫剂保护作物免受破坏性蛀虫的侵害，这些蛀虫会在茎干中挖洞并破坏宝贵的收成。\nCarpenters inspected the wooden beams for signs of borer damage before installing them in the new construction project.\n木匠在将木梁安装到新建筑项目中之前检查了蛀虫损坏的迹象。"
   },
   {
     "id": "word_1346",
@@ -27163,7 +27163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔːn/",
     "frequency": "高频",
-    "example": "She was born on a sunny morning in June.\n她出生在六月一个阳光明媚的早晨。\nHe was born into a family of musicians.\n他出生在一个音乐世家。"
+    "example": "Children who are born into poverty often face significant challenges accessing quality education healthcare and essential social services.\n出生在贫困中的儿童在获得优质教育、医疗保健和基本社会服务方面往往面临重大挑战。\nThe famous scientist was born in a small rural town but went on to revolutionize his field through groundbreaking research and important discoveries.\n这位著名科学家出生在一个乡村小镇，但通过开创性的研究和重要发现彻底改变了他的领域。"
   },
   {
     "id": "word_1347",
@@ -27178,7 +27178,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bornite/",
     "frequency": "低频",
-    "example": "Bornite is a copper ore with a peacock color.\n斑铜矿是一种具有孔雀色的铜矿石。\nMiners extracted bornite from the deep mine.\n矿工从深矿中提取斑铜矿。"
+    "example": "Geologists identified bornite deposits in the mountain range recognizing the distinctive purple iridescence that characterizes this copper sulfide mineral.\n地质学家在山脉中发现了斑铜矿矿床，识别出这种硫化铜矿物特有的紫色彩虹光泽。\nMiners extracted bornite from deep underground mines processing it to extract copper for use in various industrial applications.\n矿工从深层地下矿井中提取斑铜矿，对其进行加工以提取铜用于各种工业应用。"
   },
   {
     "id": "word_1348",
@@ -27193,7 +27193,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borough/",
     "frequency": "高频",
-    "example": "The city is divided into several boroughs.\n这座城市分为几个行政区。\nEach borough has its own local government.\n每个行政区都有自己的地方政府。"
+    "example": "The historic borough preserved its colonial-era architecture attracting tourists interested in exploring early American history and cultural heritage.\n这个历史悠久的自治市镇保留了其殖民时期的建筑，吸引了对探索早期美国历史和文化遗产感兴趣的游客。\nCity planners divided the metropolis into several boroughs each with its own unique character cultural attractions and community services.\n城市规划者将大都市划分为几个行政区，每个行政区都有其独特的特色、文化景点和社区服务。"
   },
   {
     "id": "word_1349",
@@ -27208,7 +27208,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒrəʊ/",
     "frequency": "高频",
-    "example": "Can I borrow your pen for a moment?\n我可以借你的笔用一下吗？\nShe had to borrow money to pay her rent.\n她不得不借钱付房租。"
+    "example": "Students often borrow textbooks from the school library to save money instead of purchasing expensive new copies for their classes.\n学生经常从学校图书馆借书以省钱，而不是为他们的课程购买昂贵的新副本。\nMany countries sometimes borrow substantial funds from international organizations to finance large-scale infrastructure projects and economic development initiatives.\n许多国家有时会从国际组织借入大量资金，为大型基础设施项目和经济发展举措提供资金。"
   },
   {
     "id": "word_1350",
@@ -27223,7 +27223,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borrowing/",
     "frequency": "低频",
-    "example": "Excessive borrowing can lead to financial problems.\n过度借贷会导致财务问题。\nThe company reduced its borrowing this quarter.\n该公司本季度减少了借贷。"
+    "example": "The companys excessive borrowing raised concerns among investors who worried about its ability to repay mounting debts and interest payments.\n该公司过度借贷引起了投资者的担忧，他们担心其偿还不断增加的债务和利息支付的能力。\nLibraries play a crucial role in promoting literacy by providing free access to books and encouraging responsible borrowing habits among patrons.\n图书馆通过提供免费获取书籍的机会并鼓励读者养成负责任的借阅习惯，在促进识字方面发挥着至关重要的作用。"
   },
   {
     "id": "word_1351",
@@ -27238,7 +27238,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borscht/",
     "frequency": "高频",
-    "example": "Borscht is a traditional Eastern European soup.\n罗宋汤是传统的东欧汤。\nShe served hot borscht with sour cream.\n她端上了加酸奶油的热罗宋汤。"
+    "example": "Grandmother served steaming bowls of borscht a traditional Eastern European soup made with beets cabbage and hearty vegetables.\n祖母端上热气腾腾的罗宋汤碗，这是一种用甜菜、卷心菜和丰盛蔬菜制成的传统东欧汤。\nRestaurants specializing in Russian cuisine often feature borscht on their menus alongside other classic dishes like pierogi and stroganoff.\n专门经营俄罗斯美食的餐厅通常在菜单上提供罗宋汤以及其他经典菜肴，如 pierogi 和 stroganoff。"
   },
   {
     "id": "word_1352",
@@ -27253,7 +27253,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borstal/",
     "frequency": "中频",
-    "example": "The young offender was sent to borstal.\n这个年轻罪犯被送进了少年管教所。\nBorstal institutions aim to rehabilitate young criminals.\n少年管教所旨在改造年轻罪犯。"
+    "example": "Historically borstal institutions provided comprehensive rehabilitation programs for young offenders aiming to reform and rehabilitate them.\n历史上，少年感化院为年轻罪犯提供全面的康复计划，旨在改造和 rehabilitate 他们。\nSocial reformers strongly advocated for effective alternatives to borstal arguing that education and support were more effective than detention for juveniles.\n社会改革者强烈主张有效的替代少年感化院的方案，认为教育和支持比对少年犯的拘留更有效。"
   },
   {
     "id": "word_1353",
@@ -27268,7 +27268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bosh/",
     "frequency": "低频",
-    "example": "His explanation was pure bosh and made no sense.\n他的解释完全是胡说八道，毫无意义。\nDont listen to his bosh; its all nonsense.\n别听他的胡说八道，全是废话。"
+    "example": "The skeptical scientist dismissed the conspiracy theorist claims as utter bosh lacking any credible evidence or logical reasoning.\n这位持怀疑态度的科学家认为阴谋论者的说法完全是胡说八道，缺乏任何可信的证据或逻辑推理。\nDont listen to his bosh about ancient aliens building the pyramids; there are far more plausible explanations based on historical evidence.\n不要听他关于古代外星人建造金字塔的胡说八道；根据历史证据，有更合理的解释。"
   },
   {
     "id": "word_1354",
@@ -27283,7 +27283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒs/",
     "frequency": "高频",
-    "example": "The boss praised the team for their hard work.\n老板表扬了团队的辛勤工作。\nShe was promoted to boss of the department.\n她被提升为部门主管。"
+    "example": "Employees respected their boss not just for his authority but also for his fair treatment and genuine concern for their well-being.\n员工尊重他们的老板，不仅因为他的权威，还因为他的公平待遇和对他们福祉的真正关心。\nThe restaurant manager acted as the boss overseeing daily operations scheduling staff and ensuring high levels of customer satisfaction.\n餐厅经理担任老板，监督日常运营、安排员工日程并确保高水平的客户满意度。"
   },
   {
     "id": "word_1355",
@@ -27298,7 +27298,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boston/",
     "frequency": "中频",
-    "example": "Boston is a historic city in the United States.\n波士顿是美国一座历史悠久的城市。\nThe Boston Marathon is held every April.\n波士顿马拉松每年四月举行。"
+    "example": "Boston is renowned for its rich colonial history world-class universities and vibrant cultural scene that attracts visitors from around the globe.\n波士顿以其丰富的殖民历史、世界级的大学和充满活力的文化景观而闻名，吸引了来自全球的游客。\nThe Boston Marathon held annually on Patriots Day is one of the oldest and most prestigious running events in the world.\n每年在爱国者日举行的波士顿马拉松是世界上最古老、最负盛名的跑步赛事之一。"
   },
   {
     "id": "word_1356",
@@ -27313,7 +27313,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/botanist/",
     "frequency": "中频",
-    "example": "The botanist studied plant life in the rainforest.\n植物学家研究雨林中的植物生命。\nBotanists classify plants based on their characteristics.\n植物学家根据植物的特征对其进行分类。"
+    "example": "The botanist spent years studying tropical rainforest plants documenting their medicinal properties and ecological roles in complex ecosystems.\n这位植物学家花了多年时间研究热带雨林植物，记录它们的药用特性和在复杂生态系统中的生态作用。\nStudents accompanied the botanist on field trips to identify native plant species and learn about sustainable conservation practices.\n学生们陪同植物学家进行实地考察，识别本地植物物种并了解可持续保护实践。"
   },
   {
     "id": "word_1357",
@@ -27328,7 +27328,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/botany/",
     "frequency": "低频",
-    "example": "She studied botany at university.\n她在大学学习植物学。\nBotany is the scientific study of plants.\n植物学是对植物的科学研究。"
+    "example": "University students studying botany learn about plant classification physiology and the intricate relationships between flora and their environments.\n学习植物学的大学生了解植物分类、生理学以及植物群与其环境之间的复杂关系。\nBotany enthusiasts often join local gardening clubs to share knowledge exchange tips and cultivate rare plant varieties in their own gardens.\n植物学爱好者经常加入当地的园艺俱乐部，分享知识、交流技巧并在自己的花园里培育稀有植物品种。"
   },
   {
     "id": "word_1358",
@@ -27343,7 +27343,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊθ/",
     "frequency": "高频",
-    "example": "Both children received awards at the ceremony.\n两个孩子都在仪式上获得了奖项。\nBoth options have advantages and disadvantages.\n两种选择都有优点和缺点。"
+    "example": "Both teams displayed exceptional skill and sportsmanship during the championship game making it one of the most memorable matches in recent history.\n两支球队在冠军赛中都表现出卓越的技术和体育精神，使其成为近期历史上最令人难忘的比赛之一。\nShe excelled in both academics and athletics earning scholarships that allowed her to attend the prestigious university of her dreams.\n她在学术和体育方面都表现出色，获得了奖学金，使她能够进入她梦想中的著名大学。"
   },
   {
     "id": "word_1359",
@@ -27358,7 +27358,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bother/",
     "frequency": "高频",
-    "example": "Sorry to bother you, but I need some help.\n很抱歉打扰你，但我需要一些帮助。\nDont bother calling; she wont answer.\n别费心打电话了，她不会接的。"
+    "example": "Please dont bother me while Im working on this important project; I need complete focus to meet the deadline.\n我在处理这个重要项目时请不要打扰我；我需要完全专注才能在截止日期前完成。\nIt doesnt bother me if you use my laptop as long as you return it in the same condition you borrowed it.\n只要你归还时保持原样，你使用我的笔记本电脑我并不介意。"
   },
   {
     "id": "word_1360",
@@ -27373,7 +27373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/botheration/",
     "frequency": "低频",
-    "example": "What a botheration to have to wait so long!\n要等这么久真是烦人！\nThe botheration of fixing the broken machine annoyed him.\n修理坏掉的机器的麻烦让他很恼火。"
+    "example": "What a botheration to discover that my flight was canceled at the last minute requiring me to rebook and spend extra hours at the airport.\n发现我的航班在最后一刻被取消，需要重新预订并在机场多花几个小时，真是烦人。\nThe constant botheration of noisy neighbors made it difficult for her to concentrate on her studies and complete her assignments on time.\n嘈杂邻居的不断打扰使她难以专注于学习并按时完成作业。"
   },
   {
     "id": "word_1361",
@@ -27388,7 +27388,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒtl/",
     "frequency": "高频",
-    "example": "She opened a bottle of wine for the party.\n她为派对打开了一瓶酒。\nThe baby drank milk from a glass bottle.\n婴儿从玻璃瓶里喝牛奶。"
+    "example": "She carefully poured the homemade lemonade into glass bottles adding decorative labels before giving them as gifts to her friends.\n她小心翼翼地将自制柠檬水倒入玻璃瓶中，添加装饰标签，然后作为礼物送给她的朋友。\nRecycling programs encourage people to return plastic bottles to reduce waste and conserve valuable resources for future generations.\n回收计划鼓励人们退回塑料瓶，以减少浪费并为后代保存宝贵资源。"
   },
   {
     "id": "word_1362",
@@ -27403,7 +27403,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒtəm/",
     "frequency": "高频",
-    "example": "He found a treasure at the bottom of the sea.\n他在海底发现了宝藏。\nThe bottom drawer contains old documents.\n最下面的抽屉里装着旧文件。"
+    "example": "Divers descended to the bottom of the lake searching for the lost treasure that had been submerged for over a century.\n潜水员下潜到湖底，寻找已经沉没了一个多世纪的失落宝藏。\nThe child laughed as he slid to the bottom of the playground slide eager to climb back up and do it again.\n孩子笑着滑到操场滑梯底部，渴望爬回来再做一次。"
   },
   {
     "id": "word_1363",
@@ -27418,7 +27418,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bottomry/",
     "frequency": "低频",
-    "example": "Bottomry was a form of maritime loan in history.\n船舶抵押借款是历史上的一种海上贷款形式。\nThe merchant used bottomry to finance his voyage.\n商人用船舶抵押借款为他的航行融资。"
+    "example": "Maritime historians carefully studied ancient bottomry contracts to understand how 19th-century shipowners financed their long voyages.\n海事历史学家仔细研究古代船舶抵押合同，以了解19世纪船东如何为其长途航行提供资金。\nLegal experts explained that bottomry allowed merchants to secure financing by using their ships as collateral for maritime trade expeditions.\n法律专家解释说，船舶抵押允许商人通过将其船舶作为海上贸易探险的抵押品来获得融资。"
   },
   {
     "id": "word_1364",
@@ -27433,7 +27433,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouche/",
     "frequency": "高频",
-    "example": "The chef prepared delicate bouchées for the guests.\n厨师为客人准备了精致的小点心。\nBouchées are small savory pastries.\n小点心是小的咸糕点。"
+    "example": "The French patisserie served delicate bouchées filled with savory mushroom cream and topped with flaky pastry that melted in the mouth.\n这家法国糕点店供应精致的小点心，里面装满了美味的蘑菇奶油，上面覆盖着入口即化的酥皮。\nGuests at the elegant dinner party enjoyed bite-sized bouchées as hors doeuvres before the main course was served.\n优雅晚宴上的客人在主菜上桌前享用一口大小的小点心作为开胃菜。"
   },
   {
     "id": "word_1365",
@@ -27448,7 +27448,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bough/",
     "frequency": "中频",
-    "example": "The bough broke under the weight of the snow.\n树枝在雪的重压下折断了。\nShe hung a swing from the sturdy bough.\n她从坚固的树枝上挂了一个秋千。"
+    "example": "Strong winds snapped the thick bough from the ancient oak tree sending it crashing to the ground with a loud thud.\n强风折断了古老橡树上的粗壮树枝，使其砰的一声砸到地上。\nChildren built a fort using fallen boughs and branches they collected from the forest floor near their campsite.\n孩子们用从营地附近森林地面收集的掉落树枝和树枝建造了一座堡垒。"
   },
   {
     "id": "word_1366",
@@ -27463,7 +27463,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bought/",
     "frequency": "高频",
-    "example": "He bought a new car with his savings.\n他用积蓄买了一辆新车。\nShe bought flowers for her mothers birthday.\n她为母亲的生日买了花。"
+    "example": "She bought a beautiful antique vase at the flea market that turned out to be worth far more than she had paid for it.\n她在跳蚤市场买了一个漂亮的古董花瓶，结果发现它的价值远远超过她所支付的价格。\nThey bought their first home after saving for years carefully choosing a neighborhood with good schools and safe streets.\n他们储蓄多年后买了第一套房子，仔细选择了一个有好学校和安全街道的社区。"
   },
   {
     "id": "word_1367",
@@ -27478,7 +27478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boulder/",
     "frequency": "高频",
-    "example": "The hiker climbed over the massive boulder.\n徒步旅行者爬过巨大的岩石。\nA boulder blocked the path to the summit.\n一块巨石挡住了通往山顶的路。"
+    "example": "Hikers carefully navigated around the massive boulder that blocked the trail requiring them to find an alternative path through the forest.\n徒步旅行者小心地绕过阻挡小路的巨大 Boulder，需要在森林中找到一条替代路线。\nGeologists studied the ancient boulder to determine its origin and understand the geological history of the entire region.\n地质学家研究这块古老的 Boulder，以确定其起源并了解整个地区的地质历史。"
   },
   {
     "id": "word_1368",
@@ -27493,7 +27493,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boulevard/",
     "frequency": "中频",
-    "example": "The boulevard was lined with beautiful trees.\n林荫大道两旁种满了美丽的树木。\nThey walked down the busy boulevard.\n他们沿着繁忙的林荫大道走下去。"
+    "example": "The grand boulevard was lined with majestic oak trees and elegant street lamps creating a picturesque setting for evening strolls.\n宏伟的林荫大道两旁排列着雄伟的橡树和优雅的路灯，为晚间散步创造了如画的环境。\nCity planners transformed the old industrial area into a vibrant boulevard with shops restaurants and green spaces for residents to enjoy.\n城市规划者将旧工业区改造成一条充满活力的林荫大道，设有商店、餐厅和供居民享用的绿地。"
   },
   {
     "id": "word_1369",
@@ -27508,7 +27508,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/baʊns/",
     "frequency": "中频",
-    "example": "The ball began to bounce across the floor.\n球开始在地板上弹跳。\nChildren love to bounce on trampolines.\n孩子们喜欢在蹦床上弹跳。"
+    "example": "Children love to bounce on the trampoline in the backyard laughing as they soar high into the sunny afternoon sky.\n孩子们喜欢在后院的蹦床上弹跳，笑着飞向阳光明媚的午后天空。\nThe basketball seemed to bounce endlessly as the player dribbled down the court preparing to make a decisive shot at the hoop.\n篮球似乎在球员运球下球场时无休止地弹跳，准备在篮筐上投出决定性的一球。"
   },
   {
     "id": "word_1370",
@@ -27523,7 +27523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouncer/",
     "frequency": "高频",
-    "example": "The bouncer checked IDs at the nightclub entrance.\n保镖在夜总会入口检查身份证件。\nBouncers ensure the safety of club patrons.\n保镖确保俱乐部顾客的安全。"
+    "example": "The nightclub bouncer checked IDs at the entrance ensuring only patrons of legal drinking age were allowed inside the establishment.\n夜总会保镖在入口处检查身份证，确保只有达到法定饮酒年龄的顾客才能进入场所。\nSecurity personnel trained as bouncers learned self-defense techniques to handle unruly customers and maintain order in crowded venues.\n接受过保镖培训的安保人员学习自卫技巧，以处理不守规矩的顾客并在拥挤的场维持秩序。"
   },
   {
     "id": "word_1371",
@@ -27538,7 +27538,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouncing/",
     "frequency": "中频",
-    "example": "The bouncing baby brought joy to everyone.\n活泼的婴儿给每个人带来欢乐。\nThe bouncing ball hit the ceiling.\n弹跳的球撞到了天花板。"
+    "example": "The children were bouncing on the trampoline in the backyard laughing as they soared high into the sunny afternoon sky.\n孩子们在后院的蹦床上弹跳，笑着飞向阳光明媚的午后天空。\nShe walked down the street with a bouncing step full of energy and excitement about the day ahead.\n她迈着轻快的步伐走在街上，对未来的一天充满活力和兴奋。"
   },
   {
     "id": "word_1372",
@@ -27553,7 +27553,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouncy/",
     "frequency": "低频",
-    "example": "The bouncy castle was popular at the party.\n充气城堡在派对上很受欢迎。\nShe bought bouncy new shoes for running.\n她买了弹性好的新跑鞋。"
+    "example": "The bouncy puppy ran around the house chasing its tail and playing with every toy it could find.\n这只活泼的小狗在房子里跑来跑去，追着自己的尾巴，玩着能找到的每一个玩具。\nChildren love to play with bouncy balls that bounce high into the air when thrown against the ground.\n孩子们喜欢玩弹力球，这种球扔到地上时会高高弹起。"
   },
   {
     "id": "word_1373",
@@ -27568,7 +27568,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/baʊnd/",
     "frequency": "高频",
-    "example": "The train is bound for the capital city.\n火车开往首都。\nHe felt bound by his promise to help.\n他觉得自己受承诺的约束必须帮忙。"
+    "example": "The explorers set out on a journey bound for the remote mountain village that had never been visited by outsiders before.\n探险家们出发前往从未有外人到访过的偏远山村。\nBy the time we arrived the train was already bound for the next station leaving us stranded on the deserted platform.\n当我们到达时，火车已经开往下一站，把我们困在荒芜的站台上。"
   },
   {
     "id": "word_1374",
@@ -27583,7 +27583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbaʊndəri/",
     "frequency": "高频",
-    "example": "The river marks the boundary between the two states.\n这条河标志着两个州之间的边界。\nWe must respect the boundaries of personal space.\n我们必须尊重个人空间的界限。"
+    "example": "Surveyors carefully measured the property boundary to ensure the new fence would be built exactly where the landowner specified.\n测量员仔细测量了财产边界，以确保新围栏将准确建在土地所有者指定的地方。\nScientists study the boundary between different ecosystems to understand how species interact and adapt to changing environmental conditions.\n科学家研究不同生态系统之间的边界，以了解物种如何相互作用并适应不断变化的环境条件。"
   },
   {
     "id": "word_1375",
@@ -27598,7 +27598,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bounty/",
     "frequency": "低频",
-    "example": "A bounty was offered for the capture of the criminal.\n悬赏捉拿罪犯。\nThe bounty of the harvest filled the barn.\n丰收的 bounty 填满了谷仓。"
+    "example": "The government offered a substantial bounty for information leading to the capture of the dangerous fugitive wanted for multiple crimes.\n政府提供了大量赏金，奖励能提供导致抓获被控多项罪名的危险逃犯的信息。\nFarmers celebrated the bountiful harvest thanking the fertile soil and favorable weather that had produced such abundant crops.\n农民们庆祝丰收，感谢肥沃的土壤和有利的天气带来了如此丰富的作物。"
   },
   {
     "id": "word_1376",
@@ -27613,7 +27613,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bourdon/",
     "frequency": "高频",
-    "example": "The bourdon pipe produced a deep tone.\n低音管发出深沉的音调。\nThe bourdon is the lowest pipe in an organ.\n低音管是管风琴中最低的管子。"
+    "example": "The organist played a deep bourdon note that resonated throughout the cathedral creating a solemn and majestic atmosphere.\n管风琴手弹奏一个深沉的低音持续音，在大教堂中回荡，营造出庄严雄伟的氛围。\nMusicologists studied the bourdon pipe construction to understand how it produces such rich and resonant tones in large spaces.\n音乐学家研究低音管的构造，以了解它如何在大空间中产生如此丰富和共鸣的音调。"
   },
   {
     "id": "word_1377",
@@ -27628,7 +27628,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bourgeois/",
     "frequency": "中频",
-    "example": "The bourgeois class emerged during the industrial revolution.\n资产阶级在工业革命期间出现。\nBourgeois values emphasize material success.\n资产阶级价值观强调物质成功。"
+    "example": "Critics argued that the new policies primarily benefited the bourgeois class while ignoring the needs of working people and the poor.\n批评者认为新政策主要惠及资产阶级，而忽视了劳动人民和穷人的需求。\nThe novel vividly depicts the lives of bourgeois families in 19th-century Paris exploring their social customs and moral dilemmas.\n这部小说生动地描绘了19世纪巴黎资产阶级家庭的生活，探索他们的社会习俗和道德困境。"
   },
   {
     "id": "word_1378",
@@ -27643,7 +27643,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boutique/",
     "frequency": "低频",
-    "example": "She opened a boutique selling handmade jewelry.\n她开了一家出售手工珠宝的精品店。\nThe boutique offers unique designer clothing.\n精品店提供独特的设计师服装。"
+    "example": "She spent the afternoon browsing the boutique shops along the charming cobblestone street looking for unique gifts and fashionable accessories.\n她花了下午的时间在迷人的鹅卵石街道上浏览精品店，寻找独特的礼物和时尚配饰。\nThe upscale boutique hotel offered personalized service and luxurious amenities that appealed to discerning travelers from around the world.\n这家高档精品酒店提供个性化服务和豪华设施，吸引了来自世界各地的挑剔旅客。"
   },
   {
     "id": "word_1379",
@@ -27658,7 +27658,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊ/",
     "frequency": "中频",
-    "example": "She tied a beautiful bow on the gift.\n她在礼物上系了一个漂亮的蝴蝶结。\nThe violinist made a deep bow to the audience.\n小提琴手向观众深深鞠躬。"
+    "example": "The talented violinist took a graceful bow after her breathtaking performance acknowledging the enthusiastic applause from the audience.\n这位才华横溢的小提琴手在精彩表演后优雅地鞠躬，感谢观众的热烈掌声。\nHe taught his young daughter how to tie beautiful bows using colorful ribbons for her birthday presents and holiday decorations.\n他教他的小女儿如何用彩色丝带为她的生日礼物和节日装饰系漂亮的蝴蝶结。"
   },
   {
     "id": "word_1380",
@@ -27673,7 +27673,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowdlerize/",
     "frequency": "中频",
-    "example": "The editor bowdlerized the novel for younger readers.\n编辑为年轻读者删改了这部小说。\nSome argue that bowdlerizing classic literature is wrong.\n有些人认为删改经典文学是错误的。"
+    "example": "Publishers sometimes bowdlerize classic literary works to remove content that is deemed inappropriate for younger readers.\n出版商有时会删改经典文学作品，删除被认为不适合年轻读者的内容。\nLiterary critics argued that attempts to bowdlerize historical texts distort the truth and erase important cultural context and background information.\n文学批评家认为删改历史文本的企图歪曲了真相并抹去了重要的文化背景和背景信息。"
   },
   {
     "id": "word_1381",
@@ -27688,7 +27688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowel/",
     "frequency": "低频",
-    "example": "The doctors examined his bowel movements.\n医生检查了他的肠道运动。\nBowel cancer is a serious health concern.\n肠癌是一个严重的健康问题。"
+    "example": "Doctors recommended a high-fiber diet to improve bowel health and prevent common digestive issues like constipation and bloating.\n医生建议高纤维饮食以改善肠道健康，预防便秘和腹胀等常见消化问题。\nThe hiker suffered from severe bowel cramps after drinking contaminated water from the stream during his wilderness adventure.\n徒步旅行者在荒野探险中饮用了溪流中的污染水后，遭受了严重的肠痉挛。"
   },
   {
     "id": "word_1382",
@@ -27703,7 +27703,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bower/",
     "frequency": "高频",
-    "example": "The garden had a charming bower covered in roses.\n花园里有一个迷人的玫瑰凉亭。\nLovers often meet in the bower.\n情侣们经常在凉亭里见面。"
+    "example": "The garden featured a romantic bower covered in climbing roses and fragrant jasmine that provided shade and privacy.\n花园里有一个浪漫的凉亭，覆盖着攀缘玫瑰和芬芳的茉莉花，提供阴凉和隐私。\nIn medieval times noble ladies often retreated to their private bowers to read embroider or simply enjoy moments of solitude.\n在中世纪，贵族女士们经常退到她们的私人凉亭里阅读、刺绣或只是享受独处的时光。"
   },
   {
     "id": "word_1383",
@@ -27718,7 +27718,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊl/",
     "frequency": "高频",
-    "example": "She mixed the ingredients in a large bowl.\n她在一个大碗里混合配料。\nThe football team played in a bowl game.\n足球队参加了一场碗赛。"
+    "example": "She mixed the ingredients in a large ceramic bowl carefully combining flour sugar and eggs to create the perfect cake batter.\n她在一个大陶瓷碗里混合配料，仔细混合面粉、糖和鸡蛋，制作出完美的蛋糕面糊。\nThe stadium erupted in cheers as the quarterback threw a perfect spiral into the end zone for a game-winning touchdown.\n当四分卫将一个完美的螺旋球扔进端区获得制胜达阵时，体育场爆发出欢呼声。"
   },
   {
     "id": "word_1384",
@@ -27733,7 +27733,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowlder/",
     "frequency": "低频",
-    "example": "The bowlder blocked the mountain trail.\n巨石挡住了山路。\nGeologists studied the ancient bowlder formations.\n地质学家研究了古老的巨石形成。"
+    "example": "Geologists discovered a massive bowlder embedded in the hillside that had been carried there by ancient glaciers thousands of years ago.\n地质学家在山坡上发现了一块巨大的鹅卵石，它是数千年前由古代冰川带到那里的。\nChildren enjoyed climbing on the smooth bowlder that sat in the middle of the park near the playground area.\n孩子们喜欢爬公园操场区域附近中间的那块光滑鹅卵石。"
   },
   {
     "id": "word_1385",
@@ -27748,7 +27748,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowler/",
     "frequency": "高频",
-    "example": "The bowler delivered a fast ball to the batsman.\n投球手向击球手投出一个快球。\nHe wore a bowler hat to the formal event.\n他戴着圆顶礼帽参加正式活动。"
+    "example": "Professional bowlers spend many hours each day practicing their bowling technique to achieve consistent strikes in competitions.\n职业保龄球运动员每天花很多小时练习他们的保龄球技术，以在比赛中实现稳定的全中。\nThe distinguished gentleman wore a classic bowler hat that added a touch of sophistication to his formal business attire.\n这位杰出的绅士戴着一顶经典的圆顶礼帽，为他正式的商务着装增添了一丝精致感。"
   },
   {
     "id": "word_1386",
@@ -27763,7 +27763,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowline/",
     "frequency": "中频",
-    "example": "The sailor tied a bowline knot to secure the rope.\n水手打了一个单套结来固定绳子。\nA bowline is essential for sailing.\n单套结对航海至关重要。"
+    "example": "Sailors learned to tie a bowline knot quickly and securely ensuring their ropes would not slip during sailing maneuvers.\n水手们学会快速安全地打单结，确保他们的绳索在航行操作中不会打滑。\nThe scout master taught the children how to tie a bowline demonstrating its practical uses in camping and outdoor activities.\n童子军队长教孩子们如何打单结，展示它在露营和户外活动中的实际用途。"
   },
   {
     "id": "word_1387",
@@ -27778,7 +27778,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowser/",
     "frequency": "低频",
-    "example": "The bowser refueled the planes at the airport.\n加油车在机场给飞机加油。\nBowsers are used to transport fuel.\n加油车用于运输燃料。"
+    "example": "The vintage bowser truck was carefully restored to its original condition and displayed at the annual classic car show.\n这辆老式加油车被精心恢复到原始状态，并在年度经典车展上展出。\nGas station attendants used bowser pumps to fill vehicles with gasoline before self-service stations became common in the 1970s.\n在20世纪70年代自助加油站普及之前，加油站服务员使用加油泵为车辆加油。"
   },
   {
     "id": "word_1388",
@@ -27793,7 +27793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒks/",
     "frequency": "高频",
-    "example": "She put the gift inside a colorful box.\n她把礼物放进一个彩色盒子里。\nThe cat sat on the cardboard box.\n猫坐在纸板箱上。"
+    "example": "She carefully packed the fragile glassware into a sturdy cardboard box lined with bubble wrap to prevent breakage during shipping.\n她小心地将易碎的玻璃器皿装进一个结实的纸箱里，里面衬有气泡膜，以防运输过程中破损。\nChildren giggled as they decorated the plain wooden box with colorful stickers and glitter for their art project at school.\n孩子们笑着用彩色贴纸和闪光装饰普通的木盒，用于他们在学校的艺术项目。"
   },
   {
     "id": "word_1389",
@@ -27808,7 +27808,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boxer/",
     "frequency": "高频",
-    "example": "The boxer won the championship match.\n拳击手赢得了冠军赛。\nShe trained as a boxer for several years.\n她作为拳击手训练了几年。"
+    "example": "The professional boxer trained rigorously for months preparing for the championship fight that would determine his future in the sport.\n这位职业拳击手严格训练了几个月，为决定他在这项运动中未来的冠军赛做准备。\nShe adopted a playful boxer puppy that loved to run around the backyard and play fetch with a colorful rubber ball.\n她收养了一只顽皮的拳师犬小狗，它喜欢在后院跑来跑去，玩彩色橡胶球捡球游戏。"
   },
   {
     "id": "word_1390",
@@ -27823,7 +27823,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔɪ/",
     "frequency": "高频",
-    "example": "The little boy played with his toy car.\n小男孩玩他的玩具车。\nHe was a happy boy growing up in the countryside.\n他是一个在农村长大的快乐男孩。"
+    "example": "The curious little boy explored every corner of the old mansion asking endless questions about its history and mysterious past.\n那个好奇的小男孩探索了这座古老宅邸的每个角落，对它的历史和神秘过去问个不停。\nTeenage boys often gather at the local skate park to practice tricks and share stories with their friends after school.\n十几岁的男孩们经常在放学后聚集在当地的滑板公园练习技巧并与朋友们分享故事。"
   },
   {
     "id": "word_1391",
@@ -27838,7 +27838,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boycott/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索抵制的新方面。"
+    "example": "Consumers decided to boycott the company after learning about its unethical business practices and exploitation of workers.\n消费者在了解到该公司不道德的商业行为和对工人的剥削后，决定抵制该公司。\nCivil rights activists organized a widespread boycott of segregated businesses to protest racial discrimination and demand equal rights for all citizens.\n民权活动家组织了一场广泛的抵制隔离企业运动，抗议种族歧视并要求所有公民享有平等权利。"
   },
   {
     "id": "word_1392",
@@ -27853,7 +27853,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boyfriend/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nboyfriend的应用革新了各个行业。"
+    "example": "Her boyfriend surprised her with a romantic weekend getaway to a cozy cabin in the mountains for their anniversary celebration.\n她的男朋友为他们的周年庆典准备了一个浪漫的周末度假，去山里一个舒适的小屋。\nTeenage girls often spend hours talking on the phone with their boyfriends sharing details about their day and future plans together.\n十几岁的女孩经常花几个小时和她们的男朋友通电话，分享她们一天的细节和未来的共同计划。"
   },
   {
     "id": "word_1393",
@@ -27868,7 +27868,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brace/",
     "frequency": "高频",
-    "example": "She wore a brace on her knee after the injury.\n她受伤后膝盖上戴着支架。\nThe carpenter used a brace to hold the wood together.\n木匠用支架把木头固定在一起。"
+    "example": "Engineers used metal braces to support the structure during the construction process.\n工程师在施工过程中使用金属支架来支撑结构。\nShe wore a brace on her knee to help stabilize it after the injury.\n她膝盖受伤后戴上了护具来帮助稳定。"
   },
   {
     "id": "word_1394",
@@ -27883,7 +27883,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bracelet/",
     "frequency": "中频",
-    "example": "She received a beautiful gold bracelet for her birthday.\n她生日收到了一条漂亮的金手链。\nThe bracelet was engraved with her initials.\n手链上刻有她的名字首字母。"
+    "example": "She received a beautiful silver bracelet as a gift from her grandmother on her birthday.\n她生日那天从祖母那里收到了一条漂亮的银手镯作为礼物。\nThe antique bracelet with intricate designs was passed down through several generations of her family.\n这条设计复杂的古董手镯在她家族中传了好几代。"
   },
   {
     "id": "word_1395",
@@ -27898,7 +27898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brachiopod/",
     "frequency": "低频",
-    "example": "Brachiopods are marine animals with two shells.\n腕足动物是有两个壳的海洋动物。\nFossils of brachiopods are found in ancient rocks.\n腕足动物化石在古代岩石中发现。"
+    "example": "Scientists discovered well-preserved brachiopod fossils in the ancient rock layers.\n科学家在古老的岩层中发现了保存完好的腕足动物化石。\nBrachiopods are marine invertebrates that have existed for over 500 million years.\n腕足动物是已经存在超过5亿年的海洋无脊椎动物。"
   },
   {
     "id": "word_1396",
@@ -27913,7 +27913,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bracket/",
     "frequency": "高频",
-    "example": "The shelf was attached to the wall with metal brackets.\n架子用金属支架固定在墙上。\nThe price bracket for the car is between  and .\n这辆车的价格区间在3万到4万美元之间。"
+    "example": "The shelf brackets were securely fastened to the wall to support heavy books.\n书架支架牢固地固定在墙上以支撑沉重的书籍。\nUse brackets to group related items together in your mathematical equations.\n在数学方程式中使用括号将相关项分组在一起。"
   },
   {
     "id": "word_1397",
@@ -27928,7 +27928,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brackish/",
     "frequency": "中频",
-    "example": "The estuary has brackish water from both rivers and oceans.\n河口有来自河流和海洋的微咸水。\nBrackish water is not suitable for drinking.\n微咸水不适合饮用。"
+    "example": "The brackish water in the estuary supports a unique ecosystem of plants and animals.\n河口的微咸水支撑着独特的动植物生态系统。\nMany species of fish can adapt to living in brackish environments with varying salinity levels.\n许多鱼类可以适应生活在盐度变化的微咸水环境中。"
   },
   {
     "id": "word_1398",
@@ -27943,7 +27943,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bract/",
     "frequency": "低频",
-    "example": "The bract protects the flower before it blooms.\n苞片在花朵绽放前保护它。\nSome plants have colorful bracts that look like flowers.\n有些植物有看起来像花的彩色苞片。"
+    "example": "The colorful bracts surrounding the flower made the plant especially attractive.\n花周围五颜六色的苞叶使植物特别有吸引力。\nBotanists study bracts to understand the reproductive strategies of different plant species.\n植物学家研究苞叶以了解不同植物物种的繁殖策略。"
   },
   {
     "id": "word_1399",
@@ -27958,7 +27958,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brad/",
     "frequency": "高频",
-    "example": "The carpenter used a brad to join the two pieces of wood.\n木匠用小钉子连接两块木头。\nBrads are smaller than regular nails.\n小钉子比普通钉子小。"
+    "example": "The carpenter used small brads to attach the trim to the wooden cabinet.\n木匠使用小钉子将装饰条固定在木制橱柜上。\nThese tiny brads are perfect for securing lightweight materials without splitting them.\n这些小钉子非常适合固定轻质材料而不会使其裂开。"
   },
   {
     "id": "word_1400",
@@ -27973,7 +27973,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brae/",
     "frequency": "中频",
-    "example": "The path wound up the steep brae to the castle.\n小路蜿蜒爬上陡峭的山坡到达城堡。\nShe walked up the brae to get a better view.\n她走上山坡去看更好的景色。"
+    "example": "The sheep grazed peacefully on the gentle brae overlooking the valley below.\n绵羊在俯瞰下方山谷的缓坡上平静地吃草。\nWalking up the steep brae required careful footing to avoid slipping on the grass.\n爬上陡峭的山坡需要小心脚下以避免在草地上滑倒。"
   },
   {
     "id": "word_1401",
@@ -27988,7 +27988,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braft/",
     "frequency": "低频",
-    "example": "A braft of logs floated down the river.\n一束原木漂浮在河上。\nThe workers tied the braft together with strong ropes.\n工人用结实的绳子把原木捆在一起。"
+    "example": "The artist used a braft of feathers to create a unique texture in her artwork.\n艺术家使用一束羽毛在她的艺术品中创造独特的纹理。\nBirds often line their nests with soft brafts of down for insulation and comfort.\n鸟类经常用柔软的羽绒束来筑巢以保暖和舒适。"
   },
   {
     "id": "word_1402",
@@ -28003,7 +28003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braid/",
     "frequency": "高频",
-    "example": "She learned how to braid her hair in school.\n她在学校学会了编辫子。\nThe braid was decorated with colorful ribbons.\n辫子上装饰着彩色丝带。"
+    "example": "She spent hours braiding her long hair into an intricate pattern for the wedding.\n她花了几个小时把长发编成复杂的图案参加婚礼。\nThe sailor skillfully braided the ropes to create strong, durable lines for the ship.\n水手熟练地编织绳索，为船制造结实耐用的缆绳。"
   },
   {
     "id": "word_1403",
@@ -28018,7 +28018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braille/",
     "frequency": "中频",
-    "example": "Blind people use braille to read books.\n盲人用盲文阅读书籍。\nThe library has a large collection of braille books.\n图书馆有大量盲文书籍。"
+    "example": "Blind students learn to read and write using braille, a system of raised dots.\n盲人学生使用盲文（一种凸点系统）学习读写。\nThe library provides books in braille for visually impaired patrons who prefer tactile reading.\n图书馆为喜欢触觉阅读的视障读者提供盲文书籍。"
   },
   {
     "id": "word_1404",
@@ -28033,7 +28033,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breɪn/",
     "frequency": "高频",
-    "example": "The human brain is a complex organ with billions of neurons.\n人脑是一个拥有数十亿神经元的复杂器官。\nScientists continue to study how the brain works.\n科学家继续研究大脑的工作原理。"
+    "example": "Neuroscientists study the brain to understand how thoughts, memories, and emotions are processed.\n神经科学家研究大脑以了解思想、记忆和情绪是如何处理的。\nRegular exercise and mental stimulation can help keep the brain healthy and sharp as we age.\n规律的运动和精神刺激有助于随着年龄增长保持大脑健康和敏锐。"
   },
   {
     "id": "word_1405",
@@ -28048,7 +28048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainchild/",
     "frequency": "高频",
-    "example": "The new project was the brainchild of the creative director.\n新项目是创意总监的想法。\nHer brainchild became a successful business venture.\n她的想法成为了一个成功的商业项目。"
+    "example": "The new software application was the brainchild of a young entrepreneur with innovative ideas.\n这个新的软件应用程序是一位有创新想法的年轻企业家的创意。\nThe community center was the brainchild of local residents who wanted a gathering place.\n社区中心是想要一个聚会场所的当地居民的创意。"
   },
   {
     "id": "word_1406",
@@ -28063,7 +28063,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainsick/",
     "frequency": "中频",
-    "example": "The brainsick man rambled about imaginary enemies.\n那个精神失常的人胡言乱语说有假想的敌人。\nHis brainsick behavior worried his family and friends.\n他精神失常的行为让家人和朋友担心。"
+    "example": "His brainsick behavior made everyone concerned about his mental well-being.\n他疯狂的行为让每个人都担心他的心理健康。\nThe character in the novel displayed brainsick tendencies that led to his downfall.\n小说中的人物表现出疯狂的倾向，导致了他的垮台。"
   },
   {
     "id": "word_1407",
@@ -28078,7 +28078,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainstorm/",
     "frequency": "低频",
-    "example": "We need to brainstorm ideas for the upcoming event.\n我们需要为即将到来的活动集思广益。\nThe team had a brainstorm session to solve the problem.\n团队进行了头脑风暴会议来解决问题。"
+    "example": "The team gathered to brainstorm ideas for the upcoming marketing campaign.\n团队聚集在一起为即将到来的营销活动集思广益。\nWe need to brainstorm creative solutions to solve this complex problem.\n我们需要集思广益寻找创造性的解决方案来解决这个复杂问题。"
   },
   {
     "id": "word_1408",
@@ -28093,7 +28093,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainwash/",
     "frequency": "高频",
-    "example": "The cult tried to brainwash its members into obedience.\n邪教试图对其成员进行洗脑使其服从。\nPropaganda can be used to brainwash people.\n宣传可以用来洗脑人们。"
+    "example": "Cult leaders often use manipulative techniques to brainwash their followers.\n邪教领袖经常使用操纵性技巧来洗脑他们的追随者。\nThe documentary exposed how propaganda can brainwash people into accepting false beliefs.\n这部纪录片揭露了宣传如何洗脑人们接受错误的信仰。"
   },
   {
     "id": "word_1409",
@@ -28108,7 +28108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braise/",
     "frequency": "中频",
-    "example": "The chef will braise the beef slowly for several hours.\n厨师会把牛肉慢炖几个小时。\nBraising makes tough meat tender and flavorful.\n炖肉使硬肉变得鲜嫩可口。"
+    "example": "Chefs often braise tough cuts of meat to make them tender and flavorful.\n厨师经常炖硬肉使其变得鲜嫩可口。\nTo braise vegetables properly, you need to cook them slowly in a small amount of liquid.\n要正确炖蔬菜，你需要在少量液体中慢慢烹饪。"
   },
   {
     "id": "word_1410",
@@ -28123,7 +28123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brake/",
     "frequency": "中频",
-    "example": "He applied the brake to stop the car suddenly.\n他踩刹车突然停车。\nThe brake system needs to be checked regularly.\n刹车系统需要定期检查。"
+    "example": "The driver had to apply the brakes suddenly to avoid hitting the pedestrian.\n司机不得不突然刹车以避免撞到行人。\nRegular maintenance of your brakes is essential for safe driving on the road.\n定期维护刹车对于道路安全驾驶至关重要。"
   },
   {
     "id": "word_1411",
@@ -28138,7 +28138,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bramble/",
     "frequency": "高频",
-    "example": "Blackberries grow on thorny bramble bushes.\n黑莓长在多刺的灌木丛上。\nThe children got scratched by the bramble thorns.\n孩子们被荆棘划伤了。"
+    "example": "The children got scratched by thorns while playing in the bramble bushes.\n孩子们在荆棘丛中玩耍时被荆棘划伤了。\nBlackberries grow wild among the brambles in the countryside during summer.\n夏天黑莓在乡下的荆棘丛中野生生长。"
   },
   {
     "id": "word_1412",
@@ -28153,7 +28153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bran/",
     "frequency": "中频",
-    "example": "Bran is a good source of dietary fiber.\n麸皮是膳食纤维的良好来源。\nShe added bran to her breakfast cereal for extra nutrition.\n她在早餐麦片里加了麸皮以增加营养。"
+    "example": "Adding bran to your diet can improve digestion and promote healthy bowel movements.\n在饮食中添加麸皮可以改善消化并促进健康的排便。\nThe baker used wheat bran in the bread recipe to increase its fiber content.\n面包师在面包配方中使用麦麸来增加其纤维含量。"
   },
   {
     "id": "word_1413",
@@ -28168,7 +28168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɑːntʃ/",
     "frequency": "高频",
-    "example": "The tree branch broke during the storm.\n树枝在暴风雨中断了。\nThe company opened a new branch in the city.\n公司在这座城市开设了一家新分公司。"
+    "example": "The tree branch broke under the weight of the heavy snowfall.\n树枝在大雪的重压下折断了。\nThe company opened a new branch in the downtown area to better serve its customers.\n该公司在市中心开设了一家新分店，以更好地为客户服务。"
   },
   {
     "id": "word_1414",
@@ -28183,7 +28183,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brænd/",
     "frequency": "高频",
-    "example": "She bought a brand new car last month.\n她上个月买了一辆全新的车。\nThe brand is known for its high-quality products.\n这个品牌以其高品质产品而闻名。"
+    "example": "Building a strong brand identity requires consistent marketing and quality products.\n建立强大的品牌形象需要持续的营销和优质的产品。\nThe brand new smartphone features advanced technology and a sleek design.\n这款全新的智能手机具有先进的技术和时尚的设计。"
   },
   {
     "id": "word_1415",
@@ -28198,7 +28198,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brandish/",
     "frequency": "中频",
-    "example": "The knight brandished his sword at the enemy.\n骑士向敌人挥舞他的剑。\nHe brandished a knife to threaten the cashier.\n他挥舞着刀威胁收银员。"
+    "example": "The knight brandished his sword as he charged into battle against the enemy.\n骑士挥舞着剑冲向敌人战斗。\nProtesters brandished signs and chanted slogans during the demonstration.\n抗议者在示威期间挥舞标语并高呼口号。"
   },
   {
     "id": "word_1416",
@@ -28213,7 +28213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brandy/",
     "frequency": "中频",
-    "example": "He enjoyed a glass of brandy after dinner.\n他饭后喜欢喝一杯白兰地。\nBrandy is made from distilled wine.\n白兰地是由蒸馏葡萄酒制成的。"
+    "example": "After dinner, they enjoyed a glass of fine brandy by the fireplace.\n晚饭后，他们在壁炉旁享用了一杯优质白兰地。\nThe distillery produces award-winning brandy using traditional methods passed down for generations.\n这家酒厂使用代代相传的传统方法生产获奖白兰地。"
   },
   {
     "id": "word_1417",
@@ -28228,7 +28228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brash/",
     "frequency": "高频",
-    "example": "His brash behavior offended many people at the party.\n他鲁莽的行为在派对上冒犯了许多人。\nThe brash young man spoke without thinking.\n那个鲁莽的年轻人说话不加思考。"
+    "example": "His brash behavior at the meeting offended several of his colleagues.\n他在会议上鲁莽的行为冒犯了几位同事。\nThe young entrepreneur made a brash decision that ultimately led to the company's failure.\n这位年轻的企业家做出了一个鲁莽的决定，最终导致公司失败。"
   },
   {
     "id": "word_1418",
@@ -28243,7 +28243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɑːs/",
     "frequency": "中频",
-    "example": "The musician played a beautiful melody on his brass instrument.\n音乐家在他的铜管乐器上演奏了一段优美的旋律。\nBrass is an alloy of copper and zinc.\n黄铜是铜和锌的合金。"
+    "example": "The musician polished his brass instrument before the concert performance.\n音乐家在音乐会表演前擦拭他的铜管乐器。\nBrass fixtures and fittings add a touch of elegance to the modern bathroom design.\n黄铜配件为现代浴室设计增添了一丝优雅。"
   },
   {
     "id": "word_1419",
@@ -28258,7 +28258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brasserie/",
     "frequency": "低频",
-    "example": "They had dinner at a cozy brasserie near the Eiffel Tower.\n他们在埃菲尔铁塔附近一家舒适的啤酒餐厅吃晚饭。\nThe brasserie serves traditional French cuisine.\n这家啤酒餐厅供应传统法国菜。"
+    "example": "We decided to have dinner at a cozy brasserie near the city center.\n我们决定在市中心附近一家舒适的小餐馆吃晚饭。\nThe brasserie offers a variety of French dishes and craft beers in a relaxed atmosphere.\n这家小餐馆在轻松的氛围中提供各种法国菜和精酿啤酒。"
   },
   {
     "id": "word_1420",
@@ -28273,7 +28273,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brat/",
     "frequency": "高频",
-    "example": "The spoiled brat refused to eat his vegetables.\n那个被宠坏的孩子拒绝吃蔬菜。\nShe was a little brat when she was young.\n她小时候是个小淘气鬼。"
+    "example": "The spoiled brat refused to eat his vegetables and threw a tantrum at the table.\n那个被宠坏的顽童拒绝吃蔬菜，在桌子上发脾气。\nDespite being a brat as a child, he grew up to be a responsible and kind adult.\n尽管小时候是个顽童，但他长大后成为了一个负责任且善良的成年人。"
   },
   {
     "id": "word_1421",
@@ -28288,7 +28288,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brattice/",
     "frequency": "中频",
-    "example": "The miners used a brattice to control air flow in the tunnel.\n矿工用隔板控制隧道内的气流。\nBrattice cloth is fire-resistant and durable.\n隔板布防火且耐用。"
+    "example": "The medieval castle had latticed brattices covering the windows for protection.\n中世纪城堡的窗户上覆盖着格子窗以保护自己。\nArchitects used decorative brattices to enhance the aesthetic appeal of the building.\n建筑师使用装饰性格子窗来增强建筑的美学吸引力。"
   },
   {
     "id": "word_1422",
@@ -28303,7 +28303,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breɪv/",
     "frequency": "高频",
-    "example": "The brave soldier saved his comrades from danger.\n勇敢的士兵从危险中救出了他的战友。\nShe was brave enough to speak up against injustice.\n她勇敢地站出来反对不公正。"
+    "example": "Firefighters showed brave determination as they rescued people from the burning building.\n消防员在从燃烧的建筑物中救人时表现出勇敢的决心。\nIt takes a brave person to speak up against injustice and fight for what is right.\n需要一个勇敢的人站出来反对不公正并为正义而战。"
   },
   {
     "id": "word_1423",
@@ -28318,7 +28318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bravery/",
     "frequency": "高频",
-    "example": "His bravery in battle earned him a medal.\n他在战斗中的勇敢使他获得了奖章。\nBravery is admired in stories and real life.\n勇敢在故事和现实生活中都受到钦佩。"
+    "example": "The soldier was awarded a medal for his bravery in saving his comrades during battle.\n这名士兵因在战斗中拯救战友的勇敢行为而获得奖章。\nHer bravery in facing the difficult challenge inspired everyone around her.\n她面对困难挑战的勇气激励着周围的每个人。"
   },
   {
     "id": "word_1424",
@@ -28333,7 +28333,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brawl/",
     "frequency": "中频",
-    "example": "A brawl broke out between the two rival gangs.\n两个敌对帮派之间爆发了一场斗殴。\nThe police arrived to stop the brawl.\n警察到达制止了斗殴。"
+    "example": "A drunken brawl broke out in the bar after two patrons began arguing over a trivial matter.\n两名顾客因小事争吵后，酒吧里爆发了一场醉酒斗殴。\nThe police were called to break up the brawl and restore order to the street.\n警察被叫来制止斗殴并恢复街道秩序。"
   },
   {
     "id": "word_1425",
@@ -28348,7 +28348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brawn/",
     "frequency": "低频",
-    "example": "The weightlifter had impressive brawn and strength.\n举重运动员有令人印象深刻的肌肉和力量。\nBrawn alone is not enough; you need brains too.\n仅有肌肉是不够的，你还需要智慧。"
+    "example": "The weightlifter relied on his brawn to lift the heavy barbell overhead.\n举重运动员依靠他的肌肉力量将沉重的杠铃举过头顶。\nWhile brawn is impressive, intelligence and strategy often win in the long run.\n虽然肌肉力量令人印象深刻，但从长远来看，智慧和策略往往会获胜。"
   },
   {
     "id": "word_1426",
@@ -28363,7 +28363,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brawny/",
     "frequency": "高频",
-    "example": "The brawny man lifted the heavy box with ease.\n那个肌肉发达的人轻松地举起了沉重的箱子。\nBrawny workers are needed for this construction job.\n这项建筑工作需要肌肉发达的工人。"
+    "example": "The brawny construction worker effortlessly carried the heavy beam across the site.\n这位肌肉发达的建筑工人毫不费力地将沉重的横梁扛过工地。\nHis brawny arms and broad shoulders made him look like a professional wrestler.\n他肌肉发达的手臂和宽阔的肩膀使他看起来像一名职业摔跤手。"
   },
   {
     "id": "word_1427",
@@ -28378,7 +28378,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bray/",
     "frequency": "中频",
-    "example": "The donkey began to bray loudly in the farmyard.\n驴子在农场院子里大声叫了起来。\nHis laugh sounded like the bray of a donkey.\n他的笑声听起来像驴子的叫声。"
+    "example": "The donkey let out a loud bray that could be heard throughout the farm.\n驴子发出一声响亮的嘶鸣，整个农场都能听到。\nThe sound of the mule's bray echoed through the valley at dawn.\n黎明时分，骡子的嘶鸣声在山谷中回荡。"
   },
   {
     "id": "word_1428",
@@ -28393,7 +28393,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braze/",
     "frequency": "低频",
-    "example": "The metalworker will braze the two pieces together.\n金属工人将把两块金属钎焊在一起。\nBrazing creates a strong bond between metals.\n钎焊在金属之间形成牢固的结合。"
+    "example": "The metalworker used a torch to braze the pieces of copper together.\n金属工人用火炬将铜件焊接在一起。\nTo braze properly, you need to heat the metal to the correct temperature.\n要正确焊接，你需要将金属加热到正确的温度。"
   },
   {
     "id": "word_1429",
@@ -28408,7 +28408,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brazier/",
     "frequency": "高频",
-    "example": "They sat around the brazier to keep warm.\n他们围坐在火盆旁取暖。\nThe brazier provided warmth during the cold night.\n火盆在寒冷的夜晚提供温暖。"
+    "example": "They gathered around the brazier to warm themselves on the cold winter night.\n他们在寒冷的冬夜围着火盆取暖。\nThe ancient brazier was decorated with intricate patterns and symbols.\n古老的火盆装饰着复杂的图案和符号。"
   },
   {
     "id": "word_1430",
@@ -28423,7 +28423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bred/",
     "frequency": "高频",
-    "example": "She baked a loaf of bread for breakfast.\n她烤了一条面包当早餐。\nBread is a staple food in many cultures.\n面包是许多文化中的主食。"
+    "example": "She baked a fresh loaf of bread that filled the kitchen with a wonderful aroma.\n她烤了一条新鲜面包，厨房充满了美妙的香气。\nEvery morning, the baker prepares various types of bread for the customers.\n每天早上，面包师为顾客准备各种类型的面包。"
   },
   {
     "id": "word_1431",
@@ -28438,7 +28438,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breadbasket/",
     "frequency": "低频",
-    "example": "The Midwest is known as the breadbasket of America.\n中西部被称为美国的粮仓。\nThe region produces enough grain to feed millions.\n该地区生产足够养活数百万人的粮食。"
+    "example": "The fertile region is known as the breadbasket of the country due to its abundant crops.\n这个肥沃的地区因其丰富的农作物而被称为国家的粮仓。\nThe farmer proudly showed us his breadbasket filled with freshly harvested wheat.\n农民自豪地向我们展示了他装满新鲜收获小麦的面包篮。"
   },
   {
     "id": "word_1432",
@@ -28453,7 +28453,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breadth/",
     "frequency": "高频",
-    "example": "The breadth of his knowledge impressed everyone.\n他知识的广度给每个人留下了深刻印象。\nThe breadth of the river made crossing difficult.\n河流的宽度使过河变得困难。"
+    "example": "The breadth of his knowledge impressed everyone at the conference.\n他知识的广度给会议上的每个人留下了深刻印象。\nThe artist captured the breadth of the landscape in his expansive painting.\n艺术家在他广阔的画作中捕捉到了风景的广度。"
   },
   {
     "id": "word_1433",
@@ -28468,7 +28468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breadwinner/",
     "frequency": "中频",
-    "example": "He is the sole breadwinner for his large family.\n他是他大家庭唯一的养家糊口的人。\nBeing a breadwinner comes with great responsibility.\n作为养家糊口的人肩负着重大责任。"
+    "example": "As the sole breadwinner, he worked long hours to support his family.\n作为唯一的养家糊口者，他长时间工作来养家。\nMany families struggle when the primary breadwinner loses their job unexpectedly.\n当主要养家糊口者意外失业时，许多家庭都会陷入困境。"
   },
   {
     "id": "word_1434",
@@ -28483,7 +28483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breɪk/",
     "frequency": "高频",
-    "example": "She took a break from work to have lunch.\n她暂停工作去吃午饭。\nThe break in the weather allowed us to go outside.\n天气好转让我们可以出去。"
+    "example": "She took a short break from work to relax and recharge her energy.\n她从工作中短暂休息一下来放松和充电。\nThe sudden noise made him jump and nearly break the fragile vase.\n突然的噪音让他吓了一跳，差点打碎那个脆弱的花瓶。"
   },
   {
     "id": "word_1435",
@@ -28498,7 +28498,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakage/",
     "frequency": "高频",
-    "example": "The breakage of the vase was accidental.\n花瓶的破损是意外的。\nThe company covers breakage during shipping.\n公司承担运输过程中的破损。"
+    "example": "The company reported a high rate of breakage during the shipping process.\n该公司报告在运输过程中有很高的破损率。\nWe need to improve our packaging to reduce breakage of fragile items.\n我们需要改进包装以减少易碎物品的破损。"
   },
   {
     "id": "word_1436",
@@ -28513,7 +28513,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakaway/",
     "frequency": "中频",
-    "example": "The breakaway region declared its independence.\n分离地区宣布独立。\nA breakaway group formed their own political party.\n一个分裂团体组建了自己的政党。"
+    "example": "The breakaway region declared its independence from the central government.\n分离地区宣布脱离中央政府独立。\nA breakaway group of members formed their own organization after the disagreement.\n在分歧之后，一群分离出来的成员成立了自己的组织。"
   },
   {
     "id": "word_1437",
@@ -28528,7 +28528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrekfəst/",
     "frequency": "高频",
-    "example": "We had a delicious breakfast at the hotel.\n我们在酒店吃了美味的早餐。\nBreakfast is considered the most important meal of the day.\n早餐被认为是一天中最重要的一餐。"
+    "example": "They enjoyed a leisurely breakfast together before starting their busy day.\n他们在开始忙碌的一天之前一起享用了悠闲的早餐。\nThe hotel offers a complimentary breakfast with a wide selection of foods.\n这家酒店提供免费早餐，有多种食物可供选择。"
   },
   {
     "id": "word_1438",
@@ -28543,7 +28543,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakneck/",
     "frequency": "高频",
-    "example": "The car raced at breakneck speed down the highway.\n汽车以极快的速度在高速公路上疾驰。\nShe drove at breakneck speed to reach the hospital.\n她以惊人的速度开车去医院。"
+    "example": "The race car driver sped around the track at breakneck speed.\n赛车手以极快的速度在赛道上飞驰。\nShe drove at breakneck speed to reach the hospital in time.\n她以极快的速度开车及时赶到医院。"
   },
   {
     "id": "word_1439",
@@ -28558,7 +28558,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakout/",
     "frequency": "中频",
-    "example": "A breakout from the prison was reported last night.\n昨晚报道了一起监狱越狱事件。\nThe breakout was carefully planned by the inmates.\n越狱是囚犯精心策划的。"
+    "example": "The prisoners planned a breakout from the maximum-security prison.\n囚犯们计划从最高安全级别的监狱越狱。\nThere was a breakout of the virus in several countries around the world.\n病毒在世界上几个国家爆发。"
   },
   {
     "id": "word_1440",
@@ -28573,7 +28573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakthrough/",
     "frequency": "低频",
-    "example": "Scientists made a breakthrough in cancer research.\n科学家在癌症研究方面取得了突破。\nThe breakthrough discovery changed medical practices.\n突破性发现改变了医疗实践。"
+    "example": "Scientists announced a major breakthrough in the treatment of cancer.\n科学家宣布在癌症治疗方面取得重大突破。\nThe negotiations finally led to a breakthrough in the long-standing dispute.\n谈判最终在长期争端中取得了突破。"
   },
   {
     "id": "word_1441",
@@ -28588,7 +28588,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakup/",
     "frequency": "高频",
-    "example": "Their breakup was mutual and amicable.\n他们的分手是双方自愿且友好的。\nThe breakup of the band disappointed many fans.\n乐队的解散让许多歌迷失望。"
+    "example": "Their painful breakup was reported in all the tabloid newspapers.\n他们痛苦的分手被所有小报报道。\nThe breakup of the band disappointed many loyal fans around the world.\n乐队的解散让全世界许多忠实粉丝失望。"
   },
   {
     "id": "word_1442",
@@ -28603,7 +28603,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breast/",
     "frequency": "中频",
-    "example": "She held the baby close to her breast.\n她把婴儿紧紧抱在怀里。\nBreast cancer awareness is important for early detection.\n乳腺癌意识对早期发现很重要。"
+    "example": "She held the baby close to her breast to comfort and feed him.\n她把婴儿抱在怀里安慰和喂养他。\nThe doctor recommended a mammogram to check for any abnormalities in her breast.\n医生建议做乳房X光检查以检查乳房是否有异常。"
   },
   {
     "id": "word_1443",
@@ -28618,7 +28618,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breastplate/",
     "frequency": "低频",
-    "example": "The knight wore a shiny breastplate for protection.\n骑士穿着闪亮的胸甲保护自己。\nThe breastplate was engraved with family symbols.\n胸甲上刻有家族符号。"
+    "example": "The knight wore a shiny breastplate to protect his chest in battle.\n骑士穿着闪亮的胸甲在战斗中保护胸部。\nThe ancient warrior's breastplate was decorated with intricate engravings.\n古代战士的胸甲装饰着复杂的雕刻。"
   },
   {
     "id": "word_1444",
@@ -28633,7 +28633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breθ/",
     "frequency": "高频",
-    "example": "He took a deep breath before diving into the pool.\n他深呼吸后跳入游泳池。\nHer breath fogged the cold window glass.\n她的呼吸使冰冷的窗户玻璃起雾。"
+    "example": "She took a deep breath before diving into the cold water.\n她在跳入冷水之前深吸一口气。\nThe runner was out of breath after finishing the marathon.\n跑步者跑完马拉松后气喘吁吁。"
   },
   {
     "id": "word_1445",
@@ -28648,7 +28648,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breathable/",
     "frequency": "中频",
-    "example": "These shoes are made of breathable material.\n这些鞋子是用透气材料制成的。\nBreathable fabrics help keep you cool in summer.\n透气面料有助于在夏天保持凉爽。"
+    "example": "These breathable fabrics allow air to circulate and keep you cool.\n这些透气面料允许空气流通并保持凉爽。\nThe manufacturer claims their shoes have breathable soles for all-day comfort.\n制造商声称他们的鞋子有透气鞋底，全天舒适。"
   },
   {
     "id": "word_1446",
@@ -28663,7 +28663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briːð/",
     "frequency": "高频",
-    "example": "It is important to breathe deeply when feeling stressed.\n感到压力时深呼吸很重要。\nThe doctor told him to breathe slowly and steadily.\n医生告诉他要缓慢平稳地呼吸。"
+    "example": "It is important to breathe deeply and slowly during meditation.\n冥想期间深呼吸和缓慢呼吸很重要。\nThe doctor told him to breathe in through his nose and out through his mouth.\n医生告诉他用鼻子吸气，用嘴巴呼气。"
   },
   {
     "id": "word_1447",
@@ -28678,7 +28678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breech/",
     "frequency": "高频",
-    "example": "The baby was in breech position during delivery.\n分娩时婴儿处于臀位。\nA breech birth can be more complicated than normal.\n臀位分娩可能比正常分娩更复杂。"
+    "example": "The baby was in the breech position, so the doctor recommended a cesarean section.\n婴儿处于臀位，所以医生建议剖腹产。\nThe old cannon had a brass breech that showed signs of wear and tear.\n那门旧大炮有一个黄铜后膛，显示出磨损迹象。"
   },
   {
     "id": "word_1448",
@@ -28693,7 +28693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breeches/",
     "frequency": "中频",
-    "example": "The rider wore leather breeches for horseback riding.\n骑手穿着皮马裤骑马。\nBreeches were popular clothing in the 18th century.\n马裤在18世纪是流行服装。"
+    "example": "The equestrian wore tight-fitting breeches for riding her horse.\n骑手穿着紧身马裤骑马。\nIn the 18th century, men commonly wore knee-length breeches.\n在18世纪，男人通常穿及膝马裤。"
   },
   {
     "id": "word_1449",
@@ -28708,7 +28708,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breed/",
     "frequency": "中频",
-    "example": "Farmers breed cows for milk production.\n农民饲养奶牛产奶。\nCertain dog breeds are known for their intelligence.\n某些犬种以其聪明才智而闻名。"
+    "example": "Farmers carefully breed their livestock to produce healthier and more productive animals.\n农民仔细培育他们的牲畜以生产更健康、更多产的动物。\nCertain dog breeds are known for their loyalty and protective nature.\n某些犬种以其忠诚和保护天性而闻名。"
   },
   {
     "id": "word_1450",
@@ -28723,7 +28723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breeze/",
     "frequency": "高频",
-    "example": "A gentle breeze rustled the leaves in the trees.\n微风吹动树上的叶子沙沙作响。\nThe cool breeze provided relief from the heat.\n凉爽的微风缓解了炎热。"
+    "example": "A gentle breeze rustled the leaves in the trees on a warm summer day.\n温暖的夏日里，微风轻轻吹动树上的叶子。\nWe enjoyed a pleasant breeze while sitting on the beach watching the waves.\n我们坐在海滩上看海浪时享受着宜人的微风。"
   },
   {
     "id": "word_1451",
@@ -28738,7 +28738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breve/",
     "frequency": "中频",
-    "example": "The music teacher explained the breve note value.\n音乐老师解释了全音符的时值。\nIn music notation, a breve lasts four beats.\n在乐谱中，全音符持续四拍。"
+    "example": "The musical score indicated a breve note that lasted for two whole beats.\n乐谱上标明了一个持续两拍的二全音符。\nIn medieval music, the breve was an important note value.\n在中世纪音乐中，二全音符是一个重要的音符值。"
   },
   {
     "id": "word_1452",
@@ -28753,7 +28753,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brevet/",
     "frequency": "低频",
-    "example": "He received a brevet promotion for his bravery.\n他因勇敢获得了临时晋升。\nThe brevet rank allowed him to command the regiment.\n临时军衔使他能够指挥团。"
+    "example": "The officer received a brevet promotion for his exceptional service.\n这位军官因出色的服务获得了名誉晋升。\nHistorically, a brevet was a document granting certain privileges or authority.\n历史上，名誉晋升是授予某些特权或权力的文件。"
   },
   {
     "id": "word_1453",
@@ -28768,7 +28768,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breviary/",
     "frequency": "高频",
-    "example": "The priest recited the breviary during morning prayer.\n牧师在晨祷时诵读祈祷书。\nThe breviary contains prayers for different times of day.\n祈祷书包含一天不同时间的祈祷文。"
+    "example": "The monk carried his breviary with him wherever he went for daily prayers.\n修道士无论走到哪里都带着他的每日祈祷书进行日常祈祷。\nIn medieval times, a breviary was an essential book for religious ceremonies.\n在中世纪，祈祷书是宗教仪式的必备书籍。"
   },
   {
     "id": "word_1454",
@@ -28783,7 +28783,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɪk/",
     "frequency": "高频",
-    "example": "He built a wall using red bricks and mortar.\n他用红砖和砂浆砌了一堵墙。\nBrick buildings are durable and fire-resistant.\n砖建筑耐用且防火。"
+    "example": "The mason carefully laid each brick to build the sturdy wall.\n泥瓦匠仔细铺设每一块砖来建造坚固的墙。\nChildren love to build structures with toy bricks and let their imagination run wild.\n孩子们喜欢用玩具积木建造结构，让他们的想象力驰骋。"
   },
   {
     "id": "word_1455",
@@ -28798,7 +28798,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brickbat/",
     "frequency": "低频",
-    "example": "The politician received brickbats from the angry crowd.\n政客受到愤怒人群的抨击。\nCritics threw brickbats at the controversial proposal.\n批评家们猛烈抨击这项有争议的提案。"
+    "example": "The politician received brickbats from critics for his controversial policies.\n这位政治家因其有争议的政策而受到批评者的抨击。\nThrowing brickbats at others is not a constructive way to solve problems.\n抨击他人不是解决问题的建设性方式。"
   },
   {
     "id": "word_1456",
@@ -28813,7 +28813,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brickyard/",
     "frequency": "高频",
-    "example": "The brickyard produces thousands of bricks each day.\n砖厂每天生产数千块砖。\nWorkers at the brickyard load bricks onto trucks.\n砖厂工人把砖装上卡车。"
+    "example": "The brickyard produced thousands of bricks each day for construction projects.\n砖厂每天生产数千块砖用于建筑项目。\nWe visited the brickyard to see how traditional bricks are made.\n我们参观了砖厂，看看传统砖是如何制作的。"
   },
   {
     "id": "word_1457",
@@ -28828,7 +28828,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridal/",
     "frequency": "中频",
-    "example": "She wore a beautiful bridal gown on her wedding day.\n她在婚礼当天穿着漂亮的新娘礼服。\nThe bridal party walked down the aisle together.\n伴娘伴郎团一起走过过道。"
+    "example": "She looked stunning in her white bridal gown on her wedding day.\n她在婚礼当天穿着白色婚纱看起来美极了。\nThe bridal party gathered in the hotel suite before the ceremony.\n婚礼派对在仪式前聚集在酒店套房里。"
   },
   {
     "id": "word_1458",
@@ -28843,7 +28843,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bride/",
     "frequency": "高频",
-    "example": "The bride looked stunning in her white dress.\n新娘穿着白色礼服看起来美极了。\nThe bride and groom exchanged vows in the chapel.\n新娘和新郎在教堂交换誓言。"
+    "example": "The bride walked down the aisle accompanied by her father.\n新娘在父亲的陪同下走过过道。\nAll eyes were on the beautiful bride as she entered the church.\n当美丽的新娘走进教堂时，所有人的目光都集中在她身上。"
   },
   {
     "id": "word_1459",
@@ -28858,7 +28858,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridegroom/",
     "frequency": "高频",
-    "example": "The bridegroom waited anxiously at the altar.\n新郎在祭坛前焦急地等待。\nThe bridegroom kissed his bride after the ceremony.\n仪式结束后新郎亲吻了新娘。"
+    "example": "The nervous bridegroom waited at the altar for his bride to arrive.\n紧张的新郎在祭坛前等待新娘到来。\nThe bridegroom gave a heartfelt speech thanking everyone for attending their wedding.\n新郎发表了衷心的演讲，感谢所有人参加他们的婚礼。"
   },
   {
     "id": "word_1460",
@@ -28873,7 +28873,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɪdʒ/",
     "frequency": "高频",
-    "example": "The bridge spans across the wide river.\n这座桥横跨宽阔的河流。\nThey walked across the bridge to reach the other side.\n他们走过桥到达另一边。"
+    "example": "The ancient stone bridge spans the river and connects the two villages.\n古老的石桥横跨河流，连接两个村庄。\nEngineers designed a modern suspension bridge to handle heavy traffic.\n工程师设计了一座现代悬索桥来处理繁忙的交通。"
   },
   {
     "id": "word_1461",
@@ -28888,7 +28888,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridgehead/",
     "frequency": "低频",
-    "example": "The army established a bridgehead on the enemy shore.\n军队在敌人岸边建立了桥头堡。\nCapturing the bridgehead was crucial for the invasion.\n占领桥头堡对入侵至关重要。"
+    "example": "The army established a bridgehead on the enemy side of the river.\n军队在河的敌方一侧建立了桥头堡。\nSecuring the bridgehead was crucial for the success of the military operation.\n确保桥头堡的安全对于军事行动的成功至关重要。"
   },
   {
     "id": "word_1462",
@@ -28903,7 +28903,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridgework/",
     "frequency": "高频",
-    "example": "The dentist recommended bridgework to replace missing teeth.\n牙医建议用牙桥修复缺失的牙齿。\nBridgework can improve both appearance and function.\n牙桥可以改善外观和功能。"
+    "example": "The dentist recommended bridgework to replace the missing teeth.\n牙医建议用牙桥来替换缺失的牙齿。\nThe bridgework was carefully crafted to match the patient's natural teeth.\n牙桥经过精心制作以匹配患者的天然牙齿。"
   },
   {
     "id": "word_1463",
@@ -28918,7 +28918,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briːf/",
     "frequency": "高频",
-    "example": "Please give me a brief summary of the meeting.\n请给我会议的简要摘要。\nThe brief presentation covered the main points.\n简短的演示涵盖了要点。"
+    "example": "Please give me a brief summary of the main points from the meeting.\n请给我一个会议要点的简要总结。\nThe lawyer prepared a brief for the upcoming court case.\n律师为即将到来的法庭案件准备了一份摘要。"
   },
   {
     "id": "word_1464",
@@ -28933,7 +28933,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briefcase/",
     "frequency": "低频",
-    "example": "He carried his documents in a leather briefcase.\n他把文件放在皮革公文包里。\nThe briefcase was locked to protect important papers.\n公文包上了锁以保护重要文件。"
+    "example": "He carried his important documents in a leather briefcase to the office.\n他把重要文件放在皮革公文包里带到办公室。\nThe executive's briefcase contained all the necessary paperwork for the business trip.\n高管的公文包里装着商务旅行所需的所有必要文件。"
   },
   {
     "id": "word_1465",
@@ -28948,7 +28948,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briefly/",
     "frequency": "高频",
-    "example": "We spoke briefly before the meeting started.\n我们在会议开始前简短交谈了一下。\nShe mentioned the issue briefly in her speech.\n她在演讲中简要提到了这个问题。"
+    "example": "Let me briefly explain the key features of our new product.\n让我简要解释一下我们新产品的主要特点。\nWe stopped briefly to admire the beautiful view from the mountain top.\n我们短暂停留，欣赏山顶的美丽景色。"
   },
   {
     "id": "word_1466",
@@ -28963,7 +28963,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brier/",
     "frequency": "中频",
-    "example": "The hiker got stuck in a patch of brier bushes.\n徒步旅行者被困在一片荆棘丛中。\nBrier thorns can cause painful scratches.\n荆棘刺会造成疼痛的划痕。"
+    "example": "The hiker got caught in a patch of briers and scratched his legs.\n徒步旅行者被一片荆棘缠住，划伤了腿。\nBriers grow wild in the countryside and can be difficult to remove.\n荆棘在乡下野生生长，很难清除。"
   },
   {
     "id": "word_1467",
@@ -28978,7 +28978,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brigade/",
     "frequency": "中频",
-    "example": "The fire brigade arrived quickly to put out the blaze.\n消防队迅速到达灭火。\nA brigade of soldiers marched through the city.\n一队士兵穿过城市。"
+    "example": "The fire brigade arrived quickly to put out the blaze.\n消防队迅速赶到扑灭大火。\nA brigade of soldiers marched through the city streets in the parade.\n一队士兵在游行中穿过城市街道。"
   },
   {
     "id": "word_1468",
@@ -28993,7 +28993,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brigadier/",
     "frequency": "高频",
-    "example": "The brigadier commanded the military operation.\n准将指挥军事行动。\nHe was promoted to brigadier after years of service.\n他服役多年后晋升为准将。"
+    "example": "The brigadier led his troops into battle with courage and determination.\n准将带领他的部队勇敢而坚定地投入战斗。\nAfter many years of service, he was promoted to the rank of brigadier.\n经过多年的服役，他被晋升为准将。"
   },
   {
     "id": "word_1469",
@@ -29008,7 +29008,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brigand/",
     "frequency": "中频",
-    "example": "Brigands attacked the travelers on the mountain road.\n强盗袭击了山路上的旅行者。\nThe brigand was captured and brought to justice.\n强盗被抓获并绳之以法。"
+    "example": "The villagers lived in fear of the brigands who roamed the countryside.\n村民们生活在对在乡下游荡的土匪的恐惧中。\nLegend tells of a brave knight who defeated the brigand leader.\n传说讲述了一位勇敢的骑士击败了土匪首领。"
   },
   {
     "id": "word_1470",
@@ -29023,7 +29023,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braɪt/",
     "frequency": "高频",
-    "example": "The sun shone bright on the beautiful day.\n阳光在美好的日子里明亮地照耀着。\nShe has a bright future ahead of her.\n她前途光明。"
+    "example": "The bright sunlight streamed through the window and illuminated the room.\n明亮的阳光透过窗户照进房间。\nShe has a bright future ahead of her with her talent and determination.\n凭借她的才华和决心，她有着光明的未来。"
   },
   {
     "id": "word_1471",
@@ -29038,7 +29038,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brighten/",
     "frequency": "低频",
-    "example": "The flowers brighten up the room with their colors.\n花朵用它们的颜色照亮房间。\nHer smile brightened the darkest days.\n她的微笑照亮了最黑暗的日子。"
+    "example": "Adding some colorful flowers will brighten up the dull room.\n添加一些五颜六色的花会让沉闷的房间变得明亮。\nHer smile never fails to brighten my day when I am feeling down.\n当我情绪低落时，她的微笑总能让我的一天变得愉快。"
   },
   {
     "id": "word_1472",
@@ -29053,7 +29053,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brightly/",
     "frequency": "高频",
-    "example": "The stars shone brightly in the night sky.\n星星在夜空中明亮地闪烁。\nShe smiled brightly when she saw her friend.\n她看到朋友时灿烂地笑了。"
+    "example": "The stars shone brightly in the clear night sky above the desert.\n星星在沙漠上空晴朗的夜空中明亮地闪烁。\nShe brightly greeted everyone she met with a warm and friendly smile.\n她带着温暖友好的微笑明亮地问候她遇到的每个人。"
   },
   {
     "id": "word_1473",
@@ -29068,7 +29068,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɪliənt/",
     "frequency": "高频",
-    "example": "She came up with a brilliant idea for the project.\n她为这个项目想出了一个绝妙的主意。\nThe brilliant scientist won the Nobel Prize.\n这位杰出的科学家获得了诺贝尔奖。"
+    "example": "The brilliant scientist made groundbreaking discoveries that changed the field.\n这位杰出的科学家做出了改变该领域的开创性发现。\nHer brilliant performance in the exam earned her a scholarship to the university.\n她在考试中的出色表现为她赢得了大学奖学金。"
   },
   {
     "id": "word_1474",
@@ -29083,7 +29083,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brimful/",
     "frequency": "中频",
-    "example": "The cup was brimful with hot tea.\n杯子里装满了热茶。\nHer heart was brimful with joy on her wedding day.\n她婚礼当天心里充满喜悦。"
+    "example": "The cup was brimful of hot tea that steamed in the cold air.\n杯子里装满了热茶，在冷空气中冒着热气。\nHis heart was brimful of joy when he heard the good news about his promotion.\n当他听到升职的好消息时，他心里充满了喜悦。"
   },
   {
     "id": "word_1475",
@@ -29098,7 +29098,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brimstone/",
     "frequency": "低频",
-    "example": "The volcano erupted, spewing brimstone and ash.\n火山喷发，喷出硫磺和火山灰。\nBrimstone has a strong, unpleasant smell.\n硫磺有一种强烈的难闻气味。"
+    "example": "The smell of brimstone filled the air near the volcanic vent.\n火山喷口附近弥漫着硫磺的气味。\nIn ancient times, brimstone was used for various purposes including medicine and rituals.\n在古代，硫磺被用于包括医药和仪式在内的各种用途。"
   },
   {
     "id": "word_1476",
@@ -29113,7 +29113,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brinded/",
     "frequency": "高频",
-    "example": "The brinded cat curled up on the windowsill.\n这只斑纹猫蜷缩在窗台上。\nBrinded patterns are common in certain dog breeds.\n斑纹图案在某些犬种中很常见。"
+    "example": "The brinded cat curled up on the windowsill in the warm sunlight.\n这只斑纹猫蜷缩在温暖阳光下的窗台上。\nHer brinded coat made her stand out among the other plain-colored dogs.\n她的斑纹皮毛使她在其他纯色狗中脱颖而出。"
   },
   {
     "id": "word_1477",
@@ -29128,7 +29128,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brindle/",
     "frequency": "中频",
-    "example": "The puppy had a beautiful brindle coat.\n小狗有一件漂亮的斑纹外套。\nBrindle coloring is a dominant trait in boxers.\n斑纹毛色是拳师犬的显性特征。"
+    "example": "The brindle pattern on the horse's coat was unique and striking.\n马身上的斑纹图案独特而引人注目。\nMany people find the brindle coloring on certain dog breeds very attractive.\n许多人发现某些犬种的斑纹颜色非常有吸引力。"
   },
   {
     "id": "word_1478",
@@ -29143,7 +29143,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brine/",
     "frequency": "低频",
-    "example": "The chef used brine to preserve the vegetables.\n厨师用盐水保存蔬菜。\nBrine is commonly used for pickling foods.\n盐水常用于腌制食品。"
+    "example": "The fisherman soaked the fish in brine to preserve it for the long journey.\n渔夫把鱼浸泡在盐水中以保存它用于长途旅行。\nBrine is commonly used in pickling vegetables and preserving meats.\n盐水常用于腌制蔬菜和保存肉类。"
   },
   {
     "id": "word_1479",
@@ -29158,7 +29158,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɪŋ/",
     "frequency": "高频",
-    "example": "Could you bring me a glass of water?\n你能给我拿杯水吗？\nShe forgot to bring her umbrella on the rainy day.\n下雨天她忘记带伞了。"
+    "example": "Could you please bring me a glass of water from the kitchen?\n你能从厨房给我拿一杯水吗？\nShe promised to bring her famous chocolate cake to the party.\n她答应带她著名的巧克力蛋糕去参加聚会。"
   },
   {
     "id": "word_1480",
@@ -29173,7 +29173,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brink/",
     "frequency": "中频",
-    "example": "The hiker stood on the brink of the cliff.\n徒步旅行者站在悬崖边上。\nThe country was on the brink of economic collapse.\n这个国家处于经济崩溃的边缘。"
+    "example": "The hiker stood at the brink of the cliff and admired the view below.\n徒步旅行者站在悬崖边缘，欣赏下方的景色。\nThe country was on the brink of economic collapse before the new policy was implemented.\n在新政策实施之前，这个国家处于经济崩溃的边缘。"
   },
   {
     "id": "word_1481",
@@ -29188,7 +29188,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brinkmanship/",
     "frequency": "低频",
-    "example": "The political leaders engaged in nuclear brinkmanship.\n政治领导人进行核边缘政策。\nBrinkmanship is a dangerous game in diplomacy.\n边缘政策在外交中是危险的游戏。"
+    "example": "The political leaders engaged in brinkmanship during the tense negotiations.\n政治领导人在紧张的谈判中采取边缘政策。\nBrinkmanship is a dangerous strategy that can lead to unintended consequences.\n边缘政策是一种危险的策略，可能导致意想不到的后果。"
   },
   {
     "id": "word_1482",
@@ -29203,7 +29203,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briny/",
     "frequency": "高频",
-    "example": "The briny ocean water surrounded the small island.\n咸咸的海水环绕着小岛。\nBriny tears streamed down her face.\n咸涩的泪水从她脸上流下来。"
+    "example": "The briny ocean waves crashed against the rocky shore.\n咸咸的海浪拍打着岩石海岸。\nAfter swimming in the sea, he could taste the briny water on his lips.\n在海里游泳后，他能在嘴唇上尝到咸水的味道。"
   },
   {
     "id": "word_1483",
@@ -29218,7 +29218,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brisk/",
     "frequency": "高频",
-    "example": "She took a brisk walk in the morning to stay healthy.\n她早上快走保持健康。\nThe brisk wind made the cold day feel even colder.\n凛冽的风让寒冷的日子感觉更冷。"
+    "example": "She took a brisk walk in the park to get some exercise and fresh air.\n她在公园里快走以锻炼身体和呼吸新鲜空气。\nThe brisk wind made the leaves rustle and the temperature feel cooler.\n微风使树叶沙沙作响，气温感觉更凉爽。"
   },
   {
     "id": "word_1484",
@@ -29233,7 +29233,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brisket/",
     "frequency": "低频",
-    "example": "The chef slow-cooked the brisket for hours.\n厨师慢炖了几个小时的牛腩。\nBrisket is a popular cut of beef for barbecues.\n牛腩是烧烤中很受欢迎的牛肉部位。"
+    "example": "The chef slow-cooked the brisket until it was tender and flavorful.\n厨师慢炖牛腩直到它变得鲜嫩可口。\nBrisket is a popular cut of beef used in many traditional dishes around the world.\n牛腩是一种受欢迎的牛肉部位，用于世界上许多传统菜肴。"
   },
   {
     "id": "word_1485",
@@ -29248,7 +29248,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bristle/",
     "frequency": "高频",
-    "example": "The brush had stiff bristles for scrubbing.\n刷子有坚硬的刷毛用于擦洗。\nHe bristled with anger when he heard the news.\n听到消息时他怒发冲冠。"
+    "example": "The brush has stiff bristles that are perfect for scrubbing dirty surfaces.\n刷子有坚硬的刷毛，非常适合擦洗脏表面。\nThe dog's fur began to bristle when it sensed danger approaching.\n当狗感觉到危险临近时，它的毛发开始竖起。"
   },
   {
     "id": "word_1486",
@@ -29263,7 +29263,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bristly/",
     "frequency": "中频",
-    "example": "The cactus has bristly spines to protect itself.\n仙人掌有刺毛来保护自己。\nHis bristly beard scratched her cheek.\n他粗糙的胡须刮伤了她的脸颊。"
+    "example": "The bristly plant had sharp thorns that made it difficult to handle.\n这棵多刺的植物有锋利的刺，很难处理。\nHis bristly beard needed trimming before the important meeting.\n他粗糙的胡须需要在重要会议前修剪。"
   },
   {
     "id": "word_1487",
@@ -29278,7 +29278,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɪtn/",
     "frequency": "高频",
-    "example": "Britain consists of England, Scotland, and Wales.\n英国由英格兰、苏格兰和威尔士组成。\nMany tourists visit Britain each year.\n每年有许多游客访问英国。"
+    "example": "Many tourists visit Britain each year to explore its rich history and culture.\n每年有许多游客访问英国，探索其丰富的历史和文化。\nBritain consists of England, Scotland, and Wales on the island of Great Britain.\n英国由大不列颠岛上的英格兰、苏格兰和威尔士组成。"
   },
   {
     "id": "word_1488",
@@ -29293,7 +29293,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/britannia/",
     "frequency": "低频",
-    "example": "Britannia is a personification of Great Britain.\n大不列颠女神是大不列颠的拟人化形象。\nThe Britannia statue stands in Trafalgar Square.\n大不列颠女神雕像矗立在特拉法加广场。"
+    "example": "Britannia is the national personification of the United Kingdom.\n不列颠尼亚是英国的拟人化形象。\nThe statue of Britannia stands proudly in front of the historic building.\n不列颠尼亚雕像自豪地矗立在历史建筑前。"
   },
   {
     "id": "word_1489",
@@ -29308,7 +29308,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɪtɪʃ/",
     "frequency": "高频",
-    "example": "She speaks with a British accent.\n她说话带有英国口音。\nBritish cuisine has many traditional dishes.\n英国菜有许多传统菜肴。"
+    "example": "She has a strong British accent that reminds people of London.\n她有浓重的英国口音，让人想起伦敦。\nBritish cuisine has evolved over centuries and includes many traditional dishes.\n英国美食经过几个世纪的演变，包括许多传统菜肴。"
   },
   {
     "id": "word_1490",
@@ -29323,7 +29323,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brittle/",
     "frequency": "中频",
-    "example": "The old book had brittle pages that crumbled easily.\n旧书的书页很脆，容易碎裂。\nBrittle bones are more prone to breaking.\n脆弱的骨头更容易断裂。"
+    "example": "The old book had brittle pages that crumbled when touched.\n这本旧书的书页很脆，一碰就碎。\nBrittle materials like glass can break easily if not handled carefully.\n像玻璃这样的脆性材料如果不小心处理很容易破裂。"
   },
   {
     "id": "word_1491",
@@ -29338,7 +29338,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɔːd/",
     "frequency": "高频",
-    "example": "The broad highway stretched across the countryside.\n宽阔的公路横跨乡村。\nShe has a broad understanding of many subjects.\n她对许多学科有广泛的了解。"
+    "example": "The broad avenue was lined with tall trees and beautiful flowers.\n宽阔的大道两旁种满了高大的树木和美丽的花朵。\nShe has a broad understanding of many different subjects and cultures.\n她对许多不同的学科和文化有广泛的了解。"
   },
   {
     "id": "word_1492",
@@ -29353,7 +29353,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broadbean/",
     "frequency": "高频",
-    "example": "The farmer planted broadbeans in the spring.\n农民在春天种了蚕豆。\nBroadbeans are a good source of protein.\n蚕豆是很好的蛋白质来源。"
+    "example": "They planted broadbeans in their garden and harvested them in the summer.\n他们在花园里种了蚕豆，并在夏天收获。\nBroadbeans are a nutritious legume that can be cooked in many different ways.\n蚕豆是一种营养丰富的豆类，可以用多种不同的方式烹饪。"
   },
   {
     "id": "word_1493",
@@ -29368,7 +29368,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɔːdkɑːst/",
     "frequency": "高频",
-    "example": "The news will be broadcast live on television.\n新闻将在电视上直播。\nRadio stations broadcast music and talk shows.\n广播电台播放音乐和脱口秀。"
+    "example": "The radio station broadcast the news to millions of listeners across the country.\n广播电台向全国数百万听众广播新闻。\nThe live broadcast of the concert was watched by music fans around the world.\n音乐会的现场直播被世界各地的音乐迷观看。"
   },
   {
     "id": "word_1494",
@@ -29383,7 +29383,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broaden/",
     "frequency": "低频",
-    "example": "Traveling helps to broaden your horizons.\n旅行有助于开阔视野。\nWe need to broaden our understanding of different cultures.\n我们需要拓宽对不同文化的理解。"
+    "example": "Traveling to different countries can help broaden your perspective on the world.\n去不同的国家旅行可以帮助你拓宽对世界的视野。\nWe need to broaden our understanding of different cultures and traditions.\n我们需要拓宽对不同文化和传统的理解。"
   },
   {
     "id": "word_1495",
@@ -29398,7 +29398,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broader/",
     "frequency": "中频",
-    "example": "The broader implications of the decision are significant.\n这个决定的更广泛影响是重大的。\nWe need to take a broader approach to solving this problem.\n我们需要采取更广泛的方法来解决这个问题。"
+    "example": "The broader implications of this decision will affect many aspects of our lives.\n这个决定更广泛的影响将影响我们生活的许多方面。\nLooking at the broader picture helps us understand the full context of the situation.\n从更广阔的角度看有助于我们理解情况的全貌。"
   },
   {
     "id": "word_1496",
@@ -29413,7 +29413,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broadsheet/",
     "frequency": "高频",
-    "example": "He reads a broadsheet newspaper every morning.\n他每天早上读一份大报。\nBroadsheet newspapers typically have more detailed articles.\n大报通常有更详细的文章。"
+    "example": "The broadsheet newspaper provides in-depth coverage of national and international news.\n这份大报提供国内和国际新闻的深度报道。\nMany people prefer reading broadsheets for their comprehensive analysis and detailed articles.\n许多人喜欢阅读大报，因为它们有全面的分析和详细的文章。"
   },
   {
     "id": "word_1497",
@@ -29428,7 +29428,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broadside/",
     "frequency": "中频",
-    "example": "The ship fired a broadside at the enemy vessel.\n这艘船向敌舰发射了舷炮。\nThe broadside hit the target with devastating effect.\n舷炮击中目标，造成毁灭性影响。"
+    "example": "The ship fired a broadside at the enemy vessel during the battle.\n船在战斗中向敌方船只发射舷侧炮火。\nThe politician launched a broadside attack on his opponent's policies during the debate.\n这位政治家在辩论中对对手的政策发起了全面攻击。"
   },
   {
     "id": "word_1498",
@@ -29443,7 +29443,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brocade/",
     "frequency": "低频",
-    "example": "The dress was made of beautiful brocade fabric.\n这件连衣裙是用漂亮的锦缎面料制成的。\nBrocade is often used for formal clothing and curtains.\n锦缎常用于正式服装和窗帘。"
+    "example": "The elegant dress was made of rich brocade fabric with intricate patterns.\n这件优雅的连衣裙由带有复杂图案的华丽织锦面料制成。\nBrocade has been used for centuries to create luxurious textiles for royalty and nobility.\n几个世纪以来，织锦一直被用来为皇室和贵族制作豪华纺织品。"
   },
   {
     "id": "word_1499",
@@ -29458,7 +29458,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broccoli/",
     "frequency": "高频",
-    "example": "She added broccoli to her salad for extra nutrition.\n她在沙拉里加了西兰花以增加营养。\nBroccoli is a healthy vegetable rich in vitamins.\n西兰花是富含维生素的健康蔬菜。"
+    "example": "She steamed fresh broccoli and served it as a healthy side dish.\n她蒸了新鲜的西兰花，作为健康的配菜。\nBroccoli is packed with vitamins and nutrients that are essential for good health.\n西兰花富含对健康至关重要的维生素和营养素。"
   },
   {
     "id": "word_1500",
@@ -29473,7 +29473,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brochure/",
     "frequency": "中频",
-    "example": "The travel agency sent us a brochure about their tours.\n旅行社寄给我们一份关于他们旅行团的小册子。\nThe brochure contains information about the hotel facilities.\n小册子包含酒店设施的信息。"
+    "example": "The travel agency handed out colorful brochures promoting their vacation packages.\n旅行社分发彩色小册子宣传他们的度假套餐。\nI picked up a brochure about the new museum exhibit at the information desk.\n我在服务台拿了一本关于新博物馆展览的小册子。"
   },
   {
     "id": "word_1501",
@@ -29488,7 +29488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broderie/",
     "frequency": "低频",
-    "example": "The dress had delicate broderie anglaise around the collar.\n连衣裙领口周围有精美的镂空刺绣。\nBroderie work adds elegance to clothing designs.\n刺绣工作为服装设计增添优雅感。"
+    "example": "The delicate broderie on the wedding dress added a romantic touch.\n婚纱上精致的刺绣增添了浪漫气息。\nShe spent hours practicing her broderie skills to create beautiful designs.\n她花了几个小时练习刺绣技巧来创作美丽的图案。"
   },
   {
     "id": "word_1502",
@@ -29503,7 +29503,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brogue/",
     "frequency": "高频",
-    "example": "He spoke with a thick Irish brogue.\n他说话带有浓重的爱尔兰口音。\nThe brogue is a type of shoe with decorative perforations.\n布洛克鞋是一种有装饰性穿孔的鞋子。"
+    "example": "He spoke with a charming Irish brogue that made everyone smile.\n他说话带着迷人的爱尔兰口音，让每个人都微笑。\nThe actor mastered the Scottish brogue for his role in the historical drama.\n这位演员为他在历史剧中的角色掌握了苏格兰口音。"
   },
   {
     "id": "word_1503",
@@ -29518,7 +29518,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broil/",
     "frequency": "中频",
-    "example": "The chef will broil the steak to perfection.\n厨师会把牛排烤得完美。\nBroiling is a quick way to cook meat at high temperatures.\n烧烤是高温快速烹饪肉类的方法。"
+    "example": "The chef decided to broil the steak to give it a delicious charred flavor.\n厨师决定烤牛排，使其具有美味的焦味。\nYou can broil vegetables to bring out their natural sweetness and enhance their flavor.\n你可以烤蔬菜来带出它们的天然甜味并增强味道。"
   },
   {
     "id": "word_1504",
@@ -29533,7 +29533,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrəʊkən/",
     "frequency": "高频",
-    "example": "The broken window needs to be replaced immediately.\n破窗户需要立即更换。\nHer heart felt broken after the breakup.\n分手后她感到心碎。"
+    "example": "She accidentally dropped the vase and it lay broken on the floor.\n她不小心把花瓶掉在地上，碎了一地。\nThe broken clock had stopped ticking many years ago.\n这个坏掉的钟多年前就停止滴答作响了。"
   },
   {
     "id": "word_1505",
@@ -29548,7 +29548,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broker/",
     "frequency": "高频",
-    "example": "The stock broker helped him invest his money wisely.\n股票经纪人帮助他明智地投资。\nA broker acts as an intermediary between buyers and sellers.\n经纪人充当买卖双方的中介。"
+    "example": "The stock broker helped his clients make informed investment decisions.\n股票经纪帮助他的客户做出明智的投资决策。\nFinding a reliable broker is essential for successful trading in the financial markets.\n找到一个可靠的经纪人对于在金融市场成功交易至关重要。"
   },
   {
     "id": "word_1506",
@@ -29563,7 +29563,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brokerage/",
     "frequency": "中频",
-    "example": "The brokerage firm handles millions in transactions daily.\n经纪公司每天处理数百万的交易。\nHe works at a brokerage in the financial district.\n他在金融区的一家经纪公司工作。"
+    "example": "The brokerage firm provides services for buying and selling securities.\n这家经纪公司提供买卖证券的服务。\nHe opened an account at the brokerage to start trading stocks and bonds.\n他在经纪公司开了一个账户开始交易股票和债券。"
   },
   {
     "id": "word_1507",
@@ -29578,7 +29578,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brolly/",
     "frequency": "低频",
-    "example": "She always carries a brolly in her bag for rainy days.\n她总是在包里带一把雨伞以防下雨天。\nThe brolly kept them dry during the sudden downpour.\n雨伞在突然的倾盆大雨中让他们保持干燥。"
+    "example": "She always carries a brolly with her in case it starts to rain.\n她总是随身带着一把雨伞以防下雨。\nThe old gentleman used his brolly to help him walk on the slippery pavement.\n这位老先生用他的雨伞帮助他在湿滑的人行道上行走。"
   },
   {
     "id": "word_1508",
@@ -29593,7 +29593,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bromine/",
     "frequency": "高频",
-    "example": "Bromine is a reddish-brown liquid element.\n溴是一种红棕色液体元素。\nBromine is used in water treatment and pesticides.\n溴用于水处理和杀虫剂。"
+    "example": "Bromine is a chemical element with properties between chlorine and iodine.\n溴是一种化学元素，性质介于氯和碘之间。\nThe scientist handled the bromine carefully due to its corrosive nature.\n由于溴的腐蚀性，科学家小心地处理它。"
   },
   {
     "id": "word_1509",
@@ -29608,7 +29608,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bronchus/",
     "frequency": "中频",
-    "example": "The bronchus carries air to the lungs.\n支气管将空气输送到肺部。\nInflammation of the bronchus can cause coughing.\n支气管发炎会引起咳嗽。"
+    "example": "The doctor examined the patient's bronchus to check for any signs of infection.\n医生检查了患者的支气管，检查是否有感染迹象。\nThe bronchus carries air from the trachea to the lungs for respiration.\n支气管将空气从气管输送到肺部进行呼吸。"
   },
   {
     "id": "word_1510",
@@ -29623,7 +29623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bronco/",
     "frequency": "低频",
-    "example": "The cowboy rode the wild bronco in the rodeo.\n牛仔在牛仔竞技表演中骑着野马。\nTraining a bronco requires skill and patience.\n训练野马需要技巧和耐心。"
+    "example": "The cowboy tried to ride the wild bronco at the rodeo.\n牛仔试图在牛仔竞技会上骑那头野马。\nTraining a bronco requires patience, skill, and a deep understanding of horse behavior.\n训练野马需要耐心、技巧和对马行为的深刻理解。"
   },
   {
     "id": "word_1511",
@@ -29638,7 +29638,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bronze/",
     "frequency": "中频",
-    "example": "The statue was cast in bronze over a hundred years ago.\n这座雕像是一百多年前用青铜铸造的。\nBronze is an alloy of copper and tin.\n青铜是铜和锡的合金。"
+    "example": "The sculptor used bronze to create a magnificent statue of the famous leader.\n雕塑家使用青铜创作了一尊著名领袖的宏伟雕像。\nBronze has been used for thousands of years to make tools, weapons, and art.\n青铜几千年来一直被用来制造工具、武器和艺术品。"
   },
   {
     "id": "word_1512",
@@ -29653,7 +29653,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brooch/",
     "frequency": "中频",
-    "example": "She pinned a diamond brooch to her evening gown.\n她把一枚钻石胸针别在晚礼服上。\nThe antique brooch was passed down through generations.\n这枚古董胸针代代相传。"
+    "example": "She pinned an elegant brooch to her coat lapel for the formal event.\n她在正式活动中把一枚优雅的胸针别在外套翻领上。\nThe antique brooch was passed down from her grandmother and had sentimental value.\n这枚古董胸针是她祖母传下来的，具有情感价值。"
   },
   {
     "id": "word_1513",
@@ -29668,7 +29668,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brood/",
     "frequency": "低频",
-    "example": "The hen sat on her brood of eggs to keep them warm.\n母鸡坐在一窝鸡蛋上给它们保暖。\nA brood of chicks followed their mother around the farm.\n一窝小鸡跟着妈妈在农场周围走。"
+    "example": "The mother hen sat on her brood of eggs, keeping them warm and safe.\n母鸡坐在她的一窝鸡蛋上，保持它们温暖和安全。\nHe fell into a deep brood after receiving the disappointing news about his project.\n在收到关于他项目的令人失望的消息后，他陷入了深深的沉思。"
   },
   {
     "id": "word_1514",
@@ -29683,7 +29683,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brook/",
     "frequency": "低频",
-    "example": "A small brook flows through the peaceful forest.\n一条小溪流过宁静的森林。\nThe children skipped stones across the brook.\n孩子们在小溪上扔石头。"
+    "example": "A small brook flows gently through the peaceful forest clearing.\n一条小溪轻轻地流过宁静的森林空地。\nThe children loved to skip stones across the clear brook on hot summer days.\n孩子们喜欢在炎热的夏日里在清澈的小溪上打水漂。"
   },
   {
     "id": "word_1515",
@@ -29698,7 +29698,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broom/",
     "frequency": "高频",
-    "example": "She used a broom to sweep the floor clean.\n她用扫帚把地板扫干净。\nThe old witch flew through the sky on her broomstick.\n老巫婆骑着扫帚飞过天空。"
+    "example": "She used a straw broom to sweep the leaves off the porch.\n她用一把草扫帚把门廊上的叶子扫掉。\nThe old witch in the story flew through the sky on her magical broomstick.\n故事中的老巫婆骑着她的魔法扫帚飞过天空。"
   },
   {
     "id": "word_1516",
@@ -29713,7 +29713,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broomstick/",
     "frequency": "中频",
-    "example": "The witch mounted her broomstick and flew away.\n巫婆骑上扫帚飞走了。\nChildren love to pretend they are witches riding broomsticks.\n孩子们喜欢假装自己是骑扫帚的巫婆。"
+    "example": "The little girl pretended to fly on a broomstick like a witch.\n小女孩假装像巫婆一样骑着扫帚飞。\nIn Halloween decorations, broomsticks are often used to create spooky scenes.\n在万圣节装饰中，扫帚常被用来创造幽灵般的场景。"
   },
   {
     "id": "word_1517",
@@ -29728,7 +29728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bros/",
     "frequency": "低频",
-    "example": "The three bros went to the movies together.\n三个兄弟一起去看电影。\nHe and his bros played basketball every weekend.\n他和他的兄弟们每个周末都打篮球。"
+    "example": "The three bros spent the weekend camping and hiking in the mountains.\n这三兄弟周末在山里露营和徒步旅行。\nHe and his bros have been friends since childhood and share many memories.\n他和他的兄弟们从小就是朋友，分享了许多回忆。"
   },
   {
     "id": "word_1518",
@@ -29743,7 +29743,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brose/",
     "frequency": "高频",
-    "example": "She made a warm bowl of brose for breakfast.\n她做了一碗温暖的麦片粥当早餐。\nBrose is a traditional Scottish dish made with oatmeal.\n麦片粥是一种传统的苏格兰燕麦食品。"
+    "example": "She made a warm bowl of brose to comfort her sick friend.\n她做了一碗温暖的麦片粥来安慰她生病的朋友。\nBrose is a traditional Scottish dish made with oatmeal and boiling water or stock.\nBrose是一种传统的苏格兰菜肴，由燕麦片和沸水或高汤制成。"
   },
   {
     "id": "word_1519",
@@ -29758,7 +29758,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broth/",
     "frequency": "中频",
-    "example": "The chicken broth smelled delicious on the stove.\n炉子上的鸡汤闻起来很香。\nHe added noodles to the broth to make soup.\n他在汤里加了面条做成汤面。"
+    "example": "The chef prepared a delicious chicken broth as the base for the soup.\n厨师准备了美味的鸡汤作为汤的基础。\nDrinking warm broth can help soothe a sore throat and provide comfort when ill.\n喝温暖的肉汤可以帮助缓解喉咙痛，并在生病时提供安慰。"
   },
   {
     "id": "word_1520",
@@ -29773,7 +29773,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brothel/",
     "frequency": "低频",
-    "example": "The police raided the illegal brothel downtown.\n警察突袭了市中心的非法妓院。\nProstitution and brothels are illegal in many countries.\n卖淫和妓院在许多国家是非法的。"
+    "example": "The authorities closed down the illegal brothel in the red-light district.\n当局关闭了红灯区的非法妓院。\nHistorically, brothels were common in many cities around the world.\n历史上，妓院在世界许多城市都很常见。"
   },
   {
     "id": "word_1521",
@@ -29788,7 +29788,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrʌðə/",
     "frequency": "高频",
-    "example": "My brother and I have always been close.\n我和我哥哥一直很亲密。\nHe is like a brother to me even though we are not related.\n虽然我们没有血缘关系，但他对我就像兄弟一样。"
+    "example": "My older brother has always been my role model and biggest supporter.\n我的哥哥一直是我的榜样和最大的支持者。\nThe two brothers worked together to build a successful business from scratch.\n这两兄弟共同努力从零开始建立了一个成功的企业。"
   },
   {
     "id": "word_1522",
@@ -29803,7 +29803,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brotherly/",
     "frequency": "中频",
-    "example": "He showed brotherly love to his younger sibling.\n他对弟弟表现出兄弟般的爱。\nTheir brotherly bond grew stronger over the years.\n他们的兄弟情谊多年来变得更加牢固。"
+    "example": "He showed brotherly kindness by helping his neighbor fix his car.\n他通过帮助邻居修车表现出兄弟般的善良。\nTheir brotherly bond grew stronger after they went through difficult times together.\n在共同经历困难时期后，他们的兄弟情谊变得更加牢固。"
   },
   {
     "id": "word_1523",
@@ -29818,7 +29818,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brougham/",
     "frequency": "低频",
-    "example": "The elegant brougham carriage arrived at the mansion.\n优雅的四轮马车到达了豪宅。\nBroughams were popular transport in the 19th century.\n四轮马车在19世纪很流行。"
+    "example": "The elegant brougham carriage carried the wealthy family to the opera.\n优雅的四轮马车带着富裕家庭去歌剧院。\nIn the 19th century, a brougham was a popular type of horse-drawn carriage.\n在19世纪，四轮马车是一种流行的马拉马车。"
   },
   {
     "id": "word_1524",
@@ -29833,7 +29833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brouhaha/",
     "frequency": "高频",
-    "example": "There was a great brouhaha over the controversial decision.\n这个有争议的决定引起了轩然大波。\nThe media created a brouhaha out of the minor incident.\n媒体把这个小事件炒得沸沸扬扬。"
+    "example": "There was a big brouhaha in the media over the celebrity's controversial statement.\n媒体对这位名人有争议的声明大肆炒作。\nThe small misunderstanding turned into a major brouhaha that lasted for weeks.\n这个小小的误会变成了持续数周的大骚动。"
   },
   {
     "id": "word_1525",
@@ -29848,7 +29848,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/browbeat/",
     "frequency": "中频",
-    "example": "He tried to browbeat his opponent into submission.\n他试图威逼对手屈服。\nBrowbeating others is not an effective way to lead.\n威逼他人不是有效的领导方式。"
+    "example": "The manager tried to browbeat his employees into working overtime without pay.\n经理试图威逼他的员工无偿加班。\nIt is not acceptable to browbeat others into doing things against their will.\n威逼他人做违背自己意愿的事情是不可接受的。"
   },
   {
     "id": "word_1526",
@@ -29863,7 +29863,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braʊn/",
     "frequency": "高频",
-    "example": "She painted the walls a warm shade of brown.\n她把墙壁漆成温暖的棕色。\nThe leaves turn brown and fall in autumn.\n树叶在秋天变成棕色并落下。"
+    "example": "She painted her bedroom walls a warm shade of brown.\n她把卧室的墙壁漆成温暖的棕色。\nThe autumn leaves turned beautiful shades of red, orange, and brown.\n秋叶变成了美丽的红色、橙色和棕色。"
   },
   {
     "id": "word_1527",
@@ -29878,7 +29878,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brownstone/",
     "frequency": "高频",
-    "example": "The brownstone buildings lined the historic street.\n褐砂石建筑排列在历史街道两旁。\nMany brownstones in New York are over a century old.\n纽约的许多褐砂石建筑已有一个多世纪的历史。"
+    "example": "The historic brownstone buildings line the streets of New York City.\n历史悠久的褐砂石建筑排列在纽约市的街道两旁。\nMany wealthy families lived in elegant brownstone homes during the late 19th century.\n在19世纪后期，许多富裕家庭住在优雅的褐砂石住宅中。"
   },
   {
     "id": "word_1528",
@@ -29893,7 +29893,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brows/",
     "frequency": "中频",
-    "example": "She raised her brows in surprise at the news.\n听到消息她惊讶地扬起眉毛。\nHis brows furrowed as he concentrated on the problem.\n他集中精力解决问题时眉头紧锁。"
+    "example": "She raised her eyebrows in surprise when she heard the unexpected news.\n听到这个意外的消息时，她惊讶地扬起了眉毛。\nHis thick brows gave him a stern and serious expression.\n他浓密的眉毛使他看起来严肃认真。"
   },
   {
     "id": "word_1529",
@@ -29908,7 +29908,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/browse/",
     "frequency": "高频",
-    "example": "She likes to browse through bookstores on weekends.\n她喜欢周末逛书店。\nYou can browse our website for more information.\n你可以浏览我们的网站获取更多信息。"
+    "example": "I like to browse through bookstores on weekends to discover new authors.\n我喜欢在周末逛书店，发现新作家。\nYou can browse our online catalog to find the perfect gift for any occasion.\n你可以浏览我们的在线目录，找到适合任何场合的完美礼物。"
   },
   {
     "id": "word_1530",
@@ -29923,7 +29923,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/browser/",
     "frequency": "中频",
-    "example": "He used a web browser to search for information online.\n他使用网络浏览器在线搜索信息。\nPopular browsers include Chrome, Firefox, and Safari.\n流行的浏览器包括Chrome、Firefox和Safari。"
+    "example": "She opened her web browser to search for information about the topic.\n她打开网页浏览器搜索有关该主题的信息。\nThere are many different web browsers available, each with its own features.\n有许多不同的网页浏览器可供选择，每个都有自己的功能。"
   },
   {
     "id": "word_1531",
@@ -29938,7 +29938,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brucellosis/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbrucellosis的理论为理解这一现象提供了框架。"
+    "example": "The veterinarian tested the cattle for brucellosis to prevent its spread.\n兽医对牛进行了布鲁氏菌病检测以防止其传播。\nBrucellosis is a bacterial disease that can affect both animals and humans.\n布鲁氏菌病是一种可以影响动物和人类的细菌性疾病。"
   },
   {
     "id": "word_1532",
@@ -29953,7 +29953,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bruise/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与瘀伤相关的实践技能在工作场所受到高度重视。"
+    "example": "She got a large bruise on her knee after falling off her bike.\n她从自行车上摔下来后膝盖上有一大块瘀伤。\nApplying ice to a fresh bruise can help reduce swelling and pain.\n在新鲜瘀伤上敷冰可以帮助减轻肿胀和疼痛。"
   },
   {
     "id": "word_1533",
@@ -29968,7 +29968,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bruiser/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的人Bruis的发展。"
+    "example": "The heavyweight boxer was known as a tough bruiser in the ring.\n这位重量级拳击手在拳击台上被称为强硬的彪形大汉。\nHe looked like a bruiser with his muscular build and intimidating presence.\n他肌肉发达，气势逼人，看起来像个彪形大汉。"
   },
   {
     "id": "word_1534",
@@ -29983,7 +29983,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brumble/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，倍的的研究取得了重大进展。"
+    "example": "The old building began to brumble after years of neglect and decay.\n这座老建筑在多年的忽视和衰败后开始倒塌。\nWithout proper maintenance, even the strongest structures will eventually brumble.\n没有适当的维护，即使是最坚固的建筑最终也会倒塌。"
   },
   {
     "id": "word_1535",
@@ -29998,7 +29998,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brume/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索brume的新方面。"
+    "example": "A thick brume covered the valley, creating an eerie and mysterious atmosphere.\n一层浓雾笼罩着山谷，营造出一种诡异而神秘的氛围。\nThe morning brume made it difficult to see more than a few feet ahead.\n晨雾使人很难看到前方几英尺以外的东西。"
   },
   {
     "id": "word_1536",
@@ -30013,7 +30013,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brunch/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbrunch的应用革新了各个行业。"
+    "example": "They met at their favorite café for a leisurely brunch on Sunday morning.\n他们周日早上在他们最喜欢的咖啡馆见面享用悠闲的早午餐。\nBrunch combines breakfast and lunch into one enjoyable meal usually eaten late in the morning.\n早午餐将早餐和午餐结合成一顿通常在上午晚些时候吃的愉快餐食。"
   },
   {
     "id": "word_1537",
@@ -30028,7 +30028,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brunet/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对brunet的认识显著提高。"
+    "example": "The brunet actress starred in several popular movies and television shows.\n这位深褐色头发的女演员主演了几部受欢迎的电影和电视剧。\nHe is a tall brunet with striking blue eyes that complement his dark hair.\n他是一个高大的深褐色头发的人，有着引人注目的蓝色眼睛，与他的黑发相得益彰。"
   },
   {
     "id": "word_1538",
@@ -30043,7 +30043,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brunt/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，brunt的重要性怎么强调都不为过。"
+    "example": "The small town bore the brunt of the hurricane's destructive force.\n这个小镇承受了飓风破坏力的主要冲击。\nAs the team leader, he had to face the brunt of the criticism for the project's failure.\n作为团队负责人，他不得不面对项目失败的主要批评。"
   },
   {
     "id": "word_1539",
@@ -30058,7 +30058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brʌʃ/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n刷子的理论为理解这一现象提供了框架。"
+    "example": "She used a soft brush to gently apply the paint to the canvas.\n她用柔软的画笔轻轻地将颜料涂在画布上。\nBefore painting, it is important to clean your brush thoroughly to avoid mixing colors.\n画画前，彻底清洁画笔很重要，以避免颜色混合。"
   },
   {
     "id": "word_1540",
@@ -30073,7 +30073,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brushwood/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与brushwood相关的实践技能在工作场所受到高度重视。"
+    "example": "The hiker used brushwood to build a shelter for the night in the forest.\n徒步旅行者用灌木丛在森林里搭了一个过夜的庇护所。\nBrushwood is often used as kindling for starting fires in outdoor settings.\n灌木丛通常用作户外生火的引火物。"
   },
   {
     "id": "word_1541",
@@ -30088,7 +30088,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brusk/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会brusk的发展。"
+    "example": "His brusk manner made it difficult for people to approach him.\n他粗鲁的态度使人们很难接近他。\nAlthough he seemed brusk at first, he was actually a kind and caring person.\n虽然他起初看起来很粗鲁，但实际上他是一个善良和关心他人的人。"
   },
   {
     "id": "word_1542",
@@ -30103,7 +30103,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brutal/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，残忍的研究取得了重大进展。"
+    "example": "The brutal winter storm left thousands of people without power.\n这场残酷的冬季风暴使数千人断电。\nThe movie depicted the brutal reality of war and its impact on innocent civilians.\n这部电影描绘了战争的残酷现实及其对无辜平民的影响。"
   },
   {
     "id": "word_1543",
@@ -30118,7 +30118,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brutalism/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索主义的新方面。"
+    "example": "The building was constructed in the brutalism style with its raw concrete facade.\n这座建筑以其原始混凝土立面采用野兽派风格建造。\nBrutalism was a popular architectural movement in the mid-20th century.\n野兽派是20世纪中期流行的建筑运动。"
   },
   {
     "id": "word_1544",
@@ -30133,7 +30133,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brutality/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n性质的应用革新了各个行业。"
+    "example": "The report documented cases of police brutality against peaceful protesters.\n该报告记录了警察对和平抗议者实施暴力的案例。\nSociety must work together to eliminate brutality and promote kindness and compassion.\n社会必须共同努力消除暴力，促进善良和同情。"
   },
   {
     "id": "word_1545",
