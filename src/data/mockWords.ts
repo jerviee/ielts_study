@@ -25528,7 +25528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boa/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对boa的认识显著提高。",
+    "example": "The boa constrictor coiled around its prey.\n蟒蛇缠绕在猎物身上。\nA boa scarf kept her warm in the cold weather.\n一条蟒蛇围巾在寒冷天气里让她保持温暖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25549,7 +25549,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boar/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，boar的重要性怎么强调都不为过。",
+    "example": "The wild boar charged at the hunters.\n野猪向猎人冲去。\nBoar meat is considered a delicacy in some cultures.\n野猪肉在某些文化中被认为是美味。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25570,7 +25570,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔːd/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n木板的理论为理解这一现象提供了框架。",
+    "example": "The board of directors approved the new plan.\n董事会批准了新计划。\nShe boarded the train to visit her grandmother.\n她登上火车去看望她的祖母。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25591,7 +25591,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boarder/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...的人Board相关的实践技能在工作场所受到高度重视。",
+    "example": "The boarder shared the house with three others.\n寄宿生和另外三人合住这所房子。\nHe paid monthly rent as a boarder in the family home.\n他作为寄宿生每月支付租金。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25612,7 +25612,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boarding/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会正在...的发展。",
+    "example": "Boarding school can be a challenging experience.\n寄宿学校可能是一次具有挑战性的经历。\nThe boarding pass was checked before boarding the plane.\n登机前检查了登机牌。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25633,7 +25633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boardroom/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，boardroom的研究取得了重大进展。",
+    "example": "The executives met in the boardroom for hours.\n高管们在董事会会议室会面了几个小时。\nThe boardroom was equipped with a large conference table.\n董事会会议室配备了大型会议桌。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25654,7 +25654,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boast/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索吹嘘的新方面。",
+    "example": "He likes to boast about his achievements.\n他喜欢吹嘘自己的成就。\nThe hotel boasts a beautiful view of the ocean.\n这家酒店拥有美丽的海景。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25675,7 +25675,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊt/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n小船的应用革新了各个行业。",
+    "example": "They rowed the boat across the calm lake.\n他们划船穿过平静的湖面。\nThe boat capsized in the stormy sea.\n船在暴风雨中倾覆了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25696,7 +25696,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boatman/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对boatman的认识显著提高。",
+    "example": "The boatman ferried passengers across the river.\n船夫载着乘客过河。\nThe old boatman knew every current in the river.\n老船夫知道河里的每一股水流。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25717,7 +25717,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boatyard/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，boatyard的重要性怎么强调都不为过。",
+    "example": "The boatyard repairs and stores small boats.\n船坞修理和存放小船。\nSeveral yachts were docked at the boatyard.\n几艘游艇停靠在船坞。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25738,7 +25738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bob/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbob的理论为理解这一现象提供了框架。",
+    "example": "The buoy bobbed gently on the water.\n浮标在水面上轻轻浮动。\nShe gave him a playful bob on the cheek.\n她俏皮地在他脸颊上轻吻了一下。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25759,7 +25759,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bobbin/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bobbin相关的实践技能在工作场所受到高度重视。",
+    "example": "The thread was wound around the bobbin.\n线绕在梭芯上。\nShe replaced the empty bobbin in the sewing machine.\n她更换了缝纫机里的空梭芯。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25780,7 +25780,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bobby/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bobby的发展。",
+    "example": "The bobby patrolled the neighborhood on foot.\n警察徒步巡逻社区。\nIn Britain, a bobby refers to a police officer.\n在英国，bobby指警察。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25801,7 +25801,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bobcat/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bobcat的研究取得了重大进展。",
+    "example": "The bobcat hunted for prey in the forest.\n山猫在森林里捕食。\nBobcats have distinctive tufted ears.\n山猫有独特的耳簇。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25822,7 +25822,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boded/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索已...的新方面。",
+    "example": "His strange behavior boded ill for the project.\n他奇怪的行为预示着项目不妙。\nThe dark clouds boded a storm was coming.\n乌云预示着暴风雨即将来临。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25843,7 +25843,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bodega/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbodega的应用革新了各个行业。",
+    "example": "The bodega sold fresh bread and cheese.\n便利店出售新鲜面包和奶酪。\nShe stopped at the bodega for a quick snack.\n她在便利店停下来买了一份快餐。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25864,7 +25864,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bodiless/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对无...的Bodi的认识显著提高。",
+    "example": "The ghost appeared as a bodiless spirit.\n鬼魂以无形的灵魂出现。\nThe bodiless voice echoed through the empty hall.\n无形的声音在空荡荡的大厅里回荡。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25885,7 +25885,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boding/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，正在...的重要性怎么强调都不为过。",
+    "example": "His boding look made everyone uneasy.\n他不祥的表情让每个人都不安。\nThe boding atmosphere preceded the disaster.\n灾难来临前气氛不祥。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25906,7 +25906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒdi/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n身体的理论为理解这一现象提供了框架。",
+    "example": "The human body is a complex biological machine.\n人体是一个复杂的生物机器。\nShe exercised daily to keep her body fit.\n她每天锻炼保持身体健康。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25927,7 +25927,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bodyguard/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bodyguard相关的实践技能在工作场所受到高度重视。",
+    "example": "The celebrity hired a bodyguard for protection.\n这位名人雇了一名保镖保护自己。\nBodyguards must be highly trained professionals.\n保镖必须是训练有素的专业人员。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25948,7 +25948,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bogey/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bogey的发展。",
+    "example": "The golfer hit the ball past the bogey.\n高尔夫球手把球打过了障碍区。\nBogey is a term used in golf scoring.\n柏忌是高尔夫计分中使用的术语。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25969,7 +25969,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boggle/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，boggle的研究取得了重大进展。",
+    "example": "The complex puzzle made his mind boggle.\n复杂的谜题让他困惑。\nShe boggled at the price of the luxury car.\n她对豪华车的价格感到震惊。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -25990,7 +25990,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boggy/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索boggy的新方面。",
+    "example": "The boggy terrain made hiking difficult.\n沼泽地带使徒步旅行变得困难。\nWe struggled through the boggy marshland.\n我们艰难地穿过沼泽地。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26011,7 +26011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bogus/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbogus的应用革新了各个行业。",
+    "example": "The salesman was selling bogus products.\n推销员在卖假冒产品。\nBogus claims were made about the miracle cure.\n关于神奇疗法有虚假的说法。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26032,7 +26032,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bohemian/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bohemian的认识显著提高。"
+    "example": "She lived a bohemian lifestyle in Paris.\n她在巴黎过着波西米亚式的生活。\nBohemian artists often reject conventional norms.\n波西米亚艺术家常常拒绝传统规范。"
   },
   {
     "id": "word_1290",
@@ -26047,7 +26047,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔɪl/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，煮沸的重要性怎么强调都不为过。",
+    "example": "Bring the water to a boil before adding pasta.\n加水前把水烧开。\nThe kettle began to boil on the stove.\n水壶在炉子上开始沸腾。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26068,7 +26068,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boiler/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的人Boil的理论为理解这一现象提供了框架。",
+    "example": "The boiler needs to be serviced regularly.\n锅炉需要定期检修。\nThe old boiler produced enough heat for the building.\n旧锅炉为建筑物提供足够的热量。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26089,7 +26089,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊld/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与大胆相关的实践技能在工作场所受到高度重视。",
+    "example": "She made a bold decision to change careers.\n她做出了一个大胆的决定，改变了职业。\nThe bold colors made the painting stand out.\n大胆的颜色使这幅画脱颖而出。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26110,7 +26110,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boldface/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会boldface的发展。",
+    "example": "Important words were printed in boldface.\n重要的词用粗体字印刷。\nUse boldface to emphasize key points in the document.\n使用粗体强调文档中的关键点。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26131,7 +26131,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bolero/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bolero的研究取得了重大进展。",
+    "example": "She danced the bolero with great passion.\n她充满激情地跳波莱罗舞。\nThe bolero is a traditional Spanish dance.\n波莱罗舞是传统的西班牙舞蹈。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26152,7 +26152,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bollard/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bollard的新方面。",
+    "example": "The ship was tied to the bollard at the dock.\n船被系在码头的系缆柱上。\nBollards prevent vehicles from entering pedestrian areas.\n系缆柱阻止车辆进入行人区。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26173,7 +26173,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bolster/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n...的人Bolst的应用革新了各个行业。",
+    "example": "Pillows were used to bolster her back.\n枕头被用来支撑她的背部。\nThe new evidence bolstered their case.\n新证据支持了他们的案件。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26194,7 +26194,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊlt/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对螺栓的认识显著提高。",
+    "example": "The horse bolted when it heard the loud noise.\n马听到巨大的噪音时受惊跑了。\nHe locked the door and slid the bolt into place.\n他锁上门并插上插销。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26215,7 +26215,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒm/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，炸弹的重要性怎么强调都不为过。",
+    "example": "The bomb exploded in the empty building.\n炸弹在空建筑物中爆炸。\nThe army defused the bomb safely.\n军队安全地拆除了炸弹。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26236,7 +26236,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombard/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbombard的理论为理解这一现象提供了框架。",
+    "example": "Enemy forces began to bombard the city.\n敌军开始轰炸这座城市。\nReporters bombarded the celebrity with questions.\n记者们用问题轰炸这位名人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26257,7 +26257,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombardier/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...的人Bombardi相关的实践技能在工作场所受到高度重视。",
+    "example": "The bombardier dropped bombs on enemy targets.\n投弹手向敌人目标投下炸弹。\nBombardiers played a crucial role in aerial warfare.\n投弹手在空战中发挥了关键作用。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26278,7 +26278,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombardon/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bombardon的发展。",
+    "example": "The bombardon is a type of brass instrument.\n邦巴东号是一种铜管乐器。\nThe bombardon produces a deep, resonant sound.\n邦巴东号产生深沉共鸣的声音。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26299,7 +26299,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombast/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bombast的研究取得了重大进展。",
+    "example": "His speech was full of empty bombast.\n他的演讲充满了空洞的夸夸其谈。\nThe politician used bombast to impress the crowd.\n政客用夸夸其谈来打动人群。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26320,7 +26320,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bomber/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的人Bomb的新方面。",
+    "example": "The bomber aircraft flew over the battlefield.\n轰炸机飞越战场。\nA suicide bomber attacked the crowded market.\n自杀式炸弹袭击者袭击了拥挤的市场。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26341,7 +26341,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bombing/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n正在...的应用革新了各个行业。",
+    "example": "The bombing caused extensive damage to the city.\n轰炸对城市造成了广泛的破坏。\nAir raids and bombings continued throughout the night.\n空袭和轰炸持续了一整夜。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26362,7 +26362,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒnd/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对债券的认识显著提高。",
+    "example": "The bond between mother and child is unbreakable.\n母子之间的纽带是牢不可破的。\nThe chemical bond held the atoms together.\n化学键将原子结合在一起。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26383,7 +26383,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bondage/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，行为的重要性怎么强调都不为过。",
+    "example": "The novel explores themes of bondage and freedom.\n这部小说探讨了束缚和自由的主题。\nBondage is often depicted in certain types of literature.\n束缚在某些类型的文学中经常被描绘。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26404,7 +26404,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonded/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n已...的理论为理解这一现象提供了框架。",
+    "example": "The bonded laborers worked long hours for little pay.\n保税劳工长时间工作却报酬微薄。\nBonded warehouses store imported goods before customs clearance.\n保税仓库在清关前存储进口货物。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26425,7 +26425,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bondholder/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...的人Bondhold相关的实践技能在工作场所受到高度重视。",
+    "example": "The bondholder received regular interest payments.\n债券持有人定期收到利息支付。\nBondholders expect repayment when the bond matures.\n债券持有人期望债券到期时偿还。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26446,7 +26446,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊn/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会骨骼的发展。",
+    "example": "The dog buried the bone in the backyard.\n狗把骨头埋在后院。\nBroken bones require immediate medical attention.\n骨折需要立即就医。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26467,7 +26467,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonfire/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bonfire的研究取得了重大进展。",
+    "example": "They gathered around the bonfire to tell stories.\n他们围坐在篝火旁讲故事。\nThe bonfire crackled and lit up the night sky.\n篝火噼啪作响，照亮了夜空。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26488,7 +26488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonhomie/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bonhomie的新方面。",
+    "example": "There was a sense of bonhomie at the holiday party.\n节日派对上有一种友善的氛围。\nHis natural bonhomie made him popular among colleagues.\n他天生的友善使他在同事中很受欢迎。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26509,7 +26509,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonnet/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbonnet的应用革新了各个行业。",
+    "example": "She wore a stylish bonnet to the tea party.\n她戴着一顶时髦的帽子参加茶会。\nThe vintage car had a leather bonnet.\n这辆老式汽车有一个皮革引擎盖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26530,7 +26530,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonsai/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bonsai的认识显著提高。",
+    "example": "He spent years cultivating the beautiful bonsai tree.\n他花了多年时间培育这棵美丽的盆景树。\nBonsai requires careful pruning and maintenance.\n盆景需要精心修剪和维护。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26551,7 +26551,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bonus/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，奖金的重要性怎么强调都不为过。",
+    "example": "The company gave employees a holiday bonus.\n公司给员工发了节日奖金。\nShe received a signing bonus when she joined the firm.\n她加入公司时获得了签约奖金。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26572,7 +26572,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/booby/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbooby的理论为理解这一现象提供了框架。",
+    "example": "The booby bird nested on the remote island.\n鲣鸟在偏远的岛屿上筑巢。\nA booby trap was set to catch the intruder.\n设置了一个陷阱来捕捉入侵者。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26593,7 +26593,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boogie/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与boogie相关的实践技能在工作场所受到高度重视。",
+    "example": "They danced the boogie all night at the party.\n他们在派对上整夜跳布吉舞。\nBoogie music was popular in the 1970s.\n布吉音乐在20世纪70年代很流行。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26614,7 +26614,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boohoo/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会boohoo的发展。",
+    "example": "The child began to boohoo after falling down.\n孩子摔倒后开始哇哇大哭。\nShe pretended to boohoo to get attention.\n她假装哭泣以引起注意。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26635,7 +26635,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʊk/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，书的研究取得了重大进展。",
+    "example": "She read a book every week for pleasure.\n她每周读一本书消遣。\nThe library has thousands of books on various subjects.\n图书馆有数千本各种主题的书。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26656,7 +26656,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookbind/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bookbind的新方面。",
+    "example": "He learned to bookbind as a hobby.\n他学会了装订书籍作为爱好。\nBookbinders use special tools and materials.\n装订工人使用特殊工具和材料。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26677,7 +26677,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/booking/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n正在...的应用革新了各个行业。",
+    "example": "The booking for the hotel was made online.\n酒店预订是在线进行的。\nThere was a booking error for our flight.\n我们的航班预订有误。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26698,7 +26698,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookish/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对像...的认识显著提高。",
+    "example": "She was known for her bookish personality.\n她以书呆子的性格闻名。\nThe bookish student spent hours in the library.\n这个书呆子学生在图书馆花了几个小时。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26719,7 +26719,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookmark/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bookmark的重要性怎么强调都不为过。",
+    "example": "She used a silk ribbon as a bookmark.\n她用一条丝带作为书签。\nThe browser saved the page as a bookmark.\n浏览器将页面保存为书签。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26740,7 +26740,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookseller/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的人Booksell的理论为理解这一现象提供了框架。",
+    "example": "The bookseller recommended a new novel.\n书商推荐了一本新小说。\nBooksellers often have extensive knowledge of literature.\n书商通常拥有广泛的文学知识。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26761,7 +26761,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bookstall/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bookstall相关的实践技能在工作场所受到高度重视。",
+    "example": "He bought a newspaper from the bookstall.\n他从书报摊买了一份报纸。\nThe bookstall sold magazines and paperback books.\n书报摊出售杂志和平装书。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26782,7 +26782,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buːm/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会繁荣的发展。",
+    "example": "The economy experienced a boom after the war.\n战后经济经历了繁荣。\nThe sound of the boom echoed across the valley.\n隆隆声回荡在山谷中。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26803,7 +26803,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boomerang/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，boomerang的研究取得了重大进展。",
+    "example": "The boomerang returned to the thrower.\n回旋镖回到投掷者手中。\nHer words came back like a boomerang.\n她的话像回旋镖一样回来。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26824,7 +26824,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boon/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索boon的新方面。",
+    "example": "The new library was a boon to the community.\n新图书馆对社区来说是一大恩惠。\nHis help proved to be a boon in our time of need.\n他的帮助在我们需要的时候证明是一大恩惠。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26845,7 +26845,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boor/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n...的人Bo的应用革新了各个行业。",
+    "example": "The boor made rude comments at the dinner table.\n这个粗鲁的人在餐桌上发表粗鲁的评论。\nHe was considered a boor by polite society.\n他被上流社会认为是个粗鲁的人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26866,7 +26866,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boost/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对促进的认识显著提高。",
+    "example": "The new policy helped boost the economy.\n新政策有助于促进经济。\nDrinking coffee can boost your energy levels.\n喝咖啡可以提高你的能量水平。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26887,7 +26887,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buːt/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，靴子的重要性怎么强调都不为过。",
+    "example": "He put on his boots and went outside.\n他穿上靴子出去了。\nThe computer failed to boot up properly.\n电脑无法正常启动。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26908,7 +26908,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootblack/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbootblack的理论为理解这一现象提供了框架。",
+    "example": "The bootblack polished shoes for a living.\n擦鞋匠靠擦鞋为生。\nBootblacks were common in cities decades ago.\n擦鞋匠几十年前在城市里很常见。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26929,7 +26929,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/booth/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与行为相关的实践技能在工作场所受到高度重视。",
+    "example": "They sat in a cozy booth at the restaurant.\n他们坐在餐厅一个舒适的卡座里。\nThe phone booth was removed from the street.\n电话亭被从街上移走了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26950,7 +26950,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootlace/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bootlace的发展。",
+    "example": "He tied his bootlaces tightly before hiking.\n徒步旅行前他把鞋带系紧。\nThe bootlace came undone while she was walking.\n她走路时鞋带松了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26971,7 +26971,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootleg/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bootleg的研究取得了重大进展。",
+    "example": "Bootleg recordings were sold on the black market.\n盗版录音在黑市上出售。\nHe was arrested for selling bootleg alcohol.\n他因出售走私酒精被捕。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -26992,7 +26992,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bootstrap/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bootstrap的新方面。",
+    "example": "He started the business on a bootstrap budget.\n他用极少的预算创业。\nBootstrap is a popular CSS framework for websites.\nBootstrap是一个流行的网站CSS框架。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -27013,7 +27013,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bop/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbop的应用革新了各个行业。"
+    "example": "They danced to the upbeat bop music.\n他们跟着欢快的波普音乐跳舞。\nBop music originated in the 1940s.\n波普音乐起源于20世纪40年代。"
   },
   {
     "id": "word_1337",
@@ -27028,7 +27028,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borax/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对borax的认识显著提高。"
+    "example": "Borax is used as a cleaning agent.\n硼砂用作清洁剂。\nShe added borax to the laundry for extra whiteness.\n她在洗衣中加入硼砂以增加白度。"
   },
   {
     "id": "word_1338",
@@ -27043,7 +27043,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bordello/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bordello的重要性怎么强调都不为过。"
+    "example": "The bordello was shut down by the police.\n妓院被警察关闭。\nBordellos were common in some historic districts.\n妓院在一些历史街区很常见。"
   },
   {
     "id": "word_1339",
@@ -27058,7 +27058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɔːdə/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n边界的理论为理解这一现象提供了框架。"
+    "example": "The river forms the border between two countries.\n这条河形成了两国之间的边界。\nShe planted flowers along the border of the garden.\n她沿着花园的边界种花。"
   },
   {
     "id": "word_1340",
@@ -27073,7 +27073,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borderline/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与borderline相关的实践技能在工作场所受到高度重视。"
+    "example": "His behavior was borderline inappropriate.\n他的行为接近不当。\nThe patient was diagnosed with borderline personality disorder.\n患者被诊断为边缘性人格障碍。"
   },
   {
     "id": "word_1341",
@@ -27088,7 +27088,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔː/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会使烦扰的发展。"
+    "example": "The long lecture began to bore the students.\n漫长的演讲开始让学生感到厌烦。\nHe used a drill to bore a hole in the wall.\n他用钻头在墙上钻孔。"
   },
   {
     "id": "word_1342",
@@ -27103,7 +27103,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boreal/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的Bore的研究取得了重大进展。"
+    "example": "Boreal forests are found in northern regions.\n北方森林位于北方地区。\nBoreal animals have adapted to cold climates.\n北方动物已经适应了寒冷气候。"
   },
   {
     "id": "word_1343",
@@ -27118,7 +27118,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bored/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索已...的新方面。"
+    "example": "She felt bored during the long train ride.\n她在漫长的火车旅程中感到无聊。\nThe children were bored on the rainy day.\n孩子们在下雨天感到无聊。"
   },
   {
     "id": "word_1344",
@@ -27133,7 +27133,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boredom/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n领域的应用革新了各个行业。"
+    "example": "He tried to avoid boredom by reading books.\n他试图通过读书来避免无聊。\nBoredom can lead to creativity if channeled properly.\n如果引导得当，无聊可以导致创造力。"
   },
   {
     "id": "word_1345",
@@ -27148,7 +27148,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borer/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的人Bor的认识显著提高。"
+    "example": "The borer insect damaged the wooden furniture.\n钻蛀虫损坏了木制家具。\nThe tree borer infestation killed several oak trees.\n树蛀虫侵扰杀死了几棵橡树。"
   },
   {
     "id": "word_1346",
@@ -27163,7 +27163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔːn/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，出生的重要性怎么强调都不为过。"
+    "example": "She was born on a sunny morning in June.\n她出生在六月一个阳光明媚的早晨。\nHe was born into a family of musicians.\n他出生在一个音乐世家。"
   },
   {
     "id": "word_1347",
@@ -27178,7 +27178,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bornite/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbornite的理论为理解这一现象提供了框架。"
+    "example": "Bornite is a copper ore with a peacock color.\n斑铜矿是一种具有孔雀色的铜矿石。\nMiners extracted bornite from the deep mine.\n矿工从深矿中提取斑铜矿。"
   },
   {
     "id": "word_1348",
@@ -27193,7 +27193,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borough/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与borough相关的实践技能在工作场所受到高度重视。"
+    "example": "The city is divided into several boroughs.\n这座城市分为几个行政区。\nEach borough has its own local government.\n每个行政区都有自己的地方政府。"
   },
   {
     "id": "word_1349",
@@ -27208,7 +27208,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒrəʊ/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会借的发展。"
+    "example": "Can I borrow your pen for a moment?\n我可以借你的笔用一下吗？\nShe had to borrow money to pay her rent.\n她不得不借钱付房租。"
   },
   {
     "id": "word_1350",
@@ -27223,7 +27223,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borrowing/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，正在...的研究取得了重大进展。"
+    "example": "Excessive borrowing can lead to financial problems.\n过度借贷会导致财务问题。\nThe company reduced its borrowing this quarter.\n该公司本季度减少了借贷。"
   },
   {
     "id": "word_1351",
@@ -27238,7 +27238,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borscht/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索borscht的新方面。"
+    "example": "Borscht is a traditional Eastern European soup.\n罗宋汤是传统的东欧汤。\nShe served hot borscht with sour cream.\n她端上了加酸奶油的热罗宋汤。"
   },
   {
     "id": "word_1352",
@@ -27253,7 +27253,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/borstal/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n...的Borst的应用革新了各个行业。"
+    "example": "The young offender was sent to borstal.\n这个年轻罪犯被送进了少年管教所。\nBorstal institutions aim to rehabilitate young criminals.\n少年管教所旨在改造年轻罪犯。"
   },
   {
     "id": "word_1353",
@@ -27268,7 +27268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bosh/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bosh的认识显著提高。"
+    "example": "His explanation was pure bosh and made no sense.\n他的解释完全是胡说八道，毫无意义。\nDont listen to his bosh; its all nonsense.\n别听他的胡说八道，全是废话。"
   },
   {
     "id": "word_1354",
@@ -27283,7 +27283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒs/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，老板的重要性怎么强调都不为过。"
+    "example": "The boss praised the team for their hard work.\n老板表扬了团队的辛勤工作。\nShe was promoted to boss of the department.\n她被提升为部门主管。"
   },
   {
     "id": "word_1355",
@@ -27298,7 +27298,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boston/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nboston的理论为理解这一现象提供了框架。"
+    "example": "Boston is a historic city in the United States.\n波士顿是美国一座历史悠久的城市。\nThe Boston Marathon is held every April.\n波士顿马拉松每年四月举行。"
   },
   {
     "id": "word_1356",
@@ -27313,7 +27313,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/botanist/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...主义者Botan相关的实践技能在工作场所受到高度重视。"
+    "example": "The botanist studied plant life in the rainforest.\n植物学家研究雨林中的植物生命。\nBotanists classify plants based on their characteristics.\n植物学家根据植物的特征对其进行分类。"
   },
   {
     "id": "word_1357",
@@ -27328,7 +27328,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/botany/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会botany的发展。"
+    "example": "She studied botany at university.\n她在大学学习植物学。\nBotany is the scientific study of plants.\n植物学是对植物的科学研究。"
   },
   {
     "id": "word_1358",
@@ -27343,7 +27343,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊθ/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，两者的研究取得了重大进展。"
+    "example": "Both children received awards at the ceremony.\n两个孩子都在仪式上获得了奖项。\nBoth options have advantages and disadvantages.\n两种选择都有优点和缺点。"
   },
   {
     "id": "word_1359",
@@ -27358,7 +27358,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bother/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索打扰的新方面。"
+    "example": "Sorry to bother you, but I need some help.\n很抱歉打扰你，但我需要一些帮助。\nDont bother calling; she wont answer.\n别费心打电话了，她不会接的。"
   },
   {
     "id": "word_1360",
@@ -27373,7 +27373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/botheration/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n行为的应用革新了各个行业。"
+    "example": "What a botheration to have to wait so long!\n要等这么久真是烦人！\nThe botheration of fixing the broken machine annoyed him.\n修理坏掉的机器的麻烦让他很恼火。"
   },
   {
     "id": "word_1361",
@@ -27388,7 +27388,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒtl/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对瓶子的认识显著提高。"
+    "example": "She opened a bottle of wine for the party.\n她为派对打开了一瓶酒。\nThe baby drank milk from a glass bottle.\n婴儿从玻璃瓶里喝牛奶。"
   },
   {
     "id": "word_1362",
@@ -27403,7 +27403,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɒtəm/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，底部的重要性怎么强调都不为过。"
+    "example": "He found a treasure at the bottom of the sea.\n他在海底发现了宝藏。\nThe bottom drawer contains old documents.\n最下面的抽屉里装着旧文件。"
   },
   {
     "id": "word_1363",
@@ -27418,7 +27418,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bottomry/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbottomry的理论为理解这一现象提供了框架。"
+    "example": "Bottomry was a form of maritime loan in history.\n船舶抵押借款是历史上的一种海上贷款形式。\nThe merchant used bottomry to finance his voyage.\n商人用船舶抵押借款为他的航行融资。"
   },
   {
     "id": "word_1364",
@@ -27433,7 +27433,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouche/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bouchée相关的实践技能在工作场所受到高度重视。"
+    "example": "The chef prepared delicate bouchées for the guests.\n厨师为客人准备了精致的小点心。\nBouchées are small savory pastries.\n小点心是小的咸糕点。"
   },
   {
     "id": "word_1365",
@@ -27448,7 +27448,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bough/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bough的发展。"
+    "example": "The bough broke under the weight of the snow.\n树枝在雪的重压下折断了。\nShe hung a swing from the sturdy bough.\n她从坚固的树枝上挂了一个秋千。"
   },
   {
     "id": "word_1366",
@@ -27463,7 +27463,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bought/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bought的研究取得了重大进展。"
+    "example": "He bought a new car with his savings.\n他用积蓄买了一辆新车。\nShe bought flowers for her mothers birthday.\n她为母亲的生日买了花。"
   },
   {
     "id": "word_1367",
@@ -27478,7 +27478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boulder/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的人Bould的新方面。"
+    "example": "The hiker climbed over the massive boulder.\n徒步旅行者爬过巨大的岩石。\nA boulder blocked the path to the summit.\n一块巨石挡住了通往山顶的路。"
   },
   {
     "id": "word_1368",
@@ -27493,7 +27493,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boulevard/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nboulevard的应用革新了各个行业。"
+    "example": "The boulevard was lined with beautiful trees.\n林荫大道两旁种满了美丽的树木。\nThey walked down the busy boulevard.\n他们沿着繁忙的林荫大道走下去。"
   },
   {
     "id": "word_1369",
@@ -27508,7 +27508,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/baʊns/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对弹跳的认识显著提高。"
+    "example": "The ball began to bounce across the floor.\n球开始在地板上弹跳。\nChildren love to bounce on trampolines.\n孩子们喜欢在蹦床上弹跳。"
   },
   {
     "id": "word_1370",
@@ -27523,7 +27523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouncer/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的人Bounc的重要性怎么强调都不为过。"
+    "example": "The bouncer checked IDs at the nightclub entrance.\n保镖在夜总会入口检查身份证件。\nBouncers ensure the safety of club patrons.\n保镖确保俱乐部顾客的安全。"
   },
   {
     "id": "word_1371",
@@ -27538,7 +27538,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouncing/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n正在...的理论为理解这一现象提供了框架。"
+    "example": "The bouncing baby brought joy to everyone.\n活泼的婴儿给每个人带来欢乐。\nThe bouncing ball hit the ceiling.\n弹跳的球撞到了天花板。"
   },
   {
     "id": "word_1372",
@@ -27553,7 +27553,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bouncy/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...相关的实践技能在工作场所受到高度重视。"
+    "example": "The bouncy castle was popular at the party.\n充气城堡在派对上很受欢迎。\nShe bought bouncy new shoes for running.\n她买了弹性好的新跑鞋。"
   },
   {
     "id": "word_1373",
@@ -27568,7 +27568,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/baʊnd/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会跳跃的发展。"
+    "example": "The train is bound for the capital city.\n火车开往首都。\nHe felt bound by his promise to help.\n他觉得自己受承诺的约束必须帮忙。"
   },
   {
     "id": "word_1374",
@@ -27583,7 +27583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbaʊndəri/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，边界的研究取得了重大进展。"
+    "example": "The river marks the boundary between the two states.\n这条河标志着两个州之间的边界。\nWe must respect the boundaries of personal space.\n我们必须尊重个人空间的界限。"
   },
   {
     "id": "word_1375",
@@ -27598,7 +27598,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bounty/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的新方面。"
+    "example": "A bounty was offered for the capture of the criminal.\n悬赏捉拿罪犯。\nThe bounty of the harvest filled the barn.\n丰收的 bounty 填满了谷仓。"
   },
   {
     "id": "word_1376",
@@ -27613,7 +27613,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bourdon/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbourdon的应用革新了各个行业。"
+    "example": "The bourdon pipe produced a deep tone.\n低音管发出深沉的音调。\nThe bourdon is the lowest pipe in an organ.\n低音管是管风琴中最低的管子。"
   },
   {
     "id": "word_1377",
@@ -27628,7 +27628,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bourgeois/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bourgeois的认识显著提高。"
+    "example": "The bourgeois class emerged during the industrial revolution.\n资产阶级在工业革命期间出现。\nBourgeois values emphasize material success.\n资产阶级价值观强调物质成功。"
   },
   {
     "id": "word_1378",
@@ -27643,7 +27643,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boutique/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，boutique的重要性怎么强调都不为过。"
+    "example": "She opened a boutique selling handmade jewelry.\n她开了一家出售手工珠宝的精品店。\nThe boutique offers unique designer clothing.\n精品店提供独特的设计师服装。"
   },
   {
     "id": "word_1379",
@@ -27658,7 +27658,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊ/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n弓的理论为理解这一现象提供了框架。"
+    "example": "She tied a beautiful bow on the gift.\n她在礼物上系了一个漂亮的蝴蝶结。\nThe violinist made a deep bow to the audience.\n小提琴手向观众深深鞠躬。"
   },
   {
     "id": "word_1380",
@@ -27673,7 +27673,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowdlerize/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bowdlerize相关的实践技能在工作场所受到高度重视。"
+    "example": "The editor bowdlerized the novel for younger readers.\n编辑为年轻读者删改了这部小说。\nSome argue that bowdlerizing classic literature is wrong.\n有些人认为删改经典文学是错误的。"
   },
   {
     "id": "word_1381",
@@ -27688,7 +27688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowel/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bowel的发展。"
+    "example": "The doctors examined his bowel movements.\n医生检查了他的肠道运动。\nBowel cancer is a serious health concern.\n肠癌是一个严重的健康问题。"
   },
   {
     "id": "word_1382",
@@ -27703,7 +27703,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bower/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的人Bow的研究取得了重大进展。"
+    "example": "The garden had a charming bower covered in roses.\n花园里有一个迷人的玫瑰凉亭。\nLovers often meet in the bower.\n情侣们经常在凉亭里见面。"
   },
   {
     "id": "word_1383",
@@ -27718,7 +27718,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bəʊl/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索碗的新方面。"
+    "example": "She mixed the ingredients in a large bowl.\n她在一个大碗里混合配料。\nThe football team played in a bowl game.\n足球队参加了一场碗赛。"
   },
   {
     "id": "word_1384",
@@ -27733,7 +27733,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowlder/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n...的人Bowld的应用革新了各个行业。"
+    "example": "The bowlder blocked the mountain trail.\n巨石挡住了山路。\nGeologists studied the ancient bowlder formations.\n地质学家研究了古老的巨石形成。"
   },
   {
     "id": "word_1385",
@@ -27748,7 +27748,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowler/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的人Bowl的认识显著提高。"
+    "example": "The bowler delivered a fast ball to the batsman.\n投球手向击球手投出一个快球。\nHe wore a bowler hat to the formal event.\n他戴着圆顶礼帽参加正式活动。"
   },
   {
     "id": "word_1386",
@@ -27763,7 +27763,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowline/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bowline的重要性怎么强调都不为过。"
+    "example": "The sailor tied a bowline knot to secure the rope.\n水手打了一个单套结来固定绳子。\nA bowline is essential for sailing.\n单套结对航海至关重要。"
   },
   {
     "id": "word_1387",
@@ -27778,7 +27778,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bowser/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的人Bows的理论为理解这一现象提供了框架。"
+    "example": "The bowser refueled the planes at the airport.\n加油车在机场给飞机加油。\nBowsers are used to transport fuel.\n加油车用于运输燃料。"
   },
   {
     "id": "word_1388",
@@ -27793,7 +27793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɒks/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与盒子相关的实践技能在工作场所受到高度重视。"
+    "example": "She put the gift inside a colorful box.\n她把礼物放进一个彩色盒子里。\nThe cat sat on the cardboard box.\n猫坐在纸板箱上。"
   },
   {
     "id": "word_1389",
@@ -27808,7 +27808,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/boxer/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的人Box的发展。"
+    "example": "The boxer won the championship match.\n拳击手赢得了冠军赛。\nShe trained as a boxer for several years.\n她作为拳击手训练了几年。"
   },
   {
     "id": "word_1390",
@@ -27823,7 +27823,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɔɪ/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，男孩的研究取得了重大进展。"
+    "example": "The little boy played with his toy car.\n小男孩玩他的玩具车。\nHe was a happy boy growing up in the countryside.\n他是一个在农村长大的快乐男孩。"
   },
   {
     "id": "word_1391",
