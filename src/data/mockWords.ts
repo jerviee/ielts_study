@@ -19189,7 +19189,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/biːtʃ/",
     "frequency": "高频",
-    "example": "Families enjoy spending summer days at the beach.\n家庭喜欢在海滩度过夏日。\nThe beach was covered with smooth white sand.\n海滩被光滑的白沙覆盖。",
+    "example": "The pristine golden sand beach stretched endlessly along the turquoise coastline where crystal-clear waves gently lapped against the shore.\n原始的金色沙滩沿着绿松石色的海岸线无限延伸，清澈的海浪轻轻拍打着海岸。\nTourists love to visit this beautiful beach during summer vacations to enjoy swimming and sunbathing activities.\n游客们喜欢在暑假期间参观这个美丽的海滩，享受游泳和日光浴活动。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19225,7 +19225,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beacon/",
     "frequency": "中频",
-    "example": "A lighthouse serves as a beacon for ships at night.\n灯塔在夜间作为船只的信标。\nThe beacon guided lost travelers through the darkness.\n信标引导迷路的旅行者穿过黑暗。",
+    "example": "The ancient lighthouse beacon guided countless ships safely through the treacherous rocky waters during stormy nights.\n古老的灯塔信标在暴风雨的夜晚引导无数船只安全通过危险的礁石水域。\nThe emergency beacon was activated automatically when the aircraft encountered serious technical problems mid-flight.\n当飞机在飞行中遇到严重技术问题时，紧急信标被自动激活。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19246,7 +19246,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bead/",
     "frequency": "中频",
-    "example": "She string beads to make a colorful necklace.\n她把珠子串起来做一条彩色项链。\nBeads of sweat formed on his forehead during exercise.\n运动时他额头上形成了汗珠。",
+    "example": "She carefully threaded colorful beads onto the delicate silver wire to create a beautiful handcrafted necklace design.\n她小心地将彩色珠子穿在精致的银丝上，制作出美丽的手工项链。\nDrops of sweat formed beads on his forehead after running the marathon distance in extremely hot weather conditions.\n在极热的天气条件下跑完马拉松后，汗水在他额头上形成了珠子。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19267,7 +19267,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beadle/",
     "frequency": "高频",
-    "example": "The beadle led visitors through the historic building.\n执事引导游客参观历史建筑。\nIn medieval times, beadles maintained order in churches.\n在中世纪，执事在教堂维持秩序。"
+    "example": "The university beadle escorted the distinguished professor to the ceremonial hall where the graduation ceremony would take place.\n大学礼赞官护送尊敬的教授前往将举行毕业典礼的仪式大厅。\nThe beadle announced the arrival of the royal delegation with a traditional silver staff and formal proclamations.\n礼赞官用传统的银杖和正式公告宣布皇家代表团的到来。"
   },
   {
     "id": "word_947",
@@ -19282,7 +19282,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beagle/",
     "frequency": "中频",
-    "example": "The beagle chased rabbits across the open field.\n小猎犬在开阔的田野里追逐兔子。\nBeagles are known for their excellent sense of smell.\n小猎犬以出色的嗅觉著称。"
+    "example": "The playful beagle puppy bounded excitedly through the garden chasing after butterflies and colorful flowers.\n那只顽皮的比格犬 puppy 兴奋地在花园里跳跃，追赶着蝴蝶和五彩缤纷的花朵。\nHunters have used beagles for centuries to track rabbits and other small game in forests and open fields.\n几个世纪以来，猎人们利用比格犬在森林和旷野中追踪野兔和其他小型猎物。"
   },
   {
     "id": "word_948",
@@ -19297,7 +19297,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beak/",
     "frequency": "低频",
-    "example": "The bird used its beak to crack open the seed.\n鸟用喙啄开种子。\nEagles have sharp, powerful beaks for tearing meat.\n鹰有锋利有力的喙来撕肉。",
+    "example": "The magnificent eagle used its sharp powerful beak to tear apart the fresh catch it had captured near the mountain stream.\n那只雄伟的老鹰用它锋利有力的喙撕开在山溪附近捕获的新鲜猎物。\nThe woodpecker tapped its long pointed beak against the tree trunk searching for insects hidden beneath the bark.\n啄木鸟用它细长的尖喙敲击树干，寻找藏在树皮下的昆虫。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19318,7 +19318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beam/",
     "frequency": "低频",
-    "example": "A beam of light shone through the window.\n一束光透过窗户照射进来。\nConstruction workers installed a steel beam in the building.\n建筑工人在建筑物中安装了钢梁。",
+    "example": "A brilliant beam of sunlight pierced through the dark storm clouds illuminating the entire valley in golden splendor.\n一道灿烂的阳光束穿透黑暗的暴风云，以金色的辉煌照亮了整个山谷。\nThe construction workers used a precise laser beam to ensure the new building would be perfectly level and aligned.\n建筑工人使用精确的激光束来确保新建筑物完全水平和对齐。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19339,7 +19339,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bean/",
     "frequency": "高频",
-    "example": "She added beans to the soup for extra protein.\n她在汤里加了豆子以增加蛋白质。\nCoffee beans are roasted to produce different flavors.\n咖啡豆被烘烤以产生不同的风味。",
+    "example": "The farmer harvested thousands of coffee beans from his plantation after months of careful cultivation and nurturing.\n农民经过数月的细心栽培和培育后，从他的种植园收获了数千颗咖啡豆。\nStudents should eat a healthy breakfast with protein-rich beans and whole grains for sustained energy throughout the school day.\n学生应该吃含有富含蛋白质的豆类和全谷物的健康早餐，以保持一整天的持续能量。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19360,7 +19360,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beanfeast/",
     "frequency": "低频",
-    "example": "The company held an annual beanfeast for employees.\n公司为员工举办年度盛宴。\nA traditional beanfeast includes lots of food and drinks.\n传统盛宴包括大量食物和饮料。"
+    "example": "The annual company beanfeast brought together all employees and their families to celebrate another successful year of business.\n一年一度的公司豆宴汇集了所有员工及其家人，庆祝又一个成功的业务年份。\nTraditional English beanfeasts often included abundant food live music dancing and various entertainment activities.\n传统的英国豆宴通常包括丰盛的食物、现场音乐、舞蹈和各种娱乐活动。"
   },
   {
     "id": "word_952",
@@ -19375,7 +19375,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beano/",
     "frequency": "高频",
-    "example": "Children played games at the birthday party beano.\n孩子们在生日派对游戏中玩耍。\nThe beano was full of exciting activities for kids.\n派对充满让孩子们兴奋的活动。"
+    "example": "The children were excited when the carnival beano announced huge cash prizes for the bingo game winners.\n当嘉年华宾果游戏宣布现金大奖时，孩子们非常兴奋。\nLocal community centers often organize beano events as fundraisers to support charitable organizations and causes.\n当地社区中心经常组织宾果活动作为募款活动，以支持慈善组织和事业。"
   },
   {
     "id": "word_953",
@@ -19390,7 +19390,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beə/",
     "frequency": "高频",
-    "example": "The bear hibernates during the cold winter months.\n熊在寒冷的冬季冬眠。\nShe could barely bear the pain of her injury.\n她几乎无法忍受受伤的痛苦。",
+    "example": "The brave wildlife photographer observed the massive grizzly bear catching salmon in the rushing river current during autumn.\n勇敢的野生动物摄影师在秋季观察巨大的灰熊在急流中捕捉鲑鱼。\nThe ancient forest is home to many magnificent bears including the endangered polar bear species facing habitat loss.\n这片古老的森林是许多雄伟熊类的家园，包括面临栖息地丧失的濒危北极熊物种。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19411,7 +19411,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beard/",
     "frequency": "低频",
-    "example": "The old man had a long white beard.\n老人留着长长的白胡子。\nSome men grow beards for religious or cultural reasons.\n有些男人出于宗教或文化原因留胡子。",
+    "example": "The wise old philosopher stroked his long white beard thoughtfully while contemplating the meaning of human existence and consciousness.\n那位睿智的老哲学家一边思考着人类存在和意识的含义，一边若有所思地抚摸着长长的白胡子。\nMany cultures historically associated a full beard with wisdom authority and distinguished social status among men.\n许多文化历史上都将满胡须与智慧、权威和男性的尊贵社会地位联系在一起。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19432,7 +19432,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bearish/",
     "frequency": "高频",
-    "example": "His bearish manner made people uncomfortable.\n他粗暴的态度让人不舒服。\nThe bearish market conditions worried investors.\n看跌的市场状况让投资者担忧。"
+    "example": "The bearish market sentiment caused investors to sell their stocks rapidly resulting in significant losses across most sectors.\n看跌的市场情绪导致投资者迅速抛售股票，造成大多数板块的重大损失。\nAnalysts predicted continued bearish trends in the housing market due to rising interest rates and economic uncertainty.\n分析师预测，由于利率上升和经济不确定 性，房地产市场将持续看跌。"
   },
   {
     "id": "word_956",
@@ -19447,7 +19447,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beast/",
     "frequency": "高频",
-    "example": "The lion is known as the king of beasts.\n狮子被称为百兽之王。\nA wild beast roamed the ancient forest.\n一只野兽在古老的森林里漫游。",
+    "example": "The legendary beast of the Loch Ness has fascinated scientists and tourists for generations with its mysterious existence.\n尼斯湖的传奇怪兽以其神秘的存在让科学家和游客着迷了几代人。\nThe fierce beast guarded its territory fiercely attacking any intruder who dared to enter its domain uninvited.\n那只凶猛的野兽凶猛地守护着它的领地，攻击任何敢未经许可进入其领域的入侵者。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19468,7 +19468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beastly/",
     "frequency": "低频",
-    "example": "The weather was beastly cold during the expedition.\n探险期间天气冷得可怕。\nHis beastly behavior shocked everyone present.\n他粗暴的行为让在场的人都感到震惊。"
+    "example": "The beastly weather conditions with heavy rain and strong winds made it impossible for any planes to land safely.\n恶劣的天气条件伴随着大雨和强风，使任何飞机都无法安全降落。\nHis beastly behavior at the dinner table shocked the other guests who had never witnessed such rude conduct before.\n他在餐桌上的粗暴行为震惊了其他客人，他们以前从未见过如此粗鲁的行为。"
   },
   {
     "id": "word_958",
@@ -19483,7 +19483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/biːt/",
     "frequency": "高频",
-    "example": "The drummer kept a steady beat throughout the song.\n鼓手在整个歌曲中保持稳定的节拍。\nShe tried to beat the world record in swimming.\n她试图打破游泳世界纪录。",
+    "example": "The athlete managed to beat the world record by running the marathon distance in less than two hours for the first time.\n这位运动员首次在不到两小时内跑完马拉松距离，成功打破了世界纪录。\nDrummers create complex rhythmic patterns using their hands and specialized sticks to beat authentic musical compositions.\n鼓手用手和专门的鼓棒创造复杂的节奏模式来演奏真实的音乐作品。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19504,7 +19504,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beatify/",
     "frequency": "中频",
-    "example": "The church will beatify the martyred priest.\n教会将为殉道的牧师行宣福礼。\nLocal people gather to beatify their beloved saint.\n当地人聚集为敬爱的圣人行宣福礼。"
+    "example": "The Catholic Church will beatify the beloved humanitarian who spent decades helping impoverished communities worldwide.\n天主教会将把这位亲爱的慈善家封为真福，这位慈善家花了几十年帮助世界各地的贫困社区。\nPeople gathered in the cathedral to witness the ceremony that would beatify their spiritual leader finally after many years.\n人们聚集在大教堂里见证这个经过多年终于将他们的精神领袖封为真福的仪式。"
   },
   {
     "id": "word_960",
@@ -19519,7 +19519,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beatitude/",
     "frequency": "低频",
-    "example": "The beatitude of living in peace is precious.\n和平生活的至福是珍贵的。\nShe felt beatitude after achieving her lifelong dream.\n实现终身梦想后她感到极乐。"
+    "example": "The mountain hermit lived in complete solitude experiencing profound inner peace and spiritual beatitude through meditation and contemplation.\n这位山洞隐士通过冥想和沉思，以完全的孤独生活，体验着深刻的内心平静和精神至福。\nThe beatitude of those who live according to their deepest values and beliefs brings lasting happiness and fulfillment.\n那些按照自己最深层的价值观和信念生活的人所获得的至福会带来持久的幸福和满足。"
   },
   {
     "id": "word_961",
@@ -19549,7 +19549,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beau/",
     "frequency": "中频",
-    "example": "The young beau escorted the lady to the ball.\n年轻的男友陪女士去参加舞会。\nShe rejected every beau her parents suggested.\n她拒绝了父母建议的每一个追求者。"
+    "example": "The young romantic beau brought roses and chocolates to his beloved on their anniversary celebration evening together.\n这位年轻的浪漫男友在他们的周年纪念晚宴上为他的爱人带来了玫瑰和巧克力。\nIn Victorian society a beau was expected to conduct himself with impeccable manners and elegant social etiquette at all times.\n在维多利亚社会，男友被期望始终以无可挑剔的举止和优雅的社交礼仪来表现自己。"
   },
   {
     "id": "word_963",
@@ -19564,7 +19564,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beaut/",
     "frequency": "低频",
-    "example": "The garden was a beaut with colorful flowers.\n花园因五彩缤纷的花朵而美丽。\nThat sunset over the ocean was a real beaut.\n海上的日落真是美极了。"
+    "example": "The magnificent sunset over the ocean was absolutely a beaut sight that took everyone breath away completely.\n海面上壮丽的日落绝对是一个美丽的景象，让所有人都完全屏住了呼吸。\nThat classic vintage car in the museum collection is really a beaut example of automotive engineering excellence.\n博物馆收藏的那辆经典老爷车确实是汽车工程卓越的一个精美范例。"
   },
   {
     "id": "word_964",
@@ -19579,7 +19579,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbjuːtɪfl/",
     "frequency": "高频",
-    "example": "The beautiful sunset painted the sky in orange and pink.\n美丽的日落把天空染成橙色和粉红色。\nShe wore a beautiful dress to the wedding.\n她穿着一件漂亮的连衣裙参加婚礼。",
+    "example": "The beautiful symphony orchestra performed brilliantly at the concert hall creating magical musical moments for the audience.\n美丽的交响乐团在音乐厅精彩演出，为观众创造了神奇的音 乐时刻。\nHer beautiful artwork exhibition attracted thousands of visitors who were deeply moved by the creative expressions.\n她的美丽艺术作品展吸引了成千上万的参观者，他们被创意表达深深感动。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19600,7 +19600,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbjuːti/",
     "frequency": "高频",
-    "example": "Natural beauty surrounds us in the countryside.\n乡村的自然美景环绕着我们。\nInner beauty is more important than external appearance.\n内在美比外表更重要。",
+    "example": "The natural beauty of the Swiss Alps with its snow-capped peaks and crystal-clear lakes attracts millions of tourists annually.\n瑞士阿尔卑斯山的自然美景以其白雪皑皑的山峰和清澈的湖泊每年吸引数百万游客。\nThe legendary actress was known for her extraordinary beauty and exceptional talent in classic Hollywood cinema history.\n这位传奇女演员以其非凡的美貌和出色的才华在好莱坞经典电影史上闻名。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19621,7 +19621,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beaver/",
     "frequency": "低频",
-    "example": "Beavers build dams to create ponds for protection.\n海狸建造水坝以创造池塘来保护自己。\nThe beaver worked tirelessly to repair its dam.\n海狸不知疲倦地修复它的水坝。"
+    "example": "The industrious beaver constructed an elaborate dam across the river using branches and mud to create a perfect habitat.\n那只勤劳的海狸用树枝和泥土在河上建造了精巧的水坝，创造了一个完美的栖息地。\nEarly European settlers recognized the value of beaver pelts which became one of the most valuable trade goods in history.\n早期欧洲移民认识到海狸皮的价值，它成为历史上最有价值的贸易商品之一。"
   },
   {
     "id": "word_967",
@@ -19636,7 +19636,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bebop/",
     "frequency": "高频",
-    "example": "Bebop is a complex style of jazz music.\n波普是一种复杂的爵士音乐风格。\nFamous bebop musicians include Charlie Parker and Dizzy Gillespie.\n著名的波普音乐家包括查理帕克和迪兹吉莱斯皮。"
+    "example": "The innovative bebop jazz style emerged in the 1940s revolutionizing musical improvisation and complex harmonic structures completely.\n创新的波普爵士风格在20世纪40年代出现，彻底革新了音乐即兴演奏和复杂的和声结构。\nLegendary saxophonists like Charlie Parker helped popularize bebop music among young audiences across America and Europe.\n像查理帕克这样的传奇萨克斯管演奏家帮助波普音乐在美洲和欧洲年轻观众中流行起来。"
   },
   {
     "id": "word_968",
@@ -19651,7 +19651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/became/",
     "frequency": "中频",
-    "example": "She became a doctor after years of training.\n经过多年训练，她成为了一名医生。\nThe small town became a bustling city.\n小镇变成了繁华的城市。"
+    "example": "The small startup company became a global technology giant within just two decades of innovative business development strategies.\n这家小型初创公司在短短二十年的创新业务发展战略后成为全球科技巨头。\nThe injured athlete became an inspiring motivational speaker after recovering from the career-threatening injury successfully.\n这位受伤的运动员从危及职业生涯的伤痛中成功恢复后，成为了一名鼓舞人心的励志演说家。"
   },
   {
     "id": "word_969",
@@ -19666,7 +19666,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈkɒz/",
     "frequency": "高频",
-    "example": "She stayed home because she was feeling unwell.\n她因为感觉不舒服而待在家里。\nThe game was cancelled because of heavy rain.\n由于大雨，比赛被取消了。",
+    "example": "The flight was delayed because of severe thunderstorms that caused dangerous lightning activity across the entire region yesterday.\n航班因为严重雷暴而延误，雷暴在整个地区造成了危险的闪电活动。\nShe decided to pursue postgraduate studies because she wanted to gain specialized knowledge in her chosen academic field.\n她决定继续深造，因为她想在自己的选定学术领域获得专业知识。",
     "prefix": "be-",
     "prefixMeaning": "在...之前",
     "prefixMeaningEn": "by, before",
@@ -19687,7 +19687,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beckon/",
     "frequency": "高频",
-    "example": "The warm fire beckoned us inside on the cold night.\n在寒冷的夜晚，温暖的炉火吸引我们进去。\nShe beckoned to her friend across the crowded room.\n她在拥挤的房间里向她的朋友招手。"
+    "example": "The delicious aroma from the bakery seemed to beckon pedestrians on the street with its warm freshly baked bread smell daily.\n面包店的美味香气似乎在用温暖的新鲜面包气味吸引着街道上的行人。\nThe mysterious lights in the distance beckoned the lost travelers to venture further into the unknown forest territory carefully.\n远处的神秘灯光吸引着迷路的旅行者小心地冒险进入未知的森林地带。"
   },
   {
     "id": "word_971",
@@ -19702,7 +19702,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈkʌm/",
     "frequency": "高频",
-    "example": "He wanted to become an engineer when he grew up.\n他长大后想成为一名工程师。\nThe leaves become golden in autumn.\n秋天树叶变成金黄色。",
+    "example": "The ambitious young professional worked diligently to become a senior manager within five years at the multinational corporation.\n这位雄心勃勃的年轻专业人士在跨国公司努力工作，在五年内成为了一名高级经理。\nWater naturally becomes ice when the temperature drops below freezing point during cold winter weather conditions every year.\n水在寒冷的冬季条件下，当温度降到冰点以下时自然会变成冰。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to become",
@@ -19723,7 +19723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bed/",
     "frequency": "高频",
-    "example": "She went to bed early after a long day at work.\n漫长的一天工作后，她早早睡觉了。\nThe hotel bed was incredibly comfortable.\n酒店床非常舒服。",
+    "example": "The comfortable memory foam bed provided excellent support for the elderly couple who suffered from chronic back pain problems.\n舒适的记忆海绵床为患有慢性背痛问题的老年夫妇提供了极好的支撑。\nAncient Egyptian pharaohs were buried in elaborate gold-covered beds that represented their journey to the afterlife peacefully.\n古埃及法老被埋葬在精心制作的镀金床上，象征着他们平静地通往来世的旅程。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19744,7 +19744,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedevil/",
     "frequency": "高频",
-    "example": "Technical problems bedeviled the new software launch.\n技术问题困扰着新软件发布。\nDoubt bedeviled his confidence in the project.\n疑虑困扰着他对项目的信心。"
+    "example": "Technical problems bedeviled the spacecraft mission for many months before engineers finally resolved the communication system failures.\n技术问题困扰着宇宙飞船任务长达许多个月，直到工程师们最终解决了通信系统故障。\nThe controversial policy decision bedeviled the government for years as critics demanded immediate reversal of the unfair ruling.\n这项有争议的政策决定困扰了政府多年，批评者要求立即撤销不公平的裁决。"
   },
   {
     "id": "word_974",
@@ -19759,7 +19759,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedlam/",
     "frequency": "中频",
-    "example": "Bedlam broke out when the fire alarm sounded.\n火警响起时，现场一片混乱。\nThe football match descended into bedlam.\n足球比赛陷入一片混乱。"
+    "example": "The emergency room descended into bedlam when multiple critically injured patients arrived simultaneously after the serious accident.\n急诊室在多名重伤患者在严重事故后同时到达时陷入了混乱。\nThe sudden fire alarm caused bedlam in the crowded shopping mall as panicked shoppers rushed toward the exits desperately.\n突如其来的火警在拥挤的购物中心引起混乱，惊慌的购物者拼命冲向出口。"
   },
   {
     "id": "word_975",
@@ -19774,7 +19774,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedraggle/",
     "frequency": "低频",
-    "example": "The rain bedraggled her long hair and dress.\n雨水把她的长发和裙子弄湿了。\nThe old curtains looked bedraggled after years of use.\n旧窗帘用了多年后看起来又脏又皱。"
+    "example": "The heavy rain completely bedraggled her elegant evening dress that she had carefully prepared for the important gala event.\n大雨把她精心准备的重要晚会礼服完全弄湿了。\nThe exhausted marathon runner looked quite bedraggled after running through muddy fields during the rainy race conditions.\n这位筋疲力尽的马拉松选手在雨天比赛中跑过泥泞的田野后看起来相当狼狈。"
   },
   {
     "id": "word_976",
@@ -19789,7 +19789,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedridden/",
     "frequency": "高频",
-    "example": "The elderly woman was bedridden for several months.\n老妇人在床上躺了好几个月。\nAfter the accident, he became bedridden.\n事故发生后，他只能卧床不起。"
+    "example": "The elderly patient remained bedridden for several months after the complicated hip replacement surgery required extensive recovery time.\n这位老年患者在复杂的髋关节置换手术后卧床不起数月，需要广泛的恢复时间。\nCaregivers took turns nursing the bedridden grandfather around the clock to ensure he received proper medical attention daily.\n护理人员轮班全天候照顾卧床不起的祖父，以确保他每天都得到适当的医疗照顾。"
   },
   {
     "id": "word_977",
@@ -19804,7 +19804,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbedruːm/",
     "frequency": "高频",
-    "example": "The bedroom was painted in soft blue colors.\n卧室被漆成柔和的蓝色。\nThey decorated the bedroom with family photographs.\n他们用家庭照片装饰卧室。"
+    "example": "The master bedroom featured a luxurious king-size bed with premium Egyptian cotton sheets and beautiful mountain view windows.\n主卧设有一张豪华的大床，配有优质埃及棉床单和美丽的山景窗户。\nThe children bedroom was decorated with colorful cartoon characters and educational posters to inspire their creativity and imagination.\n儿童卧室装饰着彩色卡通人物和教育海报，以激发他们的创造力和想象力。"
   },
   {
     "id": "word_978",
@@ -19819,7 +19819,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bee/",
     "frequency": "高频",
-    "example": "A bee flew into the garden to collect nectar.\n一只蜜蜂飞进花园采集花蜜。\nBees are essential for pollinating many crops.\n蜜蜂对许多农作物的授粉至关重要。",
+    "example": "The busy honey bee pollinated countless flowers in the garden while carefully collecting nectar to produce delicious honey for the hive.\n这只忙碌的蜜蜂在花园里为无数花朵授粉，同时小心地收集花蜜为蜂巢生产美味的蜂蜜。\nScientists have discovered that bees play a crucial role in maintaining ecological balance and supporting agricultural food production.\n科学家发现蜜蜂在维持生态平衡和支持农业食品生产方面起着至关重要的作用。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19840,7 +19840,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beechnut/",
     "frequency": "高频",
-    "example": "Squirrels bury beechnuts for winter food storage.\n松鼠埋藏山毛榉坚果作为冬季食物储备。\nThe beechnut is small but highly nutritious.\n山毛榉坚果虽小但营养丰富。"
+    "example": "The forest floor was covered with fallen beechnuts during autumn which provided an important food source for wild animals and birds.\n秋天，森林地面覆盖着落下的山毛榉坚果，为野生动物和鸟类提供了重要的食物来源。\nChildren enjoyed collecting smooth beechnuts in the woodland as a fun outdoor activity during their family camping trip last fall.\n去年秋天，孩子们在家庭露营旅行中喜欢在树林里收集光滑的山毛榉坚果作为一种有趣的户外活动。"
   },
   {
     "id": "word_980",
@@ -19855,7 +19855,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beef/",
     "frequency": "中频",
-    "example": "She ordered beef for dinner at the restaurant.\n她在餐厅点了牛肉作为晚餐。\nThere has been some beef between the two neighbors.\n两个邻居之间有一些矛盾。",
+    "example": "The premium beef from Australian grass-fed cattle is highly prized by gourmet chefs for its exceptional tenderness and rich flavor profile.\n来自澳大利亚草饲牛的优质牛肉因其出色的嫩度和丰富的风味而受到美食厨师的高度赞扬。\nAthletes need to consume adequate protein from lean beef to support muscle recovery and growth after intense training sessions.\n运动员需要从瘦肉中摄取足够的蛋白质，以在剧烈训练后支持肌肉恢复和生长。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19876,7 +19876,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beefburger/",
     "frequency": "低频",
-    "example": "The children enjoyed beefburgers at the birthday party.\n孩子们在生日派对上吃牛肉汉堡。\nBeefburgers are a popular fast food worldwide.\n牛肉汉堡是世界各地流行的快餐。"
+    "example": "The popular fast food chain serves millions of beefburgers every day to customers who enjoy the convenient and tasty meal option.\n这家受欢迎的快餐连锁店每天为数百万顾客提供牛肉汉堡，他们享受这种方便而美味的餐点选择。\nThe gourmet beefburger restaurant introduced a new recipe featuring aged cheese and caramelized onions on freshly baked buns.\n这家美食牛肉汉堡餐厅推出了一款新食谱，在新鲜烘烤的面包上加入陈年奶酪和焦糖洋葱。"
   },
   {
     "id": "word_982",
@@ -19891,7 +19891,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beehive/",
     "frequency": "高频",
-    "example": "Bees live together in a large beehive structure.\n蜜蜂生活在一个大型蜂箱结构中。\nThe beehive was hanging from the old oak tree.\n蜂箱挂在老橡树上。"
+    "example": "The busy beehive contained thousands of worker bees cooperatively working together to maintain the colony and produce honey efficiently.\n这个繁忙的蜂巢包含数千只工蜂，它们合作工作以维持蜂群并高效生产蜂蜜。\nThe abandoned beehive in the old oak tree became home to various species of birds seeking shelter after the storm destroyed forests.\n暴风雨摧毁森林后，那棵老橡树中废弃的蜂巢成为各种鸟类寻找庇护所的家。"
   },
   {
     "id": "word_983",
@@ -19906,7 +19906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/been/",
     "frequency": "低频",
-    "example": "She has been to Paris three times.\n她去巴黎三次了。\nThe project has been completed successfully.\n项目已成功完成。"
+    "example": "The experienced scientist has been conducting groundbreaking research on climate change for over two decades with important discoveries.\n这位经验丰富的科学家已经进行了二十多年的气候变化开创性研究，并取得了重要发现。\nShe has been practicing yoga meditation techniques for many years to achieve optimal physical health and mental clarity.\n她多年来一直练习瑜伽冥想技术，以达到最佳的身体健康和头脑清晰。"
   },
   {
     "id": "word_984",
@@ -19921,7 +19921,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪə/",
     "frequency": "高频",
-    "example": "He ordered a pint of beer at the pub.\n他在酒吧点了一品脱啤酒。\nBeer is brewed from malted barley and hops.\n啤酒由麦芽和大麦酿造而成。",
+    "example": "The traditional German brewery produces hundreds of varieties of beer using centuries-old recipes passed down through generations of master brewers.\n这家传统的德国啤酒厂使用代代相传的几个世纪前的配方生产数百种啤酒。\nMany cultures around the world have been brewing and enjoying beer as a social beverage for thousands of years in history.\n世界各地的许多文化在历史上几千年来一直在酿造和享用啤酒作为社交饮品。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19942,7 +19942,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beerage/",
     "frequency": "高频",
-    "example": "The beerage attended the royal ceremony.\n贵族们参加了皇家仪式。\nThe British beerage has ancient origins.\n英国贵族有古老的起源。"
+    "example": "The British beerage system historically consisted of hereditary peers who were granted titles associated with beer production privileges.\n英国的啤酒贵族制度在历史上由世袭贵族组成，他们被授予与啤酒生产特权相关的头衔。\nHistorical records indicate that certain families accumulated significant wealth and political influence through the beerage system in medieval England.\n历史记录显示，某些家族通过中世纪英格兰的啤酒贵族制度积累了大量财富和政治影响力。"
   },
   {
     "id": "word_986",
@@ -19957,7 +19957,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beeswax/",
     "frequency": "中频",
-    "example": "Beeswax is used to make natural candles.\n蜂蜡用于制作天然蜡烛。\nThe wood was polished with beeswax.\n木头用蜂蜡抛光。"
+    "example": "Artisans have used natural beeswax to create beautiful candles and intricate wax sculptures for ceremonial purposes throughout history.\n工匠们使用天然蜂蜡在整个历史中为仪式目的创造美丽的蜡烛和复杂的蜡雕。\nThe furniture manufacturer applied organic beeswax polish to protect and enhance the natural beauty of the hardwood oak table surface.\n家具制造商应用有机蜂蜡抛光剂来保护和增强硬木橡木桌面的自然美感。"
   },
   {
     "id": "word_987",
@@ -19972,7 +19972,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beetle/",
     "frequency": "低频",
-    "example": "A colorful beetle crawled across the leaf.\n一只色彩斑斓的甲虫爬过叶子。\nThe ladybug is a type of beneficial beetle.\n瓢虫是一种有益的甲虫。"
+    "example": "The fascinating dung beetle plays a crucial ecological role by recycling nutrients and improving soil quality through its natural behavior patterns.\n迷人的粪甲虫通过其自然行为模式在回收营养物质和改善土壤质量方面发挥着关键生态作用。\nEndangered beetle species require specific habitat conservation efforts to prevent their complete extinction from natural ecosystems worldwide.\n濒危甲虫物种需要特定的栖息地保护努力，以防止它们从世界各地的自然生态系统中完全消失。"
   },
   {
     "id": "word_988",
@@ -19987,7 +19987,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beetroot/",
     "frequency": "高频",
-    "example": "Beetroot is rich in vitamins and minerals.\n甜菜根富含维生素和矿物质。\nShe added roasted beetroot to her salad.\n她在沙拉中加入烤甜菜根。"
+    "example": "Nutritionists recommend incorporating beetroot into daily diets because it contains essential vitamins and minerals that support cardiovascular health.\n营养学家建议将甜菜根纳入每日饮食，因为它含有支持心血管健康的基本维生素和矿物质。\nThe vibrant beetroot stain on the white tablecloth proved difficult to remove despite using multiple cleaning products and stain removal techniques.\n尽管使用多种清洁产品和去污技术，白桌布上鲜艳的甜菜根污渍仍然难以去除。"
   },
   {
     "id": "word_989",
@@ -20002,7 +20002,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befall/",
     "frequency": "中频",
-    "example": "Disaster may befall those who ignore warnings.\n忽视警告的人可能会遭遇灾难。\nWhatever may befall us, we will face it together.\n无论发生什么，我们都会一起面对。"
+    "example": "Natural disasters such as earthquakes and hurricanes can befall any region at unpredictable times causing devastating consequences for communities.\n地震和飓风等自然灾害可能在不可预测的时间降临任何地区，对社区造成破坏性后果。\nWhatever fate may befall the expedition team during their challenging Arctic journey will be documented in their official scientific reports.\n无论什么命运降临在探险队在他们具有挑战性的北极考察中，都将记录在他们的正式科学报告中。"
   },
   {
     "id": "word_990",
@@ -20017,7 +20017,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befit/",
     "frequency": "低频",
-    "example": "Formal attire befits such an important occasion.\n正式服装适合这样重要的场合。\nIt would befit a scholar to show humility.\n学者应该表现出谦虚。"
+    "example": "The elegant venue and sophisticated decorations were chosen to befit the prestigious international conference on scientific research and innovation.\n优雅的场地和精致的装饰被选择以适合关于科学研 究和创新的 prestigious 国际会议。\nFormal business attire is required to befit the professional atmosphere of the corporate headquarters during client presentations.\n在客户演示期间，需要正式的商务着装以适合公司总部的专业氛围。"
   },
   {
     "id": "word_991",
@@ -20032,7 +20032,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befog/",
     "frequency": "高频",
-    "example": "Mist began to befog the valley at dawn.\n黎明时分，薄雾开始笼罩山谷。\nConfusion befogged his judgment.\n困惑蒙蔽了他的判断。"
+    "example": "The dense morning fog did beFog the windshield completely making it extremely dangerous for drivers to navigate the mountain road safely.\n浓密的晨雾完全模糊了挡风玻璃，使驾驶员极难安全驾驶山路。\nComplicated legal terminology tends to beFog the understanding of ordinary citizens who are not trained in law and legal procedures.\n复杂的法律术语往往会使未受过法律和法律程序培训的普通公民的理解变得模糊。"
   },
   {
     "id": "word_992",
@@ -20047,7 +20047,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befool/",
     "frequency": "中频",
-    "example": "Tricksters try to befool unsuspecting victims.\n骗子试图愚弄毫无戒心的受害者。\nNo one could befool the experienced detective.\n没有人能愚弄这位经验丰富的侦探。"
+    "example": "Clever marketing strategies should never befool consumers into purchasing products that do not deliver what advertisements promise to provide.\n聪明的营销策略绝不应该欺骗消费者购买广告承诺提供但实际上不提供的产品。\nThe sophisticated scam artists attempted to befool elderly victims into transferring their life savings to fraudulent bank accounts abroad.\n老练的诈骗艺术家试图欺骗老年受害者将他们的毕生积蓄转移到国外的欺诈银行账户。"
   },
   {
     "id": "word_993",
@@ -20062,7 +20062,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈfɔː/",
     "frequency": "高频",
-    "example": "She finished her homework before dinner.\n她在晚饭前完成了作业。\nStand before the judge and answer the charges.\n站在法官面前回答指控。",
+    "example": "International students should arrive at the university campus before the orientation week begins to get familiar with campus facilities and resources.\n国际学生应该在迎新周开始前到达大学校园，熟悉校园设施和资源。\nThe famous author finished writing her bestseller novel before noon every day following a strict disciplined writing schedule and routine.\n这位著名作家遵循严格的纪律写作计划，每天在中午前完成她的畅销小说的写作。",
     "prefix": "be-",
     "prefixMeaning": "在...之前",
     "prefixMeaningEn": "by, before",
@@ -20083,7 +20083,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befriend/",
     "frequency": "高频",
-    "example": "The kind teacher offered to befriend the new student.\n善良的老师主动与新生交朋友。\nShe tried to befriend the lonely elderly neighbor.\n她试图与孤独的老邻居交朋友。"
+    "example": "The compassionate volunteer teacher made it her mission to befriend every shy student in the classroom to help them feel included and valued.\n这位富有同情心的志愿者教师把帮助每个害羞的学生交朋友作为她的使命，让他们感到被包括和有价值。\nExperienced hikers know the importance of befriending local guides who possess essential knowledge about wilderness survival skills and terrain.\n有经验的徒步旅行者知道与掌握野外生存技能和地形基本知识的当地导游交朋友的重要性。"
   },
   {
     "id": "word_995",
@@ -20098,7 +20098,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beget/",
     "frequency": "中频",
-    "example": "Hard work begets success in life.\n努力工作带来人生成功。\nPoverty begets many social problems.\n贫困产生许多社会问题。"
+    "example": "Historical evidence suggests that economic prosperity often begets political stability which in turn creates favorable conditions for cultural flourishing.\n历史证据表明，经济繁荣往往会产生政治稳定，而这反过来又为文化繁荣创造了有利条件。\nAncient philosophers believed that violence only begets more violence and advocated for peaceful resolution of conflicts through dialogue and negotiation.\n古代哲学家认为暴力只会产生更多暴力，主张通过对话和谈判和平解决冲突。"
   },
   {
     "id": "word_996",
@@ -20113,7 +20113,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beggar/",
     "frequency": "低频",
-    "example": "The beggar asked for food on the street corner.\n乞丐在街角乞讨食物。\nBeggar cannot be choosers in difficult circumstances.\n人在困境中不能挑剔。"
+    "example": "The charitable foundation established programs to help beggars gain stable employment opportunities and escape the cycle of poverty in urban areas.\n这个慈善基金会建立了项目，帮助乞丐获得稳定的就业机会，摆脱城市地区的贫困循环。\nDuring the severe economic depression many skilled professionals became beggars unable to find work despite their qualifications and experience.\n在经济严重萧条期间，许多有专业技能的人沦为乞丐，尽管有资历和经验，仍无法找到工作。"
   },
   {
     "id": "word_997",
@@ -20128,7 +20128,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beggary/",
     "frequency": "高频",
-    "example": "Gambling reduced the family to beggary.\n赌博使这个家庭沦为乞丐。\nHe fell into beggary after losing his business.\n生意失败后，他沦为乞丐。"
+    "example": "The economic recession pushed many families into beggary as they lost their jobs and could not afford basic necessities of daily life.\n经济衰退使许多家庭陷入乞讨，因为他们失去了工作，买不起日常生活的基本必需品。\nMedieval cities often had entire districts where beggary was commonplace due to widespread poverty and lack of social welfare systems.\n由于普遍的贫困和缺乏社会福利体系，中世纪城市经常有整个地区乞讨是司空见惯的。"
   },
   {
     "id": "word_998",
@@ -20143,7 +20143,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈɡɪn/",
     "frequency": "高频",
-    "example": "The movie will begin in a few minutes.\n电影几分钟后开始。\nShe decided to begin a new chapter in her life.\n她决定开始人生的新篇章。",
+    "example": "Students should begin preparing for final examinations at least one month in advance to ensure thorough understanding of all course materials.\n学生应该至少提前一个月开始准备期末考试，以确保对所有课程材料的全面理解。\nThe inspiring speech made her decide to begin her journey toward becoming a professional musician despite all the challenges ahead.\n这篇鼓舞人心的演讲使她决定开始成为专业音乐家的旅程，尽管前方充满挑战。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20164,7 +20164,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈɡɪnɪŋ/",
     "frequency": "高频",
-    "example": "Every journey begins with a single step.\n每个旅程都从第一步开始。\nThe beginning of the book was quite interesting.\n这本书的开头很有趣。",
+    "example": "The beginning of the twenty-first century marked a new era of rapid technological advancement and global interconnectivity through digital innovation.\n二十一世纪的开创标志着通过数字创新快速技术进步和全球互联互通的新时代。\nAt the beginning of any successful project proper planning and resource allocation are essential for achieving desired objectives and goals.\n在任何成功项目的开始阶段，适当的规划和资源分配对于实现预期目标和目的至关重要。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20185,7 +20185,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/begrime/",
     "frequency": "高频",
-    "example": "Coal dust begrimed the miners faces and clothes.\n煤灰弄脏了矿工的脸和衣服。\nYears of neglect had begrimed the old building.\n多年的忽视使旧建筑变得肮脏。"
+    "example": "The coal miners returned home completely begrimed after working long shifts in the dark underground tunnels extracting valuable mineral resources.\n煤矿工人在黑暗的地下隧道中工作长时间后回家时浑身是煤灰。\nYears of exposure to harsh weather conditions had begrimed the exterior walls of the historic castle making restoration work absolutely necessary.\n多年的恶劣天气条件侵蚀使历史城堡的外墙变脏，修复工作完全必要。"
   },
   {
     "id": "word_1001",
@@ -20200,7 +20200,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/begun/",
     "frequency": "中频",
-    "example": "The construction has already begun.\n建设已经开始了。\nOnce begun, the project must be completed.\n一旦开始，项目必须完成。"
+    "example": "The ambitious construction project has already begun despite facing numerous bureaucratic obstacles and environmental concerns from local communities.\n尽管面临众多官僚障碍和当地社区的环境关注，这个雄心勃勃的建设项目已经开始了。\nOnce the scientific experiment had begun researchers needed to carefully monitor all variables to ensure accurate and reliable results and data.\n一旦科学实验开始，研究人员需要仔细监测所有变量，以确保准确和可靠的结果和数据。"
   },
   {
     "id": "word_1002",
@@ -20215,7 +20215,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈhɑːf/",
     "frequency": "高频",
-    "example": "I am writing on behalf of the entire team.\n我代表整个团队写信。\nShe spoke on behalf of all the students.\n她代表所有学生发言。",
+    "example": "The dedicated lawyer fought tirelessly on behalf of her client who had been wrongly accused of a serious crime he did not commit.\n这位敬业的律师不知疲倦地为她的客户争取，他被错误地指控犯有他没有犯下的罪行。\nThe nonprofit organization advocates on behalf of endangered species to protect their natural habitats from human encroachment and destruction.\n非营利组织代表濒危物种倡导保护它们的自然栖息地免受人类侵占和破坏。",
     "prefix": "be-",
     "prefixMeaning": "在...方面",
     "prefixMeaningEn": "by, on",
@@ -20236,7 +20236,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈheɪv/",
     "frequency": "高频",
-    "example": "Children must learn to behave properly in school.\n孩子们必须学会在学校举止得体。\nPlease behave yourselves during the ceremony.\n请在仪式期间规矩些。",
+    "example": "Children should learn to behave appropriately in formal settings such as restaurants theaters and important family gatherings from an early age.\n儿童应该从小学会在正式场合（如餐厅、剧院和重要的家庭聚会）中表现得体。\nScientists continue to study how animals behave in their natural habitats to better understand their social structures and communication patterns.\n科学家继续研究动物在其自然栖息地中的行为，以更好地了解它们的社会结构和交流模式。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20257,7 +20257,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈheɪvjə/",
     "frequency": "高频",
-    "example": "His strange behavior worried his friends.\n他奇怪的行为让他的朋友们担心。\nScientists study animal behavior in the wild.\n科学家研究野外的动物行为。",
+    "example": "Psychologists study human behavior patterns to understand how individuals respond to different situations and environmental stimuli and influences.\n心理学家研究人类行为模式，以了解个人如何应对不同的情况和环境刺激及影响。\nThe unexpected behavior of the stock market bewildered investors who had carefully analyzed all available economic indicators and market trends.\n股市的意外表现让仔细分析所有可用经济指标和市场趋势的投资者感到困惑。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20278,7 +20278,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behead/",
     "frequency": "低频",
-    "example": "The king ordered the traitor to be beheaded.\n国王命令将叛徒斩首。\nAncient civilizations used to behead enemies in battle.\n古代文明曾在战斗中将敌人斩首。"
+    "example": "Historical records document that monarchs in medieval times had the power to behead convicted traitors as punishment for crimes against the crown.\n历史记录记载，中世纪时期的君主有权将定罪的叛国者斩首作为对王室犯罪的惩罚。\nThe brutal dictator ordered executioners to behead political dissidents who opposed his authoritarian regime and demanded democratic reforms.\n残暴的独裁者下令将反对其专制政权并要求民主改革的不同政见者斩首处死。"
   },
   {
     "id": "word_1006",
@@ -20293,7 +20293,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behemoth/",
     "frequency": "高频",
-    "example": "The corporation has grown into a behemoth in the industry.\n该公司已发展成为行业巨头。\nThe behemoth dinosaur ruled the ancient world.\n巨兽恐龙统治着古代世界。"
+    "example": "The technology corporation has grown into a behemoth company that dominates nearly every segment of the global digital market and industry.\n这家科技公司已经发展成为一头巨头企业，主导着全球数字市场的几乎每个领域。\nAncient biblical texts describe behemoth as a massive creature of impossible size that represents the most powerful force in nature.\n古老的圣经文本将 behemoth 描述为一个不可能的巨大生物，代表着自然界最强大的力量。"
   },
   {
     "id": "word_1007",
@@ -20308,7 +20308,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behest/",
     "frequency": "中频",
-    "example": "At the behest of the king, the messenger rode swiftly.\n在国王的命令下，信使飞速骑行。\nShe acted at her mothers behest.\n她按照母亲的命令行事。"
+    "example": "At the president behest senior officials arranged an emergency meeting to address the pressing national security concerns and threats.\n在总统的命令下，高级官员安排了一次紧急会议，讨论紧迫的国家安全问题。\nThe charity event was organized at the royal behest to raise awareness and funding for children diagnosed with rare diseases worldwide.\n应王室的要求，慈善活动被组织起来，为全世界被诊断患有罕见疾病的儿童提高认识和募集资金。"
   },
   {
     "id": "word_1008",
@@ -20323,7 +20323,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈhaɪnd/",
     "frequency": "高频",
-    "example": "The garden is located behind the house.\n花园位于房子后面。\nHe hid behind the door to surprise his friend.\n他躲在门后给朋友惊喜。",
+    "example": "The talented athlete finished strongly behind the race leader but still qualified for the Olympic finals with an impressive time and performance.\n这位有才华的运动员在比赛领先者之后强劲完赛，但仍然以令人印象深刻的成绩获得了奥运会决赛资格。\nHistorical analysis reveals that significant cultural transformations often occur behind the scenes before becoming publicly visible to society.\n历史分析表明，重大的文化变革在成为社会公众可见之前，往往在幕后发生。",
     "prefix": "be-",
     "prefixMeaning": "在...后面",
     "prefixMeaningEn": "by, behind",
@@ -20344,7 +20344,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behold/",
     "frequency": "高频",
-    "example": "Behold the magnificent palace before you.\n看啊，你面前宏伟的宫殿。\nShe was beautiful to behold.\n她看起来很美。"
+    "example": "Travelers who journey to the ancient city of Petra can behold breathtaking architectural wonders carved directly into colorful sandstone cliffs.\n前往佩特拉古城的旅行者可以观赏到直接雕刻在彩色砂岩悬崖上的惊人建筑奇迹。\nFrom the mountain peak summit visitors can behold the spectacular panorama of the entire valley spread out below in all directions magnificently.\n从山峰顶峰，游客可以壮丽地俯瞰分布在下方各个方向的整个山谷的壮丽全景。"
   },
   {
     "id": "word_1010",
@@ -20359,7 +20359,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beholden/",
     "frequency": "中频",
-    "example": "He felt beholden to his mentor for the opportunity.\n他觉得欠导师给了他这个机会。\nShe was beholden to no one for her success.\n她的成功不欠任何人。"
+    "example": "The successful businessman felt deeply beholden to his mentor who had provided invaluable guidance and opportunities during his early career development years.\n这位成功的商人对他的导师感到深深的感激，在他职业生涯发展的早期提供了宝贵的指导和机会。\nCitizens should not feel perpetually beholden to political leaders who promise reforms but consistently fail to deliver on their commitments and promises.\n公民不应该永远对承诺改革但始终未能履行承诺的政治领袖感到感激。"
   },
   {
     "id": "word_1011",
@@ -20374,7 +20374,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behove/",
     "frequency": "低频",
-    "example": "It behoves a scholar to pursue truth diligently.\n学者应该勤勉追求真理。\nIt would behove you to apologize.\n你道个歉才好。"
+    "example": "It would behove all citizens to participate actively in democratic processes by voting in elections and engaging in community discussions and debates.\n所有公民都应该积极参与民主进程，通过投票和参与社区讨论来履行自己的责任。\nMedical professionals state that it behoves patients to follow prescribed treatment plans carefully to ensure optimal health outcomes and recovery results.\n医疗专业人员表示，患者有责任仔细遵循规定的治疗方案，以确保最佳健康结果和恢复效果。"
   },
   {
     "id": "word_1012",
@@ -20389,7 +20389,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbiːɪŋ/",
     "frequency": "高频",
-    "example": "Human beings have the capacity for reason.\n人类有推理能力。\nThe company came into being in 1995.\n公司成立于1995年。",
+    "example": "Human beings have always sought to understand the meaning of existence and their place within the vast universe through philosophy and scientific inquiry.\n人类一直通过哲学和科学探索来寻求理解存在的意义以及他们在广阔宇宙中的位置。\nThe mysterious being that appeared in the small village legend was described as having extraordinary supernatural powers and abilities beyond comprehension.\n出现在小村庄传说中的神秘生物被描述为拥有超出理解的非凡超自然力量和能力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20410,7 +20410,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belabor/",
     "frequency": "中频",
-    "example": "The speaker belabored the point for hours.\n演讲者反复强调这一点好几个小时。\nThere is no need to belabor the obvious.\n没有必要重复显而易见的事情。",
+    "example": "The exhausted professor did not need to belabor the obvious point that students should complete assignments before the deadline approaches and arrives.\n疲惫的教授不需要过分强调显而易见的观点，即学生应该在截止日期前完成作业。\nPolitical commentators tend to belabor minor disputes between party leaders rather than focusing on substantive policy differences and important issues.\n政治评论员倾向于过分强调党领导人之间的 minor 分歧，而不是关注实质性的政策差异和重要问题。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20431,7 +20431,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belated/",
     "frequency": "低频",
-    "example": "She sent a belated birthday card.\n她寄了一张迟到的生日卡。\nHe offered a belated apology for his mistake.\n他为错误提供了迟到的道歉。",
+    "example": "The company issued a belated apology for the service disruption that affected thousands of customers during the holiday shopping season last month.\n该公司为上个月假期购物季期间影响数千名客户服务中断发出了迟来的道歉。\nShe sent a belated birthday card to her friend who had recently recovered from a serious illness that required prolonged hospitalization and care.\n她给最近从一场需要长期住院和护理的严重疾病中康复的朋友寄了一张迟来的生日卡。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20452,7 +20452,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belay/",
     "frequency": "高频",
-    "example": "Belay that rope securely to the rock.\n把绳子牢牢系在岩石上。\nClimbers must belay carefully for safety.\n攀岩者必须为安全而仔细系绳。",
+    "example": "Rock climbers must always belay their partners carefully using proper equipment and techniques to ensure safety during challenging ascent and descent activities.\n攀岩者必须始终使用适当的设备和技术小心地保护他们的伙伴，以确保在具有挑战性的攀登和下降活动中的安全。\nThe mountaineer used specialized rope belay methods to safely descend the steep ice cliff after reaching the challenging summit successfully.\n登山者使用专业的绳索保护方法在成功登顶后安全地下落陡峭的冰崖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20473,7 +20473,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belch/",
     "frequency": "中频",
-    "example": "The volcano began to belch smoke and ash.\n火山开始喷出烟和灰。\nIt is considered rude to belch in public.\n在公共场合打嗝被认为是不礼貌的。",
+    "example": "The factory smokestacks belch huge clouds of dark pollution into the atmosphere every day causing serious environmental and health concerns for nearby communities.\n工厂烟囱每天向大气中喷出大量黑色污染云，给附近社区造成严重的环境和健康问题。\nThe sleeping giant volcano showed signs of activity as it began to belch ash and volcanic gases into the surrounding atmosphere high above the crater rim.\n沉睡的巨型火山开始向火山口边缘上方的大气中喷出灰烬和火山气体，显示出活动迹象。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20494,7 +20494,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belie/",
     "frequency": "低频",
-    "example": "His smile belied his true feelings.\n他的微笑掩盖了他的真实感受。\nThe results belied all expectations.\n结果辜负了所有人的期望。",
+    "example": "Her cheerful smile belied the deep sadness she felt inside after receiving news of her beloved grandmother unexpected passing away peacefully in sleep.\n她愉快的微笑掩饰了她收到敬爱的祖母意外在睡梦中安详去世的消息后内心深处的悲伤。\nThe impressive academic credentials belied the candidate lack of practical work experience in the specific industry they were applying to work in.\n令人印象深刻的学术资历掩饰了候选人在他们申请工作的特定行业缺乏实际工作经验的事实。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20515,7 +20515,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈliːf/",
     "frequency": "高频",
-    "example": "She has a strong belief in education.\n她对教育有坚定的信念。\nReligious beliefs vary greatly among cultures.\n不同文化的宗教信仰差异很大。",
+    "example": "The fundamental belief in democracy and human rights has guided many nations in their pursuit of just and equitable societies throughout modern history.\n对民主和人权的根本信念在整个现代历史中引导许多国家追求公正和平等的社会。\nScientific beliefs should be based on empirical evidence rather than superstition or personal opinions that cannot be verified through rigorous testing.\n科学信念应该基于经验证据，而不是可以通过严格检验验证的迷信或个人意见。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20536,7 +20536,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/believable/",
     "frequency": "中频",
-    "example": "The story was believable and well-written.\n这个故事可信且写得很好。\nActors must deliver believable performances.\n演员必须呈现可信的表演。",
+    "example": "The detective found the witness testimony to be highly believable after conducting thorough cross-examination and verifying all supporting evidence details.\n侦探在进行了彻底的交叉询问并验证了所有支持证据细节后，发现证人的证词非常可信。\nThe author created believable characters that readers could genuinely relate to and empathize with throughout the entire epic novel trilogy.\n作者创造了可信的人物，读者在整个史诗小说三部曲中能够真正产生共鸣和同情。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20557,7 +20557,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈliːv/",
     "frequency": "高频",
-    "example": "I believe in hard work and dedication.\n我相信努力工作和奉献。\nShe believes that education changes lives.\n她相信教育改变生活。",
+    "example": "Astronomers believe that there may be billions of exoplanets in our galaxy that could potentially support some form of extraterrestrial life existence.\n天文学家认为我们的星系中可能有数十亿颗系外行星，它们可能潜在地支持某种形式的外星生命存在。\nPsychologists believe that early childhood experiences significantly shape personality development and behavioral patterns throughout adult life.\n心理学家认为，早期童年经历显着地塑造了整个成人期的人格发展和行为模式。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20578,7 +20578,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/believer/",
     "frequency": "高频",
-    "example": "He is a firm believer in democracy.\n他是民主的坚定信仰者。\nTrue believers never doubt their faith.\n真正的信徒从不怀疑他们的信仰。",
+    "example": "Devoted believers in various religions gather together in churches temples and mosques to worship and practice their spiritual faith and traditions.\n虔诚的信徒在教堂、寺庙和清真寺聚集在一起，敬拜和实践他们的精神信仰和传统。\nThe passionate environmental believer dedicated her life to campaigning against deforestation and promoting sustainable practices worldwide.\n这位充满热情的环境信徒毕生致力于反对森林砍伐和促进全球可持续实践的运动。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20599,7 +20599,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bel/",
     "frequency": "高频",
-    "example": "The church bell rang loudly at noon.\n教堂的钟在中午大声敲响。\nPlease ring the bell when you arrive.\n到达时请按门铃。",
+    "example": "The magnificent cathedral bell rang loudly to announce the beginning of the religious ceremony that was attended by thousands of devoted worshippers.\n宏伟的大教堂钟声响亮地响起，宣布有数千名虔诚礼拜者参加的宗教仪式开始。\nEmergency services responders rushed to the scene when the fire alarm bell rang continuously indicating a serious emergency situation developing rapidly.\n当火警警铃持续响起表明紧急情况正在迅速发展时，紧急服务响应者赶赴现场。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20620,7 +20620,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bellboy/",
     "frequency": "低频",
-    "example": "The bellboy carried the luggage to the room.\n行李员把行李搬到房间。\nBellboys assist guests at hotels.\n行李员在酒店帮助客人。",
+    "example": "The friendly bellboy assisted the tired travelers with their heavy luggage carrying everything carefully to their reserved hotel rooms on the upper floors.\n友好的旅馆侍者用行李帮助疲惫的旅行者，将所有行李小心地搬到他们预订的高层酒店房间。\nThe experienced bellboy at the grand hotel had worked there for over thirty years and knew every guest preference and regular visitor by name.\n这家大酒店里有经验的旅馆行李员在那里工作了三十多年，能叫出每位客人的偏好和常客的名字。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20641,7 +20641,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belligerent/",
     "frequency": "高频",
-    "example": "The belligerent soldier refused to surrender.\n好战的士兵拒绝投降。\nHis belligerent attitude caused conflicts.\n他好斗的态度引起了冲突。",
+    "example": "The belligerent nation ignored international peace treaties and continued developing weapons of mass destruction in direct violation of established laws.\n好战的国家无视国际和平条约，继续开发大规模杀伤性武器，直接违反既定法律。\nThe drunk belligerent customer refused to calm down despite multiple attempts by restaurant staff to peacefully resolve the unreasonable complaint situation.\n喝醉的好斗顾客拒绝冷静下来，尽管餐厅员工多次尝试和平解决不合理的投诉情况。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20662,7 +20662,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bellow/",
     "frequency": "中频",
-    "example": "The angry bull began to bellow loudly.\n愤怒的公牛开始大声吼叫。\nHe bellowed at the workers to move faster.\n他对工人们大声喊叫要他们快点。",
+    "example": "The commanding officer bellowed orders at the recruits who struggled to maintain proper formation during the challenging military training exercise.\n指挥官向新兵大声喊叫命令，他们在新兵训练中努力保持整齐的队形。\nThe angry bull bellowed loudly in the pasture warning other animals that this territory was exclusively his and not to be challenged or approached.\n愤怒的公牛在牧场上大声吼叫，警告其他动物这个领地完全是他的，不应受到挑战或靠近。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20683,7 +20683,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bellows/",
     "frequency": "低频",
-    "example": "He used bellows to fan the fire.\n他用风箱扇火。\nBellows help blow air into a fire.\n风箱帮助向火中吹气。",
+    "example": "The blacksmith used traditional bellows to pump air into the furnace creating extremely high temperatures necessary for shaping and molding heated metal materials.\n铁匠使用传统的风箱将空气泵入炉中，产生塑造和模塑加热金属材料所必需的极高温度。\nThe ancient organ instrument relies on bellows to push air through carefully tuned pipes producing beautiful harmonic melodies during church services.\n古老的管风琴乐器依靠风箱将空气通过精心调音的管道推送，在教堂礼拜时产生优美的和声旋律。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20704,7 +20704,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belly/",
     "frequency": "中频",
-    "example": "The cat curled up on her belly.\n猫蜷缩在她的腹部上。\nThe belly of the boat filled with water.\n船的底部充满了水。",
+    "example": "The hungry lioness crouched low preparing to chase the wildebeest whose belly was filled with fresh grass after drinking from the watering hole nearby.\n饥饿的母狮蹲下准备追赶牛羚，它的肚子在附近水坑喝水后装满了新鲜的草。\nDoctors recommend that people avoid lying flat on their belly immediately after eating large meals to prevent uncomfortable digestive problems and issues.\n医生建议人们在大餐后避免平躺在肚子上，以防止不舒服的消化问题。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20725,7 +20725,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈlɒŋ/",
     "frequency": "高频",
-    "example": "This book belongs to the library.\n这本书属于图书馆。\nWhere do these keys belong?\n这些钥匙应该放在哪里？",
+    "example": "Every individual deserves to belong to a supportive community where they feel accepted valued and empowered to reach their full potential in life.\n每个人应该属于一个支持性的社区，在那里他们感到被接受、重视，并有能力在生活中充分发挥他们的潜力。\nThe unique antique vase belongs to a rare collection that was painstakingly assembled over many decades by passionate art dealers and collectors.\n这个独特的古董花瓶属于一个罕见的系列，由充满热情的的艺术商和收藏家花费数十年精心收集而成。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20746,7 +20746,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈləʊ/",
     "frequency": "高频",
-    "example": "The temperature dropped below zero last night.\n昨晚温度降到零度以下。\nPlease sign your name below the line.\n请在线下方签名。",
+    "example": "Temperatures in the mountain region dropped significantly below freezing point last night causing icy road conditions that made driving extremely hazardous.\n昨晚山区气温大幅降至冰点以下，导致道路结冰，使驾驶变得极其危险。\nMarine biologists discovered fascinating new species of fish living far below the ocean surface where sunlight cannot penetrate at all.\n海洋生物学家发现了生活在海洋表面以下很远处的迷人新鱼类物种，那里阳光根本无法穿透。",
     "prefix": "be-",
     "prefixMeaning": "在...之下",
     "prefixMeaningEn": "by, under",
@@ -20767,7 +20767,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belt/",
     "frequency": "中频",
-    "example": "He wore a leather belt with his jeans.\n他穿牛仔裤时系了一条皮带。\nThe factory belt moved products along the assembly line.\n工厂的传送带沿着装配线移动产品。",
+    "example": "The manufacturing conveyor belt system transported products efficiently through the entire factory assembly line from raw materials to finished goods packaging.\n制造业传送带系统将产品从原材料到成品包装高效地通过整个工厂装配线运输。\nThe astronaut carefully checked her safety belt before stepping outside the space station for the scheduled extravehicular activity and mission operations.\n宇航员在走出空间站进行预定舱外活动和任务操作之前仔细检查了她的安全带。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20788,7 +20788,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beltway/",
     "frequency": "中频",
-    "example": "The capital city is surrounded by a major beltway.\n首都城市被一条主要环城公路环绕。\nTraffic on the beltway was heavy during rush hour.\n高峰时段环城公路交通拥挤。",
+    "example": "The首都 beltway experiences heavy traffic congestion during rush hours as thousands of commuters travel to and from work in the downtown business district daily.\n首都环城公路在高峰时段经历严重交通拥堵，每天有数千名通勤者往返于市中心商业区。\nConstruction crews completed the new beltway extension that will significantly reduce travel time between the airport and suburban residential areas efficiently.\n建设团队完成了新的环城公路延伸，这将显著减少机场和郊区住宅区之间的出行时间。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20809,7 +20809,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bentʃ/",
     "frequency": "高频",
-    "example": "They sat on a park bench to rest.\n他们坐在公园的长凳上休息。\nThe carpenter built a wooden bench for the garden.\n木匠为花园做了一条木长凳。",
+    "example": "The park bench provided a comfortable resting place for elderly pedestrians who needed to take a break from walking through the large public garden area.\n公园长椅为需要从大型公共花园区域步行中休息的老年行人提供了舒适的休息场所。\nThe distinguished judge sat on the elevated bench to preside over the important courtroom proceedings with complete authority and judicial formality.\n尊敬的法官坐在 elevated 的审判席上，以完全权威和司法正式性主持重要的法庭程序。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20830,7 +20830,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benchmark/",
     "frequency": "高频",
-    "example": "The test serves as a benchmark for all students.\n这次考试作为所有学生的基准。\nThe company set new benchmarks for quality.\n公司设定了新的质量基准。",
+    "example": "The company uses industry benchmarks to evaluate employee performance and productivity ensuring fair assessment across all departments and team members consistently.\n公司使用行业基准来评估员工绩效和生产力，确保对所有部门和团队成员进行公平的评估。\nThis particular software application has become the benchmark against which all competing products are measured and evaluated in the global technology market.\n这款特定的软件应用程序已成为全球技术市场中衡量和评估所有竞争产品的基准。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20851,7 +20851,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bend/",
     "frequency": "中频",
-    "example": "The road bends to the left ahead.\n前面的路向左拐弯。\nShe tried to bend the metal rod with her hands.\n她试图用手弯曲金属棒。",
+    "example": "The experienced yoga instructor taught students how to properly bend their bodies to achieve various poses without causing injury to muscles or joints.\n经验丰富的瑜伽教练教学生如何正确弯曲身体以实现各种姿势，而不导致肌肉或关节受伤。\nThe road bends sharply to the left after the traffic light making it difficult for drivers to see oncoming vehicles in dangerous blind spots.\n道路在交通灯后急剧左转，使驾驶员难以看到危险盲点中的迎面车辆。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20872,7 +20872,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈniːθ/",
     "frequency": "中频",
-    "example": "The treasure was hidden beneath the old tree.\n宝藏藏在老树下。\nSuch behavior is beneath her dignity.\n这种行为有损她的尊严。",
+    "example": "Archaeologists discovered ancient artifacts buried beneath the temple ruins that date back thousands of years to early civilization development periods.\n考古学家在寺庙废墟下发现了可追溯到早期文明发展时期数千年的古代文物。\nThe submarine traveled beneath the ocean surface exploring the mysterious deep sea environment that remains largely unknown to science and researchers.\n潜水艇在海洋表面下航行，探索科学和研究人员仍然 largely 未知的神秘深海环境。",
     "prefix": "be-",
     "prefixMeaning": "在...之下",
     "prefixMeaningEn": "by, under",
@@ -20893,7 +20893,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benefactor/",
     "frequency": "高频",
-    "example": "A generous benefactor donated millions to the charity.\n一位慷慨的赞助者向慈善机构捐赠了数百万。\nThe scholarship was established by a wealthy benefactor.\n奖学金是由一位富有的赞助者设立的。",
+    "example": "The anonymous benefactor donated a substantial amount of money to establish scholarships for underprivileged students pursuing higher education at prestigious universities.\n这位匿名 benefactor 捐了一大笔钱，为在知名大学接受高等教育的贫困学生设立奖学金。\nThe hospital wing was named after the generous benefactor whose significant contributions made the construction of the new medical facility possible and successful.\n医院侧厅以这位慷慨的 benefactor 命名，他的重大贡献使新医疗设施的建设成为可能。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20914,7 +20914,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benefice/",
     "frequency": "中频",
-    "example": "The priest received a small benefice from the church.\n牧师从教会获得了一小笔圣俸。\nBenefices provided income for clergy historically.\n圣俸在历史上为神职人员提供收入。",
+    "example": "The medieval benefice system provided economic support to clergy members in exchange for their religious services and spiritual guidance to local communities.\n中世纪的圣俸制度为神职人员提供经济支持，以换取他们对当地社区的宗教服务和精神指导。\nHistorical records indicate that some church benefices became wealthy through tithes collected from agricultural production in surrounding villages and farmland areas.\n历史记录表明，一些教会圣俸通过从周围村庄和农田地区的农业生产中收取什一税而变得富有。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20935,7 +20935,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beneficent/",
     "frequency": "低频",
-    "example": "The beneficent king improved the lives of his people.\n仁慈的国王改善了他人民的生活。\nHer beneficent actions helped many families.\n她仁慈的行为帮助了许多家庭。",
+    "example": "The beneficent donor provided free medical treatments to thousands of impoverished patients who could not afford essential healthcare services in rural areas.\n这位仁慈的 donor 为数千名贫困患者提供免费医疗服务，他们负担不起农村地区的基本医疗服务。\nThe organization established by the beneficent philanthropist has helped rescue and rehabilitate countless abandoned animals across the country over many years.\n这个由仁慈的慈善家创立的组织在多年来帮助拯救和康复了全国各地无数被遗弃的动物。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20956,7 +20956,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbenɪfɪt/",
     "frequency": "高频",
-    "example": "Regular exercise has many health benefits.\n定期锻炼有许多健康益处。\nThe new policy will benefit all employees.\n新政策将使所有员工受益。",
+    "example": "Regular exercise provides numerous health benefits including improved cardiovascular function stronger muscles and better mental wellbeing and emotional stability.\n定期锻炼提供许多健康益处，包括改善心血管功能、更强壮的肌肉和更好的心理健康及情绪稳定。\nThe new tax policy will benefit low-income families by reducing their financial burden and increasing disposable income for essential expenses and needs.\n新税收政策将通过减轻低收入家庭的财务负担并增加用于必要开支的可支配收入来使他们受益。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20977,7 +20977,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benevolent/",
     "frequency": "中频",
-    "example": "The benevolent organization helps the poor.\n这个仁慈的组织帮助穷人。\nShe had a benevolent smile on her face.\n她脸上带着仁慈的微笑。",
+    "example": "The benevolent organization provides food shelter and educational opportunities to homeless individuals helping them rebuild dignified lives in their communities.\n这个仁慈的组织为无家可归者提供食物、住所和教育机会，帮助他们在社区中重建有尊严的生活。\nThe benevolent dictator was known for implementing social welfare programs that improved living standards for ordinary citizens across the entire nation.\n这位仁慈的独裁者以实施改善全国普通公民生活水平的杜会福利计划而闻名。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20998,7 +20998,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benign/",
     "frequency": "低频",
-    "example": "The doctor said the tumor was benign.\n医生说肿瘤是良性的。\nThe old man had a benign expression.\n老人有慈祥的表情。",
+    "example": "The doctor confirmed that the tumor was benign and would not require aggressive treatment although regular monitoring would be necessary for patient safety and health.\n医生确认肿瘤是良性的，不需要积极治疗，尽管需要定期监测以确保患者安全和健康。\nThe benign weather conditions during the weekend allowed outdoor festivals and community events to proceed as planned without weather-related disruptions.\n周末良好的天气条件允许户外节日和社区活动按计划进行，没有天气相关的中断。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21019,7 +21019,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benison/",
     "frequency": "高频",
-    "example": "The priest gave his benison to the congregation.\n牧师为会众祝福。\nShe received his benison before the journey.\n她在旅程前接受了他的祝福。"
+    "example": "The priest pronounced a benison upon the congregation at the end of the religious service asking for divine blessing and protection for all attendees.\n牧师在宗教仪式结束时向会众宣读祝福，为所有参加者祈求神圣的祝福和保护。\nThe peaceful countryside offered a benison of tranquility where city dwellers could escape the stressful urban environment and find inner peace and calmness.\n宁静的乡村提供了宁静的福气，城市居民可以逃离紧张的都市环境，找到内心的平静。"
   },
   {
     "id": "word_1043",
@@ -21034,7 +21034,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bent/",
     "frequency": "中频",
-    "example": "The old man had a bent back from years of work.\n老人因多年工作而驼背。\nShe is bent on achieving her goals.\n她决心要实现她的目标。",
+    "example": "The old oak tree had a distinctive bent in its trunk caused by years of strong wind exposure during stormy weather seasons in the coastal region.\n老橡树的树干有独特的弯曲，这是由沿海地区暴风雨天气季节中多年强风 exposure 造成的。\nDespite facing numerous challenges and setbacks the determined entrepreneur maintained her bent toward success and never gave up on her ambitious dreams and goals.\n尽管面临众多挑战和挫折，这位坚定的企业家保持了她对成功的执着，从未放弃她的雄心勃勃的梦想和目标。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21055,7 +21055,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benthamite/",
     "frequency": "中频",
-    "example": "Benthamite philosophy emphasizes utilitarianism.\n边沁主义哲学强调功利主义。\nBenthamite principles influenced legal reform.\n边沁主义原则影响了法律改革。"
+    "example": "The philosophical benthamite principles of utilitarianism advocate that actions should be evaluated based on their overall contribution to general happiness and welfare.\n边沁主义的功利主义哲学原则主张应该根据行动对总体幸福和福利的贡献来评估行动。\nMany benthamite reformers influenced British legal and political systems in the nineteenth century promoting democratic principles and social justice initiatives.\n许多边沁主义改革者在十九世纪影响了英国法律和政治体系，促进民主原则和社会正义举措。"
   },
   {
     "id": "word_1045",
@@ -21070,7 +21070,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benzene/",
     "frequency": "低频",
-    "example": "Benzene is a chemical compound used in industry.\n苯是一种用于工业的化学化合物。\nBenzene has a distinctive aromatic smell.\n苯有一种独特的芳香气味。"
+    "example": "Benzene is a chemical compound commonly used in industrial manufacturing processes although it is known to pose significant health risks to workers with prolonged exposure.\n苯是一种常用于工业制造过程的化学化合物，尽管人们知道长期接触会对工人造成重大健康风险。\nScientists discovered that benzene molecules have a distinctive ring structure that contributes to their unique chemical properties and reactivity patterns.\n科学家发现苯分子具有独特的环状结构，这有助于其独特的化学性质和反应性模式。"
   },
   {
     "id": "word_1046",
@@ -21085,7 +21085,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bequeath/",
     "frequency": "高频",
-    "example": "She decided to bequeath her estate to charity.\n她决定把遗产遗赠给慈善机构。\nThe author bequeathed his royalties to his children.\n作者把版税遗赠给他的孩子们。"
+    "example": "The wealthy philanthropist decided to bequeath her entire art collection to the national museum so future generations could appreciate and study these cultural treasures.\n这位富有的慈善家决定将她的整个艺术收藏遗赠给国家博物馆，以便后代能够欣赏和学习这些文化遗产。\nThe founder of the company bequeathed his business empire to his children who had worked alongside him for decades learning every aspect of operations and management.\n该公司创始人将他的商业帝国遗赠给他的孩子们，他们曾与他一起工作数十年，学习运营和管理的各个方面。"
   },
   {
     "id": "word_1047",
@@ -21100,7 +21100,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bequest/",
     "frequency": "中频",
-    "example": "The museum received a valuable bequest from the collector.\n博物馆收到了收藏家贵重的遗赠。\nHis bequest funded the new hospital wing.\n他的遗赠资助了新的医院侧楼。"
+    "example": "The generous bequest from the deceased donor established a permanent endowment fund that supports ongoing scientific research into renewable energy technologies and solutions.\n这位已故捐赠者的慷慨遗赠建立了一个永久捐赠基金，支持对可再生能源技术的持续科学研究。\nThe historical mansion was left as a bequest to the city allowing it to be converted into a public museum showcasing Victorian architecture and heritage.\n这座历史豪宅作为遗赠留给城市，允许其改建为展示维多利亚建筑和遗产的公共博物馆。"
   },
   {
     "id": "word_1048",
@@ -21115,7 +21115,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berate/",
     "frequency": "低频",
-    "example": "The manager began to berate the employee for the mistake.\n经理开始因错误责备员工。\nShe berated herself for not studying harder.\n她责备自己没有更努力学习。",
+    "example": "The football coach did not berate players publicly after their disappointing loss instead choosing to analyze mistakes constructively during private training sessions and discussions.\n足球教练没有在公开场合责备球员们在令人失望的失败后，而是选择在私人训练和讨论中建设性地分析错误。\nThe frustrated manager continued to berate the team for their repeated failures despite the fact that he had not provided adequate resources or support for success.\n尽管他没有为成功提供足够的资源或支持，沮丧的经理继续责备团队的反复失败。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21136,7 +21136,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bereave/",
     "frequency": "高频",
-    "example": "Death bereaved her of her beloved husband.\n死亡夺走了她挚爱的丈夫。\nThe accident bereaved the family of their son.\n事故夺走了这个家庭的儿子。"
+    "example": "The tragic accident bereaved the entire community when multiple families lost their loved ones in the devastating crash and sorrowful incident.\n这场悲惨的事故让整个社区失去了亲人，在毁灭性的撞车事故中多个家庭痛失所爱。\nThe soldier was bereaved of his companion during the intense military operation where they had fought side by side for many difficult years.\n士兵在紧张的军事行动中失去了他的战友，他们曾并肩作战多年。"
   },
   {
     "id": "word_1050",
@@ -21151,7 +21151,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beret/",
     "frequency": "中频",
-    "example": "The artist wore a black beret for his portrait.\n艺术家戴着一顶黑色贝雷帽画像。\nBerets are popular in French fashion culture.\n贝雷帽在法国时尚文化中很流行。"
+    "example": "The French artist was famous for wearing a distinctive black beret that became his signature visual trademark recognized worldwide in art history circles.\n这位法国艺术家以戴独特的黑色贝雷帽而闻名，这成为他在艺术史界 worldwide 认可的视觉商标。\nMilitary special forces units often wear berets as part of their official uniform representing their elite status and specialized combat training capabilities.\n军事特种部队经常佩戴贝雷帽作为其正式制服的一部分，代表着他们的精英地位和专业化作战训练能力。"
   },
   {
     "id": "word_1051",
@@ -21166,7 +21166,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beriberi/",
     "frequency": "低频",
-    "example": "Beriberi is caused by vitamin B1 deficiency.\n脚气病是由维生素B1缺乏引起的。\nBeriberi was common in ancient times.\n脚气病在古代很常见。"
+    "example": "The nutritional disease beriberi caused by severe vitamin B1 deficiency was common historically among populations with limited access to balanced dietary nutrition.\n由严重维生素 B1 缺乏引起的营养疾病脚气病在历史上在获取均衡饮食营养有限的地区很常见。\nModern healthcare professionals can effectively treat beriberi patients through vitamin supplementation and dietary modifications and nutritional counseling programs.\n现代医疗专业人员可以通过维生素补充和饮食调整及营养咨询项目有效治疗脚气病患者。"
   },
   {
     "id": "word_1052",
@@ -21181,7 +21181,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berry/",
     "frequency": "中频",
-    "example": "Fresh berries are delicious in summer.\n新鲜浆果在夏天很美味。\nBlueberries are rich in antioxidants.\n蓝莓富含抗氧化剂。",
+    "example": "The fresh organic berries from the local farm are rich in antioxidants and vitamins that provide important health benefits for consumers of all ages.\n当地农场的新鲜有机浆果富含抗氧化剂和维生素，为所有年龄段的消费者提供重要健康益处。\nAncient civilizations discovered that certain types of berries could be used for medicinal purposes treating various ailments and health conditions naturally.\n古代文明发现某些类型的浆果可用于药用目的，自然地治疗各种疾病和健康状况。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21202,7 +21202,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berserk/",
     "frequency": "中频",
-    "example": "The warrior went berserk in battle.\n战士在战斗中变得疯狂。\nHe went berserk when he heard the news.\n他听到这个消息时怒不可遏。"
+    "example": "The legendary berserk warriors of Norse mythology were known for entering battle trances that made them incredibly strong and fearless in combat situations.\n挪威神话中传奇的狂战士以进入战斗恍惚状态而闻名，这使他们在战斗情况中变得极其强壮和无畏。\nThe angry crowd went berserk when security forces attempted to disperse them with tear gas during the controversial political demonstration and protest.\n当安全部队在有争议的政治示威和抗议活动中试图用催泪瓦斯驱散他们时，愤怒的人群变得狂暴起来。"
   },
   {
     "id": "word_1054",
@@ -21217,7 +21217,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berth/",
     "frequency": "低频",
-    "example": "The ship found a safe berth in the harbor.\n船在港口找到了安全的泊位。\nShe booked a berth on the overnight train.\n她在夜班火车上预订了一个卧铺。"
+    "example": "The cruise ship had a luxurious berth in the prestigious harbor where thousands of tourists embarked on exotic voyages to tropical destinations worldwide.\n这艘豪华游轮在著名的港口拥有奢华的泊位，数千名游客从这里出发前往世界各地的热带目的地进行异国航程。\nThe railway sleeping berth provided comfortable overnight accommodation for weary travelers who needed rest during their long cross-country journey by train.\n铁路卧铺为疲惫的旅行者提供舒适的过夜住宿，他们需要在长途跨国火车旅途中休息。"
   },
   {
     "id": "word_1055",
@@ -21232,7 +21232,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beryl/",
     "frequency": "高频",
-    "example": "The queen wore a beryl necklace to the ball.\n王后戴着绿宝石项链参加舞会。\nBeryl is a precious gemstone found in mines.\n绿宝石是在矿山中发现的珍贵宝石。"
+    "example": "The valuable beryl gemstone ranges in color from magnificent deep blue to beautiful soft green and is highly prized by jewelry collectors worldwide.\n珍贵的绿宝石颜色从壮丽的深蓝色到美丽的浅绿色不等，深受全球珠宝收藏家的青睐。\nAncient Egyptian queens were often depicted wearing elaborate beryl jewelry that symbolized their royal power and connection to divine deities and goddess worship.\n古埃及王后经常被描绘佩戴精美的绿宝石珠宝，象征着她们的皇家权力和与神女神的神圣联系。"
   },
   {
     "id": "word_1056",
@@ -21247,7 +21247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beryllium/",
     "frequency": "中频",
-    "example": "Beryllium is a lightweight metal used in aerospace.\n铍是一种用于航空航天领域的轻金属。\nBeryllium has unique physical properties.\n铍具有独特的物理特性。"
+    "example": "Beryllium is a lightweight metallic element used in aerospace applications where strength-to-weight ratio is critical for aircraft performance and fuel efficiency.\n铍是一种轻金属元素，用于航空航天应用，其中强度重量比对飞机性能和燃油效率至关重要。\nScientists must handle beryllium with extreme caution because prolonged exposure can cause serious respiratory diseases and other health complications in workers.\n科学家必须极其谨慎地处理铍，因为长期接触可能导致工人患上严重的呼吸系统疾病和其他健康并发症。"
   },
   {
     "id": "word_1057",
@@ -21262,7 +21262,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beset/",
     "frequency": "低频",
-    "example": "The project was beset by numerous problems.\n项目被许多问题困扰。\nShe was beset with doubts about her decision.\n她对自己的决定充满疑虑。",
+    "example": "The expedition was beset by numerous technical difficulties including equipment failures and communication problems that threatened the success of the entire scientific mission.\n探险队被众多技术困难所困扰，包括设备故障和通信问题，威胁着整个科学任务的成功。\nThe small business was beset by fierce competition from large corporations and economic downturns that made survival increasingly challenging and financially difficult.\n这家小企业在与大公司的激烈竞争和经济衰退中苦苦挣扎，使生存变得越来越具有挑战性和经济困难。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21283,7 +21283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beshrew/",
     "frequency": "高频",
-    "example": "Beshrew thee for thy foolishness!\n你的愚蠢该受诅咒！\nThe poet beshrewed his enemies.\n诗人诅咒了他的敌人。"
+    "example": "The old expression beshrew thee was used historically in dramatic literature to express mild curse or displeasure toward characters in theatrical performances and plays.\n古老的表达 beshrew thee 在戏剧文学中 historically 用于在戏剧表演和戏剧中表达对角色的轻微诅咒或不满。\nShakespearean actors would often beshrew their dramatic enemies to add theatrical flair and entertainment value to the historical production and classical performance.\n莎士比亚戏剧中的演员经常会 beshrew 他们的戏剧敌人，为历史作品和古典表演增加戏剧魅力和娱乐价值。"
   },
   {
     "id": "word_1059",
@@ -21298,7 +21298,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈsaɪd/",
     "frequency": "高频",
-    "example": "She sat beside her mother at the theater.\n她在剧院坐在母亲旁边。\nThe school is located beside the park.\n学校位于公园旁边。",
+    "example": "The beautiful flower garden was planted beside the tranquil stream where visitors could enjoy the scenic view while listening to the gentle water sounds and birdsong.\n美丽的花园被种植在宁静的小溪边，游客可以在聆听轻柔的水声和鸟鸣时欣赏风景。\nThe experienced mountain guide stood beside novice climbers providing encouragement and safety instructions throughout their challenging ascent up the steep rocky peak.\n经验丰富的登山向导站在新手攀登者身边，在他们挑战攀登陡峭岩石山峰的整个过程中提供鼓励和安全说明。",
     "prefix": "be-",
     "prefixMeaning": "在...旁边",
     "prefixMeaningEn": "at, beside",
@@ -21319,7 +21319,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈsaɪdz/",
     "frequency": "高频",
-    "example": "Besides English, she speaks three other languages.\n除了英语，她还会说三种其他语言。\nBesides, it is too late to change anything.\n而且，现在改变任何事情都太晚了。"
+    "example": "Besides studying English literature at university she also minored in psychology which helped her understand human motivations and behavioral patterns deeply.\n除了在大学学习英国文学外，她还辅修心理学，这帮助她深入理解人类动机和行为模式。\nThe restaurant offers many vegetarian options besides its popular meat dishes to accommodate diverse dietary preferences of all customers and diners.\n除了受欢迎的肉类菜肴外，这家餐厅还提供许多素食选择，以适应所有顾客和食客的多样化饮食偏好。"
   },
   {
     "id": "word_1061",
@@ -21334,7 +21334,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besiege/",
     "frequency": "低频",
-    "example": "Enemy forces began to besiege the city.\n敌军开始围攻这座城市。\nJournalists besieged the minister with questions.\n记者们用问题围攻部长。",
+    "example": "The ancient city was besieged by enemy forces for many months until supplies ran out and defenders were forced to surrender to avoid starvation and casualties.\n这座古城被敌军围困了数月，直到物资耗尽，防守者被迫投降以避免饥饿和人员伤亡。\nCritics besieged the government with demands for transparency regarding the controversial policy decisions that affected millions of citizens across the entire country.\n批评者用对透明度的要求围攻政府，这些有争议的政策决定影响了全国各地的数百万公民。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21355,7 +21355,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besmear/",
     "frequency": "高频",
-    "example": "Soot besmeared the walls of the factory.\n煤灰弄脏了工厂的墙壁。\nPaint besmeared his clothes after the work.\n工作结束后油漆弄脏了他的衣服。"
+    "example": "The careless painter accidentally besmeared the pristine white wall with drops of colorful paint that required extensive cleaning to restore its original clean appearance.\n粗心的油漆工不小心用彩色油漆滴弄脏了纯白的墙壁，需要大规模清洁才能恢复其原始干净外观。\nThe scandal threatened to besmear the respected political leaders reputation which had taken decades to establish through dedicated public service and honest work.\n这桩丑闻威胁要玷污这位受人尊敬的政治家通过数十年公共服务和诚实工作建立的声誉。"
   },
   {
     "id": "word_1063",
@@ -21370,7 +21370,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besmirch/",
     "frequency": "中频",
-    "example": "Scandals besmirched the politicians reputation.\n丑闻损害了政治家的名誉。\nShe refused to besmirch her familys honor.\n她拒绝玷污她家族的荣誉。",
+    "example": "False accusations made by rivals threatened to besmirch the honest businessmans reputation that was built over many decades of ethical and fair business practices.\n竞争对手提出的虚假指控威胁要玷污这位诚实商人通过数十年道德和公平商业实践建立的声誉。\nThe controversial publication intended to besmirch the legacy of the beloved former leader who was deeply revered by millions of citizens nationwide.\n这本有争议的出版物旨在玷污这位受全国数百万人深深爱戴的前任领导人的遗产。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21391,7 +21391,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besom/",
     "frequency": "低频",
-    "example": "The witch used a besom to sweep the floor.\n女巫用扫帚扫地。\nBesoms were traditionally made from birch twigs.\n扫帚传统上用桦树枝制成。"
+    "example": "The witch traditionally carried a besom made of birch twigs which she used in folklore stories to fly through the night sky on magical journeys and adventures.\n女巫传统上携带由桦树枝制成的扫帚，在民间故事中用于在夜间天空中进行神奇的旅程和冒险。\nThe groundskeeper used a heavy besom to sweep leaves and debris from the stone pathways in the ancient castle courtyard efficiently.\n场地管理员用一把沉重的扫帚从古城堡庭院中的石径上扫走树叶和碎片。"
   },
   {
     "id": "word_1065",
@@ -21406,7 +21406,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besot/",
     "frequency": "高频",
-    "example": "Love besotted the young prince completely.\n爱情完全迷住了年轻的王子。\nWealth besotted the corrupt official.\n财富迷住了腐败的官员。"
+    "example": "The popularity of social media platforms has besotted millions of young people who spend excessive hours scrolling through their feeds instead of engaging in physical activities.\n社交媒体平台的普及使数百万年轻人沉迷，他们花费过多时间滚动浏览信息流而不是参与体育活动。\nThe celebrity chef besotted viewers with his charismatic personality and creative culinary techniques displayed on his famous cooking television program and show.\n这位名人厨师的魅力个性和在他的著名烹饪电视节目上展示的创意烹饪技术让观众着迷。"
   },
   {
     "id": "word_1066",
@@ -21421,7 +21421,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bespangle/",
     "frequency": "中频",
-    "example": "The night sky was bespangled with stars.\n夜空繁星点点。\nFestive decorations bespangled the hall.\n节日装饰使大厅闪闪发光。"
+    "example": "The Broadway stage was absolutely bespangled with hundreds of glittering lights and sparkling decorations that created a magical theatrical atmosphere for the musical performance.\n百老汇舞台完全被数百盏闪烁的灯光和 sparkling 装饰所覆盖，为音乐表演创造了神奇的戏剧氛围。\nThe night sky bespangled with countless stars provided a beautiful backdrop for the romantic outdoor wedding ceremony held in the countryside meadow and field.\n布满无数星星的夜空为在乡村草地和田野举行的浪漫户外婚礼仪式提供了美丽的背景。"
   },
   {
     "id": "word_1067",
@@ -21436,7 +21436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bespoke/",
     "frequency": "低频",
-    "example": "He ordered a bespoke suit from the tailor.\n他从裁缝那里定制了一套西装。\nBespoke furniture is made to individual specifications.\n定制家具是根据个人规格制作的。"
+    "example": "The bespoke tailoring shop creates custom-made suits that are precisely fitted to each individual customers unique body measurements and personal style preferences.\n这家定制裁缝店制作定制西装，精确贴合每位顾客的独特身体尺寸和个人风格偏好。\nThe hotel offers bespoke concierge services that cater to every guests specific requirements ensuring a personalized and memorable stay at the establishment.\n这家酒店提供定制礼宾服务，满足每位客人的特定要求，确保在酒店获得个性化和难忘的住宿体验。"
   },
   {
     "id": "word_1068",
@@ -21451,7 +21451,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/best/",
     "frequency": "高频",
-    "example": "She is the best student in her class.\n她是班上最好的学生。\nThe best solution is to work together.\n最好的解决方案是一起工作。",
+    "example": "The Olympic athlete trained relentlessly for years to achieve the best possible performance and compete against the finest athletes from around the world at the international competition.\n这位奥运选手为了在国际比赛中与来自世界各地最优秀的运动员竞争，多年来不知疲倦地训练以达到最佳表现。\nHealthcare professionals recommend that individuals consume the best organic foods available to maintain optimal health and prevent chronic diseases effectively.\n医疗专业人员建议个人食用最好的有机食品，以保持最佳健康状态并有效预防慢性疾病。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21472,7 +21472,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestial/",
     "frequency": "高频",
-    "example": "The bestial act shocked the entire nation.\n野兽般的行为震惊了全国。\nBestial cruelty has no place in civilized society.\n野兽般的残忍在文明社会没有容身之地。"
+    "example": "The bestial crime shocked the entire nation and prompted lawmakers to call for stricter penalties to prevent such horrifying acts of violence from occurring again in communities.\n这起野兽般的罪行震惊了全国，并促使立法者呼吁实施更严格的惩罚，以防止此类可怕的暴力行为再次在社区发生。\nBestial behavior is completely unacceptable in civilized society where human beings are expected to treat each other with dignity and mutual respect always.\n在文明社会中，野兽般的行为是完全不可接受的，人类应该始终相互尊重。"
   },
   {
     "id": "word_1070",
@@ -21487,7 +21487,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestow/",
     "frequency": "中频",
-    "example": "The queen will bestow honors upon the heroes.\n女王将授予英雄们荣誉。\nShe bestowed her blessing on the young couple.\n她为年轻夫妇送上祝福。",
+    "example": "The university decided to bestow an honorary doctorate degree upon the renowned scientist whose groundbreaking research revolutionized the field of medical science and healthcare.\n大学决定授予这位著名科学家荣誉博士学位，他的开创性研究彻底改变了医学和医疗保健领域。\nThe queen bestowed royal honors upon distinguished individuals who had made significant contributions to society through their dedicated public service and humanitarian efforts.\n女王授予杰出人士皇家荣誉，他们通过奉献的公共服务和人道主义努力为社会做出了重大贡献。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21508,7 +21508,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestrew/",
     "frequency": "低频",
-    "example": "Fallen leaves bestrewed the garden path.\n落叶铺满了花园小路。\nPapers bestrewed the floor of the office.\n文件散落在办公室的地板上。"
+    "example": "Autumn leaves bestrewed the forest pathway creating a beautiful golden carpet that crunched beneath the feet of hikers exploring the scenic mountain trails and routes.\n秋叶铺满了森林小路，形成美丽的金色地毯，在徒步旅行者探索风景优美的山间小径时在脚下发出嘎吱声。\nThe confetti bestrewed the wedding venue floor after the celebration creating a festive atmosphere for guests to enjoy during the reception party and event.\n庆祝活动后，彩屑散落在婚礼场地的地板上，为客人参加婚宴和活动创造了节日气氛。"
   },
   {
     "id": "word_1072",
@@ -21523,7 +21523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestride/",
     "frequency": "高频",
-    "example": "The giant bestrode the hill like a colossus.\n巨人像巨像一样跨坐在山上。\nHe bestrode the horse with great pride.\n他骄傲地骑在马上。",
+    "example": "The giant redwood tree bestrode the forest path creating an impressive natural archway that visitors loved to walk beneath while exploring the ancient sequoia grove and sanctuary.\n巨大的红杉树横跨在森林小径上，形成一个令人印象深刻的天然拱门，游客在探索古老的红杉林和保护區时喜欢在其下行走。\nThe newly constructed bridge bestrides the wide river connecting two major cities and facilitating efficient transportation of goods and commuters between the urban centers and regions.\n新建的大桥横跨宽阔的河流，连接两座主要城市，促进城市中心和地区之间的货物和通勤者的高效运输。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21604,7 +21604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/betray/",
     "frequency": "低频",
-    "example": "He promised never to betray her trust.\n他承诺永远不辜负她的信任。\nThe soldiers would never betray their country.\n士兵们永远不会背叛他们的国家。",
+    "example": "The spy who betrayed classified government secrets to foreign adversaries was sentenced to many years in federal prison for treason and national security violations.\n向外国对手泄露政府机密分类情报的间谍因叛国罪和国家安全违规行为被判处多年联邦监狱监禁。\nThe businessman felt deeply betrayed when his trusted partner secretly transferred company funds to personal accounts without his knowledge or authorization.\n这位商人感到被深深背叛，因为他的信任伙伴在他不知情或未经授权的情况下秘密将公司资金转移到个人账户。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21625,7 +21625,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/betroth/",
     "frequency": "高频",
-    "example": "The king betrothed his daughter to the prince.\n国王将女儿许配给王子。\nThey were betrothed in a grand ceremony.\n他们在盛大的仪式中订婚了。"
+    "example": "The royal family announced plans to betroth the crown prince to a foreign princess from a neighboring kingdom to strengthen diplomatic ties between the two nations historically.\n王室宣布计划将王储嫁给来自邻国的外国公主，以在历史上加强两国之间的外交关系。\nThe couple decided to betroth themselves after dating for several years and wanted to formalize their relationship before planning to start a family together in the near future.\n这对情侣在约会数年后决定订婚，并希望在不久的将来计划组建家庭之前正式确定他们的关系。"
   },
   {
     "id": "word_1079",
@@ -21640,7 +21640,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbetə/",
     "frequency": "高频",
-    "example": "She felt much better after a good nights sleep.\n好好睡一晚后，她感觉好多了。\nIt is better to be safe than sorry.\n宁可安全也不要遗憾。",
+    "example": "Regular cardiovascular exercise is much better for overall health than sedentary lifestyles which can lead to numerous chronic medical conditions and diseases over time.\n定期心血管运动比久坐不动的生活方式对整体健康更好，久坐不动的生活方式随着时间推移可能导致许多慢性疾病。\nThe experienced physician recommended that patients should eat better diets and engage in more physical activity to improve their overall wellbeing and longevity significantly.\n经验丰富的医生建议患者应该吃更好的饮食并进行更多的体育活动，以显著改善他们的整体健康和延长寿命。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21661,7 +21661,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈtwiːn/",
     "frequency": "高频",
-    "example": "The restaurant is between the bank and the theater.\n餐厅在银行和剧院之间。\nShe could not choose between the two options.\n她无法在两个选项之间做出选择。",
+    "example": "The historic peace treaty was signed between two rival nations that had been in conflict for decades over disputed territorial boundaries and natural resources.\n这项历史性和平条约是在两个因有争议的领土边界和自然资源而冲突数十年的敌对国家之间签署的。\nThe architectural bridge between the two towers serves as both a structural support and a scenic walkway for pedestrians to enjoy panoramic city views from above.\n两座塔之间的建筑桥梁既是结构支撑，也是行人欣赏上方城市全景的风景步道。",
     "prefix": "be-",
     "prefixMeaning": "在...之间",
     "prefixMeaningEn": "by, between",
@@ -21682,7 +21682,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beverage/",
     "frequency": "低频",
-    "example": "Would you like a hot beverage with your meal?\n你想在用餐时喝点热饮吗？\nThe beverage was refreshing on a hot day.\n热天里这种饮料很解渴。",
+    "example": "The restaurant serves a wide variety of hot and cold beverages including premium coffees teas fresh juices and imported wines from famous wine regions worldwide.\n这家餐厅提供多种冷热饮料，包括优质咖啡、茶、鲜果汁和来自世界各地著名葡萄酒产区的进口葡萄酒。\nHealth experts recommend that individuals drink at least eight glasses of water or other healthy beverages daily to maintain proper hydration and bodily function efficiently.\n健康专家建议个人每天至少喝八杯水或其他健康饮料，以保持适当的水分和有效地维持身体功能。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21766,7 +21766,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bewilder/",
     "frequency": "高频",
-    "example": "The complex puzzle bewildered many players.\n这个复杂的谜题让许多玩家困惑。\nShe was bewildered by the sudden change of plans.\n她被计划的突然改变弄糊涂了。",
+    "example": "The complex maze of narrow streets in the ancient city often bewilder tourists who get lost while trying to navigate without a map or local guide assistance.\n古城中复杂的窄街迷宫经常让没有地图或当地导游帮助的游客感到困惑而迷路。\nThe sudden change in exam format completely bewildered students who had carefully prepared according to the previous years examination structure and guidelines.\n考试形式的突然变化让仔细按照前几年考试结构和指南准备的学生完全感到困惑。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21787,7 +21787,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈjɒnd/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，超过的研究取得了重大进展。",
+    "example": "The ancient civilization developed technologies that were far beyond their time yet scientists still cannot fully explain how they achieved such remarkable feats and accomplishments.\n这个古老文明开发了远远超出他们时代的技术，但科学家仍然无法完全解释他们是如何取得如此非凡的成就的。\nThe philosophical concept of existence extends beyond what humans can perceive through their limited senses requiring deep contemplation and spiritual understanding and enlightenment.\n存在的哲学概念超越了人类通过有限感官所能理解的，需要深度沉思和精神理解与启发。",
     "prefix": "be-",
     "prefixMeaning": "在...之外",
     "prefixMeaningEn": "beyond",
