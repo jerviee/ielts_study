@@ -2077,7 +2077,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædəmənt/",
     "frequency": "低频",
-    "example": "He remained adamant in his decision.\n他对自己的决定坚定不移。"
+    "example": "She remained adamant about her decision to study abroad despite family opposition.\n尽管家人反对，她仍坚持出国留学的决定。\nThe adamant supporter refused to change his opinion even when presented with facts.\n这位坚定的支持者即使面对事实也拒绝改变观点。"
   },
   {
     "id": "word_99",
@@ -2098,7 +2098,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdæpt/",
     "frequency": "高频",
-    "example": "Animals must adapt to changing climate conditions to survive in their natural habitats.\n动物必须适应气候变化条件才能在自然栖息地中生存。\nNew employees need time to adapt to the corporate culture and work environment.\n新员工需要时间来适应公司文化和工作环境。"
+    "example": "Animals must adapt quickly to changing environmental conditions to survive.\n动物必须快速适应变化的环境条件才能生存。\nThe company adapted its marketing strategy to reach younger consumers effectively.\n公司调整营销策略以有效触达年轻消费者。"
   },
   {
     "id": "word_100",
@@ -2119,7 +2119,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædæpˈteɪʃn/",
     "frequency": "中频",
-    "example": "The adaptation of the classic novel into a film was highly successful at the box office.\n经典小说的电影改编在票房上取得了巨大成功。\nBiological adaptation allows species to evolve and survive in changing environments.\n生物适应性使物种能够进化并在变化的环境中生存。"
+    "example": "The film adaptation of the novel received critical acclaim worldwide.\n这部小说的电影改编版获得了全球评论界的赞誉。\nSuccessful adaptation to new technology requires continuous learning and practice.\n成功适应新技术需要持续学习和实践。"
   },
   {
     "id": "word_101",
@@ -2140,7 +2140,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æd/",
     "frequency": "高频",
-    "example": "Please add your name and contact information to the registration form.\n请在登记表上添加您的姓名和联系信息。\nThe chef decided to add more spices to enhance the flavor of the dish.\n厨师决定加入更多香料来增强菜肴的风味。"
+    "example": "Please add more details to your report before submitting it tomorrow.\n请在明天提交报告之前添加更多细节。\nThe chef decided to add special spices to enhance the flavor.\n厨师决定添加特殊香料以增强风味。"
   },
   {
     "id": "word_102",
@@ -2161,7 +2161,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædɪd/",
     "frequency": "低频",
-    "example": "The added features in the new smartphone model include improved camera technology.\n新型智能手机的附加功能包括改进的相机技术。\nShe felt a sense of added responsibility after being promoted to manager.\n被提升为经理后，她感到增加了一份责任。"
+    "example": "The added security measures significantly reduced theft incidents.\n增加的安全措施显著减少了盗窃事件。\nShe added valuable contributions to the team project throughout the semester.\n她在整个学期为团队项目做出了宝贵贡献。"
   },
   {
     "id": "word_103",
@@ -2182,7 +2182,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdendəm/",
     "frequency": "高频",
-    "example": "The report includes an addendum with new data.\n报告包含一份新数据的补遗。"
+    "example": "The contract addendum clarified important terms that were previously ambiguous.\n合同附录澄清了之前模糊的重要条款。\nAn addendum was added to the book explaining recent scientific discoveries.\n书的附录解释了最近的科学发现。"
   },
   {
     "id": "word_104",
@@ -2203,7 +2203,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɪʃn/",
     "frequency": "高频",
-    "example": "The addition of a swimming pool increased the value of the property significantly.\n游泳池的添加显著增加了房产的价值。\nShe learned addition and subtraction in her first year of elementary school mathematics.\n她在小学一年级的数学课上学了加法和减法。"
+    "example": "The addition of new employees increased the company productivity significantly.\n新员工的加入显著提高了公司生产力。\nIn addition to regular classes, students must complete practical assignments.\n除了常规课程，学生必须完成实践作业。"
   },
   {
     "id": "word_105",
@@ -2224,7 +2224,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɪʃənl/",
     "frequency": "高频",
-    "example": "Additional security measures were implemented after the terrorist attack in the city.\n城市恐怖袭击后实施了额外的安全措施。\nStudents may need additional tutoring to prepare for final examinations.\n学生可能需要额外的辅导来准备期末考试。"
+    "example": "Additional funding was required to complete the construction project successfully.\n需要额外资金才能成功完成建设项目。\nThe hotel offers additional services including spa treatments and guided tours.\n酒店提供额外服务，包括水疗护理和导游服务。"
   },
   {
     "id": "word_106",
@@ -2245,7 +2245,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædl/",
     "frequency": "高频",
-    "example": "The confusing instructions seemed to addle the minds of inexperienced team members.\n令人困惑的说明似乎使经验不足的团队成员感到迷惑。\nHot weather during exams can addle students concentration and affect performance.\n考试期间的炎热天气会让学生注意力分散，影响表现。"
+    "example": "The extreme heat began to addle his brain and affect his judgment.\n极度高温开始扰乱他的大脑并影响判断。\nConflicting information can addle your understanding of complex issues.\n相互矛盾的信息会扰乱你对复杂问题的理解。"
   },
   {
     "id": "word_107",
@@ -2266,7 +2266,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdres/",
     "frequency": "高频",
-    "example": "Please update your mailing address if you have recently moved to a new location.\n如果您最近搬到新地方，请更新您的邮寄地址。\nThe mayor gave a speech to address the concerns of local residents about traffic.\n市长发表讲话以解决当地居民对交通的担忧。"
+    "example": "The president will address the nation regarding economic policies tonight.\n总统今晚将就经济政策向全国发表讲话。\nPlease address all complaints to the customer service department directly.\n请直接向客户服务部门提出所有投诉。"
   },
   {
     "id": "word_108",
@@ -2287,7 +2287,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdjuːs/",
     "frequency": "低频",
-    "example": "He tried to adduce evidence to support his claim.\n他试图举出证据支持他的主张。"
+    "example": "The lawyer adduced compelling evidence to support his client innocence claim.\n律师提出了有力证据支持其客户无罪的主张。\nScientists adduce various theories to explain the mysterious phenomenon.\n科学家提出各种理论来解释这一神秘现象。"
   },
   {
     "id": "word_109",
@@ -2308,7 +2308,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdept/",
     "frequency": "高频",
-    "example": "She is adept at playing the piano.\n她擅长弹钢琴。"
+    "example": "She is adept at solving complex mathematical problems quickly and accurately.\n她擅长快速准确地解决复杂的数学问题。\nThe adept musician performed challenging pieces with remarkable skill.\n这位熟练的音乐家以非凡技巧演奏了难度曲目。"
   },
   {
     "id": "word_110",
@@ -2329,7 +2329,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædɪkwət/",
     "frequency": "中频",
-    "example": "The hotel room was adequate for our short stay but lacked basic amenities.\n酒店房间对我们的短期住宿来说还可以，但缺乏基本设施。\nStudents must have adequate preparation before taking professional examinations.\n学生在参加专业考试前必须有足够的准备。"
+    "example": "The adequate preparation ensured the project was completed on schedule.\n充分的准备确保项目按时完成。\nStudents need adequate resources to succeed in their academic studies.\n学生需要足够的资源才能在学业上取得成功。"
   },
   {
     "id": "word_111",
@@ -2350,7 +2350,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈhɪə/",
     "frequency": "低频",
-    "example": "All employees must adhere to the company code of conduct and ethical guidelines.\n所有员工必须遵守公司行为准则和道德准则。\nThe paint will not adhere properly to the surface if it is not clean and dry.\n如果表面不干净和干燥，油漆将无法正确粘附。"
+    "example": "All employees must adhere strictly to the company safety regulations.\n所有员工必须严格遵守公司安全规定。\nThe label will adhere firmly to the surface for many years.\n标签将牢固地粘在表面多年。"
   },
   {
     "id": "word_112",
@@ -2371,7 +2371,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈhiːsɪv/",
     "frequency": "高频",
-    "example": "This strong adhesive can bond metal and plastic surfaces together effectively.\n这种强力粘合剂可以有效地将金属和塑料表面粘合在一起。\nThe adhesive on the sticker has lost its effectiveness after prolonged exposure to sunlight.\n长期暴露在阳光下后，贴纸上的粘合剂失去了效力。"
+    "example": "The strong adhesive bond held the broken pieces together permanently.\n强力粘合剂将破碎的碎片永久粘在一起。\nSpecial adhesive tape is used for mounting heavy objects securely.\n特殊胶带用于安全固定重物。"
   },
   {
     "id": "word_113",
@@ -2392,7 +2392,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒɔɪn/",
     "frequency": "中频",
-    "example": "The garden adjoins the backyard of the house, creating a seamless outdoor space.\n花园与房屋的后院相连，创造了一个无缝的户外空间。\nThe conference room adjoins the executive office for convenient access during meetings.\n会议室与行政办公室相连，方便会议期间进出。"
+    "example": "The two properties adjoin each other at the backyard boundary line.\n这两个物业在后院边界线处相邻。\nThe hotel rooms adjoin allowing families to stay close together.\n酒店房间相邻，让家人可以住在一起。"
   },
   {
     "id": "word_114",
@@ -2413,7 +2413,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒɜːn/",
     "frequency": "低频",
-    "example": "The judge decided to adjourn the trial until next Monday for further evidence.\n法官决定休庭到下周一，以便进一步调查证据。\nThe meeting will adjourn at noon and resume again at two oclock in the afternoon.\n会议将在中午休会，下午两点重新开始。"
+    "example": "The committee decided to adjourn the meeting until next week.\n委员会决定将会议延期至下周。\nThe court will adjourn for lunch and resume proceedings afterward.\n法院将暂停午餐，之后继续审理。"
   },
   {
     "id": "word_115",
@@ -2434,7 +2434,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʒʌŋkt/",
     "frequency": "高频",
-    "example": "She works as an adjunct professor.\n她担任兼职教授。"
+    "example": "The laboratory serves as an adjunct to the main research facility.\n实验室作为主要研究设施的附属设施。\nMusic education is an important adjunct to academic learning.\n音乐教育是学术学习的重要补充。"
   },
   {
     "id": "word_116",
@@ -2455,7 +2455,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒʊə/",
     "frequency": "中频",
-    "example": "I adjure you to tell the truth.\n我恳请你说实话。"
+    "example": "The priest adjured the congregation to follow moral principles faithfully.\n牧师恳求会众忠实地遵循道德原则。\nThe judge adjured the witness to tell the complete truth.\n法官恳求证人说出全部真相。"
   },
   {
     "id": "word_117",
@@ -2476,7 +2476,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒʌst/",
     "frequency": "中频",
-    "example": "You can adjust the brightness of your computer screen using the settings menu.\n您可以使用设置菜单调整电脑屏幕的亮度。\nShe needed time to adjust to the new work schedule after changing jobs.\n换工作后，她需要时间适应新的工作时间表。"
+    "example": "You need to adjust the settings to improve the image quality.\n你需要调整设置以提高图像质量。\nThe teacher adjusted the lesson plan based on student feedback.\n老师根据学生反馈调整了课程计划。"
   },
   {
     "id": "word_118",
@@ -2497,7 +2497,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædmən/",
     "frequency": "高频",
-    "example": "He started his career as an adman.\n他从广告人开始了他的职业生涯。"
+    "example": "The creative adman designed innovative campaigns for major brands.\n这位创意广告人为大品牌设计了创新广告活动。\nAn experienced adman understands consumer psychology and market trends.\n经验丰富的广告人了解消费者心理学和市场趋势。"
   },
   {
     "id": "word_119",
@@ -2518,7 +2518,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmeʒə/",
     "frequency": "中频",
-    "example": "They admeasured the land carefully.\n他们仔细测量了土地。"
+    "example": "Engineers must admeasure the land accurately before construction begins.\n工程师必须在施工开始前准确测量土地。\nThe surveyor admeasured the property boundaries for legal documentation.\n测量员为法律文件测量了财产边界。"
   },
   {
     "id": "word_120",
@@ -2539,7 +2539,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪnɪstə/",
     "frequency": "低频",
-    "example": "The hospital administrator will administer the daily operations of the medical facility.\n医院管理员将管理医疗设施的日常运营。\nThe teacher was authorized to administer standardized tests to students in her class.\n老师被授权对她的学生进行标准化测试。"
+    "example": "The nurse will administer the medication according to doctor instructions.\n护士将根据医生指示给药。\nThe manager administers the daily operations of the entire department.\n经理管理整个部门的日常运营。"
   },
   {
     "id": "word_121",
@@ -2560,7 +2560,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
     "frequency": "高频",
-    "example": "The administration of the university announced new policies for the upcoming academic year.\n大学管理层宣布了新学年的新政策。\nEffective administration of public resources is essential for governmental accountability.\n有效管理公共资源对政府问责制至关重要。"
+    "example": "The new administration implemented significant policy changes immediately.\n新政府立即实施了重大政策变革。\nEffective administration requires strong leadership and organizational skills.\n有效管理需要强大的领导力和组织能力。"
   },
   {
     "id": "word_122",
@@ -2581,7 +2581,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪnɪstrətɪv/",
     "frequency": "高频",
-    "example": "She handles all administrative tasks in the office, including filing and scheduling.\n她在办公室处理所有行政任务，包括归档和日程安排。\nThe administrative building houses various departments that support school operations.\n行政大楼容纳了支持学校运营的各个部门。"
+    "example": "The administrative staff handles paperwork and scheduling efficiently.\n行政人员高效处理文书工作和日程安排。\nAdministrative costs have increased significantly over the past year.\n行政成本在过去一年显著增加。"
   },
   {
     "id": "word_123",
@@ -2602,7 +2602,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædmərəl/",
     "frequency": "中频",
-    "example": "The retired admiral gave a speech about naval history at the maritime museum.\n退休海军上将在海事博物馆发表了关于海军历史的演讲。\nAdmiral Nelson is celebrated for his leadership in the Battle of Trafalgar.\n纳尔逊上将因在特拉法加海战中的领导而受到颂扬。"
+    "example": "The admiral commanded the naval fleet during critical military operations.\n海军上将指挥海军舰队进行关键军事行动。\nThe admiral received prestigious awards for his outstanding service.\n海军上将因其杰出服务获得了崇高奖项。"
   },
   {
     "id": "word_124",
@@ -2623,7 +2623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmaɪə/",
     "frequency": "中频",
-    "example": "Visitors to the museum stop to admire the magnificent ancient Egyptian artifacts.\n博物馆的游客停下来欣赏古埃及文物的壮丽。\nI really admire your courage in speaking up about the important social issues.\n我非常钦佩你敢于说出重要的社会问题。"
+    "example": "Many people admire her dedication to helping disadvantaged communities.\n许多人钦佩她致力于帮助弱势社区的奉献精神。\nWe admire the beautiful architecture of ancient historical buildings.\n我们钦佩古代历史建筑的美丽建筑风格。"
   },
   {
     "id": "word_125",
@@ -2644,7 +2644,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪʃn/",
     "frequency": "低频",
-    "example": "University admission requires students to submit standardized test scores and transcripts.\n大学入学要求学生提交标准化考试分数和成绩单。\nThe museum charges a small admission fee for visitors to view the permanent collection.\n博物馆对参观永久收藏的游客收取少量入场费。"
+    "example": "University admission requires excellent academic records and personal achievements.\n大学入学需要优秀的学术记录和个人成就。\nThe museum offers free admission to children under twelve years old.\n博物馆为十二岁以下儿童提供免费入场。"
   },
   {
     "id": "word_126",
@@ -2665,7 +2665,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪt/",
     "frequency": "高频",
-    "example": "The student decided to admit her mistake and apologized to the entire class.\n学生决定承认错误并向全班道歉。\nThe stadium can admit up to fifty thousand spectators for major sporting events.\n这个体育场可容纳多达五万名观众观看大型体育赛事。"
+    "example": "The suspect finally admitted his involvement in the criminal activity.\n嫌疑人最终承认参与了犯罪活动。\nThe university admitted thousands of new students this academic year.\n大学本学年录取了数千名新生。"
   },
   {
     "id": "word_127",
@@ -2686,7 +2686,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɒnɪʃ/",
     "frequency": "低频",
-    "example": "The teacher had to admonish the students for talking loudly during the exam.\n老师不得不警告学生在考试期间大声说话。\nThe government official was admonished for making inappropriate public statements.\n政府官员因发表不当公开声明而受到警告。"
+    "example": "The teacher admonished students for not completing their homework assignments.\n老师告诫学生未完成家庭作业。\nParents should admonish children gently rather than harshly punishing them.\n父母应该温和地告诫孩子而不是严厉惩罚。"
   },
   {
     "id": "word_128",
@@ -2707,7 +2707,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdəʊbi/",
     "frequency": "高频",
-    "example": "Traditional adobe houses in the southwestern United States are built with mud bricks.\n美国西南部的传统土坯房是用泥砖建造的。\nThe artist used adobe Photoshop software to create stunning digital artwork.\n艺术家使用Adobe Photoshop软件创作令人惊叹的数字艺术作品。"
+    "example": "Traditional adobe houses provide excellent insulation in desert climates.\n传统土坯房在沙漠气候中提供极佳隔热。\nThe artist sculpted beautiful figures using natural adobe clay.\n艺术家用天然土坯粘土雕刻了美丽的形象。"
   },
   {
     "id": "word_129",
@@ -2728,7 +2728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædəˈlesnt/",
     "frequency": "中频",
-    "example": "Adolescent children often struggle with issues of identity and self-esteem.\n青少年儿童经常与身份认同和自尊问题作斗争。\nThe adolescent years are a critical period for developing social and emotional skills.\n青少年时期是发展社交和情感技能的关键时期。"
+    "example": "Adolescent behavior can be challenging for parents and teachers.\n青少年行为对父母和老师来说可能具有挑战性。\nThe adolescent period represents crucial developmental stages in human growth.\n青少年时期代表人类成长的关键发展阶段。"
   },
   {
     "id": "word_130",
@@ -2749,7 +2749,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɒpt/",
     "frequency": "高频",
-    "example": "Many childless couples choose to adopt orphans from developing countries worldwide.\n许多无子女夫妇选择从世界各地的发展中国家收养孤儿。\nThe city council decided to adopt a new urban planning policy for the downtown area.\n市议会决定在市中心区域采用新的城市规划政策。"
+    "example": "The family decided to adopt a child from overseas orphanage.\n这个家庭决定从海外孤儿院领养一个孩子。\nCompanies adopt new technologies to improve operational efficiency.\n公司采用新技术以提高运营效率。"
   },
   {
     "id": "word_131",
@@ -2770,7 +2770,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɒpʃn/",
     "frequency": "高频",
-    "example": "The adoption of renewable energy technologies is crucial for combating climate change.\n采用可再生能源技术对应对气候变化至关重要。\nThe adoption process for international children can take several years to complete.\n国际儿童的收养过程可能需要数年才能完成。"
+    "example": "The adoption process involves extensive legal procedures and documentation.\n领养过程涉及广泛的法律程序和文件。\nTechnology adoption rates vary significantly across different industries.\n技术采用率在不同行业间差异显著。"
   },
   {
     "id": "word_132",
@@ -2791,7 +2791,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædəˈreɪʃn/",
     "frequency": "高频",
-    "example": "She looked at him with adoration.\n她崇拜地看着他。"
+    "example": "The fans showed adoration for their favorite singer at the concert.\n粉丝在音乐会上对喜爱的歌手表现出崇拜。\nHer adoration for classical music inspired her artistic career.\n她对古典音乐的崇拜激发了她的艺术生涯。"
   },
   {
     "id": "word_133",
@@ -2812,7 +2812,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɔːn/",
     "frequency": "中频",
-    "example": "Fresh flowers and ribbons adorn the wedding venue creating a romantic atmosphere.\n鲜花和丝带装饰着婚礼场地，营造浪漫的氛围。\nGold and silver jewelry can adorn any outfit to make it look more elegant.\n金银珠宝可以装饰任何服装，使其看起来更优雅。"
+    "example": "The bride adorned her hair with beautiful flowers for the wedding.\n新娘为婚礼在头发上装饰了美丽的花朵。\nChristmas trees are adorned with colorful ornaments and lights.\n圣诞树装饰着彩色装饰品和灯光。"
   },
   {
     "id": "word_134",
@@ -2833,7 +2833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdriːnl/",
     "frequency": "低频",
-    "example": "Adrenal glands secrete hormones.\n肾上腺分泌激素。"
+    "example": "Adrenal glands produce hormones essential for stress response.\n肾上腺产生应激反应必需的激素。\nThe adrenal system regulates various metabolic processes in the body.\n肾上腺系统调节体内各种代谢过程。"
   },
   {
     "id": "word_135",
@@ -2854,7 +2854,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdrɪft/",
     "frequency": "高频",
-    "example": "The boat was adrift in the ocean.\n船在海洋中漂流。"
+    "example": "The small boat went adrift after the engine failed completely.\n小船在引擎完全故障后漂流。\nWithout clear goals, many people feel adrift in their careers.\n没有明确目标，许多人在职业生涯中感到迷茫。"
   },
   {
     "id": "word_136",
@@ -2875,7 +2875,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdrɔɪt/",
     "frequency": "中频",
-    "example": "He is adroit at solving problems.\n他善于解决问题。"
+    "example": "The adroit negotiator successfully resolved the complex business dispute.\n这位熟练的谈判者成功解决了复杂的商业纠纷。\nShe is adroit at managing multiple projects simultaneously effectively.\n她擅长同时有效管理多个项目。"
   },
   {
     "id": "word_137",
@@ -2896,7 +2896,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈsɔːb/",
     "frequency": "低频",
-    "example": "Charcoal can adsorb impurities.\n木炭可以吸附杂质。"
+    "example": "Activated charcoal can adsorb harmful chemicals from water effectively.\n活性炭可以有效吸附水中有害化学物质。\nThe material adsorbs gases during industrial processing procedures.\n该材料在工业加工过程中吸附气体。"
   },
   {
     "id": "word_138",
@@ -2917,7 +2917,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædʒʊˈleɪʃn/",
     "frequency": "中频",
-    "example": "He enjoyed the adulation of his fans.\n他喜欢粉丝们的追捧。"
+    "example": "The celebrity received excessive adulation from enthusiastic fans everywhere.\n这位名人到处受到热情粉丝的过度吹捧。\nConstant adulation can negatively affect a person character development.\n持续的吹捧会对一个人的性格发展产生负面影响。"
   },
   {
     "id": "word_139",
@@ -2938,7 +2938,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʌlt/",
     "frequency": "高频",
-    "example": "He is now an adult.\n他现在是成年人了。"
+    "example": "Adult responsibilities require maturity and responsible decision-making skills.\n成年人的责任需要成熟和负责任的决策能力。\nThe adult population constitutes the majority of workforce in society.\n成年人口构成了社会劳动力的主体。"
   },
   {
     "id": "word_140",
@@ -2959,7 +2959,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʌmbreɪt/",
     "frequency": "低频",
-    "example": "The report adumbrates future plans.\n报告概述了未来计划。"
+    "example": "The professor adumbrated the main points of his upcoming lecture.\n教授概述了他即将进行的讲座要点。\nEarly symptoms often adumbrate serious health conditions developing.\n早期症状往往预示着严重健康状况的发展。"
   },
   {
     "id": "word_141",
