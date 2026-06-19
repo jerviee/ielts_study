@@ -2980,7 +2980,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːns/",
     "frequency": "高频",
-    "example": "We need to advance our plans.\n我们需要推进我们的计划。"
+    "example": "The army made significant advances in the battle after deploying new strategies.\n军队在部署新战略后，在战斗中取得了重大进展。\nScientific advances in medicine have helped extend the average human lifespan considerably.\n医学上的科学进步有助于大大延长人类的平均寿命。"
   },
   {
     "id": "word_142",
@@ -3001,7 +3001,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːnst/",
     "frequency": "高频",
-    "example": "She has advanced knowledge of physics.\n她有高深的物理学知识。"
+    "example": "The university offers advanced courses for students who have completed the basics.\n该大学为已完成基础课程的学生提供高级课程。\nAdvanced technology has revolutionized the way we communicate and access information.\n先进技术彻底改变了我们交流和获取信息的方式。"
   },
   {
     "id": "word_143",
@@ -3022,7 +3022,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːntɪdʒ/",
     "frequency": "高频",
-    "example": "This gives us a competitive advantage.\n这给了我们竞争优势。"
+    "example": "Living in the city offers many advantages including better job opportunities and healthcare.\n住在城市有很多优势，包括更好的工作机会和医疗保健。\nUnderstanding multiple languages gives you a significant advantage in the global job market.\n懂多种语言在全球就业市场上给你带来显著优势。"
   },
   {
     "id": "word_144",
@@ -3043,7 +3043,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvent/",
     "frequency": "高频",
-    "example": "The advent of the internet changed everything.\n互联网的出现改变了一切。"
+    "example": "The advent of the internet has transformed nearly every aspect of modern life.\n互联网的出现改变了现代生活的几乎所有方面。\nWith the advent of smartphones people can now work from anywhere at any time.\n随着智能手机的出现，人们现在可以随时随地工作。"
   },
   {
     "id": "word_145",
@@ -3064,7 +3064,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈventʃə/",
     "frequency": "中频",
-    "example": "He went on a great adventure.\n他进行了一次伟大的冒险。"
+    "example": "The children embarked on an exciting adventure exploring the mysterious forest.\n孩子们踏上了探索神秘森林的激动人心的冒险之旅。\nTraveling solo across different countries was the most memorable adventure of her life.\n独自穿越不同国家旅行是她一生中最难忘的冒险。"
   },
   {
     "id": "word_146",
@@ -3085,7 +3085,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɜːbiəl/",
     "frequency": "低频",
-    "example": "This is an adverbial phrase.\n这是一个状语短语。"
+    "example": "Understanding adverbial phrases can help improve your writing and comprehension skills.\n理解副词短语有助于提高你的写作和理解能力。\nThe teacher explained how adverbial clauses function to modify the main verb in sentences.\n老师解释了状语从句如何在句子中修饰主要动词。"
   },
   {
     "id": "word_147",
@@ -3106,7 +3106,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvəsəri/",
     "frequency": "高频",
-    "example": "He defeated his adversary in the final.\n他在决赛中击败了对手。"
+    "example": "The political adversary challenged the current policies during the debate.\n这位政治对手在辩论中挑战了现行政策。\nDespite facing a formidable adversary the team managed to secure a victory.\n尽管面对强大的对手，团队还是成功赢得了胜利。"
   },
   {
     "id": "word_148",
@@ -3127,7 +3127,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvɜːs/",
     "frequency": "高频",
-    "example": "The decision had adverse effects.\n这个决定产生了不利影响。"
+    "example": "Adverse weather conditions forced the cancellation of the outdoor event.\n恶劣的天气条件迫使户外活动取消。\nThe medication may cause adverse side effects in some patients.\n这种药物可能会对一些患者产生不良副作用。"
   },
   {
     "id": "word_149",
@@ -3148,7 +3148,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvətaɪz/",
     "frequency": "高频",
-    "example": "We need to advertise our products.\n我们需要为我们的产品做广告。"
+    "example": "Companies often advertise their products on social media platforms to reach more customers.\n公司经常在社交媒体平台上做广告，以接触更多客户。\nThe school will advertise the new program to attract more students next semester.\n学校将为下学期的新项目做广告以吸引更多学生。"
   },
   {
     "id": "word_150",
@@ -3169,7 +3169,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɜːtɪsmənt/",
     "frequency": "高频",
-    "example": "I saw an advertisement for this product.\n我看到了这个产品的广告。"
+    "example": "The advertisement on television promoted the new smartphone with impressive features.\n电视上的广告宣传了这款具有令人印象深刻功能的新智能手机。\nReading advertisement carefully can help you make informed purchasing decisions.\n仔细阅读广告可以帮助你做出明智的购买决定。"
   },
   {
     "id": "word_151",
@@ -3190,7 +3190,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvətaɪzɪŋ/",
     "frequency": "高频",
-    "example": "She works in advertising.\n她从事广告工作。"
+    "example": "Effective advertising campaigns can significantly boost a companys sales revenue.\n有效的广告活动可以显著提高公司的销售收入。\nThe advertising industry is constantly evolving with new digital platforms and strategies.\n广告行业随着新的数字平台和策略不断发展。"
   },
   {
     "id": "word_152",
@@ -3211,7 +3211,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪs/",
     "frequency": "高频",
-    "example": "Can you give me some advice?\n你能给我一些建议吗？"
+    "example": "Following her advice helped me make a much better decision about my career path.\n听从她的建议帮助我对职业道路做出了更好的决定。\nI would appreciate your advice on how to improve my public speaking skills.\n我将感谢您对我如何提高演讲技巧的建议。"
   },
   {
     "id": "word_153",
@@ -3232,7 +3232,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪz/",
     "frequency": "高频",
-    "example": "I advise you to be careful.\n我建议你小心。"
+    "example": "I strongly advise you to seek professional help before making any financial decisions.\n我强烈建议你在做任何财务决定之前寻求专业帮助。\nThe doctor will advise the patient on the best treatment options available.\n医生将为患者提供有关最佳治疗方案的建议。"
   },
   {
     "id": "word_154",
@@ -3253,7 +3253,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪzə/",
     "frequency": "高频",
-    "example": "She is a financial adviser.\n她是一名财务顾问。"
+    "example": "The experienced financial adviser helped the family plan for a secure retirement.\n经验丰富的财务顾问帮助这家人规划安全的退休生活。\nHaving a trusted adviser can make a significant difference in your business success.\n有一个值得信赖的顾问可以对您的商业成功产生重大影响。"
   },
   {
     "id": "word_155",
@@ -3274,7 +3274,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvəkeɪt/",
     "frequency": "中频",
-    "example": "He advocates for environmental protection.\n他倡导环境保护。"
+    "example": "She has dedicated her life to being an advocate for environmental protection and sustainability.\n她毕生致力于倡导环境保护和可持续发展。\nHuman rights advocates work tirelessly to ensure justice for marginalized communities worldwide.\n人权倡导者不懈努力，确保全世界边缘化社区的正义。"
   },
   {
     "id": "word_156",
