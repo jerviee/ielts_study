@@ -30148,7 +30148,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bub/",
     "frequency": "高频",
-    "example": "The little bub ran excitedly toward his mother at the playground.\n小家伙兴奋地跑向操场上的妈妈。\nMy brother calls his best friend bub whenever they meet after work.\n我哥哥下班后见到最好的朋友时总是叫他兄弟。"
+    "example": "The little boy affectionately called his younger brother bub as a warm term of endearment among family members.\n小男孩亲昵地称呼他的弟弟为bub，作为家庭成员之间温暖的爱称。\nIn many informal social contexts bub is commonly used as a friendly way to address someone casually.\n在许多非正式社交场合bub通常被用作友好地随意称呼某人的方式。"
   },
   {
     "id": "word_1546",
@@ -30163,7 +30163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bubble/",
     "frequency": "低频",
-    "example": "The children blew colorful soap bubbles in the warm summer breeze.\n孩子们在温暖的夏日微风中吹出五颜六色的肥皂泡。\nThe economic bubble eventually burst causing widespread financial problems.\n经济泡沫最终破裂，导致广泛的财务问题。"
+    "example": "Children love to blow colorful bubbles and watch them float gently through the warm summer air.\n孩子们喜欢吹彩色泡泡，看着它们轻轻地漂浮在温暖的夏日空气中。\nThe boiling water created countless tiny bubbles that steadily rose to the surface of the cooking pot.\n沸水产生了无数微小的气泡，稳定地升到烹饪锅的表面。"
   },
   {
     "id": "word_1547",
@@ -30178,7 +30178,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buccaneer/",
     "frequency": "低频",
-    "example": "The buccaneer sailed across the Caribbean Sea searching for hidden treasure.\n海盗航行穿越加勒比海寻找隐藏的宝藏。\nStories about the famous buccaneer have been told for many generations.\n关于这位著名海盗的故事已经流传了很多代。"
+    "example": "The fearsome buccaneer sailed the Caribbean Sea in search of hidden treasure and thrilling adventure.\n可怕的海盗在加勒比海航行，寻找隐藏的宝藏和激动人心的冒险。\nHistorians extensively study buccaneer activities to understand the complex history of piracy in that region.\n历史学家广泛研究海盗活动，以了解该地区复杂的海盗历史。"
   },
   {
     "id": "word_1548",
@@ -30193,7 +30193,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buck/",
     "frequency": "高频",
-    "example": "The young buck stood majestically in the middle of the forest clearing.\n年轻的雄鹿威严地站在森林空地的中央。\nHe tried to buck the system by proposing innovative solutions to problems.\n他试图通过提出创新的问题解决方案来反抗体制。"
+    "example": "The large buck stood majestically in the sun-dappled forest clearing with impressive branching antlers.\n大公鹿带着令人印象深刻的分叉鹿角，威严地站在阳光斑驳的森林空地上。\nThe spirited horse suddenly bucked when it heard a loud and unexpected noise in the distance.\n那匹活泼的马听到远处一声意外的巨响时突然弓背跃起。"
   },
   {
     "id": "word_1549",
@@ -30208,7 +30208,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buckbean/",
     "frequency": "中频",
-    "example": "The buckbean grows abundantly near the edges of the quiet marshland.\n睡菜在安静的沼泽地边缘大量生长。\nHerbalists have used buckbean for centuries to treat various ailments.\n草药师使用睡菜治疗各种疾病已有几个世纪。"
+    "example": "The buckbean plant typically grows in marshy wetland areas and has long been valued for medicinal properties.\n睡菜植物通常生长在沼泽湿地地区，长期以来因其药用特性而受到重视。\nBotanists carefully study buckbean to understand its unique ecological role within wetland ecosystems.\n植物学家仔细研究睡菜，以了解其在湿地生态系统中的独特生态作用。"
   },
   {
     "id": "word_1550",
@@ -30223,7 +30223,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʌkɪt/",
     "frequency": "高频",
-    "example": "She carried a heavy bucket of water from the well to the garden.\n她从井里提着一桶重水到花园。\nThe company received a bucket of applications for the new position.\n公司收到了大量新职位的申请。"
+    "example": "She carefully filled the metal bucket with fresh water from the old stone well to water her garden.\n她小心地从古老的石井中装满一桶淡水来浇灌她的花园。\nThe excited child carried a small plastic bucket to collect beautiful seashells on the sandy beach.\n兴奋的孩子提着一个小塑料桶在沙滩上收集漂亮的贝壳。"
   },
   {
     "id": "word_1551",
@@ -30238,7 +30238,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buckle/",
     "frequency": "高频",
-    "example": "Please buckle your seatbelt before the airplane takes off from the runway.\n飞机从跑道起飞前请系好安全带。\nThe old leather belt began to buckle under the heavy weight of tools.\n旧的皮带开始在工具的重压下弯曲变形。"
+    "example": "He struggled for several minutes to buckle the tight leather belt securely around his waist.\n他挣扎了几分钟才把紧绷的皮带牢固地扣在腰上。\nThe ornate metal buckle on her favorite purse broke when she dropped it on the hard floor.\n她不小心把最喜欢的钱包掉在坚硬的地板上，上面华丽的金属扣坏了。"
   },
   {
     "id": "word_1552",
@@ -30253,7 +30253,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bud/",
     "frequency": "中频",
-    "example": "The tiny bud slowly opened into a beautiful rose in the spring.\n小小的花蕾在春天慢慢开放成美丽的玫瑰。\nMy best friend has been my bud since we started elementary school together.\n我最好的朋友从我们一起上小学起就是我的哥们。"
+    "example": "The rose bush produced dozens of beautiful buds that would soon bloom into vibrant flowers.\n玫瑰丛长出了几十个美丽的花蕾，很快就会绽放成鲜艳的花朵。\nAfter the long and harsh winter, bare trees began to bud and show hopeful signs of new life.\n漫长而严酷的冬天过后，光秃秃的树木开始发芽，显示出充满希望的新生命迹象。"
   },
   {
     "id": "word_1553",
@@ -30268,7 +30268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/budge/",
     "frequency": "低频",
-    "example": "The stubborn mule refused to budge an inch despite all our efforts.\n顽固的骡子尽管我们尽了所有努力还是拒绝移动一寸。\nShe managed to budge the heavy refrigerator with great difficulty.\n她费了很大劲才把沉重的冰箱移动了一点。"
+    "example": "Despite pushing with all his might he simply could not budge the massive boulder blocking the path.\n尽管用尽全力推，他还是无法移动那块挡住道路的巨大 Boulder。\nThe stubborn child firmly refused to budge from his comfortable position on the living room couch.\n那个固执的孩子坚决拒绝从客厅沙发上他舒适的位置移动。"
   },
   {
     "id": "word_1554",
@@ -30283,7 +30283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/budget/",
     "frequency": "中频",
-    "example": "The family carefully planned their monthly budget to save for vacation.\n这家人仔细规划每月预算以便为度假存钱。\nThe government announced a new budget for education and healthcare programs.\n政府宣布了教育和医疗保健项目的新预算。"
+    "example": "The government recently announced a comprehensive new budget including increased funding for public education.\n政府最近宣布了一项全面的新预算，其中包括增加公共教育经费。\nCreating a detailed personal budget helps individuals manage their finances more effectively and responsibly.\n制定详细的个人预算有助于个人更有效、更负责任地管理财务。"
   },
   {
     "id": "word_1555",
@@ -30298,7 +30298,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buff/",
     "frequency": "中频",
-    "example": "He spends hours at the gym to maintain his impressive muscular buff physique.\n他在健身房花几个小时保持令人印象深刻的健美体格。\nShe is a history buff who loves visiting museums and historical sites.\n她是一个历史爱好者，喜欢参观博物馆和历史遗迹。"
+    "example": "The skilled chef used a special polishing cloth to buff the copper pots until they shone brilliantly.\n熟练的厨师用一块特殊的抛光布把铜锅擦得闪闪发光。\nHe spent several hours carefully buffing the car surface to remove scratches and restore its original shine.\n他花了几个小时仔细抛光汽车表面，去除划痕并恢复其原有光泽。"
   },
   {
     "id": "word_1556",
@@ -30313,7 +30313,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buffalo/",
     "frequency": "低频",
-    "example": "A large herd of buffalo grazed peacefully on the open grassland.\n一大群水牛在开阔的草原上安静地吃草。\nThe city of Buffalo is known for its heavy snowfall during winter months.\n布法罗市以其冬季的大雪而闻名。"
+    "example": "The massive buffalo grazed peacefully on the sun-warmed grassy plains of the African savanna.\n巨大的水牛在非洲大草原阳光温暖的草地上平静地吃草。\nNative American tribes historically relied heavily on buffalo for food clothing and shelter materials.\n历史上，美洲原住民部落严重依赖水牛获取食物、衣物和住所材料。"
   },
   {
     "id": "word_1557",
@@ -30328,7 +30328,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buffer/",
     "frequency": "高频",
-    "example": "The trees serve as a natural buffer between the road and residential area.\n树木作为道路和住宅区之间的天然缓冲带。\nShe used a buffer solution to maintain stable pH levels in the experiment.\n她使用缓冲溶液在实验中保持稳定的pH值。"
+    "example": "The established buffer zone between the two neighboring countries helped maintain peaceful diplomatic relations.\n两个邻国之间建立的缓冲区有助于维持和平的外交关系。\nComputer scientists commonly use buffer memory to temporarily store data during processing operations.\n计算机科学家通常使用缓冲内存在处理操作期间临时存储数据。"
   },
   {
     "id": "word_1558",
@@ -30343,7 +30343,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buffet/",
     "frequency": "中频",
-    "example": "The hotel offers an extensive breakfast buffet with many delicious options.\n酒店提供丰盛的自助早餐，有很多美味的选择。\nThe strong winds began to buffet the small boat on the rough sea.\n强风开始在波涛汹涌的海上猛烈地拍打小船。"
+    "example": "The luxurious hotel offered an extensive buffet with a wide variety of international dishes.\n这家豪华酒店提供了一份丰盛的自助餐，有各种各样的国际菜肴。\nThe strong and gusty wind buffeted the small fishing boat as it sailed across the rough sea.\n强劲的阵风不断冲击着那艘在波涛汹涌的海上航行的小渔船。"
   },
   {
     "id": "word_1559",
@@ -30358,7 +30358,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bug/",
     "frequency": "高频",
-    "example": "There was a tiny bug crawling across the kitchen counter this morning.\n今天早上有一只小虫子在厨房台面上爬行。\nThe software developers worked hard to fix the bug in the application.\n软件开发人员努力修复应用程序中的错误。"
+    "example": "She found a tiny green bug crawling slowly across the clean kitchen countertop.\n她发现一只小小的绿色虫子在干净的厨房台面上慢慢爬行。\nThe dedicated software developer spent many hours fixing a persistent bug in the complex computer program.\n敬业的软件开发人员花了很多小时修复复杂计算机程序中的一个顽固漏洞。"
   },
   {
     "id": "word_1560",
@@ -30373,7 +30373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bugbane/",
     "frequency": "高频",
-    "example": "The bugbane plant produces tall spikes of white flowers in late summer.\n升麻植物在夏末开出高大的白色花穗。\nGardeners plant bugbane to naturally repel insects from their vegetable gardens.\n园丁种植升麻以自然驱赶菜园里的昆虫。"
+    "example": "The bugbane plant produces clusters of beautiful white flowers during the summer months.\n虹膜植物在夏季开出一簇簇美丽的白色花朵。\nGardeners often cultivate bugbane for its attractive foliage and pleasantly fragrant blooms.\n园丁们经常种植虹膜，因为它有吸引人的叶子和芳香宜人的花朵。"
   },
   {
     "id": "word_1561",
@@ -30388,7 +30388,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buggy/",
     "frequency": "中频",
-    "example": "The mother pushed her baby in a buggy through the crowded shopping mall.\n妈妈推着婴儿车穿过拥挤的购物中心。\nThe old computer program is quite buggy and crashes frequently.\n旧的计算机程序有很多错误，经常崩溃。"
+    "example": "The elegant old-fashioned buggy was pulled by two strong horses through the countryside.\n那辆优雅的老式马车由两匹强壮的马拉着穿过乡村。\nThe new software program was surprisingly buggy and crashed every time we attempted to use it.\n新软件程序漏洞百出，每次我们尝试使用它都会崩溃。"
   },
   {
     "id": "word_1562",
@@ -30403,7 +30403,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bughouse/",
     "frequency": "低频",
-    "example": "The bughouse chess tournament attracted players from around the world.\n双人国际象棋比赛吸引了来自世界各地的选手。\nHe went bughouse trying to solve the complex mathematical problem.\n他为了解决复杂的数学问题而变得疯狂。"
+    "example": "In the past individuals with mental illnesses were often sent to the local bughouse for treatment.\n过去，患有精神疾病的人经常被送到当地的精神病院接受治疗。\nThe outdated term bughouse is now considered insensitive in modern medical terminology.\n过时的术语bughouse在现代医学术语中被认为是不敏感的。"
   },
   {
     "id": "word_1563",
@@ -30418,7 +30418,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bugle/",
     "frequency": "高频",
-    "example": "The soldier played the bugle to signal the start of the military ceremony.\n士兵吹响军号，标志着军事仪式的开始。\nThe bugle sounded across the camp waking all the sleeping soldiers.\n军号声响彻营地，唤醒了所有沉睡的士兵。"
+    "example": "The soldier skillfully played a bugle call to signal the official start of the morning parade.\n士兵熟练地吹响号角，发出早晨阅兵正式开始的信号。\nThe clear sound of the bugle echoed across the peaceful valley announcing the arrival of the cavalry.\n号角清脆的声音在宁静的山谷中回荡，宣告骑兵的到来。"
   },
   {
     "id": "word_1564",
@@ -30433,7 +30433,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪld/",
     "frequency": "高频",
-    "example": "The construction team worked together to build a new bridge over the river.\n建筑团队共同努力在河上建造一座新桥。\nRegular exercise helps build strong muscles and improve overall health.\n定期锻炼有助于增强肌肉和改善整体健康。"
+    "example": "Talented architects and skilled engineers work collaboratively to build structures that are both functional and aesthetically beautiful.\n才华横溢的建筑师和熟练的工程师共同努力建造既实用又美观的建筑。\nOver time consistent small investments can build into substantial savings for future needs.\n随着时间的推移，持续的小额投资可以累积成满足未来需求的大量储蓄。"
   },
   {
     "id": "word_1565",
@@ -30448,7 +30448,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buildup/",
     "frequency": "高频",
-    "example": "There was a gradual build-up of tension before the final exam results.\n期末考试成绩公布前紧张气氛逐渐积累。\nThe military build-up in the region raised concerns among neighboring countries.\n该地区的军事集结引起了邻国的担忧。"
+    "example": "The gradual build-up of tension between the two countries eventually led to open conflict.\n两国之间紧张局势的逐渐加剧最终导致了公开冲突。\nThere has been a steady build-up of traffic on the highway during the morning rush hour.\n高峰时段高速公路上的交通一直在稳步增加。"
   },
   {
     "id": "word_1566",
@@ -30463,7 +30463,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɪldɪŋ/",
     "frequency": "高频",
-    "example": "The new office building will be completed by the end of next year.\n新办公楼将在明年年底前完工。\nBuilding strong relationships requires trust and effective communication skills.\n建立牢固的关系需要信任和有效的沟通技巧。"
+    "example": "The construction workers spent several months building the new office building downtown.\n建筑工人花了几个月的时间在市中心建造新办公楼。\nThe historic building has been standing in the city center for over a hundred years.\n这座历史建筑已经在市中心矗立了一百多年。"
   },
   {
     "id": "word_1567",
@@ -30478,7 +30478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʌlb/",
     "frequency": "中频",
-    "example": "Please replace the light bulb in the hallway because it has stopped working.\n请更换走廊里的灯泡，因为它已经坏了。\nThe tulip bulb needs to be planted in autumn for spring flowering.\n郁金香球茎需要在秋天种植以便春天开花。"
+    "example": "She planted flower bulbs in the garden that would bloom beautifully in the spring.\n她在花园里种了花球茎，春天会开出美丽的花朵。\nThe old light bulb flickered several times and then went out leaving the room dark.\n旧灯泡闪烁了几下然后熄灭了，房间陷入黑暗。"
   },
   {
     "id": "word_1568",
@@ -30493,7 +30493,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulbous/",
     "frequency": "中频",
-    "example": "The bulbous nose of the old man was quite prominent on his weathered face.\n老人球状的鼻子在他饱经风霜的脸上非常突出。\nThe plant has bulbous roots that store water during dry periods.\n这种植物有球状的根，在干旱时期储存水分。"
+    "example": "The plant had bulbous roots that stored water for long dry periods.\n这种植物有球状的根，可以在漫长的干旱时期储存水分。\nHis bulbous nose made him look distinctive and easily recognizable in a crowd.\n他那球状的鼻子使他在人群中看起来与众不同且容易辨认。"
   },
   {
     "id": "word_1569",
@@ -30508,7 +30508,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulge/",
     "frequency": "低频",
-    "example": "The wallet created a noticeable bulge in his back pocket of the jeans.\n钱包在他的牛仔裤后口袋里形成了明显的凸起。\nThe population bulge in the city has led to increased demand for housing.\n城市人口的增长导致住房需求增加。"
+    "example": "The bag had a noticeable bulge where he had hidden the large book inside.\n袋子有一个明显的凸起，他把那本大书藏在了里面。\nHer eyes bulged with surprise when she saw the amazing view from the mountain top.\n当她看到山顶令人惊叹的景色时，她的眼睛惊讶地睁大了。"
   },
   {
     "id": "word_1570",
@@ -30523,7 +30523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʌlk/",
     "frequency": "中频",
-    "example": "We purchased rice and flour in bulk to save money on groceries.\n我们批量购买大米和面粉以节省食品杂货费用。\nThe bulk of the work was completed by the dedicated team members.\n大部分工作是由敬业的团队成员完成的。"
+    "example": "The bulk of the work was completed before the strict deadline arrived.\n大部分工作在严格的截止日期到来之前完成了。\nShipping costs are often significantly lower when you buy items in bulk quantities.\n批量购买商品时，运费通常会大大降低。"
   },
   {
     "id": "word_1571",
@@ -30538,7 +30538,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulky/",
     "frequency": "中频",
-    "example": "The bulky package was difficult to carry up the narrow staircase.\n这个庞大的包裹很难搬上狭窄的楼梯。\nWinter coats can be quite bulky and take up a lot of closet space.\n冬天的外套可能很笨重，占用很多衣柜空间。"
+    "example": "The bulky suitcase was extremely difficult to carry up the narrow stairs.\n那个笨重的手提箱很难搬上狭窄的楼梯。\nHe had to make multiple trips because the large furniture was too bulky to move in one go.\n他不得不跑好几趟，因为大型家具太笨重了，一次搬不动。"
   },
   {
     "id": "word_1572",
@@ -30553,7 +30553,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bull/",
     "frequency": "低频",
-    "example": "The angry bull charged at the red cape held by the matador.\n愤怒的公牛冲向斗牛士手中的红色斗篷。\nThe stock market experienced a strong bull run last quarter.\n股市上个季度经历了强劲的牛市行情。"
+    "example": "The angry bull charged aggressively at the matador in the crowded arena.\n愤怒的公牛向拥挤竞技场上的斗牛士猛烈冲去。\nInvestors are feeling optimistic about the stock market and expect a bull market to continue.\n投资者对股市持乐观态度，预计牛市将继续。"
   },
   {
     "id": "word_1573",
@@ -30568,7 +30568,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullace/",
     "frequency": "高频",
-    "example": "The wild bullace plums grow abundantly in the hedgerows of the countryside.\n野生布拉斯李在乡村的灌木篱墙中大量生长。\nShe made delicious jam from the bullace she picked in the forest.\n她用在森林里采摘的布拉斯李制作了美味的果酱。"
+    "example": "The bullace tree produced small tart fruits that were popular for making jam.\n野李子树结出小而酸的果实，很适合做果酱。\nIn some European regions bullace is used to make traditional desserts and preserves.\n在一些欧洲地区，野李子被用来制作传统甜点和蜜饯。"
   },
   {
     "id": "word_1574",
@@ -30583,7 +30583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulldog/",
     "frequency": "中频",
-    "example": "The friendly bulldog greeted visitors with a wagging tail at the door.\n友好的斗牛犬在门口摇着尾巴迎接访客。\nThe bulldog spirit of the team helped them overcome many challenges.\n团队的顽强精神帮助他们克服了许多挑战。"
+    "example": "The bulldog had a stocky build and a distinctive wrinkled face.\n斗牛犬身材矮壮，有着独特的皱纹脸。\nDespite their tough appearance bulldogs are known for gentle and loyal nature.\n尽管外表强悍，斗牛犬以其温和忠诚的天性而闻名。"
   },
   {
     "id": "word_1575",
@@ -30598,7 +30598,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʊlɪt/",
     "frequency": "中频",
-    "example": "The police officer wore a bulletproof vest for protection during the operation.\n警察在行动中穿着防弹背心以保护自己。\nThe news spread like a bullet through social media platforms.\n新闻像子弹一样通过社交媒体平台迅速传播。"
+    "example": "The bullet hit the target dead center during the intense shooting competition.\n在激烈的射击比赛中，子弹正中靶心。\nThe detective found a bullet casing at the crime scene that could help identify the shooter.\n侦探在犯罪现场发现了一个弹壳，可以帮助识别枪手。"
   },
   {
     "id": "word_1576",
@@ -30613,7 +30613,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulletin/",
     "frequency": "高频",
-    "example": "The school bulletin announced the upcoming spring festival activities.\n学校公告栏宣布了即将到来的春节活动。\nShe checked the weather bulletin before planning her outdoor activities.\n她在计划户外活动之前查看了天气公告。"
+    "example": "The school issued a bulletin informing parents about the upcoming parent-teacher conference.\n学校发布了一份公告，通知家长即将举行的家长会。\nThe bulletin board in the office displayed important announcements and recent updates.\n办公室的公告板上展示了重要的公告和最新更新。"
   },
   {
     "id": "word_1577",
@@ -30628,7 +30628,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullrush/",
     "frequency": "中频",
-    "example": "The children enjoyed playing hide and seek among the tall bullrush plants.\n孩子们喜欢在高大的芦苇丛中玩捉迷藏。\nThe bullrush provides important habitat for many wetland bird species.\n芦苇为许多湿地鸟类物种提供重要的栖息地。"
+    "example": "Tall bullrushes grew along the edge of the pond swaying gently in the breeze.\n高高的芦苇沿着池塘边缘生长，在微风中轻轻摇曳。\nThe artist used bullrush stems to create unique woven baskets and decorative mats.\n艺术家使用芦苇茎制作独特的编织篮和装饰垫。"
   },
   {
     "id": "word_1578",
@@ -30643,7 +30643,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullseye/",
     "frequency": "低频",
-    "example": "The archer hit the bullseye on her very first attempt at the competition.\n射箭运动员在比赛的第一次尝试中就击中了靶心。\nHis analysis of the problem was right on the bullseye and very accurate.\n他对问题的分析非常准确，正中要害。"
+    "example": "The archer aimed carefully and hit the bullseye with perfect precision.\n弓箭手仔细瞄准，精准地击中了靶心。\nFinding the exact location was like hitting a bullseye in the vast dense forest.\n在广阔茂密的森林中找到确切位置就像击中靶心一样。"
   },
   {
     "id": "word_1579",
@@ -30658,7 +30658,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullwhack/",
     "frequency": "高频",
-    "example": "The cowboy used his bullwhack to drive the cattle across the open range.\n牛仔用牛鞭驱赶牛群穿过开阔的牧场。\nThe sharp crack of the bullwhack echoed across the wide canyon.\n牛鞭的尖锐爆裂声在宽阔的峡谷中回荡。"
+    "example": "The cowboy used a bullwhip to control the cattle during the roundup.\n牛仔在围捕牛群时用牛鞭控制牛群。\nThe sound of the bullwhack cracking echoed loudly across the wide prairie.\n牛鞭抽打声在广阔的草原上响亮地回荡。"
   },
   {
     "id": "word_1580",
@@ -30673,7 +30673,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulwark/",
     "frequency": "中频",
-    "example": "The ancient castle walls served as a bulwark against enemy invasions.\n古老的城堡城墙作为抵御敌人入侵的堡垒。\nEducation is the best bulwark against ignorance and prejudice in society.\n教育是社会抵御无知和偏见的最佳堡垒。"
+    "example": "The ancient fortress served as a bulwark against invading armies.\n这座古老的堡垒是抵御入侵军队的屏障。\nStrong family values act as a bulwark against the pressures of modern society.\n强大的家庭价值观是抵御现代社会压力的堡垒。"
   },
   {
     "id": "word_1581",
@@ -30688,7 +30688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bumbag/",
     "frequency": "低频",
-    "example": "The tourist wore a bumbag to keep his passport and money secure.\n游客戴着腰包以安全地保管护照和钱财。\nShe packed all her essentials in the bumbag for the hiking trip.\n她把所有必需品都装在腰包里准备徒步旅行。"
+    "example": "She wore a bumbag around her waist to keep her phone and wallet safe.\n她腰间系着一个腰包，以保护手机和钱包的安全。\nTourists often use bumbags to carry essentials while exploring new cities.\n游客在探索新城市时经常使用腰包携带必需品。"
   },
   {
     "id": "word_1582",
@@ -30703,7 +30703,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bump/",
     "frequency": "中频",
-    "example": "Be careful not to bump your head on the low ceiling in the basement.\n小心不要在地下室的低矮天花板上撞到头。\nThe car hit a bump in the road and spilled the coffee everywhere.\n汽车撞到了路上的颠簸处，咖啡洒得到处都是。"
+    "example": "He felt a bump on his head after accidentally hitting it on the low ceiling.\n他不小心撞到低矮的天花板后，头上起了一个包。\nThe car went over a bump in the road making everyone inside jolt suddenly.\n汽车驶过路上的一个颠簸，车里的每个人都突然颠簸了一下。"
   },
   {
     "id": "word_1583",
@@ -30718,7 +30718,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bumpkin/",
     "frequency": "中频",
-    "example": "The city dwellers mistakenly called him a bumpkin because of his rural accent.\n城市居民因为他的乡村口音而错误地称他为乡巴佬。\nThe friendly bumpkin showed the lost tourists the way to the village.\n友好的乡下人为迷路的游客指明了去村庄的路。"
+    "example": "The city dwellers teased the country bumpkin for his unfamiliarity with urban life.\n城市居民取笑这个乡巴佬对城市生活不熟悉。\nDespite being called a bumpkin he had a wealth of knowledge about farming and nature.\n尽管被称为乡巴佬，他却拥有丰富的农业和自然知识。"
   },
   {
     "id": "word_1584",
@@ -30733,7 +30733,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bumpy/",
     "frequency": "低频",
-    "example": "The bumpy road made the long journey quite uncomfortable for passengers.\n颠簸的道路使长途旅行对乘客来说相当不舒服。\nLife has been bumpy lately with many unexpected challenges and obstacles.\n最近生活坎坷，有许多意想不到的挑战和障碍。"
+    "example": "The bumpy road made the long journey extremely uncomfortable for everyone.\n崎岖不平的道路使漫长的旅程对每个人来说都非常不舒服。\nAfter the storm the dirt road became even bumpier and harder to travel.\n暴风雨过后，土路变得更加崎岖，更难行驶。"
   },
   {
     "id": "word_1585",
@@ -30748,7 +30748,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunbury/",
     "frequency": "高频",
-    "example": "They decided to bunbury their way out of the boring dinner party.\n他们决定找借口离开那个无聊的晚宴。\nShe often bunburys when she needs some time alone for herself.\n当她需要独处时，她经常找借口推脱。"
+    "example": "He decided to bunbury for the afternoon instead of attending the boring meeting.\n他决定下午虚度光阴，而不是参加无聊的会议。\nMany people enjoy bunburying on weekends to relax and recharge their batteries.\n许多人喜欢在周末虚度光阴来放松和充电。"
   },
   {
     "id": "word_1586",
@@ -30763,7 +30763,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunch/",
     "frequency": "低频",
-    "example": "A bunch of grapes hung from the vine in the sunny garden.\n一串葡萄挂在阳光明媚的花园里的藤上。\nA bunch of friends gathered at the park for a weekend picnic.\n一群朋友在公园聚会进行周末野餐。"
+    "example": "She picked a beautiful bunch of flowers from her garden to decorate the table.\n她从花园里摘了一束美丽的花来装饰桌子。\nA bunch of friends gathered at the park for a picnic on a sunny day.\n一群朋友在阳光明媚的日子里聚集在公园野餐。"
   },
   {
     "id": "word_1587",
@@ -30778,7 +30778,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunco/",
     "frequency": "低频",
-    "example": "The police arrested the suspects for running a bunco scheme targeting elderly people.\n警方逮捕了涉嫌针对老年人进行诈骗的嫌疑人。\nThe bunco artist convinced many victims to invest in fake opportunities.\n诈骗犯说服许多受害者投资虚假的机会。"
+    "example": "The con artist ran a bunco scheme to trick unsuspecting people out of their money.\n骗子策划了一个骗局来欺骗不知情的人。\nThe police finally caught the man who had been operating a bunco ring for years.\n警方最终抓获了那个多年来一直在运营诈骗团伙的人。"
   },
   {
     "id": "word_1588",
@@ -30793,7 +30793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʌndl/",
     "frequency": "中频",
-    "example": "She carried a bundle of clothes to the laundry room for washing.\n她拿着一捆衣服去洗衣房清洗。\nThe company offers a bundle of services at a discounted price.\n公司以折扣价提供一整套服务。"
+    "example": "She tied a bundle of old clothes together to donate to the charity.\n她把一捆旧衣服捆在一起捐给慈善机构。\nThe hiker carried a bundle of supplies on his back as he trekked through the mountains.\n徒步旅行者背着一捆物资穿过山脉。"
   },
   {
     "id": "word_1589",
@@ -30808,7 +30808,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bungalow/",
     "frequency": "中频",
-    "example": "The retired couple bought a small bungalow near the beautiful beach.\n退休夫妇在美丽的海滩附近买了一栋小平房。\nThe bungalow style house is perfect for people who prefer single-level living.\n平房式住宅非常适合喜欢单层生活的人。"
+    "example": "They built a cozy bungalow by the beach for their summer vacations.\n他们在海边建了一座舒适的平房作为暑假度假屋。\nThe bungalow had a large porch where they could enjoy the ocean breeze.\n平房有一个大阳台，他们可以在那里享受海风。"
   },
   {
     "id": "word_1590",
@@ -30823,7 +30823,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bungle/",
     "frequency": "低频",
-    "example": "The inexperienced employee managed to bungle the important project presentation.\n缺乏经验的员工把重要的项目演示搞砸了。\nHe tried to fix the leak but only managed to bungle the plumbing job.\n他试图修理漏水，但只是把管道工作搞砸了。"
+    "example": "He managed to bungle the simple task despite having done it many times before.\n尽管以前做过很多次，他还是把这个简单的任务搞砸了。\nThe chef bungled the recipe and the dish turned out to be inedible.\n厨师把食谱搞砸了，菜做得难吃极了。"
   },
   {
     "id": "word_1591",
@@ -30838,7 +30838,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunion/",
     "frequency": "高频",
-    "example": "She developed a painful bunion from wearing tight shoes for years.\n她因多年穿紧身鞋而患上了痛苦的拇囊炎。\nThe doctor recommended surgery to remove the troublesome bunion on her foot.\n医生建议手术切除她脚上麻烦的拇囊炎。"
+    "example": "She developed a painful bunion on her foot from wearing tight shoes.\n她因为穿紧鞋脚上长了一个疼痛的拇囊炎。\nThe doctor recommended surgery to correct the bunion that had been bothering her.\n医生建议手术矫正一直困扰她的拇囊炎。"
   },
   {
     "id": "word_1592",
@@ -30853,7 +30853,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunk/",
     "frequency": "中频",
-    "example": "The children slept in the bunk beds at the summer camp cabin.\n孩子们在夏令营小屋的上下铺睡觉。\nMost of what he said was pure bunk and completely unbelievable.\n他说的大部分都是胡说八道，完全不可信。"
+    "example": "The children climbed into their bunk beds after a long day of playing.\n孩子们玩了一整天后爬上了双层床。\nHe had to bunk with a stranger in the small hostel room during his trip.\n旅行期间，他不得不在小旅馆房间里和一个陌生人同床。"
   },
   {
     "id": "word_1593",
@@ -30868,7 +30868,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunker/",
     "frequency": "低频",
-    "example": "The soldiers took shelter in the underground bunker during the attack.\n士兵们在袭击期间躲在地下掩体里。\nThe golf course has several sand bunkers near the putting greens.\n高尔夫球场在果岭附近有几个沙坑。"
+    "example": "The soldiers took shelter in the underground bunker during the attack.\n士兵们在袭击期间躲进了地下掩体。\nGolfers often face challenges when their ball lands in a sand bunker.\n高尔夫球手的球落在沙坑时经常面临挑战。"
   },
   {
     "id": "word_1594",
@@ -30883,7 +30883,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunkhouse/",
     "frequency": "高频",
-    "example": "The ranch hands gathered in the bunkhouse after a long day of work.\n牧场工人在一天漫长的工作后聚集在工棚里。\nThe simple bunkhouse provided basic accommodation for the seasonal workers.\n简陋的工棚为季节性工人提供基本的住宿。"
+    "example": "The ranch hands lived in a simple bunkhouse on the edge of the property.\n牧场工人住在物业边缘的一间简陋宿舍里。\nThe old bunkhouse was renovated into a cozy guest house for visitors.\n旧宿舍被改造成舒适的游客招待所。"
   },
   {
     "id": "word_1595",
@@ -30898,7 +30898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunkum/",
     "frequency": "中频",
-    "example": "The politician dismissed the accusations as pure bunkum and lies.\n政客驳斥这些指控纯属胡说八道和谎言。\nShe refused to listen to any more of his ridiculous bunkum stories.\n她拒绝再听他那些荒谬的胡说八道的故事。"
+    "example": "The politician's speech was nothing but bunkum to impress the audience.\n这位政治家的演讲只是为了打动听众的空话。\nDon't listen to his bunkum; he doesn't know what he's talking about.\n别听他的胡说八道，他不知道自己在说什么。"
   },
   {
     "id": "word_1596",
@@ -30913,7 +30913,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buoy/",
     "frequency": "低频",
-    "example": "The buoy marked the safe channel for boats entering the harbor.\n浮标为进入港口的船只标示安全航道。\nThe rescue team threw a buoy to the struggling swimmer in the water.\n救援队向水中挣扎的游泳者扔了一个救生圈。"
+    "example": "The bright red buoy marked the entrance to the harbor.\n鲜红的浮标标志着港口的入口。\nThe lifeguard threw a buoy to the struggling swimmer in the water.\n救生员向水中挣扎的游泳者扔了一个浮标。"
   },
   {
     "id": "word_1597",
@@ -30928,7 +30928,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buoyancy/",
     "frequency": "高频",
-    "example": "The buoyancy of the water helps support the weight of the swimmer.\n水的浮力有助于支撑游泳者的体重。\nHer natural buoyancy and optimism helped her overcome many difficult challenges.\n她天生的乐观和活力帮助她克服了许多困难的挑战。"
+    "example": "The buoyancy of the boat kept it afloat even in rough seas.\n船的浮力使它即使在波涛汹涌的大海中也能保持漂浮。\nChildren learn about buoyancy when they play with toys in the bathtub.\n孩子们在浴缸里玩玩具时学习浮力的概念。"
   },
   {
     "id": "word_1598",
@@ -30943,7 +30943,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burble/",
     "frequency": "中频",
-    "example": "The baby began to burble happily while playing with colorful toys.\n婴儿在玩彩色玩具时开始快乐地咿呀学语。\nThe stream continued to burble gently over the smooth river stones.\n小溪继续在光滑的河石上轻轻地潺潺流淌。"
+    "example": "The little brook continued to burble gently as it flowed through the forest.\n小溪穿过森林时继续轻轻流淌。\nThe fountain in the park began to burble again after being repaired.\n公园里的喷泉修复后又开始冒泡了。"
   },
   {
     "id": "word_1599",
@@ -30958,7 +30958,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burbled/",
     "frequency": "低频",
-    "example": "The excited child burbled with joy about her birthday party plans.\n兴奋的孩子喋喋不休地谈论她的生日派对计划。\nThe brook burbled musically as it wound through the peaceful forest.\n小溪蜿蜒穿过宁静的森林时发出悦耳的潺潺声。"
+    "example": "The water burbled softly over the smooth stones in the stream.\n水轻轻地在溪流中的光滑石头上冒泡。\nShe could hear the stream burbled as she walked along the peaceful path.\n她沿着宁静的小路走时，可以听到溪流潺潺作响。"
   },
   {
     "id": "word_1600",
@@ -30973,7 +30973,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burden/",
     "frequency": "高频",
-    "example": "The heavy burden of responsibility weighed on his shoulders constantly.\n沉重的责任负担不断压在他的肩上。\nShe did not want to be a burden to her children in her old age.\n她不想在年老时成为孩子们的负担。"
+    "example": "The heavy burden of responsibility weighed heavily on his shoulders.\n沉重的责任负担沉重地压在他的肩上。\nCaring for a sick family member can be a great emotional burden.\n照顾生病的家庭成员可能是一个巨大的情感负担。"
   },
   {
     "id": "word_1601",
@@ -30988,7 +30988,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burdock/",
     "frequency": "中频",
-    "example": "The burdock plant is known for its prickly burrs that stick to clothing.\n牛蒡植物以其粘在衣服上的多刺芒刺而闻名。\nHerbalists use burdock root as a traditional remedy for various skin conditions.\n草药师使用牛蒡根作为治疗各种皮肤病的传统药物。"
+    "example": "The burdock plant has large leaves and purple flowers that attract bees.\n牛蒡植物有大叶子和吸引蜜蜂的紫色花朵。\nTraditional medicine uses burdock root for its various health benefits.\n传统医学使用牛蒡根来获得各种健康益处。"
   },
   {
     "id": "word_1602",
@@ -31003,7 +31003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bureau/",
     "frequency": "中频",
-    "example": "She contacted the travel bureau to book her summer vacation package.\n她联系旅游局预订她的暑假套餐。\nThe statistics bureau released new data about employment rates yesterday.\n统计局昨天发布了关于就业率的新数据。"
+    "example": "The travel bureau helped us plan our trip to Europe.\n旅行社帮助我们规划了欧洲之旅。\nHe sat at his bureau and began to write the important letter.\n他坐在办公桌前开始写那封重要的信。"
   },
   {
     "id": "word_1603",
@@ -31018,7 +31018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bureaucracy/",
     "frequency": "高频",
-    "example": "The complex bureaucracy made it difficult to get permits for the project.\n复杂的官僚机构使项目获得许可证变得困难。\nMany people complain about the inefficiency of government bureaucracy.\n许多人抱怨政府官僚机构的低效率。"
+    "example": "Dealing with government bureaucracy can be a frustrating experience.\n与政府官僚机构打交道可能是一种令人沮丧的经历。\nThe company streamlined its bureaucracy to improve efficiency.\n公司精简了官僚机构以提高效率。"
   },
   {
     "id": "word_1604",
@@ -31033,7 +31033,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burette/",
     "frequency": "中频",
-    "example": "The scientist carefully measured the liquid using a glass burette in the lab.\n科学家在实验室里用玻璃滴定管仔细测量液体。\nThe chemistry students learned how to read the burette accurately.\n化学学生学习了如何准确读取滴定管。"
+    "example": "The chemist used a burette to measure the exact amount of liquid needed.\n化学家使用滴定管来测量所需的精确液体量。\nStudents in the lab learned how to use a burette for their experiments.\n实验室里的学生学习如何使用滴定管进行实验。"
   },
   {
     "id": "word_1605",
@@ -31048,7 +31048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgage/",
     "frequency": "低频",
-    "example": "The medieval burgage plots were narrow but extended far back from the street.\n中世纪的租地地块很窄，但从街道向后延伸很远。\nHistorical records show the burgage system was common in medieval English towns.\n历史记录显示租地制度在中世纪英国城镇很普遍。"
+    "example": "The medieval town still retains its ancient burgage tenure system.\n这个中世纪城镇仍然保留着古老的自治城市土地保有制度。\nHistorians study burgage to understand land ownership in medieval Europe.\n历史学家研究自治城市土地制度以了解中世纪欧洲的土地所有权。"
   },
   {
     "id": "word_1606",
@@ -31063,7 +31063,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgee/",
     "frequency": "高频",
-    "example": "The yacht club flew a distinctive burgee from the top of the mast.\n游艇俱乐部在桅杆顶部飘扬着独特的三角旗。\nEach sailing club has its own unique burgee design and colors.\n每个帆船俱乐部都有自己独特的三角旗设计和颜色。"
+    "example": "The yacht proudly displayed its burgee as it sailed into the harbor.\n游艇驶进港口时自豪地展示着船艏旗。\nThe colorful burgee fluttered in the wind above the sailboat.\n彩色的船艏旗在帆船上方迎风飘扬。"
   },
   {
     "id": "word_1607",
@@ -31078,7 +31078,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgeon/",
     "frequency": "中频",
-    "example": "The small startup began to burgeon into a successful technology company.\n小型初创企业开始蓬勃发展成为一家成功的科技公司。\nThe garden plants burgeoned quickly after the spring rain showers.\n春雨过后花园里的植物迅速生长。"
+    "example": "The young company began to burgeon after receiving significant investment.\n这家年轻公司在获得大量投资后开始迅速发展。\nNew businesses burgeon in the city as the economy continues to grow.\n随着经济持续增长，新企业在城市中迅速涌现。"
   },
   {
     "id": "word_1608",
@@ -31093,7 +31093,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgh/",
     "frequency": "低频",
-    "example": "The ancient burgh was surrounded by stone walls for protection.\n古老的自治市被石墙包围以保护安全。\nThe royal burgh held important trading rights granted by the king.\n皇家自治市拥有国王授予的重要贸易权。"
+    "example": "The historic burgh has preserved many of its original medieval buildings.\n这座历史悠久的自治城市保留了许多原始的中世纪建筑。\nThe burgh council voted to renovate the old town hall.\n自治市议会投票决定翻新旧市政厅。"
   },
   {
     "id": "word_1609",
@@ -31108,7 +31108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burghbot/",
     "frequency": "高频",
-    "example": "The medieval burghbot was responsible for collecting taxes from merchants.\n中世纪的城镇官员负责向商人收税。\nHistorical documents mention the burghbot as an important town official.\n历史文件提到城镇官员是重要的城镇官员。"
+    "example": "The burghbot was responsible for maintaining order in the medieval town.\n自治城市居民负责维持中世纪城镇的秩序。\nIn ancient times, burghbot played an important role in local governance.\n在古代，自治城市居民在地方治理中发挥了重要作用。"
   },
   {
     "id": "word_1610",
@@ -31123,7 +31123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burglar/",
     "frequency": "中频",
-    "example": "The burglar broke into the house through the unlocked kitchen window.\n窃贼通过未锁的厨房窗户闯入房子。\nThe security system alerted the police about the burglar immediately.\n安全系统立即向警方报警有窃贼入侵。"
+    "example": "The burglar broke into the house through the back window during the night.\n窃贼在夜间从后窗闯入了房子。\nThe security system alerted the police when the burglar tried to enter.\n窃贼试图进入时，安全系统向警方发出了警报。"
   },
   {
     "id": "word_1611",
@@ -31138,7 +31138,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burial/",
     "frequency": "低频",
-    "example": "The family held a traditional burial ceremony for their beloved grandmother.\n家人为他们敬爱的祖母举行了传统的葬礼仪式。\nArchaeologists discovered an ancient burial site dating back thousands of years.\n考古学家发现了一个可追溯到数千年前的古代墓葬遗址。"
+    "example": "The family held a private burial for their loved one in the cemetery.\n这家人在墓地为亲人举行了私人葬礼。\nArchaeologists discovered an ancient burial site containing valuable artifacts.\n考古学家发现了一个包含珍贵文物的古代墓地。"
   },
   {
     "id": "word_1612",
@@ -31153,7 +31153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burlesque/",
     "frequency": "高频",
-    "example": "The burlesque show featured elaborate costumes and comedic performances.\n滑稽歌舞表演以精致的服装和喜剧表演为特色。\nShe performed in a burlesque theater that entertained audiences nightly.\n她在一家每晚为观众提供娱乐的滑稽歌舞剧院演出。"
+    "example": "The theater hosted a lively burlesque show that entertained the audience.\n剧院举办了一场热闹的滑稽戏表演，娱乐了观众。\nThe burlesque dancer performed a hilarious routine that made everyone laugh.\n滑稽戏演员表演了一个搞笑的节目，让每个人都笑了。"
   },
   {
     "id": "word_1613",
@@ -31168,7 +31168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burly/",
     "frequency": "中频",
-    "example": "The burly security guard stood at the entrance checking identification.\n魁梧的保安站在入口处检查身份证件。\nThe burly lumberjack easily carried the heavy logs on his shoulder.\n魁梧的伐木工人轻松地把沉重的原木扛在肩上。"
+    "example": "The burly man easily lifted the heavy box onto the truck.\n那个魁梧的男人轻松地把沉重的箱子抬到卡车上。\nDespite his burly appearance, he was surprisingly gentle with children.\n尽管外表魁梧，他对孩子却出奇地温柔。"
   },
   {
     "id": "word_1614",
@@ -31183,7 +31183,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɜːn/",
     "frequency": "高频",
-    "example": "Be careful not to burn yourself on the hot stove while cooking.\n做饭时要小心不要被热炉子烫伤。\nThe fire continued to burn throughout the night in the fireplace.\n火在壁炉里持续燃烧了一整夜。"
+    "example": "The fire continued to burn throughout the night despite firefighters efforts.\n尽管消防员努力扑救，大火仍整夜燃烧。\nShe accidentally burned her hand while cooking on the stove.\n她在炉子上做饭时不小心烫伤了手。"
   },
   {
     "id": "word_1615",
@@ -31198,7 +31198,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burner/",
     "frequency": "高频",
-    "example": "She turned on the gas burner to heat water for her morning coffee.\n她打开煤气炉烧水准备早上的咖啡。\nThe scientist used a Bunsen burner to heat the chemical mixture.\n科学家用本生灯加热化学混合物。"
+    "example": "The gas burner on the stove needed to be cleaned regularly to work properly.\n炉子上的燃气燃烧器需要定期清洁才能正常工作。\nHe adjusted the burner to reduce the flame while simmering the sauce.\n他调整了燃烧器以减小火焰，同时慢炖酱汁。"
   },
   {
     "id": "word_1616",
@@ -31213,7 +31213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burnish/",
     "frequency": "中频",
-    "example": "The craftsman carefully burnished the silver vase until it shone brightly.\n工匠仔细地擦亮银花瓶，直到它闪闪发光。\nYears of use had burnished the wooden table to a smooth finish.\n多年的使用使木桌变得光滑亮丽。"
+    "example": "The craftsman used a special tool to burnish the silver until it shone.\n工匠用一种特殊工具把银器抛光得闪闪发光。\nShe spent hours trying to burnish the old brass lamp to restore its shine.\n她花了几个小时试图擦亮旧铜灯以恢复其光泽。"
   },
   {
     "id": "word_1617",
@@ -31228,7 +31228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burp/",
     "frequency": "中频",
-    "example": "The baby let out a small burp after drinking the bottle of milk.\n婴儿喝完奶瓶后打了一个小嗝。\nHe politely covered his mouth when he needed to burp after dinner.\n晚饭后需要打嗝时，他礼貌地捂住了嘴。"
+    "example": "The baby let out a loud burp after drinking his bottle of milk.\n婴儿喝完奶瓶后打了一个响亮的嗝。\nIt is polite to cover your mouth when you burp in public.\n在公共场合打嗝时捂住嘴是礼貌的。"
   },
   {
     "id": "word_1618",
@@ -31243,7 +31243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burr/",
     "frequency": "低频",
-    "example": "He spoke with a distinctive Scottish burr that charmed the audience.\n他带着独特的苏格兰口音说话，迷住了观众。\nThe burr on the metal part needed to be smoothed before assembly.\n金属部件上的毛刺在组装前需要磨平。"
+    "example": "The carpenter used sandpaper to remove the burr from the edge of the wood.\n木匠用砂纸去除木材边缘的毛刺。\nThe sound of the burr could be heard as the metal was being cut.\n切割金属时可以听到毛刺的声音。"
   },
   {
     "id": "word_1619",
@@ -31258,7 +31258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bursar/",
     "frequency": "高频",
-    "example": "The bursar manages all financial matters at the prestigious university.\n财务主管管理着这所著名大学的所有财务事务。\nStudents must contact the bursar office to pay their tuition fees.\n学生必须联系财务处支付学费。"
+    "example": "The bursar is responsible for managing the school's finances and budget.\n财务主管负责管理学校的财务和预算。\nThe bursar prepared a detailed report for the board of directors.\n财务主管为董事会准备了一份详细报告。"
   },
   {
     "id": "word_1620",
@@ -31273,7 +31273,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bursary/",
     "frequency": "中频",
-    "example": "The university offers a bursary to students from low-income families.\n大学为来自低收入家庭的学生提供助学金。\nShe applied for a bursary to help cover her educational expenses.\n她申请了助学金来帮助支付她的教育费用。"
+    "example": "She was awarded a bursary to help pay for her university tuition.\n她获得了一笔奖学金来帮助支付大学学费。\nThe foundation provides bursaries to students from low-income families.\n该基金会为低收入家庭的学生提供奖学金。"
   },
   {
     "id": "word_1621",
@@ -31288,7 +31288,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɜːst/",
     "frequency": "高频",
-    "example": "The balloon suddenly burst with a loud pop during the party.\n气球在聚会期间突然砰的一声爆裂了。\nShe burst into tears when she heard the sad news about her friend.\n当她听到关于朋友的坏消息时，她突然哭了起来。"
+    "example": "The balloon suddenly burst with a loud pop, startling everyone nearby.\n气球突然砰的一声爆裂，吓了附近所有人一跳。\nShe felt a burst of energy after drinking a cup of strong coffee.\n喝了一杯浓咖啡后，她感到一阵精力充沛。"
   },
   {
     "id": "word_1622",
@@ -31303,7 +31303,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burtle/",
     "frequency": "高频",
-    "example": "The burtle swam gracefully in the small pond behind the house.\n小乌龟在房子后面的小池塘里优雅地游动。\nChildren love to watch the burtle basking on the rocks in sunlight.\n孩子们喜欢看小乌龟在阳光下晒在岩石上。"
+    "example": "The burtle is a type of freshwater turtle found in certain regions.\n淡水龟是一种在特定地区发现的淡水龟类。\nChildren love to watch burtles swim in the pond at the zoo.\n孩子们喜欢在动物园看淡水龟在池塘里游泳。"
   },
   {
     "id": "word_1623",
@@ -31318,7 +31318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈberi/",
     "frequency": "中频",
-    "example": "They decided to bury the time capsule in the school garden for future generations.\n他们决定把时间胶囊埋在学校花园里留给后代。\nThe dog loves to bury its bones in the backyard for safekeeping.\n狗喜欢把骨头埋在后院保管。"
+    "example": "They gathered at the cemetery to bury their beloved grandmother.\n他们聚集在墓地埋葬他们敬爱的祖母。\nThe dog likes to bury its bones in the backyard garden.\n狗喜欢把骨头埋在后院花园里。"
   },
   {
     "id": "word_1624",
@@ -31333,7 +31333,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʌs/",
     "frequency": "高频",
-    "example": "The school bus picks up children from the neighborhood every morning.\n校车每天早上从社区接孩子。\nWe took the bus downtown to visit the famous art museum.\n我们乘公共汽车去市中心参观著名的艺术博物馆。"
+    "example": "The bus arrived at the station exactly on time to pick up passengers.\n公交车准时到达车站接乘客。\nShe takes the bus to work every day because it is convenient and affordable.\n她每天乘公交车上班，因为它方便且价格实惠。"
   },
   {
     "id": "word_1625",
@@ -31648,7 +31648,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/butterscotch/",
     "frequency": "低频",
-    "example": "The butterscotch candy had a rich creamy flavor that melted slowly.\n奶油糖有浓郁的奶油味道，慢慢融化。\nShe made a delicious butterscotch pudding for the family dessert.\n她为家庭甜点制作了美味的奶油糖布丁。"
+    "example": "The children loved the sweet butterscotch candy their grandmother gave them.\n孩子们喜欢祖母给他们的甜奶油硬糖。\nShe made a delicious butterscotch sauce to pour over the ice cream.\n她做了美味的黄油糖酱倒在冰淇淋上。"
   },
   {
     "id": "word_1646",
@@ -31663,7 +31663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʌtn/",
     "frequency": "高频",
-    "example": "Please press the red button to stop the machine immediately.\n请按红色按钮立即停止机器。\nShe sewed a new button onto her favorite winter coat.\n她在她最喜欢的冬衣上缝了一个新纽扣。"
+    "example": "She sewed a small button onto the shirt to replace the missing one.\n她在衬衫上缝了一个小纽扣来替换丢失的那个。\nThe button on the remote control was stuck and wouldn't work properly.\n遥控器上的按钮卡住了，无法正常工作。"
   },
   {
     "id": "word_1647",
@@ -31678,7 +31678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buttonwood/",
     "frequency": "中频",
-    "example": "The buttonwood tree provided shade for the historic town square.\n梧桐树为历史悠久的城镇广场提供了阴凉。\nThe Buttonwood Agreement was signed under a large buttonwood tree in 1792.\n梧桐树协议于1792年在一棵大梧桐树下签署。"
+    "example": "The buttonwood tree grows well in coastal areas with salty soil.\n梧桐树在含盐土壤的沿海地区生长良好。\nThe large buttonwood provided shade for the picnic area in the park.\n大梧桐树为公园的野餐区提供了阴凉。"
   },
   {
     "id": "word_1648",
@@ -31693,7 +31693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buttress/",
     "frequency": "低频",
-    "example": "The medieval cathedral was supported by flying buttresses on both sides.\n中世纪大教堂两侧由飞扶壁支撑。\nThese facts serve to buttress the main argument of the research paper.\n这些事实有助于支持研究论文的主要论点。"
+    "example": "The ancient stone buttress supported the weight of the cathedral wall.\n古老的石扶壁支撑着大教堂墙壁的重量。\nEngineers added additional buttresses to strengthen the building structure.\n工程师添加了额外的扶壁来加固建筑结构。"
   },
   {
     "id": "word_1649",
@@ -31708,7 +31708,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buxom/",
     "frequency": "高频",
-    "example": "The buxom actress was known for her glamorous roles in classic films.\n丰满的女演员以经典电影中的迷人角色而闻名。\nThe Renaissance paintings often depicted buxom women as symbols of fertility.\n文艺复兴时期的绘画经常将丰满的女性描绘为生育的象征。"
+    "example": "The buxom woman walked confidently through the crowded room.\n那个丰满的女人自信地穿过拥挤的房间。\nIn some cultures, a buxom figure is considered a sign of health and fertility.\n在某些文化中，丰满的身材被认为是健康和生育能力的标志。"
   },
   {
     "id": "word_1650",
@@ -31723,7 +31723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/baɪ/",
     "frequency": "高频",
-    "example": "She decided to buy a new car after her old one broke down completely.\n她决定在旧车完全坏掉后买一辆新车。\nThe company plans to buy back shares to increase stock value.\n公司计划回购股票以增加股票价值。"
+    "example": "She decided to buy a new laptop because her old one was too slow.\n她决定买一台新笔记本电脑，因为她的旧电脑太慢了。\nThey plan to buy their first house together next year.\n他们计划明年一起买他们的第一套房子。"
   },
   {
     "id": "word_1651",
@@ -31738,7 +31738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buyer/",
     "frequency": "低频",
-    "example": "The buyer inspected the house carefully before making the final offer.\n买家在提出最终报价之前仔细检查了房子。\nThe enthusiastic buyer purchased several paintings at the art auction.\n热情的买家在艺术品拍卖会上购买了几幅画。"
+    "example": "The buyer negotiated a lower price for the antique furniture.\n买家为古董家具协商了更低的价格。\nThe real estate agent showed the house to several potential buyers.\n房地产经纪人带几位潜在买家看了房子。"
   },
   {
     "id": "word_1652",
@@ -31753,7 +31753,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buzz/",
     "frequency": "高频",
-    "example": "The bees buzz around the flowers collecting nectar for honey production.\n蜜蜂在花丛中嗡嗡飞舞，采集花蜜生产蜂蜜。\nThere was a buzz of excitement in the room before the concert began.\n音乐会开始前，房间里充满了兴奋的嗡嗡声。"
+    "example": "The bees began to buzz loudly around the blooming flowers in the garden.\n蜜蜂开始在花园里盛开的花朵周围大声嗡嗡作响。\nThere was a buzz of excitement in the air before the concert started.\n音乐会开始前，空气中弥漫着兴奋的嗡嗡声。"
   },
   {
     "id": "word_1653",
