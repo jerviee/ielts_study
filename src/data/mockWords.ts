@@ -19189,7 +19189,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/biːtʃ/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，海滩的研究取得了重大进展。",
+    "example": "Families enjoy spending summer days at the beach.\n家庭喜欢在海滩度过夏日。\nThe beach was covered with smooth white sand.\n海滩被光滑的白沙覆盖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19210,7 +19210,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beachhead/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索beachhead的新方面。"
+    "example": "The army established a beachhead for the invasion.\n军队为入侵建立了滩头阵地。\nThe company gained a beachhead in the new market.\n公司在新市场获得了立足点。"
   },
   {
     "id": "word_944",
@@ -19225,7 +19225,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beacon/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbeacon的应用革新了各个行业。",
+    "example": "A lighthouse serves as a beacon for ships at night.\n灯塔在夜间作为船只的信标。\nThe beacon guided lost travelers through the darkness.\n信标引导迷路的旅行者穿过黑暗。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19246,7 +19246,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bead/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bead的认识显著提高。",
+    "example": "She string beads to make a colorful necklace.\n她把珠子串起来做一条彩色项链。\nBeads of sweat formed on his forehead during exercise.\n运动时他额头上形成了汗珠。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19267,7 +19267,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beadle/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，beadle的重要性怎么强调都不为过。"
+    "example": "The beadle led visitors through the historic building.\n执事引导游客参观历史建筑。\nIn medieval times, beadles maintained order in churches.\n在中世纪，执事在教堂维持秩序。"
   },
   {
     "id": "word_947",
@@ -19282,7 +19282,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beagle/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbeagle的理论为理解这一现象提供了框架。"
+    "example": "The beagle chased rabbits across the open field.\n小猎犬在开阔的田野里追逐兔子。\nBeagles are known for their excellent sense of smell.\n小猎犬以出色的嗅觉著称。"
   },
   {
     "id": "word_948",
@@ -19297,7 +19297,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beak/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与beak相关的实践技能在工作场所受到高度重视。",
+    "example": "The bird used its beak to crack open the seed.\n鸟用喙啄开种子。\nEagles have sharp, powerful beaks for tearing meat.\n鹰有锋利有力的喙来撕肉。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19318,7 +19318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beam/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会横梁的发展。",
+    "example": "A beam of light shone through the window.\n一束光透过窗户照射进来。\nConstruction workers installed a steel beam in the building.\n建筑工人在建筑物中安装了钢梁。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19339,7 +19339,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bean/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，豆的研究取得了重大进展。",
+    "example": "She added beans to the soup for extra protein.\n她在汤里加了豆子以增加蛋白质。\nCoffee beans are roasted to produce different flavors.\n咖啡豆被烘烤以产生不同的风味。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19360,7 +19360,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beanfeast/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索beanfeast的新方面。"
+    "example": "The company held an annual beanfeast for employees.\n公司为员工举办年度盛宴。\nA traditional beanfeast includes lots of food and drinks.\n传统盛宴包括大量食物和饮料。"
   },
   {
     "id": "word_952",
@@ -19375,7 +19375,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beano/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbeano的应用革新了各个行业。"
+    "example": "Children played games at the birthday party beano.\n孩子们在生日派对游戏中玩耍。\nThe beano was full of exciting activities for kids.\n派对充满让孩子们兴奋的活动。"
   },
   {
     "id": "word_953",
@@ -19390,7 +19390,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beə/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对熊的认识显著提高。",
+    "example": "The bear hibernates during the cold winter months.\n熊在寒冷的冬季冬眠。\nShe could barely bear the pain of her injury.\n她几乎无法忍受受伤的痛苦。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19411,7 +19411,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beard/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，胡须的重要性怎么强调都不为过。",
+    "example": "The old man had a long white beard.\n老人留着长长的白胡子。\nSome men grow beards for religious or cultural reasons.\n有些男人出于宗教或文化原因留胡子。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19432,7 +19432,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bearish/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n像...的理论为理解这一现象提供了框架。"
+    "example": "His bearish manner made people uncomfortable.\n他粗暴的态度让人不舒服。\nThe bearish market conditions worried investors.\n看跌的市场状况让投资者担忧。"
   },
   {
     "id": "word_956",
@@ -19447,7 +19447,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beast/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与野兽相关的实践技能在工作场所受到高度重视。",
+    "example": "The lion is known as the king of beasts.\n狮子被称为百兽之王。\nA wild beast roamed the ancient forest.\n一只野兽在古老的森林里漫游。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19468,7 +19468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beastly/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...地的发展。"
+    "example": "The weather was beastly cold during the expedition.\n探险期间天气冷得可怕。\nHis beastly behavior shocked everyone present.\n他粗暴的行为让在场的人都感到震惊。"
   },
   {
     "id": "word_958",
@@ -19483,7 +19483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/biːt/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，打的研究取得了重大进展。",
+    "example": "The drummer kept a steady beat throughout the song.\n鼓手在整个歌曲中保持稳定的节拍。\nShe tried to beat the world record in swimming.\n她试图打破游泳世界纪录。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19504,7 +19504,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beatify/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索beatify的新方面。"
+    "example": "The church will beatify the martyred priest.\n教会将为殉道的牧师行宣福礼。\nLocal people gather to beatify their beloved saint.\n当地人聚集为敬爱的圣人行宣福礼。"
   },
   {
     "id": "word_960",
@@ -19519,7 +19519,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beatitude/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbeatitude的应用革新了各个行业。"
+    "example": "The beatitude of living in peace is precious.\n和平生活的至福是珍贵的。\nShe felt beatitude after achieving her lifelong dream.\n实现终身梦想后她感到极乐。"
   },
   {
     "id": "word_961",
@@ -19534,7 +19534,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beatrice/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对beatrice的认识显著提高。"
+    "example": "Beatrice is a character in Shakespeares play.\n贝雅特丽斯是莎士比亚戏剧中的一个角色。\nThe name Beatrice means bringer of joy.\n贝雅特丽斯这个名字的意思是带来欢乐的人。"
   },
   {
     "id": "word_962",
@@ -19549,7 +19549,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beau/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，beau的重要性怎么强调都不为过。"
+    "example": "The young beau escorted the lady to the ball.\n年轻的男友陪女士去参加舞会。\nShe rejected every beau her parents suggested.\n她拒绝了父母建议的每一个追求者。"
   },
   {
     "id": "word_963",
@@ -19564,7 +19564,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beaut/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbeaut的理论为理解这一现象提供了框架。"
+    "example": "The garden was a beaut with colorful flowers.\n花园因五彩缤纷的花朵而美丽。\nThat sunset over the ocean was a real beaut.\n海上的日落真是美极了。"
   },
   {
     "id": "word_964",
@@ -19579,7 +19579,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbjuːtɪfl/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与美丽相关的实践技能在工作场所受到高度重视。",
+    "example": "The beautiful sunset painted the sky in orange and pink.\n美丽的日落把天空染成橙色和粉红色。\nShe wore a beautiful dress to the wedding.\n她穿着一件漂亮的连衣裙参加婚礼。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19600,7 +19600,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbjuːti/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会美的发展。",
+    "example": "Natural beauty surrounds us in the countryside.\n乡村的自然美景环绕着我们。\nInner beauty is more important than external appearance.\n内在美比外表更重要。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19621,7 +19621,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beaver/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人的研究取得了重大进展。"
+    "example": "Beavers build dams to create ponds for protection.\n海狸建造水坝以创造池塘来保护自己。\nThe beaver worked tirelessly to repair its dam.\n海狸不知疲倦地修复它的水坝。"
   },
   {
     "id": "word_967",
@@ -19636,7 +19636,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bebop/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bebop的新方面。"
+    "example": "Bebop is a complex style of jazz music.\n波普是一种复杂的爵士音乐风格。\nFamous bebop musicians include Charlie Parker and Dizzy Gillespie.\n著名的波普音乐家包括查理帕克和迪兹吉莱斯皮。"
   },
   {
     "id": "word_968",
@@ -19651,7 +19651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/became/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbecame的应用革新了各个行业。"
+    "example": "She became a doctor after years of training.\n经过多年训练，她成为了一名医生。\nThe small town became a bustling city.\n小镇变成了繁华的城市。"
   },
   {
     "id": "word_969",
@@ -19666,7 +19666,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈkɒz/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对因为的认识显著提高。",
+    "example": "She stayed home because she was feeling unwell.\n她因为感觉不舒服而待在家里。\nThe game was cancelled because of heavy rain.\n由于大雨，比赛被取消了。",
     "prefix": "be-",
     "prefixMeaning": "在...之前",
     "prefixMeaningEn": "by, before",
@@ -19687,7 +19687,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beckon/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，beckon的重要性怎么强调都不为过。"
+    "example": "The warm fire beckoned us inside on the cold night.\n在寒冷的夜晚，温暖的炉火吸引我们进去。\nShe beckoned to her friend across the crowded room.\n她在拥挤的房间里向她的朋友招手。"
   },
   {
     "id": "word_971",
@@ -19702,7 +19702,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈkʌm/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n成为的理论为理解这一现象提供了框架。",
+    "example": "He wanted to become an engineer when he grew up.\n他长大后想成为一名工程师。\nThe leaves become golden in autumn.\n秋天树叶变成金黄色。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to become",
@@ -19723,7 +19723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bed/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与床相关的实践技能在工作场所受到高度重视。",
+    "example": "She went to bed early after a long day at work.\n漫长的一天工作后，她早早睡觉了。\nThe hotel bed was incredibly comfortable.\n酒店床非常舒服。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19744,7 +19744,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedevil/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bedevil的发展。"
+    "example": "Technical problems bedeviled the new software launch.\n技术问题困扰着新软件发布。\nDoubt bedeviled his confidence in the project.\n疑虑困扰着他对项目的信心。"
   },
   {
     "id": "word_974",
@@ -19759,7 +19759,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedlam/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bedlam的研究取得了重大进展。"
+    "example": "Bedlam broke out when the fire alarm sounded.\n火警响起时，现场一片混乱。\nThe football match descended into bedlam.\n足球比赛陷入一片混乱。"
   },
   {
     "id": "word_975",
@@ -19774,7 +19774,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedraggle/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bedraggle的新方面。"
+    "example": "The rain bedraggled her long hair and dress.\n雨水把她的长发和裙子弄湿了。\nThe old curtains looked bedraggled after years of use.\n旧窗帘用了多年后看起来又脏又皱。"
   },
   {
     "id": "word_976",
@@ -19789,7 +19789,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bedridden/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbedridden的应用革新了各个行业。"
+    "example": "The elderly woman was bedridden for several months.\n老妇人在床上躺了好几个月。\nAfter the accident, he became bedridden.\n事故发生后，他只能卧床不起。"
   },
   {
     "id": "word_977",
@@ -19804,7 +19804,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbedruːm/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对卧室的认识显著提高。"
+    "example": "The bedroom was painted in soft blue colors.\n卧室被漆成柔和的蓝色。\nThey decorated the bedroom with family photographs.\n他们用家庭照片装饰卧室。"
   },
   {
     "id": "word_978",
@@ -19819,7 +19819,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bee/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，蜜蜂的重要性怎么强调都不为过。",
+    "example": "A bee flew into the garden to collect nectar.\n一只蜜蜂飞进花园采集花蜜。\nBees are essential for pollinating many crops.\n蜜蜂对许多农作物的授粉至关重要。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19840,7 +19840,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beechnut/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbeechnut的理论为理解这一现象提供了框架。"
+    "example": "Squirrels bury beechnuts for winter food storage.\n松鼠埋藏山毛榉坚果作为冬季食物储备。\nThe beechnut is small but highly nutritious.\n山毛榉坚果虽小但营养丰富。"
   },
   {
     "id": "word_980",
@@ -19855,7 +19855,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beef/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与牛肉相关的实践技能在工作场所受到高度重视。",
+    "example": "She ordered beef for dinner at the restaurant.\n她在餐厅点了牛肉作为晚餐。\nThere has been some beef between the two neighbors.\n两个邻居之间有一些矛盾。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19876,7 +19876,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beefburger/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会人的发展。"
+    "example": "The children enjoyed beefburgers at the birthday party.\n孩子们在生日派对上吃牛肉汉堡。\nBeefburgers are a popular fast food worldwide.\n牛肉汉堡是世界各地流行的快餐。"
   },
   {
     "id": "word_982",
@@ -19891,7 +19891,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beehive/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...性的研究取得了重大进展。"
+    "example": "Bees live together in a large beehive structure.\n蜜蜂生活在一个大型蜂箱结构中。\nThe beehive was hanging from the old oak tree.\n蜂箱挂在老橡树上。"
   },
   {
     "id": "word_983",
@@ -19906,7 +19906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/been/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索been的新方面。"
+    "example": "She has been to Paris three times.\n她去巴黎三次了。\nThe project has been completed successfully.\n项目已成功完成。"
   },
   {
     "id": "word_984",
@@ -19921,7 +19921,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪə/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n啤酒的应用革新了各个行业。",
+    "example": "He ordered a pint of beer at the pub.\n他在酒吧点了一品脱啤酒。\nBeer is brewed from malted barley and hops.\n啤酒由麦芽和大麦酿造而成。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -19942,7 +19942,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beerage/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对行为的认识显著提高。"
+    "example": "The beerage attended the royal ceremony.\n贵族们参加了皇家仪式。\nThe British beerage has ancient origins.\n英国贵族有古老的起源。"
   },
   {
     "id": "word_986",
@@ -19957,7 +19957,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beeswax/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，beeswax的重要性怎么强调都不为过。"
+    "example": "Beeswax is used to make natural candles.\n蜂蜡用于制作天然蜡烛。\nThe wood was polished with beeswax.\n木头用蜂蜡抛光。"
   },
   {
     "id": "word_987",
@@ -19972,7 +19972,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beetle/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n倍的的理论为理解这一现象提供了框架。"
+    "example": "A colorful beetle crawled across the leaf.\n一只色彩斑斓的甲虫爬过叶子。\nThe ladybug is a type of beneficial beetle.\n瓢虫是一种有益的甲虫。"
   },
   {
     "id": "word_988",
@@ -19987,7 +19987,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beetroot/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与beetroot相关的实践技能在工作场所受到高度重视。"
+    "example": "Beetroot is rich in vitamins and minerals.\n甜菜根富含维生素和矿物质。\nShe added roasted beetroot to her salad.\n她在沙拉中加入烤甜菜根。"
   },
   {
     "id": "word_989",
@@ -20002,7 +20002,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befall/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会befall的发展。"
+    "example": "Disaster may befall those who ignore warnings.\n忽视警告的人可能会遭遇灾难。\nWhatever may befall us, we will face it together.\n无论发生什么，我们都会一起面对。"
   },
   {
     "id": "word_990",
@@ -20017,7 +20017,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befit/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，befit的研究取得了重大进展。"
+    "example": "Formal attire befits such an important occasion.\n正式服装适合这样重要的场合。\nIt would befit a scholar to show humility.\n学者应该表现出谦虚。"
   },
   {
     "id": "word_991",
@@ -20032,7 +20032,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befog/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索befog的新方面。"
+    "example": "Mist began to befog the valley at dawn.\n黎明时分，薄雾开始笼罩山谷。\nConfusion befogged his judgment.\n困惑蒙蔽了他的判断。"
   },
   {
     "id": "word_992",
@@ -20047,7 +20047,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befool/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbefool的应用革新了各个行业。"
+    "example": "Tricksters try to befool unsuspecting victims.\n骗子试图愚弄毫无戒心的受害者。\nNo one could befool the experienced detective.\n没有人能愚弄这位经验丰富的侦探。"
   },
   {
     "id": "word_993",
@@ -20062,7 +20062,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈfɔː/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对在...之前 conj. 在...以前的认识显著提高。",
+    "example": "She finished her homework before dinner.\n她在晚饭前完成了作业。\nStand before the judge and answer the charges.\n站在法官面前回答指控。",
     "prefix": "be-",
     "prefixMeaning": "在...之前",
     "prefixMeaningEn": "by, before",
@@ -20083,7 +20083,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/befriend/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，befriend的重要性怎么强调都不为过。"
+    "example": "The kind teacher offered to befriend the new student.\n善良的老师主动与新生交朋友。\nShe tried to befriend the lonely elderly neighbor.\n她试图与孤独的老邻居交朋友。"
   },
   {
     "id": "word_995",
@@ -20098,7 +20098,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beget/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbeget的理论为理解这一现象提供了框架。"
+    "example": "Hard work begets success in life.\n努力工作带来人生成功。\nPoverty begets many social problems.\n贫困产生许多社会问题。"
   },
   {
     "id": "word_996",
@@ -20113,7 +20113,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beggar/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与beggar相关的实践技能在工作场所受到高度重视。"
+    "example": "The beggar asked for food on the street corner.\n乞丐在街角乞讨食物。\nBeggar cannot be choosers in difficult circumstances.\n人在困境中不能挑剔。"
   },
   {
     "id": "word_997",
@@ -20128,7 +20128,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beggary/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的发展。"
+    "example": "Gambling reduced the family to beggary.\n赌博使这个家庭沦为乞丐。\nHe fell into beggary after losing his business.\n生意失败后，他沦为乞丐。"
   },
   {
     "id": "word_998",
@@ -20143,7 +20143,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈɡɪn/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，开始的研究取得了重大进展。",
+    "example": "The movie will begin in a few minutes.\n电影几分钟后开始。\nShe decided to begin a new chapter in her life.\n她决定开始人生的新篇章。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20164,7 +20164,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈɡɪnɪŋ/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索开始的新方面。",
+    "example": "Every journey begins with a single step.\n每个旅程都从第一步开始。\nThe beginning of the book was quite interesting.\n这本书的开头很有趣。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20185,7 +20185,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/begrime/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbegrime的应用革新了各个行业。"
+    "example": "Coal dust begrimed the miners faces and clothes.\n煤灰弄脏了矿工的脸和衣服。\nYears of neglect had begrimed the old building.\n多年的忽视使旧建筑变得肮脏。"
   },
   {
     "id": "word_1001",
@@ -20200,7 +20200,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/begun/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对begun的认识显著提高。"
+    "example": "The construction has already begun.\n建设已经开始了。\nOnce begun, the project must be completed.\n一旦开始，项目必须完成。"
   },
   {
     "id": "word_1002",
@@ -20215,7 +20215,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈhɑːf/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，代表的重要性怎么强调都不为过。",
+    "example": "I am writing on behalf of the entire team.\n我代表整个团队写信。\nShe spoke on behalf of all the students.\n她代表所有学生发言。",
     "prefix": "be-",
     "prefixMeaning": "在...方面",
     "prefixMeaningEn": "by, on",
@@ -20236,7 +20236,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈheɪv/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n表现的理论为理解这一现象提供了框架。",
+    "example": "Children must learn to behave properly in school.\n孩子们必须学会在学校举止得体。\nPlease behave yourselves during the ceremony.\n请在仪式期间规矩些。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20257,7 +20257,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈheɪvjə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与行为相关的实践技能在工作场所受到高度重视。",
+    "example": "His strange behavior worried his friends.\n他奇怪的行为让他的朋友们担心。\nScientists study animal behavior in the wild.\n科学家研究野外的动物行为。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20278,7 +20278,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behead/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会behead的发展。"
+    "example": "The king ordered the traitor to be beheaded.\n国王命令将叛徒斩首。\nAncient civilizations used to behead enemies in battle.\n古代文明曾在战斗中将敌人斩首。"
   },
   {
     "id": "word_1006",
@@ -20293,7 +20293,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behemoth/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，行为的研究取得了重大进展。"
+    "example": "The corporation has grown into a behemoth in the industry.\n该公司已发展成为行业巨头。\nThe behemoth dinosaur ruled the ancient world.\n巨兽恐龙统治着古代世界。"
   },
   {
     "id": "word_1007",
@@ -20308,7 +20308,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behest/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索behest的新方面。"
+    "example": "At the behest of the king, the messenger rode swiftly.\n在国王的命令下，信使飞速骑行。\nShe acted at her mothers behest.\n她按照母亲的命令行事。"
   },
   {
     "id": "word_1008",
@@ -20323,7 +20323,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈhaɪnd/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n在...之后的应用革新了各个行业。",
+    "example": "The garden is located behind the house.\n花园位于房子后面。\nHe hid behind the door to surprise his friend.\n他躲在门后给朋友惊喜。",
     "prefix": "be-",
     "prefixMeaning": "在...后面",
     "prefixMeaningEn": "by, behind",
@@ -20344,7 +20344,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behold/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对behold的认识显著提高。"
+    "example": "Behold the magnificent palace before you.\n看啊，你面前宏伟的宫殿。\nShe was beautiful to behold.\n她看起来很美。"
   },
   {
     "id": "word_1010",
@@ -20359,7 +20359,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beholden/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，beholden的重要性怎么强调都不为过。"
+    "example": "He felt beholden to his mentor for the opportunity.\n他觉得欠导师给了他这个机会。\nShe was beholden to no one for her success.\n她的成功不欠任何人。"
   },
   {
     "id": "word_1011",
@@ -20374,7 +20374,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/behove/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbehove的理论为理解这一现象提供了框架。"
+    "example": "It behoves a scholar to pursue truth diligently.\n学者应该勤勉追求真理。\nIt would behove you to apologize.\n你道个歉才好。"
   },
   {
     "id": "word_1012",
@@ -20389,7 +20389,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbiːɪŋ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与存在相关的实践技能在工作场所受到高度重视。",
+    "example": "Human beings have the capacity for reason.\n人类有推理能力。\nThe company came into being in 1995.\n公司成立于1995年。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20410,7 +20410,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belabor/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会人的发展。",
+    "example": "The speaker belabored the point for hours.\n演讲者反复强调这一点好几个小时。\nThere is no need to belabor the obvious.\n没有必要重复显而易见的事情。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20431,7 +20431,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belated/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，已...的研究取得了重大进展。",
+    "example": "She sent a belated birthday card.\n她寄了一张迟到的生日卡。\nHe offered a belated apology for his mistake.\n他为错误提供了迟到的道歉。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20452,7 +20452,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belay/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索belay的新方面。",
+    "example": "Belay that rope securely to the rock.\n把绳子牢牢系在岩石上。\nClimbers must belay carefully for safety.\n攀岩者必须为安全而仔细系绳。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20473,7 +20473,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belch/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbelch的应用革新了各个行业。",
+    "example": "The volcano began to belch smoke and ash.\n火山开始喷出烟和灰。\nIt is considered rude to belch in public.\n在公共场合打嗝被认为是不礼貌的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20494,7 +20494,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belie/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对belie的认识显著提高。",
+    "example": "His smile belied his true feelings.\n他的微笑掩盖了他的真实感受。\nThe results belied all expectations.\n结果辜负了所有人的期望。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20515,7 +20515,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈliːf/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，信念的重要性怎么强调都不为过。",
+    "example": "She has a strong belief in education.\n她对教育有坚定的信念。\nReligious beliefs vary greatly among cultures.\n不同文化的宗教信仰差异很大。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20536,7 +20536,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/believable/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n可...的理论为理解这一现象提供了框架。",
+    "example": "The story was believable and well-written.\n这个故事可信且写得很好。\nActors must deliver believable performances.\n演员必须呈现可信的表演。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20557,7 +20557,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈliːv/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与相信相关的实践技能在工作场所受到高度重视。",
+    "example": "I believe in hard work and dedication.\n我相信努力工作和奉献。\nShe believes that education changes lives.\n她相信教育改变生活。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20578,7 +20578,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/believer/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会人的发展。",
+    "example": "He is a firm believer in democracy.\n他是民主的坚定信仰者。\nTrue believers never doubt their faith.\n真正的信徒从不怀疑他们的信仰。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20599,7 +20599,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bel/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，钟的研究取得了重大进展。",
+    "example": "The church bell rang loudly at noon.\n教堂的钟在中午大声敲响。\nPlease ring the bell when you arrive.\n到达时请按门铃。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20620,7 +20620,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bellboy/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bellboy的新方面。",
+    "example": "The bellboy carried the luggage to the room.\n行李员把行李搬到房间。\nBellboys assist guests at hotels.\n行李员在酒店帮助客人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20641,7 +20641,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belligerent/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n人的应用革新了各个行业。",
+    "example": "The belligerent soldier refused to surrender.\n好战的士兵拒绝投降。\nHis belligerent attitude caused conflicts.\n他好斗的态度引起了冲突。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20662,7 +20662,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bellow/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bellow的认识显著提高。",
+    "example": "The angry bull began to bellow loudly.\n愤怒的公牛开始大声吼叫。\nHe bellowed at the workers to move faster.\n他对工人们大声喊叫要他们快点。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20683,7 +20683,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bellows/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bellows的重要性怎么强调都不为过。",
+    "example": "He used bellows to fan the fire.\n他用风箱扇火。\nBellows help blow air into a fire.\n风箱帮助向火中吹气。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20704,7 +20704,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belly/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n腹部的理论为理解这一现象提供了框架。",
+    "example": "The cat curled up on her belly.\n猫蜷缩在她的腹部上。\nThe belly of the boat filled with water.\n船的底部充满了水。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20725,7 +20725,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈlɒŋ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与属于相关的实践技能在工作场所受到高度重视。",
+    "example": "This book belongs to the library.\n这本书属于图书馆。\nWhere do these keys belong?\n这些钥匙应该放在哪里？",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -20746,7 +20746,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈləʊ/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会在...下面的发展。",
+    "example": "The temperature dropped below zero last night.\n昨晚温度降到零度以下。\nPlease sign your name below the line.\n请在线下方签名。",
     "prefix": "be-",
     "prefixMeaning": "在...之下",
     "prefixMeaningEn": "by, under",
@@ -20767,7 +20767,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/belt/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，带的研究取得了重大进展。",
+    "example": "He wore a leather belt with his jeans.\n他穿牛仔裤时系了一条皮带。\nThe factory belt moved products along the assembly line.\n工厂的传送带沿着装配线移动产品。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20788,7 +20788,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beltway/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索beltway的新方面。",
+    "example": "The capital city is surrounded by a major beltway.\n首都城市被一条主要环城公路环绕。\nTraffic on the beltway was heavy during rush hour.\n高峰时段环城公路交通拥挤。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20809,7 +20809,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bentʃ/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n长凳的应用革新了各个行业。",
+    "example": "They sat on a park bench to rest.\n他们坐在公园的长凳上休息。\nThe carpenter built a wooden bench for the garden.\n木匠为花园做了一条木长凳。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20830,7 +20830,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benchmark/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对benchmark的认识显著提高。",
+    "example": "The test serves as a benchmark for all students.\n这次考试作为所有学生的基准。\nThe company set new benchmarks for quality.\n公司设定了新的质量基准。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20851,7 +20851,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bend/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，弯曲的重要性怎么强调都不为过。",
+    "example": "The road bends to the left ahead.\n前面的路向左拐弯。\nShe tried to bend the metal rod with her hands.\n她试图用手弯曲金属棒。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20872,7 +20872,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈniːθ/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n在...之下的理论为理解这一现象提供了框架。",
+    "example": "The treasure was hidden beneath the old tree.\n宝藏藏在老树下。\nSuch behavior is beneath her dignity.\n这种行为有损她的尊严。",
     "prefix": "be-",
     "prefixMeaning": "在...之下",
     "prefixMeaningEn": "by, under",
@@ -20893,7 +20893,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benefactor/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与人相关的实践技能在工作场所受到高度重视。",
+    "example": "A generous benefactor donated millions to the charity.\n一位慷慨的赞助者向慈善机构捐赠了数百万。\nThe scholarship was established by a wealthy benefactor.\n奖学金是由一位富有的赞助者设立的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20914,7 +20914,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benefice/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会benefice的发展。",
+    "example": "The priest received a small benefice from the church.\n牧师从教会获得了一小笔圣俸。\nBenefices provided income for clergy historically.\n圣俸在历史上为神职人员提供收入。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20935,7 +20935,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beneficent/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人的研究取得了重大进展。",
+    "example": "The beneficent king improved the lives of his people.\n仁慈的国王改善了他人民的生活。\nHer beneficent actions helped many families.\n她仁慈的行为帮助了许多家庭。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20956,7 +20956,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbenɪfɪt/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索利益的新方面。",
+    "example": "Regular exercise has many health benefits.\n定期锻炼有许多健康益处。\nThe new policy will benefit all employees.\n新政策将使所有员工受益。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20977,7 +20977,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benevolent/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n人的应用革新了各个行业。",
+    "example": "The benevolent organization helps the poor.\n这个仁慈的组织帮助穷人。\nShe had a benevolent smile on her face.\n她脸上带着仁慈的微笑。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -20998,7 +20998,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benign/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对benign的认识显著提高。",
+    "example": "The doctor said the tumor was benign.\n医生说肿瘤是良性的。\nThe old man had a benign expression.\n老人有慈祥的表情。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21019,7 +21019,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benison/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，benison的重要性怎么强调都不为过。"
+    "example": "The priest gave his benison to the congregation.\n牧师为会众祝福。\nShe received his benison before the journey.\n她在旅程前接受了他的祝福。"
   },
   {
     "id": "word_1043",
@@ -21034,7 +21034,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bent/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n弯曲的理论为理解这一现象提供了框架。",
+    "example": "The old man had a bent back from years of work.\n老人因多年工作而驼背。\nShe is bent on achieving her goals.\n她决心要实现她的目标。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21055,7 +21055,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benthamite/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与benthamite相关的实践技能在工作场所受到高度重视。"
+    "example": "Benthamite philosophy emphasizes utilitarianism.\n边沁主义哲学强调功利主义。\nBenthamite principles influenced legal reform.\n边沁主义原则影响了法律改革。"
   },
   {
     "id": "word_1045",
@@ -21070,7 +21070,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/benzene/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会benzene的发展。"
+    "example": "Benzene is a chemical compound used in industry.\n苯是一种用于工业的化学化合物。\nBenzene has a distinctive aromatic smell.\n苯有一种独特的芳香气味。"
   },
   {
     "id": "word_1046",
@@ -21085,7 +21085,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bequeath/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，行为的研究取得了重大进展。"
+    "example": "She decided to bequeath her estate to charity.\n她决定把遗产遗赠给慈善机构。\nThe author bequeathed his royalties to his children.\n作者把版税遗赠给他的孩子们。"
   },
   {
     "id": "word_1047",
@@ -21100,7 +21100,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bequest/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bequest的新方面。"
+    "example": "The museum received a valuable bequest from the collector.\n博物馆收到了收藏家贵重的遗赠。\nHis bequest funded the new hospital wing.\n他的遗赠资助了新的医院侧楼。"
   },
   {
     "id": "word_1048",
@@ -21115,7 +21115,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berate/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n使...的应用革新了各个行业。",
+    "example": "The manager began to berate the employee for the mistake.\n经理开始因错误责备员工。\nShe berated herself for not studying harder.\n她责备自己没有更努力学习。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21136,7 +21136,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bereave/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bereave的认识显著提高。"
+    "example": "Death bereaved her of her beloved husband.\n死亡夺走了她挚爱的丈夫。\nThe accident bereaved the family of their son.\n事故夺走了这个家庭的儿子。"
   },
   {
     "id": "word_1050",
@@ -21151,7 +21151,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beret/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，beret的重要性怎么强调都不为过。"
+    "example": "The artist wore a black beret for his portrait.\n艺术家戴着一顶黑色贝雷帽画像。\nBerets are popular in French fashion culture.\n贝雷帽在法国时尚文化中很流行。"
   },
   {
     "id": "word_1051",
@@ -21166,7 +21166,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beriberi/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nberiberi的理论为理解这一现象提供了框架。"
+    "example": "Beriberi is caused by vitamin B1 deficiency.\n脚气病是由维生素B1缺乏引起的。\nBeriberi was common in ancient times.\n脚气病在古代很常见。"
   },
   {
     "id": "word_1052",
@@ -21181,7 +21181,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berry/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与浆果相关的实践技能在工作场所受到高度重视。",
+    "example": "Fresh berries are delicious in summer.\n新鲜浆果在夏天很美味。\nBlueberries are rich in antioxidants.\n蓝莓富含抗氧化剂。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21202,7 +21202,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berserk/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会berserk的发展。"
+    "example": "The warrior went berserk in battle.\n战士在战斗中变得疯狂。\nHe went berserk when he heard the news.\n他听到这个消息时怒不可遏。"
   },
   {
     "id": "word_1054",
@@ -21217,7 +21217,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/berth/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，行为的研究取得了重大进展。"
+    "example": "The ship found a safe berth in the harbor.\n船在港口找到了安全的泊位。\nShe booked a berth on the overnight train.\n她在夜班火车上预订了一个卧铺。"
   },
   {
     "id": "word_1055",
@@ -21232,7 +21232,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beryl/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索beryl的新方面。"
+    "example": "The queen wore a beryl necklace to the ball.\n王后戴着绿宝石项链参加舞会。\nBeryl is a precious gemstone found in mines.\n绿宝石是在矿山中发现的珍贵宝石。"
   },
   {
     "id": "word_1056",
@@ -21247,7 +21247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beryllium/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nberyllium的应用革新了各个行业。"
+    "example": "Beryllium is a lightweight metal used in aerospace.\n铍是一种用于航空航天领域的轻金属。\nBeryllium has unique physical properties.\n铍具有独特的物理特性。"
   },
   {
     "id": "word_1057",
@@ -21262,7 +21262,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beset/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对beset的认识显著提高。",
+    "example": "The project was beset by numerous problems.\n项目被许多问题困扰。\nShe was beset with doubts about her decision.\n她对自己的决定充满疑虑。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21283,7 +21283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beshrew/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，beshrew的重要性怎么强调都不为过。"
+    "example": "Beshrew thee for thy foolishness!\n你的愚蠢该受诅咒！\nThe poet beshrewed his enemies.\n诗人诅咒了他的敌人。"
   },
   {
     "id": "word_1059",
@@ -21298,7 +21298,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈsaɪd/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n在...旁边的理论为理解这一现象提供了框架。",
+    "example": "She sat beside her mother at the theater.\n她在剧院坐在母亲旁边。\nThe school is located beside the park.\n学校位于公园旁边。",
     "prefix": "be-",
     "prefixMeaning": "在...旁边",
     "prefixMeaningEn": "at, beside",
@@ -21319,7 +21319,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈsaɪdz/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与此外相关的实践技能在工作场所受到高度重视。"
+    "example": "Besides English, she speaks three other languages.\n除了英语，她还会说三种其他语言。\nBesides, it is too late to change anything.\n而且，现在改变任何事情都太晚了。"
   },
   {
     "id": "word_1061",
@@ -21334,7 +21334,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besiege/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会besiege的发展。",
+    "example": "Enemy forces began to besiege the city.\n敌军开始围攻这座城市。\nJournalists besieged the minister with questions.\n记者们用问题围攻部长。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21355,7 +21355,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besmear/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，besmear的研究取得了重大进展。"
+    "example": "Soot besmeared the walls of the factory.\n煤灰弄脏了工厂的墙壁。\nPaint besmeared his clothes after the work.\n工作结束后油漆弄脏了他的衣服。"
   },
   {
     "id": "word_1063",
@@ -21370,7 +21370,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besmirch/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索besmirch的新方面。",
+    "example": "Scandals besmirched the politicians reputation.\n丑闻损害了政治家的名誉。\nShe refused to besmirch her familys honor.\n她拒绝玷污她家族的荣誉。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21391,7 +21391,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besom/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbesom的应用革新了各个行业。"
+    "example": "The witch used a besom to sweep the floor.\n女巫用扫帚扫地。\nBesoms were traditionally made from birch twigs.\n扫帚传统上用桦树枝制成。"
   },
   {
     "id": "word_1065",
@@ -21406,7 +21406,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/besot/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对besot的认识显著提高。"
+    "example": "Love besotted the young prince completely.\n爱情完全迷住了年轻的王子。\nWealth besotted the corrupt official.\n财富迷住了腐败的官员。"
   },
   {
     "id": "word_1066",
@@ -21421,7 +21421,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bespangle/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bespangle的重要性怎么强调都不为过。"
+    "example": "The night sky was bespangled with stars.\n夜空繁星点点。\nFestive decorations bespangled the hall.\n节日装饰使大厅闪闪发光。"
   },
   {
     "id": "word_1067",
@@ -21436,7 +21436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bespoke/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbespoke的理论为理解这一现象提供了框架。"
+    "example": "He ordered a bespoke suit from the tailor.\n他从裁缝那里定制了一套西装。\nBespoke furniture is made to individual specifications.\n定制家具是根据个人规格制作的。"
   },
   {
     "id": "word_1068",
@@ -21451,7 +21451,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/best/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与最好相关的实践技能在工作场所受到高度重视。",
+    "example": "She is the best student in her class.\n她是班上最好的学生。\nThe best solution is to work together.\n最好的解决方案是一起工作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21472,7 +21472,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestial/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的发展。"
+    "example": "The bestial act shocked the entire nation.\n野兽般的行为震惊了全国。\nBestial cruelty has no place in civilized society.\n野兽般的残忍在文明社会没有容身之地。"
   },
   {
     "id": "word_1070",
@@ -21487,7 +21487,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestow/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bestow的研究取得了重大进展。",
+    "example": "The queen will bestow honors upon the heroes.\n女王将授予英雄们荣誉。\nShe bestowed her blessing on the young couple.\n她为年轻夫妇送上祝福。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21508,7 +21508,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestrew/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bestrew的新方面。"
+    "example": "Fallen leaves bestrewed the garden path.\n落叶铺满了花园小路。\nPapers bestrewed the floor of the office.\n文件散落在办公室的地板上。"
   },
   {
     "id": "word_1072",
@@ -21523,7 +21523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bestride/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbestride的应用革新了各个行业。",
+    "example": "The giant bestrode the hill like a colossus.\n巨人像巨像一样跨坐在山上。\nHe bestrode the horse with great pride.\n他骄傲地骑在马上。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21544,7 +21544,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/betag/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对betag的认识显著提高。"
+    "example": "Time betags the ancient stones over centuries.\n几个世纪以来，时间使古老的石头变得斑驳。\nThe weathered statue was betagged by years of exposure.\n风化的雕像因多年的暴露而变得斑驳。"
   },
   {
     "id": "word_1074",
@@ -21559,7 +21559,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bethink/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bethink的重要性怎么强调都不为过。"
+    "example": "Bethink yourself of your duty to your family.\n想想你对家庭的责任。\nShe bethought herself of her childhood memories.\n她想起了童年的记忆。"
   },
   {
     "id": "word_1075",
@@ -21574,7 +21574,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/betide/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbetide的理论为理解这一现象提供了框架。"
+    "example": "Whatever may betide us, we will face it together.\n无论我们遭遇什么，我们都会一起面对。\nMay good fortune betide you in your new venture.\n愿好运伴随你的新事业。"
   },
   {
     "id": "word_1076",
@@ -21589,7 +21589,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/betimes/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与betimes相关的实践技能在工作场所受到高度重视。"
+    "example": "She rose betimes to catch the early train.\n她早早起床赶早班火车。\nBetimes one must work hard to achieve success.\n有时人必须努力工作才能成功。"
   },
   {
     "id": "word_1077",
@@ -21604,7 +21604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/betray/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会背叛的发展。",
+    "example": "He promised never to betray her trust.\n他承诺永远不辜负她的信任。\nThe soldiers would never betray their country.\n士兵们永远不会背叛他们的国家。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21625,7 +21625,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/betroth/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，行为的研究取得了重大进展。"
+    "example": "The king betrothed his daughter to the prince.\n国王将女儿许配给王子。\nThey were betrothed in a grand ceremony.\n他们在盛大的仪式中订婚了。"
   },
   {
     "id": "word_1079",
@@ -21640,7 +21640,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbetə/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索更好的新方面。",
+    "example": "She felt much better after a good nights sleep.\n好好睡一晚后，她感觉好多了。\nIt is better to be safe than sorry.\n宁可安全也不要遗憾。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21661,7 +21661,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪˈtwiːn/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n在...之间的应用革新了各个行业。",
+    "example": "The restaurant is between the bank and the theater.\n餐厅在银行和剧院之间。\nShe could not choose between the two options.\n她无法在两个选项之间做出选择。",
     "prefix": "be-",
     "prefixMeaning": "在...之间",
     "prefixMeaningEn": "by, between",
@@ -21682,7 +21682,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beverage/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对行为的认识显著提高。",
+    "example": "Would you like a hot beverage with your meal?\n你想在用餐时喝点热饮吗？\nThe beverage was refreshing on a hot day.\n热天里这种饮料很解渴。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21703,7 +21703,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bevy/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bevy的重要性怎么强调都不为过。",
+    "example": "A bevy of beauties attended the ball.\n一群美女参加了舞会。\nA bevy of birds gathered near the pond.\n一群鸟聚集在池塘附近。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -21724,7 +21724,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bewail/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbewail的理论为理解这一现象提供了框架。",
+    "example": "She began to bewail her unfortunate fate.\n她开始为自己的不幸命运悲叹。\nThe poet bewailed the loss of his beloved.\n诗人为失去所爱而悲叹。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21745,7 +21745,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/beware/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与beware相关的实践技能在工作场所受到高度重视。",
+    "example": "Beware of strangers approaching you.\n小心接近你的陌生人。\nMotorists should beware of icy road conditions.\n驾驶员应注意结冰的道路状况。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
@@ -21766,7 +21766,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bewilder/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会人的发展。",
+    "example": "The complex puzzle bewildered many players.\n这个复杂的谜题让许多玩家困惑。\nShe was bewildered by the sudden change of plans.\n她被计划的突然改变弄糊涂了。",
     "prefix": "be-",
     "prefixMeaning": "使成为",
     "prefixMeaningEn": "to make",
