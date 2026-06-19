@@ -27868,7 +27868,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brace/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对brace的认识显著提高。"
+    "example": "She wore a brace on her knee after the injury.\n她受伤后膝盖上戴着支架。\nThe carpenter used a brace to hold the wood together.\n木匠用支架把木头固定在一起。"
   },
   {
     "id": "word_1394",
@@ -27883,7 +27883,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bracelet/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bracelet的重要性怎么强调都不为过。"
+    "example": "She received a beautiful gold bracelet for her birthday.\n她生日收到了一条漂亮的金手链。\nThe bracelet was engraved with her initials.\n手链上刻有她的名字首字母。"
   },
   {
     "id": "word_1395",
@@ -27898,7 +27898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brachiopod/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbrachiopod的理论为理解这一现象提供了框架。"
+    "example": "Brachiopods are marine animals with two shells.\n腕足动物是有两个壳的海洋动物。\nFossils of brachiopods are found in ancient rocks.\n腕足动物化石在古代岩石中发现。"
   },
   {
     "id": "word_1396",
@@ -27913,7 +27913,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bracket/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bracket相关的实践技能在工作场所受到高度重视。"
+    "example": "The shelf was attached to the wall with metal brackets.\n架子用金属支架固定在墙上。\nThe price bracket for the car is between  and .\n这辆车的价格区间在3万到4万美元之间。"
   },
   {
     "id": "word_1397",
@@ -27928,7 +27928,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brackish/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会像...的发展。"
+    "example": "The estuary has brackish water from both rivers and oceans.\n河口有来自河流和海洋的微咸水。\nBrackish water is not suitable for drinking.\n微咸水不适合饮用。"
   },
   {
     "id": "word_1398",
@@ -27943,7 +27943,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bract/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bract的研究取得了重大进展。"
+    "example": "The bract protects the flower before it blooms.\n苞片在花朵绽放前保护它。\nSome plants have colorful bracts that look like flowers.\n有些植物有看起来像花的彩色苞片。"
   },
   {
     "id": "word_1399",
@@ -27958,7 +27958,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brad/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索brad的新方面。"
+    "example": "The carpenter used a brad to join the two pieces of wood.\n木匠用小钉子连接两块木头。\nBrads are smaller than regular nails.\n小钉子比普通钉子小。"
   },
   {
     "id": "word_1400",
@@ -27973,7 +27973,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brae/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbrae的应用革新了各个行业。"
+    "example": "The path wound up the steep brae to the castle.\n小路蜿蜒爬上陡峭的山坡到达城堡。\nShe walked up the brae to get a better view.\n她走上山坡去看更好的景色。"
   },
   {
     "id": "word_1401",
@@ -27988,7 +27988,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braft/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对braft的认识显著提高。"
+    "example": "A braft of logs floated down the river.\n一束原木漂浮在河上。\nThe workers tied the braft together with strong ropes.\n工人用结实的绳子把原木捆在一起。"
   },
   {
     "id": "word_1402",
@@ -28003,7 +28003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braid/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，braid的重要性怎么强调都不为过。"
+    "example": "She learned how to braid her hair in school.\n她在学校学会了编辫子。\nThe braid was decorated with colorful ribbons.\n辫子上装饰着彩色丝带。"
   },
   {
     "id": "word_1403",
@@ -28018,7 +28018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braille/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbraille的理论为理解这一现象提供了框架。"
+    "example": "Blind people use braille to read books.\n盲人用盲文阅读书籍。\nThe library has a large collection of braille books.\n图书馆有大量盲文书籍。"
   },
   {
     "id": "word_1404",
@@ -28033,7 +28033,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breɪn/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与大脑相关的实践技能在工作场所受到高度重视。"
+    "example": "The human brain is a complex organ with billions of neurons.\n人脑是一个拥有数十亿神经元的复杂器官。\nScientists continue to study how the brain works.\n科学家继续研究大脑的工作原理。"
   },
   {
     "id": "word_1405",
@@ -28048,7 +28048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainchild/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会brainchild的发展。"
+    "example": "The new project was the brainchild of the creative director.\n新项目是创意总监的想法。\nHer brainchild became a successful business venture.\n她的想法成为了一个成功的商业项目。"
   },
   {
     "id": "word_1406",
@@ -28063,7 +28063,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainsick/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，brainsick的研究取得了重大进展。"
+    "example": "The brainsick man rambled about imaginary enemies.\n那个精神失常的人胡言乱语说有假想的敌人。\nHis brainsick behavior worried his family and friends.\n他精神失常的行为让家人和朋友担心。"
   },
   {
     "id": "word_1407",
@@ -28078,7 +28078,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainstorm/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索brainstorm的新方面。"
+    "example": "We need to brainstorm ideas for the upcoming event.\n我们需要为即将到来的活动集思广益。\nThe team had a brainstorm session to solve the problem.\n团队进行了头脑风暴会议来解决问题。"
   },
   {
     "id": "word_1408",
@@ -28093,7 +28093,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brainwash/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbrainwash的应用革新了各个行业。"
+    "example": "The cult tried to brainwash its members into obedience.\n邪教试图对其成员进行洗脑使其服从。\nPropaganda can be used to brainwash people.\n宣传可以用来洗脑人们。"
   },
   {
     "id": "word_1409",
@@ -28108,7 +28108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braise/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对braise的认识显著提高。"
+    "example": "The chef will braise the beef slowly for several hours.\n厨师会把牛肉慢炖几个小时。\nBraising makes tough meat tender and flavorful.\n炖肉使硬肉变得鲜嫩可口。"
   },
   {
     "id": "word_1410",
@@ -28123,7 +28123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brake/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，刹车的重要性怎么强调都不为过。"
+    "example": "He applied the brake to stop the car suddenly.\n他踩刹车突然停车。\nThe brake system needs to be checked regularly.\n刹车系统需要定期检查。"
   },
   {
     "id": "word_1411",
@@ -28138,7 +28138,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bramble/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n倍的的理论为理解这一现象提供了框架。"
+    "example": "Blackberries grow on thorny bramble bushes.\n黑莓长在多刺的灌木丛上。\nThe children got scratched by the bramble thorns.\n孩子们被荆棘划伤了。"
   },
   {
     "id": "word_1412",
@@ -28153,7 +28153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bran/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bran相关的实践技能在工作场所受到高度重视。"
+    "example": "Bran is a good source of dietary fiber.\n麸皮是膳食纤维的良好来源。\nShe added bran to her breakfast cereal for extra nutrition.\n她在早餐麦片里加了麸皮以增加营养。"
   },
   {
     "id": "word_1413",
@@ -28168,7 +28168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɑːntʃ/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会分支的发展。"
+    "example": "The tree branch broke during the storm.\n树枝在暴风雨中断了。\nThe company opened a new branch in the city.\n公司在这座城市开设了一家新分公司。"
   },
   {
     "id": "word_1414",
@@ -28183,7 +28183,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brænd/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，品牌的研究取得了重大进展。"
+    "example": "She bought a brand new car last month.\n她上个月买了一辆全新的车。\nThe brand is known for its high-quality products.\n这个品牌以其高品质产品而闻名。"
   },
   {
     "id": "word_1415",
@@ -28198,7 +28198,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brandish/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索像...的新方面。"
+    "example": "The knight brandished his sword at the enemy.\n骑士向敌人挥舞他的剑。\nHe brandished a knife to threaten the cashier.\n他挥舞着刀威胁收银员。"
   },
   {
     "id": "word_1416",
@@ -28213,7 +28213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brandy/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n白兰地酒的应用革新了各个行业。"
+    "example": "He enjoyed a glass of brandy after dinner.\n他饭后喜欢喝一杯白兰地。\nBrandy is made from distilled wine.\n白兰地是由蒸馏葡萄酒制成的。"
   },
   {
     "id": "word_1417",
@@ -28228,7 +28228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brash/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对brash的认识显著提高。"
+    "example": "His brash behavior offended many people at the party.\n他鲁莽的行为在派对上冒犯了许多人。\nThe brash young man spoke without thinking.\n那个鲁莽的年轻人说话不加思考。"
   },
   {
     "id": "word_1418",
@@ -28243,7 +28243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɑːs/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，黄铜的重要性怎么强调都不为过。"
+    "example": "The musician played a beautiful melody on his brass instrument.\n音乐家在他的铜管乐器上演奏了一段优美的旋律。\nBrass is an alloy of copper and zinc.\n黄铜是铜和锌的合金。"
   },
   {
     "id": "word_1419",
@@ -28258,7 +28258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brasserie/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbrasserie的理论为理解这一现象提供了框架。"
+    "example": "They had dinner at a cozy brasserie near the Eiffel Tower.\n他们在埃菲尔铁塔附近一家舒适的啤酒餐厅吃晚饭。\nThe brasserie serves traditional French cuisine.\n这家啤酒餐厅供应传统法国菜。"
   },
   {
     "id": "word_1420",
@@ -28273,7 +28273,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brat/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与brat相关的实践技能在工作场所受到高度重视。"
+    "example": "The spoiled brat refused to eat his vegetables.\n那个被宠坏的孩子拒绝吃蔬菜。\nShe was a little brat when she was young.\n她小时候是个小淘气鬼。"
   },
   {
     "id": "word_1421",
@@ -28288,7 +28288,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brattice/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会brattice的发展。"
+    "example": "The miners used a brattice to control air flow in the tunnel.\n矿工用隔板控制隧道内的气流。\nBrattice cloth is fire-resistant and durable.\n隔板布防火且耐用。"
   },
   {
     "id": "word_1422",
@@ -28303,7 +28303,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breɪv/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，勇敢的研究取得了重大进展。"
+    "example": "The brave soldier saved his comrades from danger.\n勇敢的士兵从危险中救出了他的战友。\nShe was brave enough to speak up against injustice.\n她勇敢地站出来反对不公正。"
   },
   {
     "id": "word_1423",
@@ -28318,7 +28318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bravery/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的新方面。"
+    "example": "His bravery in battle earned him a medal.\n他在战斗中的勇敢使他获得了奖章。\nBravery is admired in stories and real life.\n勇敢在故事和现实生活中都受到钦佩。"
   },
   {
     "id": "word_1424",
@@ -28333,7 +28333,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brawl/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbrawl的应用革新了各个行业。"
+    "example": "A brawl broke out between the two rival gangs.\n两个敌对帮派之间爆发了一场斗殴。\nThe police arrived to stop the brawl.\n警察到达制止了斗殴。"
   },
   {
     "id": "word_1425",
@@ -28348,7 +28348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brawn/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对brawn的认识显著提高。"
+    "example": "The weightlifter had impressive brawn and strength.\n举重运动员有令人印象深刻的肌肉和力量。\nBrawn alone is not enough; you need brains too.\n仅有肌肉是不够的，你还需要智慧。"
   },
   {
     "id": "word_1426",
@@ -28363,7 +28363,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brawny/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，brawny的重要性怎么强调都不为过。"
+    "example": "The brawny man lifted the heavy box with ease.\n那个肌肉发达的人轻松地举起了沉重的箱子。\nBrawny workers are needed for this construction job.\n这项建筑工作需要肌肉发达的工人。"
   },
   {
     "id": "word_1427",
@@ -28378,7 +28378,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bray/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbray的理论为理解这一现象提供了框架。"
+    "example": "The donkey began to bray loudly in the farmyard.\n驴子在农场院子里大声叫了起来。\nHis laugh sounded like the bray of a donkey.\n他的笑声听起来像驴子的叫声。"
   },
   {
     "id": "word_1428",
@@ -28393,7 +28393,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braze/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与braze相关的实践技能在工作场所受到高度重视。"
+    "example": "The metalworker will braze the two pieces together.\n金属工人将把两块金属钎焊在一起。\nBrazing creates a strong bond between metals.\n钎焊在金属之间形成牢固的结合。"
   },
   {
     "id": "word_1429",
@@ -28408,7 +28408,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brazier/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的人Brazi的发展。"
+    "example": "They sat around the brazier to keep warm.\n他们围坐在火盆旁取暖。\nThe brazier provided warmth during the cold night.\n火盆在寒冷的夜晚提供温暖。"
   },
   {
     "id": "word_1430",
@@ -28423,7 +28423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bred/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，面包的研究取得了重大进展。"
+    "example": "She baked a loaf of bread for breakfast.\n她烤了一条面包当早餐。\nBread is a staple food in many cultures.\n面包是许多文化中的主食。"
   },
   {
     "id": "word_1431",
@@ -28438,7 +28438,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breadbasket/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索breadbasket的新方面。"
+    "example": "The Midwest is known as the breadbasket of America.\n中西部被称为美国的粮仓。\nThe region produces enough grain to feed millions.\n该地区生产足够养活数百万人的粮食。"
   },
   {
     "id": "word_1432",
@@ -28453,7 +28453,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breadth/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n行为的应用革新了各个行业。"
+    "example": "The breadth of his knowledge impressed everyone.\n他知识的广度给每个人留下了深刻印象。\nThe breadth of the river made crossing difficult.\n河流的宽度使过河变得困难。"
   },
   {
     "id": "word_1433",
@@ -28468,7 +28468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breadwinner/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的人Breadwinn的认识显著提高。"
+    "example": "He is the sole breadwinner for his large family.\n他是他大家庭唯一的养家糊口的人。\nBeing a breadwinner comes with great responsibility.\n作为养家糊口的人肩负着重大责任。"
   },
   {
     "id": "word_1434",
@@ -28483,7 +28483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breɪk/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，打破的重要性怎么强调都不为过。"
+    "example": "She took a break from work to have lunch.\n她暂停工作去吃午饭。\nThe break in the weather allowed us to go outside.\n天气好转让我们可以出去。"
   },
   {
     "id": "word_1435",
@@ -28498,7 +28498,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakage/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n行为的理论为理解这一现象提供了框架。"
+    "example": "The breakage of the vase was accidental.\n花瓶的破损是意外的。\nThe company covers breakage during shipping.\n公司承担运输过程中的破损。"
   },
   {
     "id": "word_1436",
@@ -28513,7 +28513,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakaway/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与breakaway相关的实践技能在工作场所受到高度重视。"
+    "example": "The breakaway region declared its independence.\n分离地区宣布独立。\nA breakaway group formed their own political party.\n一个分裂团体组建了自己的政党。"
   },
   {
     "id": "word_1437",
@@ -28528,7 +28528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrekfəst/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会早餐的发展。"
+    "example": "We had a delicious breakfast at the hotel.\n我们在酒店吃了美味的早餐。\nBreakfast is considered the most important meal of the day.\n早餐被认为是一天中最重要的一餐。"
   },
   {
     "id": "word_1438",
@@ -28543,7 +28543,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakneck/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，breakneck的研究取得了重大进展。"
+    "example": "The car raced at breakneck speed down the highway.\n汽车以极快的速度在高速公路上疾驰。\nShe drove at breakneck speed to reach the hospital.\n她以惊人的速度开车去医院。"
   },
   {
     "id": "word_1439",
@@ -28558,7 +28558,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakout/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索breakout的新方面。"
+    "example": "A breakout from the prison was reported last night.\n昨晚报道了一起监狱越狱事件。\nThe breakout was carefully planned by the inmates.\n越狱是囚犯精心策划的。"
   },
   {
     "id": "word_1440",
@@ -28573,7 +28573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakthrough/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n突破的应用革新了各个行业。"
+    "example": "Scientists made a breakthrough in cancer research.\n科学家在癌症研究方面取得了突破。\nThe breakthrough discovery changed medical practices.\n突破性发现改变了医疗实践。"
   },
   {
     "id": "word_1441",
@@ -28588,7 +28588,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breakup/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对breakup的认识显著提高。"
+    "example": "Their breakup was mutual and amicable.\n他们的分手是双方自愿且友好的。\nThe breakup of the band disappointed many fans.\n乐队的解散让许多歌迷失望。"
   },
   {
     "id": "word_1442",
@@ -28603,7 +28603,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breast/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，乳房的重要性怎么强调都不为过。"
+    "example": "She held the baby close to her breast.\n她把婴儿紧紧抱在怀里。\nBreast cancer awareness is important for early detection.\n乳腺癌意识对早期发现很重要。"
   },
   {
     "id": "word_1443",
@@ -28618,7 +28618,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breastplate/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n使...的理论为理解这一现象提供了框架。"
+    "example": "The knight wore a shiny breastplate for protection.\n骑士穿着闪亮的胸甲保护自己。\nThe breastplate was engraved with family symbols.\n胸甲上刻有家族符号。"
   },
   {
     "id": "word_1444",
@@ -28633,7 +28633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breθ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与呼吸相关的实践技能在工作场所受到高度重视。"
+    "example": "He took a deep breath before diving into the pool.\n他深呼吸后跳入游泳池。\nHer breath fogged the cold window glass.\n她的呼吸使冰冷的窗户玻璃起雾。"
   },
   {
     "id": "word_1445",
@@ -28648,7 +28648,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breathable/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会可...的Breath的发展。"
+    "example": "These shoes are made of breathable material.\n这些鞋子是用透气材料制成的。\nBreathable fabrics help keep you cool in summer.\n透气面料有助于在夏天保持凉爽。"
   },
   {
     "id": "word_1446",
@@ -28663,7 +28663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briːð/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，呼吸的研究取得了重大进展。"
+    "example": "It is important to breathe deeply when feeling stressed.\n感到压力时深呼吸很重要。\nThe doctor told him to breathe slowly and steadily.\n医生告诉他要缓慢平稳地呼吸。"
   },
   {
     "id": "word_1447",
@@ -28678,7 +28678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breech/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索breech的新方面。"
+    "example": "The baby was in breech position during delivery.\n分娩时婴儿处于臀位。\nA breech birth can be more complicated than normal.\n臀位分娩可能比正常分娩更复杂。"
   },
   {
     "id": "word_1448",
@@ -28693,7 +28693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breeches/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbreeches的应用革新了各个行业。"
+    "example": "The rider wore leather breeches for horseback riding.\n骑手穿着皮马裤骑马。\nBreeches were popular clothing in the 18th century.\n马裤在18世纪是流行服装。"
   },
   {
     "id": "word_1449",
@@ -28708,7 +28708,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breed/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对繁殖的认识显著提高。"
+    "example": "Farmers breed cows for milk production.\n农民饲养奶牛产奶。\nCertain dog breeds are known for their intelligence.\n某些犬种以其聪明才智而闻名。"
   },
   {
     "id": "word_1450",
@@ -28723,7 +28723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breeze/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，微风的重要性怎么强调都不为过。"
+    "example": "A gentle breeze rustled the leaves in the trees.\n微风吹动树上的叶子沙沙作响。\nThe cool breeze provided relief from the heat.\n凉爽的微风缓解了炎热。"
   },
   {
     "id": "word_1451",
@@ -28738,7 +28738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breve/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbreve的理论为理解这一现象提供了框架。"
+    "example": "The music teacher explained the breve note value.\n音乐老师解释了全音符的时值。\nIn music notation, a breve lasts four beats.\n在乐谱中，全音符持续四拍。"
   },
   {
     "id": "word_1452",
@@ -28753,7 +28753,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brevet/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与brevet相关的实践技能在工作场所受到高度重视。"
+    "example": "He received a brevet promotion for his bravery.\n他因勇敢获得了临时晋升。\nThe brevet rank allowed him to command the regiment.\n临时军衔使他能够指挥团。"
   },
   {
     "id": "word_1453",
@@ -28768,7 +28768,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/breviary/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的发展。"
+    "example": "The priest recited the breviary during morning prayer.\n牧师在晨祷时诵读祈祷书。\nThe breviary contains prayers for different times of day.\n祈祷书包含一天不同时间的祈祷文。"
   },
   {
     "id": "word_1454",
@@ -28783,7 +28783,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɪk/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，砖的研究取得了重大进展。"
+    "example": "He built a wall using red bricks and mortar.\n他用红砖和砂浆砌了一堵墙。\nBrick buildings are durable and fire-resistant.\n砖建筑耐用且防火。"
   },
   {
     "id": "word_1455",
@@ -28798,7 +28798,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brickbat/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索brickbat的新方面。"
+    "example": "The politician received brickbats from the angry crowd.\n政客受到愤怒人群的抨击。\nCritics threw brickbats at the controversial proposal.\n批评家们猛烈抨击这项有争议的提案。"
   },
   {
     "id": "word_1456",
@@ -28813,7 +28813,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brickyard/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbrickyard的应用革新了各个行业。"
+    "example": "The brickyard produces thousands of bricks each day.\n砖厂每天生产数千块砖。\nWorkers at the brickyard load bricks onto trucks.\n砖厂工人把砖装上卡车。"
   },
   {
     "id": "word_1457",
@@ -28828,7 +28828,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridal/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的Brid的认识显著提高。"
+    "example": "She wore a beautiful bridal gown on her wedding day.\n她在婚礼当天穿着漂亮的新娘礼服。\nThe bridal party walked down the aisle together.\n伴娘伴郎团一起走过过道。"
   },
   {
     "id": "word_1458",
@@ -28843,7 +28843,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bride/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，新娘的重要性怎么强调都不为过。"
+    "example": "The bride looked stunning in her white dress.\n新娘穿着白色礼服看起来美极了。\nThe bride and groom exchanged vows in the chapel.\n新娘和新郎在教堂交换誓言。"
   },
   {
     "id": "word_1459",
@@ -28858,7 +28858,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridegroom/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbridegroom的理论为理解这一现象提供了框架。"
+    "example": "The bridegroom waited anxiously at the altar.\n新郎在祭坛前焦急地等待。\nThe bridegroom kissed his bride after the ceremony.\n仪式结束后新郎亲吻了新娘。"
   },
   {
     "id": "word_1460",
@@ -28873,7 +28873,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɪdʒ/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与桥相关的实践技能在工作场所受到高度重视。"
+    "example": "The bridge spans across the wide river.\n这座桥横跨宽阔的河流。\nThey walked across the bridge to reach the other side.\n他们走过桥到达另一边。"
   },
   {
     "id": "word_1461",
@@ -28888,7 +28888,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridgehead/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bridgehead的发展。"
+    "example": "The army established a bridgehead on the enemy shore.\n军队在敌人岸边建立了桥头堡。\nCapturing the bridgehead was crucial for the invasion.\n占领桥头堡对入侵至关重要。"
   },
   {
     "id": "word_1462",
@@ -28903,7 +28903,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bridgework/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bridgework的研究取得了重大进展。"
+    "example": "The dentist recommended bridgework to replace missing teeth.\n牙医建议用牙桥修复缺失的牙齿。\nBridgework can improve both appearance and function.\n牙桥可以改善外观和功能。"
   },
   {
     "id": "word_1463",
@@ -28918,7 +28918,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briːf/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索简短的新方面。"
+    "example": "Please give me a brief summary of the meeting.\n请给我会议的简要摘要。\nThe brief presentation covered the main points.\n简短的演示涵盖了要点。"
   },
   {
     "id": "word_1464",
@@ -28933,7 +28933,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briefcase/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbriefcase的应用革新了各个行业。"
+    "example": "He carried his documents in a leather briefcase.\n他把文件放在皮革公文包里。\nThe briefcase was locked to protect important papers.\n公文包上了锁以保护重要文件。"
   },
   {
     "id": "word_1465",
@@ -28948,7 +28948,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briefly/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...地Brief的认识显著提高。"
+    "example": "We spoke briefly before the meeting started.\n我们在会议开始前简短交谈了一下。\nShe mentioned the issue briefly in her speech.\n她在演讲中简要提到了这个问题。"
   },
   {
     "id": "word_1466",
@@ -28963,7 +28963,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brier/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的人Bri的重要性怎么强调都不为过。"
+    "example": "The hiker got stuck in a patch of brier bushes.\n徒步旅行者被困在一片荆棘丛中。\nBrier thorns can cause painful scratches.\n荆棘刺会造成疼痛的划痕。"
   },
   {
     "id": "word_1467",
@@ -28978,7 +28978,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brigade/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n旅的理论为理解这一现象提供了框架。"
+    "example": "The fire brigade arrived quickly to put out the blaze.\n消防队迅速到达灭火。\nA brigade of soldiers marched through the city.\n一队士兵穿过城市。"
   },
   {
     "id": "word_1468",
@@ -28993,7 +28993,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brigadier/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...的人Brigadi相关的实践技能在工作场所受到高度重视。"
+    "example": "The brigadier commanded the military operation.\n准将指挥军事行动。\nHe was promoted to brigadier after years of service.\n他服役多年后晋升为准将。"
   },
   {
     "id": "word_1469",
@@ -29008,7 +29008,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brigand/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会brigand的发展。"
+    "example": "Brigands attacked the travelers on the mountain road.\n强盗袭击了山路上的旅行者。\nThe brigand was captured and brought to justice.\n强盗被抓获并绳之以法。"
   },
   {
     "id": "word_1470",
@@ -29023,7 +29023,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braɪt/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，明亮的研究取得了重大进展。"
+    "example": "The sun shone bright on the beautiful day.\n阳光在美好的日子里明亮地照耀着。\nShe has a bright future ahead of her.\n她前途光明。"
   },
   {
     "id": "word_1471",
@@ -29038,7 +29038,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brighten/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索使生辉的新方面。"
+    "example": "The flowers brighten up the room with their colors.\n花朵用它们的颜色照亮房间。\nHer smile brightened the darkest days.\n她的微笑照亮了最黑暗的日子。"
   },
   {
     "id": "word_1472",
@@ -29053,7 +29053,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brightly/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n...地Bright的应用革新了各个行业。"
+    "example": "The stars shone brightly in the night sky.\n星星在夜空中明亮地闪烁。\nShe smiled brightly when she saw her friend.\n她看到朋友时灿烂地笑了。"
   },
   {
     "id": "word_1473",
@@ -29068,7 +29068,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɪliənt/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对灿烂的认识显著提高。"
+    "example": "She came up with a brilliant idea for the project.\n她为这个项目想出了一个绝妙的主意。\nThe brilliant scientist won the Nobel Prize.\n这位杰出的科学家获得了诺贝尔奖。"
   },
   {
     "id": "word_1474",
@@ -29083,7 +29083,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brimful/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，充满...的Brim的重要性怎么强调都不为过。"
+    "example": "The cup was brimful with hot tea.\n杯子里装满了热茶。\nHer heart was brimful with joy on her wedding day.\n她婚礼当天心里充满喜悦。"
   },
   {
     "id": "word_1475",
@@ -29098,7 +29098,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brimstone/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbrimstone的理论为理解这一现象提供了框架。"
+    "example": "The volcano erupted, spewing brimstone and ash.\n火山喷发，喷出硫磺和火山灰。\nBrimstone has a strong, unpleasant smell.\n硫磺有一种强烈的难闻气味。"
   },
   {
     "id": "word_1476",
@@ -29113,7 +29113,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brinded/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与已...相关的实践技能在工作场所受到高度重视。"
+    "example": "The brinded cat curled up on the windowsill.\n这只斑纹猫蜷缩在窗台上。\nBrinded patterns are common in certain dog breeds.\n斑纹图案在某些犬种中很常见。"
   },
   {
     "id": "word_1477",
@@ -29128,7 +29128,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brindle/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会brindle的发展。"
+    "example": "The puppy had a beautiful brindle coat.\n小狗有一件漂亮的斑纹外套。\nBrindle coloring is a dominant trait in boxers.\n斑纹毛色是拳师犬的显性特征。"
   },
   {
     "id": "word_1478",
@@ -29143,7 +29143,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brine/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，brine的研究取得了重大进展。"
+    "example": "The chef used brine to preserve the vegetables.\n厨师用盐水保存蔬菜。\nBrine is commonly used for pickling foods.\n盐水常用于腌制食品。"
   },
   {
     "id": "word_1479",
@@ -29158,7 +29158,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɪŋ/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索带来的新方面。"
+    "example": "Could you bring me a glass of water?\n你能给我拿杯水吗？\nShe forgot to bring her umbrella on the rainy day.\n下雨天她忘记带伞了。"
   },
   {
     "id": "word_1480",
@@ -29173,7 +29173,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brink/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbrink的应用革新了各个行业。"
+    "example": "The hiker stood on the brink of the cliff.\n徒步旅行者站在悬崖边上。\nThe country was on the brink of economic collapse.\n这个国家处于经济崩溃的边缘。"
   },
   {
     "id": "word_1481",
@@ -29188,7 +29188,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brinkmanship/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对边缘政策的认识显著提高。"
+    "example": "The political leaders engaged in nuclear brinkmanship.\n政治领导人进行核边缘政策。\nBrinkmanship is a dangerous game in diplomacy.\n边缘政策在外交中是危险的游戏。"
   },
   {
     "id": "word_1482",
@@ -29203,7 +29203,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/briny/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，briny的重要性怎么强调都不为过。"
+    "example": "The briny ocean water surrounded the small island.\n咸咸的海水环绕着小岛。\nBriny tears streamed down her face.\n咸涩的泪水从她脸上流下来。"
   },
   {
     "id": "word_1483",
@@ -29218,7 +29218,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brisk/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n敏锐的理论为理解这一现象提供了框架。"
+    "example": "She took a brisk walk in the morning to stay healthy.\n她早上快走保持健康。\nThe brisk wind made the cold day feel even colder.\n凛冽的风让寒冷的日子感觉更冷。"
   },
   {
     "id": "word_1484",
@@ -29233,7 +29233,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brisket/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与brisket相关的实践技能在工作场所受到高度重视。"
+    "example": "The chef slow-cooked the brisket for hours.\n厨师慢炖了几个小时的牛腩。\nBrisket is a popular cut of beef for barbecues.\n牛腩是烧烤中很受欢迎的牛肉部位。"
   },
   {
     "id": "word_1485",
@@ -29248,7 +29248,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bristle/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会倍的的发展。"
+    "example": "The brush had stiff bristles for scrubbing.\n刷子有坚硬的刷毛用于擦洗。\nHe bristled with anger when he heard the news.\n听到消息时他怒发冲冠。"
   },
   {
     "id": "word_1486",
@@ -29263,7 +29263,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bristly/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...地Brist的研究取得了重大进展。"
+    "example": "The cactus has bristly spines to protect itself.\n仙人掌有刺毛来保护自己。\nHis bristly beard scratched her cheek.\n他粗糙的胡须刮伤了她的脸颊。"
   },
   {
     "id": "word_1487",
@@ -29278,7 +29278,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɪtn/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索英国的新方面。"
+    "example": "Britain consists of England, Scotland, and Wales.\n英国由英格兰、苏格兰和威尔士组成。\nMany tourists visit Britain each year.\n每年有许多游客访问英国。"
   },
   {
     "id": "word_1488",
@@ -29293,7 +29293,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/britannia/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbritannia的应用革新了各个行业。"
+    "example": "Britannia is a personification of Great Britain.\n大不列颠女神是大不列颠的拟人化形象。\nThe Britannia statue stands in Trafalgar Square.\n大不列颠女神雕像矗立在特拉法加广场。"
   },
   {
     "id": "word_1489",
@@ -29308,7 +29308,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɪtɪʃ/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对英国的认识显著提高。"
+    "example": "She speaks with a British accent.\n她说话带有英国口音。\nBritish cuisine has many traditional dishes.\n英国菜有许多传统菜肴。"
   },
   {
     "id": "word_1490",
@@ -29323,7 +29323,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brittle/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，易碎的重要性怎么强调都不为过。"
+    "example": "The old book had brittle pages that crumbled easily.\n旧书的书页很脆，容易碎裂。\nBrittle bones are more prone to breaking.\n脆弱的骨头更容易断裂。"
   },
   {
     "id": "word_1491",
@@ -29338,7 +29338,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brɔːd/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n宽阔的理论为理解这一现象提供了框架。"
+    "example": "The broad highway stretched across the countryside.\n宽阔的公路横跨乡村。\nShe has a broad understanding of many subjects.\n她对许多学科有广泛的了解。"
   },
   {
     "id": "word_1492",
@@ -29353,7 +29353,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broadbean/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与broadbean相关的实践技能在工作场所受到高度重视。"
+    "example": "The farmer planted broadbeans in the spring.\n农民在春天种了蚕豆。\nBroadbeans are a good source of protein.\n蚕豆是很好的蛋白质来源。"
   },
   {
     "id": "word_1493",
@@ -29368,7 +29368,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrɔːdkɑːst/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会广播的发展。"
+    "example": "The news will be broadcast live on television.\n新闻将在电视上直播。\nRadio stations broadcast music and talk shows.\n广播电台播放音乐和脱口秀。"
   },
   {
     "id": "word_1494",
@@ -29383,7 +29383,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broaden/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，扩大的研究取得了重大进展。"
+    "example": "Traveling helps to broaden your horizons.\n旅行有助于开阔视野。\nWe need to broaden our understanding of different cultures.\n我们需要拓宽对不同文化的理解。"
   },
   {
     "id": "word_1495",
@@ -29398,7 +29398,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broader/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的人Broad的新方面。"
+    "example": "The broader implications of the decision are significant.\n这个决定的更广泛影响是重大的。\nWe need to take a broader approach to solving this problem.\n我们需要采取更广泛的方法来解决这个问题。"
   },
   {
     "id": "word_1496",
@@ -29413,7 +29413,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broadsheet/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbroadsheet的应用革新了各个行业。"
+    "example": "He reads a broadsheet newspaper every morning.\n他每天早上读一份大报。\nBroadsheet newspapers typically have more detailed articles.\n大报通常有更详细的文章。"
   },
   {
     "id": "word_1497",
@@ -29428,7 +29428,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broadside/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对broadside的认识显著提高。"
+    "example": "The ship fired a broadside at the enemy vessel.\n这艘船向敌舰发射了舷炮。\nThe broadside hit the target with devastating effect.\n舷炮击中目标，造成毁灭性影响。"
   },
   {
     "id": "word_1498",
@@ -29443,7 +29443,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brocade/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，brocade的重要性怎么强调都不为过。"
+    "example": "The dress was made of beautiful brocade fabric.\n这件连衣裙是用漂亮的锦缎面料制成的。\nBrocade is often used for formal clothing and curtains.\n锦缎常用于正式服装和窗帘。"
   },
   {
     "id": "word_1499",
@@ -29458,7 +29458,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broccoli/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbroccoli的理论为理解这一现象提供了框架。"
+    "example": "She added broccoli to her salad for extra nutrition.\n她在沙拉里加了西兰花以增加营养。\nBroccoli is a healthy vegetable rich in vitamins.\n西兰花是富含维生素的健康蔬菜。"
   },
   {
     "id": "word_1500",
@@ -29473,7 +29473,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brochure/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与小册子相关的实践技能在工作场所受到高度重视。"
+    "example": "The travel agency sent us a brochure about their tours.\n旅行社寄给我们一份关于他们旅行团的小册子。\nThe brochure contains information about the hotel facilities.\n小册子包含酒店设施的信息。"
   },
   {
     "id": "word_1501",
@@ -29488,7 +29488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broderie/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会broderie的发展。"
+    "example": "The dress had delicate broderie anglaise around the collar.\n连衣裙领口周围有精美的镂空刺绣。\nBroderie work adds elegance to clothing designs.\n刺绣工作为服装设计增添优雅感。"
   },
   {
     "id": "word_1502",
@@ -29503,7 +29503,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brogue/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，brogue的研究取得了重大进展。"
+    "example": "He spoke with a thick Irish brogue.\n他说话带有浓重的爱尔兰口音。\nThe brogue is a type of shoe with decorative perforations.\n布洛克鞋是一种有装饰性穿孔的鞋子。"
   },
   {
     "id": "word_1503",
@@ -29518,7 +29518,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broil/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索broil的新方面。"
+    "example": "The chef will broil the steak to perfection.\n厨师会把牛排烤得完美。\nBroiling is a quick way to cook meat at high temperatures.\n烧烤是高温快速烹饪肉类的方法。"
   },
   {
     "id": "word_1504",
@@ -29533,7 +29533,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrəʊkən/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n破碎的应用革新了各个行业。"
+    "example": "The broken window needs to be replaced immediately.\n破窗户需要立即更换。\nHer heart felt broken after the breakup.\n分手后她感到心碎。"
   },
   {
     "id": "word_1505",
@@ -29548,7 +29548,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broker/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对经纪人的认识显著提高。"
+    "example": "The stock broker helped him invest his money wisely.\n股票经纪人帮助他明智地投资。\nA broker acts as an intermediary between buyers and sellers.\n经纪人充当买卖双方的中介。"
   },
   {
     "id": "word_1506",
@@ -29563,7 +29563,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brokerage/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，行为的重要性怎么强调都不为过。"
+    "example": "The brokerage firm handles millions in transactions daily.\n经纪公司每天处理数百万的交易。\nHe works at a brokerage in the financial district.\n他在金融区的一家经纪公司工作。"
   },
   {
     "id": "word_1507",
@@ -29578,7 +29578,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brolly/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...地Brol的理论为理解这一现象提供了框架。"
+    "example": "She always carries a brolly in her bag for rainy days.\n她总是在包里带一把雨伞以防下雨天。\nThe brolly kept them dry during the sudden downpour.\n雨伞在突然的倾盆大雨中让他们保持干燥。"
   },
   {
     "id": "word_1508",
@@ -29593,7 +29593,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bromine/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bromine相关的实践技能在工作场所受到高度重视。"
+    "example": "Bromine is a reddish-brown liquid element.\n溴是一种红棕色液体元素。\nBromine is used in water treatment and pesticides.\n溴用于水处理和杀虫剂。"
   },
   {
     "id": "word_1509",
@@ -29608,7 +29608,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bronchus/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bronchus的发展。"
+    "example": "The bronchus carries air to the lungs.\n支气管将空气输送到肺部。\nInflammation of the bronchus can cause coughing.\n支气管发炎会引起咳嗽。"
   },
   {
     "id": "word_1510",
@@ -29623,7 +29623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bronco/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bronco的研究取得了重大进展。"
+    "example": "The cowboy rode the wild bronco in the rodeo.\n牛仔在牛仔竞技表演中骑着野马。\nTraining a bronco requires skill and patience.\n训练野马需要技巧和耐心。"
   },
   {
     "id": "word_1511",
@@ -29638,7 +29638,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bronze/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索青铜的新方面。"
+    "example": "The statue was cast in bronze over a hundred years ago.\n这座雕像是一百多年前用青铜铸造的。\nBronze is an alloy of copper and tin.\n青铜是铜和锡的合金。"
   },
   {
     "id": "word_1512",
@@ -29653,7 +29653,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brooch/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbrooch的应用革新了各个行业。"
+    "example": "She pinned a diamond brooch to her evening gown.\n她把一枚钻石胸针别在晚礼服上。\nThe antique brooch was passed down through generations.\n这枚古董胸针代代相传。"
   },
   {
     "id": "word_1513",
@@ -29668,7 +29668,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brood/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对一窝的认识显著提高。"
+    "example": "The hen sat on her brood of eggs to keep them warm.\n母鸡坐在一窝鸡蛋上给它们保暖。\nA brood of chicks followed their mother around the farm.\n一窝小鸡跟着妈妈在农场周围走。"
   },
   {
     "id": "word_1514",
@@ -29683,7 +29683,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brook/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，brook的重要性怎么强调都不为过。"
+    "example": "A small brook flows through the peaceful forest.\n一条小溪流过宁静的森林。\nThe children skipped stones across the brook.\n孩子们在小溪上扔石头。"
   },
   {
     "id": "word_1515",
@@ -29698,7 +29698,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broom/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n扫帚的理论为理解这一现象提供了框架。"
+    "example": "She used a broom to sweep the floor clean.\n她用扫帚把地板扫干净。\nThe old witch flew through the sky on her broomstick.\n老巫婆骑着扫帚飞过天空。"
   },
   {
     "id": "word_1516",
@@ -29713,7 +29713,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broomstick/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与broomstick相关的实践技能在工作场所受到高度重视。"
+    "example": "The witch mounted her broomstick and flew away.\n巫婆骑上扫帚飞走了。\nChildren love to pretend they are witches riding broomsticks.\n孩子们喜欢假装自己是骑扫帚的巫婆。"
   },
   {
     "id": "word_1517",
@@ -29728,7 +29728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bros/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bros的发展。"
+    "example": "The three bros went to the movies together.\n三个兄弟一起去看电影。\nHe and his bros played basketball every weekend.\n他和他的兄弟们每个周末都打篮球。"
   },
   {
     "id": "word_1518",
@@ -29743,7 +29743,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brose/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，brose的研究取得了重大进展。"
+    "example": "She made a warm bowl of brose for breakfast.\n她做了一碗温暖的麦片粥当早餐。\nBrose is a traditional Scottish dish made with oatmeal.\n麦片粥是一种传统的苏格兰燕麦食品。"
   },
   {
     "id": "word_1519",
@@ -29758,7 +29758,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/broth/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索行为的新方面。"
+    "example": "The chicken broth smelled delicious on the stove.\n炉子上的鸡汤闻起来很香。\nHe added noodles to the broth to make soup.\n他在汤里加了面条做成汤面。"
   },
   {
     "id": "word_1520",
@@ -29773,7 +29773,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brothel/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbrothel的应用革新了各个行业。"
+    "example": "The police raided the illegal brothel downtown.\n警察突袭了市中心的非法妓院。\nProstitution and brothels are illegal in many countries.\n卖淫和妓院在许多国家是非法的。"
   },
   {
     "id": "word_1521",
@@ -29788,7 +29788,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbrʌðə/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对兄弟的认识显著提高。"
+    "example": "My brother and I have always been close.\n我和我哥哥一直很亲密。\nHe is like a brother to me even though we are not related.\n虽然我们没有血缘关系，但他对我就像兄弟一样。"
   },
   {
     "id": "word_1522",
@@ -29803,7 +29803,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brotherly/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...地Brother的重要性怎么强调都不为过。"
+    "example": "He showed brotherly love to his younger sibling.\n他对弟弟表现出兄弟般的爱。\nTheir brotherly bond grew stronger over the years.\n他们的兄弟情谊多年来变得更加牢固。"
   },
   {
     "id": "word_1523",
@@ -29818,7 +29818,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brougham/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbrougham的理论为理解这一现象提供了框架。"
+    "example": "The elegant brougham carriage arrived at the mansion.\n优雅的四轮马车到达了豪宅。\nBroughams were popular transport in the 19th century.\n四轮马车在19世纪很流行。"
   },
   {
     "id": "word_1524",
@@ -29833,7 +29833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brouhaha/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与brouhaha相关的实践技能在工作场所受到高度重视。"
+    "example": "There was a great brouhaha over the controversial decision.\n这个有争议的决定引起了轩然大波。\nThe media created a brouhaha out of the minor incident.\n媒体把这个小事件炒得沸沸扬扬。"
   },
   {
     "id": "word_1525",
@@ -29848,7 +29848,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/browbeat/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会browbeat的发展。"
+    "example": "He tried to browbeat his opponent into submission.\n他试图威逼对手屈服。\nBrowbeating others is not an effective way to lead.\n威逼他人不是有效的领导方式。"
   },
   {
     "id": "word_1526",
@@ -29863,7 +29863,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/braʊn/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，褐色的研究取得了重大进展。"
+    "example": "She painted the walls a warm shade of brown.\n她把墙壁漆成温暖的棕色。\nThe leaves turn brown and fall in autumn.\n树叶在秋天变成棕色并落下。"
   },
   {
     "id": "word_1527",
@@ -29878,7 +29878,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brownstone/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索brownstone的新方面。"
+    "example": "The brownstone buildings lined the historic street.\n褐砂石建筑排列在历史街道两旁。\nMany brownstones in New York are over a century old.\n纽约的许多褐砂石建筑已有一个多世纪的历史。"
   },
   {
     "id": "word_1528",
@@ -29893,7 +29893,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/brows/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbrows的应用革新了各个行业。"
+    "example": "She raised her brows in surprise at the news.\n听到消息她惊讶地扬起眉毛。\nHis brows furrowed as he concentrated on the problem.\n他集中精力解决问题时眉头紧锁。"
   },
   {
     "id": "word_1529",
@@ -29908,7 +29908,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/browse/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对浏览的认识显著提高。"
+    "example": "She likes to browse through bookstores on weekends.\n她喜欢周末逛书店。\nYou can browse our website for more information.\n你可以浏览我们的网站获取更多信息。"
   },
   {
     "id": "word_1530",
@@ -29923,7 +29923,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/browser/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，浏览器的重要性怎么强调都不为过。"
+    "example": "He used a web browser to search for information online.\n他使用网络浏览器在线搜索信息。\nPopular browsers include Chrome, Firefox, and Safari.\n流行的浏览器包括Chrome、Firefox和Safari。"
   },
   {
     "id": "word_1531",
