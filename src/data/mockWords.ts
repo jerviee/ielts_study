@@ -48415,7 +48415,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doc/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\ndoc的应用革新了各个行业。",
+    "example": "The doc file contains all the important information for the project.\n这个文档文件包含项目的重要信息。\nShe sent the doc to her colleague for review and feedback.\n她把文档发给同事审阅并提供反馈。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48436,7 +48436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doctor/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的人Doct的认识显著提高。",
+    "example": "The doctor recommended that she get more rest and exercise regularly.\n医生建议她多休息并定期锻炼。\nShe decided to become a doctor to help people in need.\n她决定成为一名医生来帮助需要帮助的人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48457,7 +48457,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/document/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，行为的重要性怎么强调都不为过。",
+    "example": "Please sign the document before submitting it to the office.\n请在提交文件到办公室前签署。\nThe historical document was preserved carefully in the museum.\n这份历史文件在博物馆中被精心保存。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48478,7 +48478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/documentary/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的理论为理解这一现象提供了框架。",
+    "example": "The documentary about climate change was very informative and moving.\n这部关于气候变化的纪录片非常具有信息性和感人。\nShe watched a documentary on wildlife conservation last night.\n她昨晚看了一部关于野生动物保护的纪录片。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48499,7 +48499,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dodge/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与dodge相关的实践技能在工作场所受到高度重视。",
+    "example": "He managed to dodge the ball during the intense game.\n他在激烈的比赛中设法躲过了球。\nShe tried to dodge the question about her personal life.\n她试图回避关于她个人生活的问题。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48520,7 +48520,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/does/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会does的发展。",
+    "example": "She does her homework every evening after dinner.\n她每天晚饭后做作业。\nWhat does this symbol mean in the context of the story?\n这个符号在故事的背景下意味着什么？",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48541,7 +48541,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dollar/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，dollar的研究取得了重大进展。",
+    "example": "The price of the item is five dollars at the local store.\n这个物品在本地商店的价格是五美元。\nShe saved every dollar she could for her future education.\n她为未来的教育尽可能节省每一美元。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48562,7 +48562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/domain/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索domain的新方面。",
+    "example": "The company purchased a new domain for its online business.\n公司为其在线业务购买了新域名。\nThis area falls within the domain of scientific research.\n这个领域属于科学研究的范畴。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48583,7 +48583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/domestic/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n...的应用革新了各个行业。",
+    "example": "Domestic flights are usually cheaper than international ones.\n国内航班通常比国际航班便宜。\nThe domestic market has seen significant growth this year.\n国内市场今年增长显著。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48604,7 +48604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dominant/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对人的认识显著提高。",
+    "example": "The dominant team won the championship with ease.\n占主导地位的球队轻松赢得了冠军。\nShe has a dominant personality that influences group decisions.\n她有影响群体决策的主导性格。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48625,7 +48625,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dominate/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，使...的重要性怎么强调都不为过。",
+    "example": "The company aims to dominate the market with its new product.\n公司旨在用新产品主导市场。\nHe tends to dominate conversations with his strong opinions.\n他倾向于用强烈的观点主导对话。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48646,7 +48646,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donate/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n使...的理论为理解这一现象提供了框架。",
+    "example": "She decided to donate her old clothes to the charity organization.\n她决定把旧衣服捐给慈善组织。\nMany people donate money to support medical research.\n许多人捐款支持医学研究。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48667,7 +48667,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donation/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与行为相关的实践技能在工作场所受到高度重视。",
+    "example": "The donation helped fund the construction of the new school.\n捐款帮助资助了新学校的建设。\nShe made a generous donation to the disaster relief fund.\n她向救灾基金慷慨捐款。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48688,7 +48688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donkey/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会donkey的发展。",
+    "example": "The farmer used a donkey to carry heavy loads up the mountain.\n农民用驴把重物运上山。\nThe stubborn donkey refused to move despite all efforts.\n顽固的驴拒绝移动，尽管尽了所有努力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48709,7 +48709,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donor/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的人Don的研究取得了重大进展。",
+    "example": "The blood donor helped save many lives in the hospital.\n献血者帮助医院挽救了许多生命。\nThe donor requested that his identity remain anonymous.\n捐赠者要求他的身份保持匿名。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48730,7 +48730,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doom/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索doom的新方面。",
+    "example": "The prophecy predicted doom for the ancient kingdom.\n预言预测了古老王国的厄运。\nThe project seemed doomed from the very beginning.\n这个项目从一开始似乎注定要失败。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48751,7 +48751,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/door/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n...的人Do的应用革新了各个行业。",
+    "example": "Please close the door when you leave the room.\n离开房间时请关门。\nShe knocked on the door before entering the office.\n她在进入办公室前敲门。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48772,7 +48772,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doorway/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对doorway的认识显著提高。",
+    "example": "She stood in the doorway waiting for her friend to arrive.\n她站在门口等待朋友到达。\nThe doorway was decorated with beautiful flowers for the event.\n门口为活动装饰着美丽的花朵。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48793,7 +48793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dorm/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，dorm的重要性怎么强调都不为过。",
+    "example": "She lives in the dorm during her first year at university.\n她在大学第一年住在宿舍。\nThe dorm has facilities for over two hundred students.\n宿舍有容纳超过两百名学生的设施。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48814,7 +48814,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dormitory/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\ndormitory的理论为理解这一现象提供了框架。",
+    "example": "The dormitory provides comfortable accommodation for students.\n宿舍为学生提供舒适的住宿。\nEach dormitory room is shared by two students.\n每个宿舍房间由两名学生共用。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48835,7 +48835,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dose/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与dose相关的实践技能在工作场所受到高度重视。",
+    "example": "The doctor prescribed a daily dose of medication for the patient.\n医生为病人开具了每日剂量的药物。\nA single dose of the vaccine can provide protection for years.\n单剂疫苗可以提供多年的保护。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48856,7 +48856,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/double/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会倍的的发展。",
+    "example": "The company announced double profits compared to last year.\n公司宣布利润比去年翻倍。\nShe ordered a double portion of fries for her meal.\n她为她的餐点点了双份薯条。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48877,7 +48877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doubt/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，doubt的研究取得了重大进展。",
+    "example": "There is no doubt that she will succeed in her career.\n毫无疑问，她会在事业上取得成功。\nI doubt whether the plan will work as expected.\n我怀疑这个计划是否会按预期工作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48898,7 +48898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/down/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索down的新方面。",
+    "example": "Please sit down and relax while we discuss the matter.\n请坐下放松，我们讨论这个问题。\nThe stock market went down significantly yesterday.\n股市昨天大幅下跌。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48919,7 +48919,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/downstairs/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\ndownstairs的应用革新了各个行业。",
+    "example": "She went downstairs to check on the guests in the living room.\n她下楼去客厅查看客人。\nThe downstairs apartment is available for rent this month.\n楼下公寓本月可供出租。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48940,7 +48940,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/downtown/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对downtown的认识显著提高。",
+    "example": "They decided to meet downtown for lunch this afternoon.\n他们决定今天下午在市中心见面吃午饭。\nThe downtown area has many shops and restaurants.\n市中心有许多商店和餐馆。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48961,7 +48961,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/downward/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，downward的重要性怎么强调都不为过。",
+    "example": "The downward trend in sales continued throughout the quarter.\n销售额的下降趋势在整个季度持续。\nThe airplane began its downward descent toward the airport.\n飞机开始向机场下降。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48982,7 +48982,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dozen/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\ndozen的理论为理解这一现象提供了框架。",
+    "example": "She bought a dozen eggs from the supermarket yesterday.\n她昨天从超市买了一打鸡蛋。\nThere were dozens of people waiting in line for tickets.\n有几十个人排队买票。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -49003,7 +49003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/draft/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与draft相关的实践技能在工作场所受到高度重视。"
+    "example": "The first draft of the novel needs significant revision.\n小说的初稿需要大幅修改。\nShe sent the draft proposal to her manager for approval.\n她把提案草稿发给经理审批。"
   },
   {
     "id": "word_2493",
@@ -49018,7 +49018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drag/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会drag的发展。"
+    "example": "Please do not drag your feet when walking in the hallway.\n在走廊行走时请不要拖着脚走。\nThe heavy box was difficult to drag across the floor.\n沉重的箱子很难在地板上拖动。"
   },
   {
     "id": "word_2494",
@@ -49033,7 +49033,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dragon/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，dragon的研究取得了重大进展。"
+    "example": "The dragon is a mythical creature in many ancient stories.\n龙是许多古老故事中的神话生物。\nThe festival featured a colorful dragon dance performance.\n节日有丰富多彩的舞龙表演。"
   },
   {
     "id": "word_2495",
@@ -49048,7 +49048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drain/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索drain的新方面。"
+    "example": "The drain in the sink was clogged with debris.\n水槽的排水管被碎片堵塞。\nShe felt emotionally drained after the long meeting.\n她在漫长的会议后感到精疲力竭。"
   },
   {
     "id": "word_2496",
@@ -49063,7 +49063,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drainage/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n行为的应用革新了各个行业。"
+    "example": "The drainage system prevents flooding during heavy rains.\n排水系统防止大雨期间洪水。\nProper drainage is essential for maintaining healthy soil.\n适当的排水对于保持健康土壤至关重要。"
   },
   {
     "id": "word_2497",
@@ -49078,7 +49078,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drama/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对drama的认识显著提高。"
+    "example": "The drama club will perform a play next weekend.\n戏剧俱乐部下周末将表演一出戏。\nShe enjoys watching drama movies on television.\n她喜欢在电视上看戏剧电影。"
   },
   {
     "id": "word_2498",
@@ -49093,7 +49093,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dramatic/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的重要性怎么强调都不为过。"
+    "example": "The dramatic ending of the movie surprised everyone.\n电影的戏剧性结局让每个人都感到惊讶。\nThere has been a dramatic improvement in technology recently.\n最近技术有了戏剧性的改进。"
   },
   {
     "id": "word_2499",
@@ -49108,7 +49108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drank/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\ndrank的理论为理解这一现象提供了框架。"
+    "example": "She drank a cup of coffee before starting her work.\n她在开始工作前喝了一杯咖啡。\nThe children drank all the juice during the party.\n孩子们在派对期间喝了所有的果汁。"
   },
   {
     "id": "word_2500",
@@ -49123,7 +49123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drape/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与drape相关的实践技能在工作场所受到高度重视。"
+    "example": "She decided to drape the curtains over the window.\n她决定把窗帘挂在窗户上。\nThe fabric was draped elegantly over the furniture.\n织物优雅地覆盖在家具上。"
   },
   {
     "id": "word_2501",
@@ -49138,7 +49138,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drastically/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...地Drastical的发展。"
+    "example": "The policy changed drastically after the new government took office.\n新政府上台后，政策发生了巨大变化。\nThe weather has changed drastically over the past few days.\n过去几天天气发生了巨大变化。"
   },
   {
     "id": "word_2502",
@@ -49153,7 +49153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/draw/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，draw的研究取得了重大进展。"
+    "example": "She likes to draw pictures of nature in her free time.\n她喜欢在空闲时间画大自然的图画。\nThe game ended in a draw with both teams scoring equally.\n比赛以平局结束，两队得分相同。"
   },
   {
     "id": "word_2503",
@@ -49168,7 +49168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawer/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的人Draw的新方面。"
+    "example": "She kept her important documents in the top drawer.\n她把重要文件放在顶层抽屉里。\nThe drawer was stuck and could not be opened easily.\n抽屉卡住了，不容易打开。"
   },
   {
     "id": "word_2504",
@@ -49183,7 +49183,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawing/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n正在...的应用革新了各个行业。"
+    "example": "The drawing of the landscape was displayed in the gallery.\n风景画在画廊展出。\nShe spent hours working on her drawing assignment.\n她花了几个小时完成绘画作业。"
   },
   {
     "id": "word_2505",
@@ -49198,7 +49198,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawl/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对drawl的认识显著提高。"
+    "example": "He spoke with a slow drawl that was characteristic of the region.\n他说话带有该地区特有的慢吞吞的拖腔。\nThe southern drawl made his speech distinctive and memorable.\n南方拖腔使他的演讲独特且令人难忘。"
   },
   {
     "id": "word_2506",
@@ -49213,7 +49213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawn/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，drawn的重要性怎么强调都不为过。"
+    "example": "The match was drawn with both teams scoring two goals.\n比赛以两队各进两球而平局。\nShe was drawn to the beautiful scenery of the countryside.\n她被乡村美丽的风景所吸引。"
   },
   {
     "id": "word_2507",
@@ -49228,7 +49228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dreadful/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n充满...的Dread的理论为理解这一现象提供了框架。"
+    "example": "The dreadful weather ruined our plans for the weekend.\n糟糕的天气毁了我们周末的计划。\nThe dreadful news shocked everyone in the community.\n可怕的消息震惊了社区里的每个人。"
   },
   {
     "id": "word_2508",
@@ -49243,7 +49243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dream/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与梦相关的实践技能在工作场所受到高度重视。"
+    "example": "She had a wonderful dream about traveling around the world.\n她有一个环游世界的美好梦想。\nHis dream of becoming a doctor finally came true.\n他成为医生的梦想终于实现了。"
   },
   {
     "id": "word_2509",
@@ -49258,7 +49258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dress/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会连衣裙的发展。"
+    "example": "She wore a beautiful dress to the wedding ceremony.\n她在婚礼仪式上穿了一件漂亮的连衣裙。\nThe dress was designed by a famous fashion designer.\n这件连衣裙是由著名时装设计师设计的。"
   },
   {
     "id": "word_2510",
@@ -49273,7 +49273,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drift/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，drift的研究取得了重大进展。"
+    "example": "The boat began to drift slowly away from the shore.\n船开始慢慢漂离岸边。\nShe felt her thoughts drift during the boring lecture.\n在无聊的讲座期间，她感到思绪飘散。"
   },
   {
     "id": "word_2511",
@@ -49288,7 +49288,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drill/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索drill的新方面。"
+    "example": "The construction workers used a drill to make holes.\n建筑工人用钻机打洞。\nThe military drill was intense and demanding for soldiers.\n军事演习对士兵来说紧张而苛刻。"
   },
   {
     "id": "word_2512",
@@ -49303,7 +49303,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drink/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n喝的应用革新了各个行业。"
+    "example": "Please drink plenty of water during the hot summer days.\n在炎热的夏天请多喝水。\nShe decided to drink tea instead of coffee this morning.\n她今天早上决定喝茶而不是咖啡。"
   },
   {
     "id": "word_2513",
@@ -49318,7 +49318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drip/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对drip的认识显著提高。"
+    "example": "The faucet was dripping water slowly throughout the night.\n水龙头整夜慢慢滴水。\nThe drip from the ceiling indicated a leak in the roof.\n天花板滴水表明屋顶有泄漏。"
   },
   {
     "id": "word_2514",
@@ -49333,7 +49333,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drive/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，驾驶的重要性怎么强调都不为过。"
+    "example": "She learned to drive a car when she was eighteen.\n她在十八岁时学会了开车。\nThe long drive to the countryside was enjoyable and relaxing.\n开车去乡村的长途旅行令人愉快和放松。"
   },
   {
     "id": "word_2515",
@@ -49348,7 +49348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/driver/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的人Driv的理论为理解这一现象提供了框架。"
+    "example": "The bus driver greeted passengers as they boarded.\n公交车司机在乘客上车时问候他们。\nThe taxi driver took her to the airport efficiently.\n出租车司机高效地把她送到机场。"
   },
   {
     "id": "word_2516",
@@ -49363,7 +49363,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drop/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与落下相关的实践技能在工作场所受到高度重视。"
+    "example": "Please do not drop your trash on the street.\n请不要在街上扔垃圾。\nThe temperature dropped significantly during the night.\n夜间温度显著下降。"
   },
   {
     "id": "word_2517",
@@ -49378,7 +49378,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drown/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会drown的发展。"
+    "example": "The swimmer almost drowned in the rough ocean waves.\n游泳者差点在汹涌的海浪中淹死。\nThe city was drowned in noise from the construction site.\n城市被建筑工地的噪音淹没。"
   },
   {
     "id": "word_2518",
@@ -49393,7 +49393,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drug/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，drug的研究取得了重大进展。"
+    "example": "The doctor prescribed a new drug for her condition.\n医生为她的病情开了一种新药。\nThe illegal drug trade is a serious problem in society.\n非法毒品交易是社会的严重问题。"
   },
   {
     "id": "word_2519",
@@ -49408,7 +49408,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drum/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索drum的新方面。"
+    "example": "The drummer played the drum rhythmically during the concert.\n鼓手在音乐会期间有节奏地敲鼓。\nThe traditional drum is used in many cultural ceremonies.\n传统鼓用于许多文化仪式。"
   },
   {
     "id": "word_2520",
@@ -49423,7 +49423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drunk/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\ndrunk的应用革新了各个行业。"
+    "example": "He was drunk after drinking too much at the party.\n他在派对上喝太多后醉了。\nDriving while drunk is illegal and dangerous.\n醉酒驾车是非法和危险的。"
   },
   {
     "id": "word_2521",
@@ -49438,7 +49438,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dual/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的Du的认识显著提高。"
+    "example": "The dual system allows for both public and private options.\n双重系统允许公共和私人两种选择。\nShe has dual citizenship in two different countries.\n她在两个不同的国家拥有双重国籍。"
   },
   {
     "id": "word_2522",
@@ -49453,7 +49453,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/duck/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，duck的重要性怎么强调都不为过。"
+    "example": "The duck swam gracefully across the pond in the park.\n鸭子优雅地游过公园里的池塘。\nChildren love to feed the ducks at the lake.\n孩子们喜欢在湖边喂鸭子。"
   },
   {
     "id": "word_2523",
@@ -49468,7 +49468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dude/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\ndude的理论为理解这一现象提供了框架。"
+    "example": "The dude at the party was very friendly and outgoing.\n派对上的那个人非常友好和外向。\nHey dude, are you coming to the concert tonight?\n嘿伙计，你今晚来参加音乐会吗？"
   },
   {
     "id": "word_2524",
@@ -49483,7 +49483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/due/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与due相关的实践技能在工作场所受到高度重视。"
+    "example": "The assignment is due by the end of this week.\n作业要在本周末前完成。\nThe train is due to arrive at the station in ten minutes.\n火车预计十分钟后到达车站。"
   },
   {
     "id": "word_2525",
@@ -49498,7 +49498,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dull/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会dull的发展。"
+    "example": "The dull knife could not cut through the meat properly.\n钝刀不能正确地切肉。\nThe lecture was dull and many students fell asleep.\n讲座很枯燥，许多学生睡着了。"
   },
   {
     "id": "word_2526",
@@ -49513,7 +49513,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dumb/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，dumb的研究取得了重大进展。"
+    "example": "That was a dumb decision that cost us a lot of money.\n那是一个愚蠢的决定，让我们损失了很多钱。\nIt is dumb to ignore the advice of experienced professionals.\n忽视经验丰富的专业人士的建议是愚蠢的。"
   },
   {
     "id": "word_2527",
@@ -49528,7 +49528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dump/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索dump的新方面。"
+    "example": "They decided to dump the old equipment at the recycling center.\n他们决定把旧设备扔到回收中心。\nThe company dumped toxic waste into the river illegally.\n公司非法将有毒废物倒入河流。"
   },
   {
     "id": "word_2528",
@@ -49543,7 +49543,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dune/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\ndune的应用革新了各个行业。"
+    "example": "The sand dune shifted slowly with the wind over time.\n沙丘随着时间的推移随风缓慢移动。\nThe desert dune is a popular spot for photography enthusiasts.\n沙漠沙丘是摄影爱好者的热门地点。"
   },
   {
     "id": "word_2529",
@@ -49558,7 +49558,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/duration/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对行为的认识显著提高。"
+    "example": "The duration of the flight was approximately five hours.\n飞行时间大约是五个小时。\nThe project has a duration of six months from start to finish.\n项目从开始到完成持续六个月。"
   },
   {
     "id": "word_2530",
@@ -49573,7 +49573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/during/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，正在...的重要性怎么强调都不为过。"
+    "example": "During the meeting, several important decisions were made.\n在会议期间，做出了几个重要决定。\nShe worked hard during her college years to achieve success.\n她在大学期间努力工作以取得成功。"
   },
   {
     "id": "word_2531",
@@ -49588,7 +49588,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dusk/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\ndusk的理论为理解这一现象提供了框架。"
+    "example": "The sky turned beautiful colors at dusk yesterday evening.\n昨晚黄昏时天空变成了美丽的颜色。\nThey decided to walk home before dusk completely faded.\n他们决定在黄昏完全消失前走回家。"
   },
   {
     "id": "word_2532",
@@ -49603,7 +49603,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dust/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与dust相关的实践技能在工作场所受到高度重视。"
+    "example": "The room was covered with dust after months of neglect.\n房间在几个月的忽视后布满了灰尘。\nThe dust storm made visibility difficult on the road.\n沙尘暴使道路上的能见度变得困难。"
   },
   {
     "id": "word_2533",
@@ -49618,7 +49618,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dusty/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的发展。"
+    "example": "The dusty road led to the old abandoned farmhouse.\n尘土飞扬的道路通向废弃的老农舍。\nThe dusty book needed to be cleaned before reading.\n尘土飞扬的书在阅读前需要清洁。"
   },
   {
     "id": "word_2534",
@@ -49633,7 +49633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dutch/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，dutch的研究取得了重大进展。"
+    "example": "She is learning Dutch to communicate with her relatives.\n她正在学习荷兰语以便与亲戚交流。\nThe Dutch culture is known for its tolerance and openness.\n荷兰文化以其宽容和开放而闻名。"
   },
   {
     "id": "word_2535",
@@ -49648,7 +49648,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/duty/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的新方面。"
+    "example": "It is her duty to take care of her elderly parents.\n照顾年迈的父母是她的责任。\nThe soldier performed his duty with honor and dedication.\n士兵以荣誉和奉献履行了他的职责。"
   },
   {
     "id": "word_2536",
@@ -49663,7 +49663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dwarf/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\ndwarf的应用革新了各个行业。"
+    "example": "The dwarf planet was discovered by astronomers recently.\n矮行星最近被天文学家发现。\nThe dwarf trees in the garden are perfect for small spaces.\n花园里的矮树非常适合小空间。"
   },
   {
     "id": "word_2537",
@@ -49678,7 +49678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dwell/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对dwell的认识显著提高。"
+    "example": "She chose to dwell in the countryside for a peaceful life.\n她选择住在乡下过平静的生活。\nThe ancient tribe dwelled in the mountains for centuries.\n古代部落几个世纪以来居住在山区。"
   },
   {
     "id": "word_2538",
