@@ -33358,7 +33358,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cease/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会停止的发展。",
+    "example": "The rain finally began to cease after hours of heavy downpour.\n大雨下了几个小时后终于开始停了。\nThe company decided to cease operations due to financial difficulties.\n公司因财务困难决定停止运营。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33379,7 +33379,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsiːlɪŋ/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，天花板的研究取得了重大进展。",
+    "example": "The ceiling of the old cathedral was painted with beautiful frescoes.\n古老大教堂的天花板上画着美丽的壁画。\nShe measured the height of the ceiling before buying new furniture.\n她在买新家具前测量了天花板的高度。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33400,7 +33400,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈselɪbreɪt/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索庆祝的新方面。",
+    "example": "They planned to celebrate their anniversary with a romantic dinner.\n他们计划用浪漫的晚餐庆祝他们的周年纪念日。\nThe whole town came together to celebrate the holiday festival.\n全镇人聚在一起庆祝节日。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33421,7 +33421,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌselɪˈbreɪʃn/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n庆祝的应用革新了各个行业。",
+    "example": "The celebration lasted well into the night with music and dancing.\n庆祝活动随着音乐和舞蹈持续到深夜。\nA huge celebration was held to mark the team's championship victory.\n举行了盛大的庆祝活动来纪念球队的冠军胜利。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33442,7 +33442,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/celebrity/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对性质的认识显著提高。",
+    "example": "The celebrity arrived at the event surrounded by bodyguards and fans.\n这位名人在保镖和粉丝的簇拥下到达活动现场。\nShe became a celebrity after her breakthrough performance in the movie.\n她在电影中的突破性表演后成为名人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33463,7 +33463,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/sel/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，细胞的重要性怎么强调都不为过。",
+    "example": "The scientist studied the cell structure under a powerful microscope.\n科学家在高倍显微镜下研究细胞结构。\nThe prisoner spent many years in a small cell in the old jail.\n囚犯在旧监狱的小牢房里度过了许多年。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33484,7 +33484,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈselə/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n地窖的理论为理解这一现象提供了框架。",
+    "example": "The wine cellar stored hundreds of bottles of fine vintage wine.\n酒窖储存了数百瓶优质年份葡萄酒。\nShe found old family photographs in the dusty cellar of the house.\n她在房子布满灰尘的地窖里发现了旧的家庭照片。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33505,7 +33505,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/sɪˈment/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与水泥相关的实践技能在工作场所受到高度重视。",
+    "example": "The workers mixed cement to build the foundation of the new building.\n工人混合水泥来建造新建筑的地基。\nThe broken vase was repaired with special cement for ceramics.\n破碎的花瓶用特殊陶瓷水泥修复了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33526,7 +33526,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cemetery/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...的发展。",
+    "example": "The old cemetery contains graves dating back to the 18th century.\n古老的墓地包含可追溯到18世纪的坟墓。\nFamilies gathered at the cemetery to remember their loved ones.\n家庭聚集在墓地纪念他们所爱的人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33547,7 +33547,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/census/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人口普查的研究取得了重大进展。",
+    "example": "The government conducts a census every ten years to count the population.\n政府每十年进行一次人口普查。\nThe census data helps policymakers plan for future community needs.\n人口普查数据帮助政策制定者规划未来社区需求。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33568,7 +33568,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/center/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索中心的新方面。",
+    "example": "The shopping center attracts thousands of visitors every weekend.\n购物中心每个周末吸引成千上万的游客。\nThe medical center provides comprehensive healthcare services to the community.\n医疗中心为社区提供全面的医疗服务。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33589,7 +33589,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/central/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n中心的应用革新了各个行业。",
+    "example": "The central station is the main transportation hub of the city.\n中央车站是城市的主要交通枢纽。\nThe central idea of the book is about finding inner peace.\n这本书的中心思想是关于寻找内心的平静。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33610,7 +33610,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsentʃəri/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对世纪的认识显著提高。",
+    "example": "Many technological advancements occurred during the 20th century.\n20世纪发生了许多技术进步。\nThe ancient castle has stood for over a century on the hill.\n这座古老的城堡在山上矗立了一个多世纪。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33631,7 +33631,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cereal/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的Cere的重要性怎么强调都不为过。",
+    "example": "She ate a bowl of cereal with milk for breakfast this morning.\n她今天早上吃了一碗加牛奶的麦片。\nThe farmer planted a large field of cereal crops for harvest.\n农夫种了一大片谷类作物准备收割。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33652,7 +33652,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈserɪməni/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n仪式的理论为理解这一现象提供了框架。",
+    "example": "The graduation ceremony was held in the university auditorium.\n毕业典礼在大学礼堂举行。\nThey performed a traditional ceremony to honor their ancestors.\n他们举行传统仪式来纪念祖先。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33673,7 +33673,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːtn/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与确定相关的实践技能在工作场所受到高度重视。",
+    "example": "I am certain that we will succeed with our careful planning.\n我确信我们会通过精心规划取得成功。\nThere are certain rules that must be followed in this organization.\n这个组织必须遵守某些规则。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33694,7 +33694,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːtnli/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会当然的发展。",
+    "example": "Certainly, I will help you with your project this weekend.\n当然，我这个周末会帮你做项目。\nThe plan will certainly require additional resources to complete.\n这个计划肯定需要额外的资源才能完成。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33715,7 +33715,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/certainty/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的研究取得了重大进展。",
+    "example": "There is no certainty about the outcome of the upcoming election.\n即将到来的选举结果没有确定性。\nShe approached the task with the certainty of someone who knows their work.\n她以了解自己工作的人的确定性来处理这项任务。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33736,7 +33736,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeɪn/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索链条的新方面。",
+    "example": "A long chain of mountains stretches across the northern border.\n一长串山脉横跨北部边境。\nThe bicycle chain broke while he was riding up the steep hill.\n他骑上陡峭的山坡时自行车链条断了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33757,7 +33757,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeə/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n椅子的应用革新了各个行业。",
+    "example": "She pulled up a chair to sit next to her friend at the table.\n她拉过一把椅子坐在桌子旁她朋友旁边。\nThe antique wooden chair was passed down through generations.\n古董木椅代代相传。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33778,7 +33778,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chairman/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对主席的认识显著提高。",
+    "example": "The chairman of the board presided over the annual meeting.\n董事会主席主持了年度会议。\nHe served as chairman of the organization for over a decade.\n他担任该组织主席超过十年。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33799,7 +33799,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chalk/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，粉笔的重要性怎么强调都不为过。",
+    "example": "The teacher wrote on the blackboard with a piece of white chalk.\n老师用一支白粉笔在黑板上写字。\nChildren drew pictures on the sidewalk with colorful chalk.\n孩子们用彩色粉笔在人行道上画画。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33820,7 +33820,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃælɪndʒ/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n挑战的理论为理解这一现象提供了框架。",
+    "example": "Completing the marathon was a major challenge for the athlete.\n完成马拉松对运动员来说是一项重大挑战。\nShe accepted the challenge to climb the highest mountain in the region.\n她接受了攀登该地区最高山峰的挑战。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33841,7 +33841,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃeɪmbə/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与房间相关的实践技能在工作场所受到高度重视。",
+    "example": "The musicians performed in the grand chamber of the palace.\n音乐家们在宫殿的大厅里表演。\nThe judge announced the verdict from the chamber of the court.\n法官从法庭的审判室宣布判决。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33862,7 +33862,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃæmpiən/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会冠军的发展。",
+    "example": "The young boxer became the champion of his weight class.\n年轻的拳击手成为他体重级别的冠军。\nShe is a champion of environmental causes in her community.\n她是社区环境事业的倡导者。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33883,7 +33883,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/championship/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，冠军赛的研究取得了重大进展。",
+    "example": "The team won the national championship after a thrilling final game.\n球队在激动人心的决赛后赢得了全国冠军。\nThe championship trophy was displayed in the school trophy case.\n冠军奖杯陈列在学校的奖杯柜里。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33904,7 +33904,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːns/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索机会的新方面。",
+    "example": "She took a chance and invested her savings in the startup.\n她冒险把积蓄投资到初创公司。\nThere is a good chance that we will finish the project ahead of schedule.\n我们很有可能提前完成项目。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33925,7 +33925,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeɪndʒ/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n改变的应用革新了各个行业。",
+    "example": "The weather can change quickly in the mountainous region.\n山区的天气变化很快。\nPeople need to embrace change to adapt to new circumstances.\n人们需要拥抱变化以适应新环境。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33946,7 +33946,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃænl/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对频道的认识显著提高。",
+    "example": "The television channel broadcast live coverage of the sports event.\n电视频道直播了体育赛事。\nThe ship navigated through the narrow channel between two islands.\n船通过两岛之间狭窄的航道航行。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33967,7 +33967,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chaos/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，chaos的重要性怎么强调都不为过。",
+    "example": "After the earthquake, chaos reigned in the devastated city.\n地震后，被摧毁的城市一片混乱。\nThe sudden power outage caused chaos in the busy shopping mall.\n突然停电在繁忙的购物中心造成混乱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -33988,7 +33988,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chapel/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nchapel的理论为理解这一现象提供了框架。",
+    "example": "The wedding ceremony was held in a small chapel in the countryside.\n婚礼仪式在乡村的一个小教堂举行。\nShe visited the historic chapel to admire its beautiful stained glass.\n她参观了历史悠久的教堂欣赏其美丽的彩色玻璃。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34009,7 +34009,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃæptə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与章节相关的实践技能在工作场所受到高度重视。",
+    "example": "Each chapter of the book explores a different aspect of history.\n这本书的每一章都探讨历史的不同方面。\nThe organization opened a new chapter in its mission this year.\n该组织今年在其使命中开启了新篇章。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34030,7 +34030,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkærəktər/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会性格的发展。",
+    "example": "The main character in the novel undergoes significant personal growth.\n小说中的主角经历了显著的个人成长。\nBuilding good character takes time and consistent effort.\n培养良好品格需要时间和持续的努力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34051,7 +34051,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌkærəktəˈrɪstɪk/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，特有的研究取得了重大进展。",
+    "example": "One characteristic of successful leaders is their ability to inspire others.\n成功领导者的一个特点是他们激励他人的能力。\nThe region has many characteristic features that attract tourists.\n该地区有许多吸引游客的特色。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34072,7 +34072,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/characterize/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索characterize的新方面。",
+    "example": "The novel is characterized by its vivid descriptions and complex plot.\n这部小说以其生动的描述和复杂的情节为特点。\nScientists characterized the new species based on its unique traits.\n科学家根据其独特特征描述了新物种。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34093,7 +34093,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːdʒ/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n收费的应用革新了各个行业。",
+    "example": "The police decided to charge the suspect with theft.\n警方决定指控嫌疑人犯有盗窃罪。\nShe took charge of the project and led the team to success.\n她负责这个项目并带领团队取得成功。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34114,7 +34114,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃærəti/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对慈善的认识显著提高。",
+    "example": "The charity organization provides food and shelter for homeless people.\n慈善组织为无家可归者提供食物和住所。\nShe donated a large sum of money to her favorite charity.\n她向她最喜欢的慈善机构捐赠了一大笔钱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34135,7 +34135,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːm/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，魅力的重要性怎么强调都不为过。",
+    "example": "The old town has a unique charm that attracts visitors from afar.\n这座古镇有一种独特的魅力，吸引着远方的游客。\nShe used her charm to persuade the committee to approve the plan.\n她用她的魅力说服委员会批准了这个计划。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34156,7 +34156,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/charming/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n正在...的理论为理解这一现象提供了框架。",
+    "example": "The charming little café serves the best coffee in town.\n这家迷人的小咖啡馆供应镇上最好的咖啡。\nHe gave a charming speech that captivated the entire audience.\n他发表了一篇迷人的演讲，吸引了全场观众。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34177,7 +34177,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːt/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与图表相关的实践技能在工作场所受到高度重视。",
+    "example": "The chart shows the company's sales growth over the past five years.\n图表显示了公司过去五年的销售增长。\nShe created a detailed chart to visualize the survey results.\n她创建了一个详细的图表来可视化调查结果。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34198,7 +34198,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeɪs/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会追逐的发展。",
+    "example": "The police officer began to chase the suspect through the crowded streets.\n警察开始穿过拥挤的街道追捕嫌疑人。\nThe children loved to chase each other around the playground.\n孩子们喜欢在操场上互相追逐。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34219,7 +34219,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chat/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，聊天的研究取得了重大进展。",
+    "example": "She enjoyed a friendly chat with her neighbor over coffee.\n她喜欢和邻居边喝咖啡边友好聊天。\nThey spent hours chatting about their travel experiences.\n他们花了几个小时聊他们的旅行经历。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34240,7 +34240,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːp/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索便宜的新方面。",
+    "example": "The store sells cheap but good quality clothing for budget shoppers.\n这家商店为预算有限的购物者出售便宜但质量好的衣服。\nHe found a cheap flight ticket to his favorite vacation destination.\n他找到了一张去他最喜欢的度假目的地的便宜机票。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34261,7 +34261,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːt/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n欺骗的应用革新了各个行业。",
+    "example": "The student was caught trying to cheat on the important exam.\n学生在重要考试中作弊被抓住。\nShe would never cheat in a game because it violates her principles.\n她永远不会在游戏中作弊，因为这违反她的原则。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34282,7 +34282,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃek/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对检查的认识显著提高。",
+    "example": "Please check your email for the important document I sent.\n请查看您的电子邮件获取我发送的重要文件。\nThe security guard will check your identification before entering.\n保安在进入前会检查您的身份证件。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34303,7 +34303,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cheek/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，脸颊的重要性怎么强调都不为过。",
+    "example": "The little boy had a smudge of chocolate on his cheek.\n小男孩的脸颊上有一块巧克力污渍。\nShe playfully kissed her baby on the cheek before leaving.\n她离开前开玩笑地吻了吻婴儿的脸颊。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34324,7 +34324,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪə/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n欢呼的理论为理解这一现象提供了框架。",
+    "example": "The crowd began to cheer loudly when the team scored a goal.\n球队进球时，人群开始大声欢呼。\nShe tried to cheer up her friend who was feeling sad.\n她试图让感到难过的朋友振作起来。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34345,7 +34345,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cheerful/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与快乐相关的实践技能在工作场所受到高度重视。",
+    "example": "She has a cheerful personality that brightens up any room.\n她性格开朗，能让任何房间变得明亮。\nThe cheerful music made everyone want to dance at the party.\n欢快的音乐让每个人都想在派对上跳舞。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34366,7 +34366,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːz/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会奶酪的发展。",
+    "example": "She melted cheese on top of the pizza before baking it.\n她在烤披萨前在上面融化了奶酪。\nThe gourmet cheese shop offers a wide variety of artisanal cheeses.\n美食奶酪店提供各种手工奶酪。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34387,7 +34387,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chef/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，厨师的研究取得了重大进展。",
+    "example": "The world-renowned chef prepared a magnificent seven-course meal.\n世界著名厨师准备了一顿华丽的七道菜餐。\nShe trained for years to become a professional chef in a fine restaurant.\n她训练多年，成为一家高级餐厅的专业厨师。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34408,7 +34408,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkemɪkl/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索化学的新方面。",
+    "example": "The chemical reaction produced a bright blue color in the test tube.\n化学反应在试管中产生了明亮的蓝色。\nWorkers must wear protective gear when handling dangerous chemicals.\n工人处理危险化学品时必须穿戴防护装备。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34429,7 +34429,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkemɪst/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n化学家的应用革新了各个行业。",
+    "example": "The chemist spent years researching new pharmaceutical compounds.\n化学家花了多年时间研究新的药物化合物。\nShe consulted a chemist to understand the composition of the material.\n她咨询了一位化学家来了解材料的成分。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34450,7 +34450,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkemɪstri/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对化学的认识显著提高。",
+    "example": "He studied chemistry at university and now works in a research lab.\n他在大学学习化学，现在在研究实验室工作。\nThe chemistry between the two characters made the movie very romantic.\n两个角色之间的化学反应使电影非常浪漫。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34471,7 +34471,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃek/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，支票的重要性怎么强调都不为过。",
+    "example": "He wrote a cheque to pay for the expensive antique furniture.\n他写了一张支票来支付昂贵的古董家具。\nThe bank processed the cheque and deposited the funds into her account.\n银行处理了支票并将资金存入她的账户。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34492,7 +34492,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cherry/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\ncherry的理论为理解这一现象提供了框架。",
+    "example": "The cherry tree in the backyard is full of ripe fruit in summer.\n后院的樱桃树夏天结满了成熟的果实。\nShe made a delicious cherry pie using fresh cherries from the orchard.\n她用果园里新鲜的樱桃做了一个美味的樱桃派。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34513,7 +34513,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chess/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与chess相关的实践技能在工作场所受到高度重视。",
+    "example": "The two grandmasters played an intense game of chess for hours.\n两位特级大师下了几个小时激烈的国际象棋。\nHe taught his young son how to play chess on rainy afternoons.\n他在下雨的下午教他的小儿子下国际象棋。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34534,7 +34534,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃest/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会胸部的发展。",
+    "example": "The old wooden chest contained family heirlooms and photographs.\n旧木箱里装着家族传家宝和照片。\nHe felt a tightness in his chest after running the marathon.\n跑完马拉松后，他感到胸闷。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34555,7 +34555,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chew/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，chew的研究取得了重大进展。",
+    "example": "Please chew your food slowly to aid digestion.\n请慢慢咀嚼食物以帮助消化。\nThe puppy loves to chew on bones and toys throughout the day.\n小狗喜欢整天啃骨头和玩具。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34576,7 +34576,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃɪkɪn/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索鸡的新方面。",
+    "example": "She roasted a whole chicken for Sunday dinner with her family.\n她为周日家庭晚餐烤了一只整鸡。\nThe little girl chased the chicken around the farmyard.\n小女孩在农场院子里追着鸡跑。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34597,7 +34597,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːf/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n主要的应用革新了各个行业。",
+    "example": "The chief executive officer announced the company's new strategic plan.\n首席执行官宣布了公司的新战略计划。\nThe police chief held a press conference about the recent crime wave.\n警察局长就最近的犯罪浪潮举行了新闻发布会。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34618,7 +34618,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃaɪld/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对孩子的认识显著提高。",
+    "example": "The little child played happily with toys in the playroom.\n小孩子在游戏室里快乐地玩玩具。\nShe has three children who are all attending university.\n她有三个孩子，都在上大学。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34639,7 +34639,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃaɪldhʊd/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，童年的重要性怎么强调都不为过。",
+    "example": "She has many happy memories of her childhood spent on the farm.\n她有许多在农场度过的童年美好回忆。\nChildhood experiences can shape a person's personality and values.\n童年经历可以塑造一个人的性格和价值观。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34660,7 +34660,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪl/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n变冷的理论为理解这一现象提供了框架。",
+    "example": "A sudden chill swept through the room as the window opened.\n窗户打开时，一阵寒意席卷房间。\nShe put on a sweater to ward off the chill in the air.\n她穿上毛衣抵御空气中的寒意。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34681,7 +34681,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃɪmni/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与烟囱相关的实践技能在工作场所受到高度重视。",
+    "example": "Smoke curled up from the chimney into the cold winter sky.\n烟雾从烟囱袅袅升起，飘入寒冷的冬日天空。\nThe old house had a brick chimney that needed repairs.\n这栋老房子有一个需要维修的砖砌烟囱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34702,7 +34702,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪn/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会下巴的发展。",
+    "example": "He rested his chin on his hand while deep in thought.\n他陷入沉思时，下巴放在手上。\nThe baby had a dimple on his chin that made him look adorable.\n婴儿下巴上有一个酒窝，让他看起来很可爱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34723,7 +34723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃaɪnə/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，中国的研究取得了重大进展。",
+    "example": "China is a vast country with a rich history and culture.\n中国是一个有着丰富历史和文化的大国。\nShe collected delicate china teacups from around the world.\n她收集来自世界各地的精致瓷茶杯。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34744,7 +34744,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪp/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索芯片的新方面。",
+    "example": "She ate crispy potato chips while watching the movie.\n她看电影时吃脆薯片。\nThe computer chip is the heart of modern electronic devices.\n计算机芯片是现代电子设备的核心。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34765,7 +34765,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chlorine/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nchlorine的应用革新了各个行业。",
+    "example": "Chlorine is commonly used to disinfect swimming pool water.\n氯常用于消毒游泳池水。\nWorkers must handle chlorine carefully due to its corrosive nature.\n由于氯的腐蚀性，工人必须小心处理。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34786,7 +34786,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃɒklət/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对巧克力的认识显著提高。",
+    "example": "She received a box of premium chocolate for her birthday.\n她生日收到了一盒优质巧克力。\nThe chocolate factory produces over a million bars each day.\n这家巧克力工厂每天生产超过一百万根巧克力棒。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34807,7 +34807,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɔɪs/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，选择的重要性怎么强调都不为过。",
+    "example": "Making the right choice can have a significant impact on your future.\n做出正确的选择会对你的未来产生重大影响。\nShe had to make a difficult choice between two job offers.\n她不得不在两份工作机会之间做出艰难的选择。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34828,7 +34828,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cholesterol/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\ncholesterol的理论为理解这一现象提供了框架。",
+    "example": "High cholesterol levels can increase the risk of heart disease.\n高胆固醇水平会增加心脏病的风险。\nShe changed her diet to reduce her cholesterol intake.\n她改变饮食以减少胆固醇摄入。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34849,7 +34849,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃuːz/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与选择相关的实践技能在工作场所受到高度重视。",
+    "example": "You must choose between these two options before the deadline.\n你必须在截止日期前在这两个选项之间做出选择。\nShe chose to study abroad to broaden her educational experience.\n她选择出国留学以拓宽她的教育经历。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34870,7 +34870,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɒp/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会砍的发展。",
+    "example": "He used a sharp knife to chop vegetables for the soup.\n他用一把锋利的刀切碎蔬菜做汤。\nThe chef demonstrated how to chop onions quickly and safely.\n厨师演示了如何快速安全地切洋葱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34891,7 +34891,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kɔːd/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，和弦的研究取得了重大进展。",
+    "example": "The musician played a beautiful chord on the piano.\n音乐家在钢琴上弹奏了一个优美的和弦。\nThe guitar player strummed a chord that filled the room with music.\n吉他手弹奏了一个和弦，房间里充满了音乐。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34912,7 +34912,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chore/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索chore的新方面。",
+    "example": "Doing household chores is an important responsibility for everyone.\n做家务是每个人的重要责任。\nShe divided the weekly chores among family members.\n她把每周的家务分给家庭成员。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34933,7 +34933,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkɔːrəs/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n合唱的应用革新了各个行业。",
+    "example": "The chorus sang a harmonious melody at the concert.\n合唱团在音乐会上演唱了一首和谐的旋律。\nThe audience joined in the chorus during the final song.\n观众在最后一首歌时加入了合唱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34954,7 +34954,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chose/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对chose的认识显著提高。",
+    "example": "She chose the red dress for the special occasion.\n她为这个特殊场合选择了红色连衣裙。\nAfter careful consideration, he chose to accept the job offer.\n经过仔细考虑，他选择接受这份工作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34975,7 +34975,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chosen/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，chosen的重要性怎么强调都不为过。",
+    "example": "The chosen few were invited to attend the exclusive event.\n被选中的少数人被邀请参加这个独家活动。\nShe felt honored to be the chosen representative for her class.\n她感到荣幸成为她班级的当选代表。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -34996,7 +34996,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kraɪst/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n基督的理论为理解这一现象提供了框架。",
+    "example": "Christ is the central figure in the Christian religion.\n基督是基督教的中心人物。\nMany people celebrate Christmas to honor the birth of Christ.\n许多人庆祝圣诞节以纪念基督的诞生。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35017,7 +35017,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkrɪstʃən/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与基督教相关的实践技能在工作场所受到高度重视。",
+    "example": "She attends a Christian church every Sunday with her family.\n她每周日和家人一起去基督教教堂。\nThe Christian community organized a charity event for the homeless.\n基督教社区为无家可归者组织了一场慈善活动。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35038,7 +35038,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkrɪsməs/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会圣诞节的发展。",
+    "example": "Christmas is a time for family gatherings and gift exchanges.\n圣诞节是家庭聚会和礼物交换的时刻。\nShe decorated the Christmas tree with colorful lights and ornaments.\n她用彩色灯和装饰品装饰圣诞树。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35059,7 +35059,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chronic/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，...的研究取得了重大进展。",
+    "example": "The patient suffers from chronic pain that requires ongoing treatment.\n患者患有慢性疼痛，需要持续治疗。\nChronic stress can have negative effects on both physical and mental health.\n慢性压力会对身心健康产生负面影响。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35080,7 +35080,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chuckle/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索chuckle的新方面。",
+    "example": "He couldn't help but chuckle at the funny joke his friend told.\n他忍不住对朋友讲的有趣笑话咯咯笑。\nThe children began to chuckle when they saw the silly clown.\n孩子们看到愚蠢的小丑时开始咯咯笑。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35101,7 +35101,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chunk/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nchunk的应用革新了各个行业。",
+    "example": "She cut a large chunk of bread to make sandwiches for lunch.\n她切了一大块面包做午餐三明治。\nA chunk of ice fell from the roof during the winter storm.\n冬季风暴期间，一大块冰从屋顶掉落。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35122,7 +35122,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɜːtʃ/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对教堂的认识显著提高。",
+    "example": "The old stone church has stood in the village for centuries.\n这座古老的石教堂已经在村庄矗立了几个世纪。\nPeople gathered at the church to celebrate the religious holiday.\n人们聚集在教堂庆祝宗教节日。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35143,7 +35143,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/churchyard/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，churchyard的重要性怎么强调都不为过。",
+    "example": "The churchyard contains gravestones dating back hundreds of years.\n教堂墓地包含可追溯到数百年前的墓碑。\nShe visited her grandmother's grave in the peaceful churchyard.\n她在宁静的教堂墓地参观了祖母的坟墓。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35164,7 +35164,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌsɪɡəˈret/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n香烟的理论为理解这一现象提供了框架。",
+    "example": "Smoking a cigarette is harmful to both smokers and those around them.\n吸烟对吸烟者和周围的人都有害。\nHe decided to quit smoking and threw his last cigarette away.\n他决定戒烟，扔掉了最后一支香烟。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35185,7 +35185,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪnəmə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与电影院相关的实践技能在工作场所受到高度重视。",
+    "example": "They went to the cinema to watch the latest blockbuster movie.\n他们去电影院看最新的大片。\nThe old cinema in town has been renovated into a modern theater.\n镇上的老电影院已被改造成现代化剧院。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35206,7 +35206,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkl/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会圆圈的发展。",
+    "example": "The children sat in a circle to play a game together.\n孩子们围成一圈一起玩游戏。\nShe drew a perfect circle using a compass and pencil.\n她用圆规和铅笔画了一个完美的圆。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35227,7 +35227,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkɪt/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，电路的研究取得了重大进展。",
+    "example": "The electrician installed a new circuit to power the additional lights.\n电工安装了新电路为额外的灯供电。\nThe race car driver completed another lap around the circuit.\n赛车手在赛道上完成了另一圈。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35248,7 +35248,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkjələ/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索圆形的新方面。",
+    "example": "The circular table in the dining room seats eight people comfortably.\n餐厅里的圆桌舒适地坐八个人。\nShe received a circular letter inviting her to the company event.\n她收到一封邀请她参加公司活动的通函。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35269,7 +35269,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkəmstəns/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n情况的应用革新了各个行业。",
+    "example": "Under the circumstances, we have no choice but to postpone the event.\n在这种情况下，我们别无选择，只能推迟活动。\nHe found himself in difficult circumstances after losing his job.\n失业后，他发现自己处境困难。",
     "prefix": "circum-",
     "prefixMeaning": "周围",
     "prefixMeaningEn": "around",
@@ -35290,7 +35290,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/circus/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对circus的认识显著提高。",
+    "example": "The circus came to town with acrobats, clowns, and exotic animals.\n马戏团带着杂技演员、小丑和异国动物来到镇上。\nChildren were thrilled by the circus performance at the fairground.\n孩子们对游乐场的马戏团表演感到兴奋。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35311,7 +35311,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/citation/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，行为的重要性怎么强调都不为过。",
+    "example": "The professor included a citation for every source in his research paper.\n教授在他的研究论文中为每个来源都包含了引用。\nThe police officer issued a citation for the speeding violation.\n警察对超速违规发出了传票。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35332,7 +35332,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/saɪt/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n引用的理论为理解这一现象提供了框架。",
+    "example": "The author decided to cite several experts in her academic paper.\n作者决定在她的学术论文中引用几位专家。\nPlease cite your sources when writing academic assignments.\n撰写学术作业时请引用你的来源。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35353,7 +35353,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪtɪzn/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与公民相关的实践技能在工作场所受到高度重视。",
+    "example": "Every citizen has the right to vote in democratic elections.\n每个公民都有权在民主选举中投票。\nShe became a citizen of the country after living there for five years.\n在那里居住五年后，她成为该国公民。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35374,7 +35374,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪti/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会城市的发展。",
+    "example": "The bustling city never sleeps with people working and playing around the clock.\n繁华的城市从不沉睡，人们日夜工作和娱乐。\nShe moved to the city to pursue her career in the arts.\n她搬到城市追求艺术事业。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35395,7 +35395,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪvl/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，公民的研究取得了重大进展。",
+    "example": "The civil rights movement fought for equality and justice for all.\n民权运动为所有人的平等和正义而斗争。\nCivil engineers design and build infrastructure for communities.\n土木工程师为社区设计和建造基础设施。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35416,7 +35416,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/civilian/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索civilian的新方面。",
+    "example": "During the conflict, many civilians were displaced from their homes.\n冲突期间，许多平民流离失所。\nThe army worked to protect civilians in the war-torn region.\n军队努力保护饱受战争蹂躏地区的平民。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35437,7 +35437,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n文明的应用革新了各个行业。",
+    "example": "Ancient civilizations developed complex systems of writing and governance.\n古代文明发展了复杂的书写和治理系统。\nModern civilization relies heavily on technology and innovation.\n现代文明严重依赖技术和创新。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35458,7 +35458,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/civilize/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对civilize的认识显著提高。",
+    "example": "Education helps to civilize society by promoting knowledge and understanding.\n教育通过促进知识和理解来帮助文明社会。\nThe goal is to civilize rather than to punish those who have made mistakes.\n目标是教化而不是惩罚那些犯了错误的人。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35479,7 +35479,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kleɪm/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，声称的重要性怎么强调都不为过。"
+    "example": "The company decided to claim compensation for the damaged goods.\n公司决定对损坏的货物索赔。\nShe was the first to claim responsibility for the successful project.\n她是第一个对成功项目承担责任的人。"
   },
   {
     "id": "word_1835",
@@ -35494,7 +35494,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clam/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nclam的理论为理解这一现象提供了框架。"
+    "example": "The beach was covered with clams that children enjoyed digging up.\n海滩上布满了孩子们喜欢挖的蛤蜊。\nShe prepared a delicious clam chowder using fresh seafood.\n她用新鲜海鲜准备了美味的蛤蜊浓汤。"
   },
   {
     "id": "word_1836",
@@ -35509,7 +35509,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clamp/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与clamp相关的实践技能在工作场所受到高度重视。"
+    "example": "The mechanic used a clamp to hold the pieces together while repairing.\n机械师用夹具在修理时将零件固定在一起。\nShe used a clamp to secure the fabric while sewing the dress.\n她用夹子在缝制连衣裙时固定布料。"
   },
   {
     "id": "word_1837",
@@ -35524,7 +35524,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clan/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会clan的发展。"
+    "example": "Members of the Scottish clan gathered for their annual reunion.\n苏格兰氏族成员聚集参加年度团聚。\nThe clan leader made important decisions for the entire community.\n氏族首领为整个社区做出重要决定。"
   },
   {
     "id": "word_1838",
@@ -35539,7 +35539,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klæp/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，拍手的研究取得了重大进展。"
+    "example": "The audience began to clap loudly after the amazing performance.\n精彩表演结束后，观众开始大声鼓掌。\nShe gave her friend a friendly clap on the shoulder to show support.\n她友好地拍了拍朋友的肩膀表示支持。"
   },
   {
     "id": "word_1839",
@@ -35554,7 +35554,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklærɪfaɪ/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索澄清的新方面。"
+    "example": "The speaker took time to clarify any misunderstandings about the proposal.\n演讲者花时间澄清关于提案的任何误解。\nCould you clarify your position on this important issue?\n你能澄清你在这个重要问题上的立场吗？"
   },
   {
     "id": "word_1840",
@@ -35569,7 +35569,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clash/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n冲突的应用革新了各个行业。"
+    "example": "The two teams clashed during the championship game last night.\n两支球队在昨晚的冠军赛中发生冲突。\nThe bright colors in the painting clash with the neutral decor.\n画中的鲜艳色彩与中性装饰冲突。"
   },
   {
     "id": "word_1841",
@@ -35584,7 +35584,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clasp/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对clasp的认识显著提高。"
+    "example": "She fastened the clasp on her necklace before leaving the house.\n她离开家前扣上项链的扣子。\nHe gave her hand a gentle clasp to show his affection.\n他轻轻握住她的手表示爱意。"
   },
   {
     "id": "word_1842",
@@ -35599,7 +35599,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɑːs/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，班级的重要性怎么强调都不为过。"
+    "example": "The teacher divided the students into groups for the class activity.\n老师将学生分成小组进行课堂活动。\nShe attended a yoga class every Saturday morning.\n她每周六早上参加瑜伽课。"
   },
   {
     "id": "word_1843",
@@ -35614,7 +35614,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklæsɪk/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n经典的理论为理解这一现象提供了框架。"
+    "example": "The classic novel has been read by generations of students.\n这部经典小说被几代学生阅读。\nShe wore a classic black dress to the formal event.\n她穿了一件经典的黑色连衣裙参加正式活动。"
   },
   {
     "id": "word_1844",
@@ -35629,7 +35629,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklæsɪkl/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与古典相关的实践技能在工作场所受到高度重视。"
+    "example": "The orchestra performed classical music by Beethoven and Mozart.\n管弦乐队演奏贝多芬和莫扎特的古典音乐。\nShe studied classical literature at university.\n她在大学学习古典文学。"
   },
   {
     "id": "word_1845",
@@ -35644,7 +35644,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/classification/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会分类的发展。"
+    "example": "The classification of plants helps scientists understand their relationships.\n植物的分类有助于科学家理解它们的关系。\nThe library uses a classification system to organize books.\n图书馆使用分类系统来组织书籍。"
   },
   {
     "id": "word_1846",
@@ -35659,7 +35659,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklæsɪfaɪ/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，分类的研究取得了重大进展。"
+    "example": "Scientists classify animals based on their characteristics and behaviors.\n科学家根据动物的特征和行为对它们进行分类。\nThe documents were classified according to their importance.\n文件根据其重要性进行分类。"
   },
   {
     "id": "word_1847",
@@ -35674,7 +35674,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklɑːsruːm/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索教室的新方面。"
+    "example": "The classroom was filled with students eager to learn new things.\n教室里坐满了渴望学习新事物的学生。\nShe decorated the classroom with colorful posters and plants.\n她用彩色海报和植物装饰教室。"
   },
   {
     "id": "word_1848",
@@ -35689,7 +35689,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɔːz/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n条款的应用革新了各个行业。"
+    "example": "The contract included a clause about payment terms and conditions.\n合同包含有关付款条款和条件的条款。\nThe lawyer explained each clause of the legal agreement.\n律师解释了法律协议的每个条款。"
   },
   {
     "id": "word_1849",
@@ -35704,7 +35704,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/claw/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对claw的认识显著提高。"
+    "example": "The cat extended its sharp claws when it felt threatened.\n猫感到威胁时伸出锋利的爪子。\nThe eagle used its powerful claws to catch the fish from the water.\n鹰用它有力的爪子从水中抓鱼。"
   },
   {
     "id": "word_1850",
@@ -35719,7 +35719,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clay/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，clay的重要性怎么强调都不为过。"
+    "example": "The potter shaped the clay into a beautiful vase on the wheel.\n陶工在轮子上把粘土塑造成一个漂亮的花瓶。\nChildren enjoyed playing with clay and making various shapes.\n孩子们喜欢玩粘土并制作各种形状。"
   },
   {
     "id": "word_1851",
@@ -35734,7 +35734,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kliːn/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n干净的理论为理解这一现象提供了框架。"
+    "example": "She spent the morning cleaning the entire house from top to bottom.\n她花了一上午从上到下打扫整个房子。\nPlease keep your room clean and tidy at all times.\n请始终保持房间干净整洁。"
   },
   {
     "id": "word_1852",
@@ -35749,7 +35749,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɪə/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与清楚相关的实践技能在工作场所受到高度重视。"
+    "example": "The instructions were clear and easy to understand for everyone.\n说明清晰易懂，每个人都能理解。\nAfter the storm, the sky became clear and blue again.\n暴风雨过后，天空又变得晴朗湛蓝。"
   },
   {
     "id": "word_1853",
@@ -35764,7 +35764,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clearly/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会清楚地的发展。"
+    "example": "The instructions were clearly written and easy to follow.\n说明写得很清楚，容易遵循。\nShe clearly explained the reasons behind her decision to everyone.\n她清楚地向每个人解释了她做出决定的原因。"
   },
   {
     "id": "word_1854",
@@ -35779,7 +35779,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɑːk/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，职员的研究取得了重大进展。"
+    "example": "The clerk helped the customer find the right product in the store.\n店员帮助顾客在商店找到合适的产品。\nShe worked as a clerk at the local library during college.\n她大学期间在当地图书馆担任职员。"
   },
   {
     "id": "word_1855",
@@ -35794,7 +35794,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklevə/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索聪明的新方面。"
+    "example": "The clever student found a creative solution to the problem.\n聪明的学生找到了解决问题的创造性方法。\nShe came up with a clever idea to improve the workflow.\n她想出了一个聪明的主意来改进工作流程。"
   },
   {
     "id": "word_1856",
@@ -35809,7 +35809,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/click/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nclick的应用革新了各个行业。"
+    "example": "Please click the button to submit your application.\n请点击按钮提交您的申请。\nThe mouse click opened a new window on the computer screen.\n鼠标点击在电脑屏幕上打开了一个新窗口。"
   },
   {
     "id": "word_1857",
@@ -35824,7 +35824,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/client/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对人的认识显著提高。"
+    "example": "The company provides excellent service to all its clients.\n公司为所有客户提供优质服务。\nShe met with her client to discuss the project requirements.\n她与客户会面讨论项目要求。"
   },
   {
     "id": "word_1858",
@@ -35839,7 +35839,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɪf/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，悬崖的重要性怎么强调都不为过。"
+    "example": "The hiker stood at the edge of the cliff overlooking the ocean.\n徒步旅行者站在悬崖边缘俯瞰海洋。\nThe cliff face was covered with colorful wildflowers in spring.\n春天悬崖表面覆盖着五颜六色的野花。"
   },
   {
     "id": "word_1859",
@@ -35854,7 +35854,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklaɪmət/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n气候的理论为理解这一现象提供了框架。"
+    "example": "The changing climate has caused extreme weather events worldwide.\n气候变化在全球范围内造成了极端天气事件。\nShe moved to a warmer climate to improve her health.\n她搬到气候较温暖的地方改善健康。"
   },
   {
     "id": "word_1860",
@@ -35869,7 +35869,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klaɪm/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与攀登相关的实践技能在工作场所受到高度重视。"
+    "example": "They decided to climb the mountain despite the challenging terrain.\n尽管地形具有挑战性，他们还是决定爬山。\nShe learned how to climb rocks at the outdoor adventure park.\n她在户外冒险公园学会了攀岩。"
   },
   {
     "id": "word_1861",
@@ -35884,7 +35884,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklɪnɪk/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会诊所的发展。"
+    "example": "The medical clinic provides affordable healthcare to the community.\n医疗诊所为社区提供负担得起的医疗服务。\nShe visited the clinic for her regular check-up this morning.\n她今天早上去诊所进行定期检查。"
   },
   {
     "id": "word_1862",
@@ -35899,7 +35899,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clinical/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，临床的研究取得了重大进展。"
+    "example": "The clinical trial tested the effectiveness of the new drug.\n临床试验测试了新药的有效性。\nShe works in a clinical research lab at the hospital.\n她在医院的临床研究实验室工作。"
   },
   {
     "id": "word_1863",
@@ -35914,7 +35914,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clip/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索clip的新方面。"
+    "example": "She used a hair clip to keep her hair out of her face.\n她用发夹把头发别在脑后。\nThe video clip showed the highlights of the sports event.\n视频片段展示了体育赛事的精彩瞬间。"
   },
   {
     "id": "word_1864",
@@ -35929,7 +35929,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cloak/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\ncloak的应用革新了各个行业。"
+    "example": "The wizard wore a long black cloak as part of his costume.\n巫师穿着长长的黑色斗篷作为服装的一部分。\nShe wrapped a warm cloak around herself to stay warm.\n她裹上一件温暖的斗篷保暖。"
   },
   {
     "id": "word_1865",
@@ -35944,7 +35944,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɒk/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对时钟的认识显著提高。"
+    "example": "The antique clock on the wall chimed every hour.\n墙上的古董钟每小时敲响一次。\nShe checked the clock to see if she was running late.\n她看了看钟，看看是否迟到了。"
   },
   {
     "id": "word_1866",
@@ -35959,7 +35959,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clone/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，clone的重要性怎么强调都不为过。"
+    "example": "Scientists successfully cloned a sheep named Dolly in 1996.\n科学家在1996年成功克隆了一只名叫多莉的羊。\nThe technology can clone plants to produce identical copies.\n这项技术可以克隆植物以生产相同的副本。"
   },
   {
     "id": "word_1867",
@@ -35974,7 +35974,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kləʊz/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n关闭的理论为理解这一现象提供了框架。"
+    "example": "Please close the door when you leave the room.\n离开房间时请关门。\nShe lives close to the office so she can walk to work.\n她住得离办公室很近，所以可以步行上班。"
   },
   {
     "id": "word_1868",
@@ -35989,7 +35989,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/closed/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与已...相关的实践技能在工作场所受到高度重视。"
+    "example": "The store is closed on Sundays and public holidays.\n商店在周日和公共假期关门。\nShe kept her eyes closed to relax and meditate.\n她闭上眼睛放松和冥想。"
   },
   {
     "id": "word_1869",
@@ -36004,7 +36004,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkləʊzli/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会紧密地的发展。"
+    "example": "The detective examined the evidence closely for clues.\n侦探仔细检查证据寻找线索。\nShe followed the instructions closely to complete the task.\n她严格按照指示完成任务。"
   },
   {
     "id": "word_1870",
@@ -36019,7 +36019,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/closet/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，closet的研究取得了重大进展。"
+    "example": "She organized her clothes neatly in the bedroom closet.\n她把衣服整齐地整理在卧室衣柜里。\nThe old house had a secret closet behind the bookshelf.\n老房子在书架后面有一个秘密壁橱。"
   },
   {
     "id": "word_1871",
@@ -36034,7 +36034,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɒθ/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索布的新方面。"
+    "example": "She used a soft cloth to clean the delicate glassware.\n她用一块软布清洁精致的玻璃器皿。\nThe tailor cut the cloth carefully to make the dress.\n裁缝仔细裁剪布料制作连衣裙。"
   },
   {
     "id": "word_1872",
@@ -36049,7 +36049,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kləʊðz/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n衣服的应用革新了各个行业。"
+    "example": "She packed her summer clothes for the vacation trip.\n她为假期旅行打包了夏装。\nThe children changed into their swimming clothes for the pool.\n孩子们换上游泳衣去游泳池。"
   },
   {
     "id": "word_1873",
@@ -36064,7 +36064,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkləʊðɪŋ/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对衣物的认识显著提高。"
+    "example": "The store sells a wide variety of clothing for men and women.\n这家商店出售各种各样的男女服装。\nShe donated old clothing to the charity organization.\n她把旧衣服捐赠给慈善组织。"
   },
   {
     "id": "word_1874",
@@ -36079,7 +36079,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klaʊd/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，云的重要性怎么强调都不为过。"
+    "example": "A fluffy white cloud floated across the blue sky.\n一朵蓬松的白云飘过蓝天。\nThe dark cloud signaled that a storm was approaching.\n乌云预示着暴风雨即将来临。"
   },
   {
     "id": "word_1875",
@@ -36094,7 +36094,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklaʊdi/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n多云的理论为理解这一现象提供了框架。"
+    "example": "The weather forecast predicts a cloudy day with occasional rain.\n天气预报预测阴天，偶尔有雨。\nShe prefers sunny days over cloudy ones for outdoor activities.\n她更喜欢晴天而不是阴天进行户外活动。"
   },
   {
     "id": "word_1876",
@@ -36109,7 +36109,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clown/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与clown相关的实践技能在工作场所受到高度重视。"
+    "example": "The clown entertained children with funny tricks at the circus.\n小丑在马戏团用有趣的把戏逗孩子们开心。\nHe dressed up as a clown for the Halloween party.\n他在万圣节派对上打扮成小丑。"
   },
   {
     "id": "word_1877",
@@ -36124,7 +36124,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klʌb/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会俱乐部的发展。"
+    "example": "She joined the book club to discuss literature with friends.\n她加入读书俱乐部与朋友讨论文学。\nThe sports club offers various activities for members.\n体育俱乐部为会员提供各种活动。"
   },
   {
     "id": "word_1878",
@@ -36139,7 +36139,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clue/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，线索的研究取得了重大进展。"
+    "example": "The detective found an important clue that solved the mystery.\n侦探发现了一个重要线索，解开了谜团。\nCan you give me a clue about the answer to this puzzle?\n你能给我一个关于这个谜题答案的线索吗？"
   },
   {
     "id": "word_1879",
@@ -36154,7 +36154,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clumsy/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索笨拙的新方面。"
+    "example": "The clumsy waiter spilled water on the customer's table.\n笨拙的服务员把水洒在顾客的桌子上。\nShe felt clumsy when she tried to learn how to dance.\n她学跳舞时觉得自己很笨拙。"
   },
   {
     "id": "word_1880",
@@ -36169,7 +36169,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cluster/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\n...的人Clust的应用革新了各个行业。"
+    "example": "A cluster of stars formed a beautiful constellation in the sky.\n一簇星星在天空中形成了美丽的星座。\nThe flowers grew in a cluster near the garden fence.\n花在花园篱笆附近成簇生长。"
   },
   {
     "id": "word_1881",
@@ -36184,7 +36184,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clutch/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对clutch的认识显著提高。"
+    "example": "She released the clutch and the car began to move forward.\n她松开离合器，汽车开始向前移动。\nThe mother gave her child a tight clutch before saying goodbye.\n母亲在告别前紧紧抱住孩子。"
   },
   {
     "id": "word_1882",
@@ -36199,7 +36199,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/coach/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，教练的重要性怎么强调都不为过。",
+    "example": "The football coach trained the team hard for the championship.\n足球教练为冠军赛刻苦训练球队。\nShe hired a coach to help her prepare for the marathon.\n她雇了一名教练帮助她准备马拉松。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36220,7 +36220,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kəʊl/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n煤的理论为理解这一现象提供了框架。",
+    "example": "Miners worked deep underground to extract coal from the mine.\n矿工在地下深处工作，从矿井中提取煤炭。\nThe power plant burns coal to generate electricity.\n发电厂燃烧煤炭发电。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36241,7 +36241,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/coarse/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与coarse相关的实践技能在工作场所受到高度重视。",
+    "example": "The coarse sandpaper was used to smooth the rough wood.\n粗砂纸用来打磨粗糙的木材。\nHis coarse manners made him unpopular at the formal dinner.\n他粗鲁的举止使他在正式晚宴上不受欢迎。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36262,7 +36262,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kəʊst/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会海岸的发展。",
+    "example": "The ship sailed along the coast, enjoying the scenic views.\n船沿着海岸航行，欣赏风景。\nShe walked along the coast, collecting seashells along the way.\n她沿着海岸散步，沿途收集贝壳。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36283,7 +36283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/coastal/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，海岸的研究取得了重大进展。",
+    "example": "The coastal town attracts tourists with its beautiful beaches.\n沿海城镇以其美丽的海滩吸引游客。\nCoastal regions are vulnerable to rising sea levels.\n沿海地区容易受到海平面上升的影响。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36304,7 +36304,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kəʊt/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索外套的新方面。",
+    "example": "She put on her winter coat before going outside in the cold.\n她在寒冷天气外出前穿上冬衣。\nThe dog's thick coat kept it warm during the winter.\n狗厚厚的皮毛在冬天保持温暖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36325,7 +36325,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/coca/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\ncoca的应用革新了各个行业。",
+    "example": "Coca-Cola is one of the most popular soft drinks in the world.\n可口可乐是世界上最受欢迎的软饮料之一。\nThe coca plant is native to South America.\n古柯植物原产于南美洲。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36346,7 +36346,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kɒk/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对公鸡的认识显著提高。",
+    "example": "The rooster cock crowed loudly at dawn to wake the farm.\n公鸡在黎明时分大声啼叫唤醒农场。\nHe turned the cock of the gun to prepare it for firing.\n他转动枪的击锤准备射击。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36367,7 +36367,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/code/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，代码的重要性怎么强调都不为过。",
+    "example": "The software developer wrote code to create the new application.\n软件开发人员编写代码创建新应用程序。\nShe used a secret code to send messages to her friend.\n她使用密码给朋友发送消息。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36388,7 +36388,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkɒfi/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n咖啡的理论为理解这一现象提供了框架。",
+    "example": "She drank a cup of coffee to wake up in the morning.\n她早上喝一杯咖啡来提神。\nThe café serves freshly brewed coffee from around the world.\n咖啡馆供应来自世界各地的现煮咖啡。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36409,7 +36409,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/coffin/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与coffin相关的实践技能在工作场所受到高度重视。",
+    "example": "The coffin was carried by pallbearers to the gravesite.\n棺材由抬棺人抬到墓地。\nThe old coffin was made of solid oak wood.\n旧棺材是用坚实的橡木制成的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36430,7 +36430,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/coherence/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会行为的发展。",
+    "example": "The essay lacked coherence and was difficult to follow.\n这篇文章缺乏连贯性，难以理解。\nShe worked to improve the coherence of her argument.\n她努力提高论点的连贯性。",
     "prefix": "co-",
     "prefixMeaning": "共同",
     "prefixMeaningEn": "together",
@@ -36451,7 +36451,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/coherent/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，人的研究取得了重大进展。",
+    "example": "The speaker gave a coherent presentation that was easy to understand.\n演讲者做了一个连贯的演讲，很容易理解。\nHis thoughts became more coherent after he got some rest.\n休息后，他的思路变得更清晰了。",
     "prefix": "co-",
     "prefixMeaning": "共同",
     "prefixMeaningEn": "together",
