@@ -30148,7 +30148,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bub/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bub的认识显著提高。"
+    "example": "The little bub ran excitedly toward his mother at the playground.\n小家伙兴奋地跑向操场上的妈妈。\nMy brother calls his best friend bub whenever they meet after work.\n我哥哥下班后见到最好的朋友时总是叫他兄弟。"
   },
   {
     "id": "word_1546",
@@ -30163,7 +30163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bubble/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，泡沫的重要性怎么强调都不为过。"
+    "example": "The children blew colorful soap bubbles in the warm summer breeze.\n孩子们在温暖的夏日微风中吹出五颜六色的肥皂泡。\nThe economic bubble eventually burst causing widespread financial problems.\n经济泡沫最终破裂，导致广泛的财务问题。"
   },
   {
     "id": "word_1547",
@@ -30178,7 +30178,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buccaneer/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n...的人Buccane的理论为理解这一现象提供了框架。"
+    "example": "The buccaneer sailed across the Caribbean Sea searching for hidden treasure.\n海盗航行穿越加勒比海寻找隐藏的宝藏。\nStories about the famous buccaneer have been told for many generations.\n关于这位著名海盗的故事已经流传了很多代。"
   },
   {
     "id": "word_1548",
@@ -30193,7 +30193,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buck/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与buck相关的实践技能在工作场所受到高度重视。"
+    "example": "The young buck stood majestically in the middle of the forest clearing.\n年轻的雄鹿威严地站在森林空地的中央。\nHe tried to buck the system by proposing innovative solutions to problems.\n他试图通过提出创新的问题解决方案来反抗体制。"
   },
   {
     "id": "word_1549",
@@ -30208,7 +30208,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buckbean/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会buckbean的发展。"
+    "example": "The buckbean grows abundantly near the edges of the quiet marshland.\n睡菜在安静的沼泽地边缘大量生长。\nHerbalists have used buckbean for centuries to treat various ailments.\n草药师使用睡菜治疗各种疾病已有几个世纪。"
   },
   {
     "id": "word_1550",
@@ -30223,7 +30223,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʌkɪt/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，桶的研究取得了重大进展。"
+    "example": "She carried a heavy bucket of water from the well to the garden.\n她从井里提着一桶重水到花园。\nThe company received a bucket of applications for the new position.\n公司收到了大量新职位的申请。"
   },
   {
     "id": "word_1551",
@@ -30238,7 +30238,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buckle/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索buckle的新方面。"
+    "example": "Please buckle your seatbelt before the airplane takes off from the runway.\n飞机从跑道起飞前请系好安全带。\nThe old leather belt began to buckle under the heavy weight of tools.\n旧的皮带开始在工具的重压下弯曲变形。"
   },
   {
     "id": "word_1552",
@@ -30253,7 +30253,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bud/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n芽的应用革新了各个行业。"
+    "example": "The tiny bud slowly opened into a beautiful rose in the spring.\n小小的花蕾在春天慢慢开放成美丽的玫瑰。\nMy best friend has been my bud since we started elementary school together.\n我最好的朋友从我们一起上小学起就是我的哥们。"
   },
   {
     "id": "word_1553",
@@ -30268,7 +30268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/budge/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对budge的认识显著提高。"
+    "example": "The stubborn mule refused to budge an inch despite all our efforts.\n顽固的骡子尽管我们尽了所有努力还是拒绝移动一寸。\nShe managed to budge the heavy refrigerator with great difficulty.\n她费了很大劲才把沉重的冰箱移动了一点。"
   },
   {
     "id": "word_1554",
@@ -30283,7 +30283,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/budget/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，预算的重要性怎么强调都不为过。"
+    "example": "The family carefully planned their monthly budget to save for vacation.\n这家人仔细规划每月预算以便为度假存钱。\nThe government announced a new budget for education and healthcare programs.\n政府宣布了教育和医疗保健项目的新预算。"
   },
   {
     "id": "word_1555",
@@ -30298,7 +30298,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buff/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbuff的理论为理解这一现象提供了框架。"
+    "example": "He spends hours at the gym to maintain his impressive muscular buff physique.\n他在健身房花几个小时保持令人印象深刻的健美体格。\nShe is a history buff who loves visiting museums and historical sites.\n她是一个历史爱好者，喜欢参观博物馆和历史遗迹。"
   },
   {
     "id": "word_1556",
@@ -30313,7 +30313,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buffalo/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与野牛相关的实践技能在工作场所受到高度重视。"
+    "example": "A large herd of buffalo grazed peacefully on the open grassland.\n一大群水牛在开阔的草原上安静地吃草。\nThe city of Buffalo is known for its heavy snowfall during winter months.\n布法罗市以其冬季的大雪而闻名。"
   },
   {
     "id": "word_1557",
@@ -30328,7 +30328,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buffer/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会缓冲区的发展。"
+    "example": "The trees serve as a natural buffer between the road and residential area.\n树木作为道路和住宅区之间的天然缓冲带。\nShe used a buffer solution to maintain stable pH levels in the experiment.\n她使用缓冲溶液在实验中保持稳定的pH值。"
   },
   {
     "id": "word_1558",
@@ -30343,7 +30343,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buffet/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，buffet的研究取得了重大进展。"
+    "example": "The hotel offers an extensive breakfast buffet with many delicious options.\n酒店提供丰盛的自助早餐，有很多美味的选择。\nThe strong winds began to buffet the small boat on the rough sea.\n强风开始在波涛汹涌的海上猛烈地拍打小船。"
   },
   {
     "id": "word_1559",
@@ -30358,7 +30358,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bug/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索虫子的新方面。"
+    "example": "There was a tiny bug crawling across the kitchen counter this morning.\n今天早上有一只小虫子在厨房台面上爬行。\nThe software developers worked hard to fix the bug in the application.\n软件开发人员努力修复应用程序中的错误。"
   },
   {
     "id": "word_1560",
@@ -30373,7 +30373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bugbane/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbugbane的应用革新了各个行业。"
+    "example": "The bugbane plant produces tall spikes of white flowers in late summer.\n升麻植物在夏末开出高大的白色花穗。\nGardeners plant bugbane to naturally repel insects from their vegetable gardens.\n园丁种植升麻以自然驱赶菜园里的昆虫。"
   },
   {
     "id": "word_1561",
@@ -30388,7 +30388,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buggy/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对buggy的认识显著提高。"
+    "example": "The mother pushed her baby in a buggy through the crowded shopping mall.\n妈妈推着婴儿车穿过拥挤的购物中心。\nThe old computer program is quite buggy and crashes frequently.\n旧的计算机程序有很多错误，经常崩溃。"
   },
   {
     "id": "word_1562",
@@ -30403,7 +30403,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bughouse/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bughouse的重要性怎么强调都不为过。"
+    "example": "The bughouse chess tournament attracted players from around the world.\n双人国际象棋比赛吸引了来自世界各地的选手。\nHe went bughouse trying to solve the complex mathematical problem.\n他为了解决复杂的数学问题而变得疯狂。"
   },
   {
     "id": "word_1563",
@@ -30418,7 +30418,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bugle/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbugle的理论为理解这一现象提供了框架。"
+    "example": "The soldier played the bugle to signal the start of the military ceremony.\n士兵吹响军号，标志着军事仪式的开始。\nThe bugle sounded across the camp waking all the sleeping soldiers.\n军号声响彻营地，唤醒了所有沉睡的士兵。"
   },
   {
     "id": "word_1564",
@@ -30433,7 +30433,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɪld/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与建造相关的实践技能在工作场所受到高度重视。"
+    "example": "The construction team worked together to build a new bridge over the river.\n建筑团队共同努力在河上建造一座新桥。\nRegular exercise helps build strong muscles and improve overall health.\n定期锻炼有助于增强肌肉和改善整体健康。"
   },
   {
     "id": "word_1565",
@@ -30448,7 +30448,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buildup/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会build-up的发展。"
+    "example": "There was a gradual build-up of tension before the final exam results.\n期末考试成绩公布前紧张气氛逐渐积累。\nThe military build-up in the region raised concerns among neighboring countries.\n该地区的军事集结引起了邻国的担忧。"
   },
   {
     "id": "word_1566",
@@ -30463,7 +30463,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɪldɪŋ/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，建筑物的研究取得了重大进展。"
+    "example": "The new office building will be completed by the end of next year.\n新办公楼将在明年年底前完工。\nBuilding strong relationships requires trust and effective communication skills.\n建立牢固的关系需要信任和有效的沟通技巧。"
   },
   {
     "id": "word_1567",
@@ -30478,7 +30478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʌlb/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索电灯泡的新方面。"
+    "example": "Please replace the light bulb in the hallway because it has stopped working.\n请更换走廊里的灯泡，因为它已经坏了。\nThe tulip bulb needs to be planted in autumn for spring flowering.\n郁金香球茎需要在秋天种植以便春天开花。"
   },
   {
     "id": "word_1568",
@@ -30493,7 +30493,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulbous/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n充满...的Bulb的应用革新了各个行业。"
+    "example": "The bulbous nose of the old man was quite prominent on his weathered face.\n老人球状的鼻子在他饱经风霜的脸上非常突出。\nThe plant has bulbous roots that store water during dry periods.\n这种植物有球状的根，在干旱时期储存水分。"
   },
   {
     "id": "word_1569",
@@ -30508,7 +30508,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulge/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bulge的认识显著提高。"
+    "example": "The wallet created a noticeable bulge in his back pocket of the jeans.\n钱包在他的牛仔裤后口袋里形成了明显的凸起。\nThe population bulge in the city has led to increased demand for housing.\n城市人口的增长导致住房需求增加。"
   },
   {
     "id": "word_1570",
@@ -30523,7 +30523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʌlk/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，体积的重要性怎么强调都不为过。"
+    "example": "We purchased rice and flour in bulk to save money on groceries.\n我们批量购买大米和面粉以节省食品杂货费用。\nThe bulk of the work was completed by the dedicated team members.\n大部分工作是由敬业的团队成员完成的。"
   },
   {
     "id": "word_1571",
@@ -30538,7 +30538,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulky/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbulky的理论为理解这一现象提供了框架。"
+    "example": "The bulky package was difficult to carry up the narrow staircase.\n这个庞大的包裹很难搬上狭窄的楼梯。\nWinter coats can be quite bulky and take up a lot of closet space.\n冬天的外套可能很笨重，占用很多衣柜空间。"
   },
   {
     "id": "word_1572",
@@ -30553,7 +30553,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bull/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与公牛相关的实践技能在工作场所受到高度重视。"
+    "example": "The angry bull charged at the red cape held by the matador.\n愤怒的公牛冲向斗牛士手中的红色斗篷。\nThe stock market experienced a strong bull run last quarter.\n股市上个季度经历了强劲的牛市行情。"
   },
   {
     "id": "word_1573",
@@ -30568,7 +30568,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullace/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bullace的发展。"
+    "example": "The wild bullace plums grow abundantly in the hedgerows of the countryside.\n野生布拉斯李在乡村的灌木篱墙中大量生长。\nShe made delicious jam from the bullace she picked in the forest.\n她用在森林里采摘的布拉斯李制作了美味的果酱。"
   },
   {
     "id": "word_1574",
@@ -30583,7 +30583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulldog/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bulldog的研究取得了重大进展。"
+    "example": "The friendly bulldog greeted visitors with a wagging tail at the door.\n友好的斗牛犬在门口摇着尾巴迎接访客。\nThe bulldog spirit of the team helped them overcome many challenges.\n团队的顽强精神帮助他们克服了许多挑战。"
   },
   {
     "id": "word_1575",
@@ -30598,7 +30598,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʊlɪt/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索子弹的新方面。"
+    "example": "The police officer wore a bulletproof vest for protection during the operation.\n警察在行动中穿着防弹背心以保护自己。\nThe news spread like a bullet through social media platforms.\n新闻像子弹一样通过社交媒体平台迅速传播。"
   },
   {
     "id": "word_1576",
@@ -30613,7 +30613,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulletin/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n公告的应用革新了各个行业。"
+    "example": "The school bulletin announced the upcoming spring festival activities.\n学校公告栏宣布了即将到来的春节活动。\nShe checked the weather bulletin before planning her outdoor activities.\n她在计划户外活动之前查看了天气公告。"
   },
   {
     "id": "word_1577",
@@ -30628,7 +30628,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullrush/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bullrush的认识显著提高。"
+    "example": "The children enjoyed playing hide and seek among the tall bullrush plants.\n孩子们喜欢在高大的芦苇丛中玩捉迷藏。\nThe bullrush provides important habitat for many wetland bird species.\n芦苇为许多湿地鸟类物种提供重要的栖息地。"
   },
   {
     "id": "word_1578",
@@ -30643,7 +30643,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullseye/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bullseye的重要性怎么强调都不为过。"
+    "example": "The archer hit the bullseye on her very first attempt at the competition.\n射箭运动员在比赛的第一次尝试中就击中了靶心。\nHis analysis of the problem was right on the bullseye and very accurate.\n他对问题的分析非常准确，正中要害。"
   },
   {
     "id": "word_1579",
@@ -30658,7 +30658,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bullwhack/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbullwhack的理论为理解这一现象提供了框架。"
+    "example": "The cowboy used his bullwhack to drive the cattle across the open range.\n牛仔用牛鞭驱赶牛群穿过开阔的牧场。\nThe sharp crack of the bullwhack echoed across the wide canyon.\n牛鞭的尖锐爆裂声在宽阔的峡谷中回荡。"
   },
   {
     "id": "word_1580",
@@ -30673,7 +30673,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bulwark/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bulwark相关的实践技能在工作场所受到高度重视。"
+    "example": "The ancient castle walls served as a bulwark against enemy invasions.\n古老的城堡城墙作为抵御敌人入侵的堡垒。\nEducation is the best bulwark against ignorance and prejudice in society.\n教育是社会抵御无知和偏见的最佳堡垒。"
   },
   {
     "id": "word_1581",
@@ -30688,7 +30688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bumbag/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bumbag的发展。"
+    "example": "The tourist wore a bumbag to keep his passport and money secure.\n游客戴着腰包以安全地保管护照和钱财。\nShe packed all her essentials in the bumbag for the hiking trip.\n她把所有必需品都装在腰包里准备徒步旅行。"
   },
   {
     "id": "word_1582",
@@ -30703,7 +30703,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bump/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，碰的研究取得了重大进展。"
+    "example": "Be careful not to bump your head on the low ceiling in the basement.\n小心不要在地下室的低矮天花板上撞到头。\nThe car hit a bump in the road and spilled the coffee everywhere.\n汽车撞到了路上的颠簸处，咖啡洒得到处都是。"
   },
   {
     "id": "word_1583",
@@ -30718,7 +30718,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bumpkin/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bumpkin的新方面。"
+    "example": "The city dwellers mistakenly called him a bumpkin because of his rural accent.\n城市居民因为他的乡村口音而错误地称他为乡巴佬。\nThe friendly bumpkin showed the lost tourists the way to the village.\n友好的乡下人为迷路的游客指明了去村庄的路。"
   },
   {
     "id": "word_1584",
@@ -30733,7 +30733,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bumpy/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbumpy的应用革新了各个行业。"
+    "example": "The bumpy road made the long journey quite uncomfortable for passengers.\n颠簸的道路使长途旅行对乘客来说相当不舒服。\nLife has been bumpy lately with many unexpected challenges and obstacles.\n最近生活坎坷，有许多意想不到的挑战和障碍。"
   },
   {
     "id": "word_1585",
@@ -30748,7 +30748,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunbury/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对bunbury的认识显著提高。"
+    "example": "They decided to bunbury their way out of the boring dinner party.\n他们决定找借口离开那个无聊的晚宴。\nShe often bunburys when she needs some time alone for herself.\n当她需要独处时，她经常找借口推脱。"
   },
   {
     "id": "word_1586",
@@ -30763,7 +30763,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunch/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，串的重要性怎么强调都不为过。"
+    "example": "A bunch of grapes hung from the vine in the sunny garden.\n一串葡萄挂在阳光明媚的花园里的藤上。\nA bunch of friends gathered at the park for a weekend picnic.\n一群朋友在公园聚会进行周末野餐。"
   },
   {
     "id": "word_1587",
@@ -30778,7 +30778,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunco/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbunco的理论为理解这一现象提供了框架。"
+    "example": "The police arrested the suspects for running a bunco scheme targeting elderly people.\n警方逮捕了涉嫌针对老年人进行诈骗的嫌疑人。\nThe bunco artist convinced many victims to invest in fake opportunities.\n诈骗犯说服许多受害者投资虚假的机会。"
   },
   {
     "id": "word_1588",
@@ -30793,7 +30793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʌndl/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与捆相关的实践技能在工作场所受到高度重视。"
+    "example": "She carried a bundle of clothes to the laundry room for washing.\n她拿着一捆衣服去洗衣房清洗。\nThe company offers a bundle of services at a discounted price.\n公司以折扣价提供一整套服务。"
   },
   {
     "id": "word_1589",
@@ -30808,7 +30808,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bungalow/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bungalow的发展。"
+    "example": "The retired couple bought a small bungalow near the beautiful beach.\n退休夫妇在美丽的海滩附近买了一栋小平房。\nThe bungalow style house is perfect for people who prefer single-level living.\n平房式住宅非常适合喜欢单层生活的人。"
   },
   {
     "id": "word_1590",
@@ -30823,7 +30823,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bungle/",
     "frequency": "低频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，bungle的研究取得了重大进展。"
+    "example": "The inexperienced employee managed to bungle the important project presentation.\n缺乏经验的员工把重要的项目演示搞砸了。\nHe tried to fix the leak but only managed to bungle the plumbing job.\n他试图修理漏水，但只是把管道工作搞砸了。"
   },
   {
     "id": "word_1591",
@@ -30838,7 +30838,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunion/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索bunion的新方面。"
+    "example": "She developed a painful bunion from wearing tight shoes for years.\n她因多年穿紧身鞋而患上了痛苦的拇囊炎。\nThe doctor recommended surgery to remove the troublesome bunion on her foot.\n医生建议手术切除她脚上麻烦的拇囊炎。"
   },
   {
     "id": "word_1592",
@@ -30853,7 +30853,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunk/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbunk的应用革新了各个行业。"
+    "example": "The children slept in the bunk beds at the summer camp cabin.\n孩子们在夏令营小屋的上下铺睡觉。\nMost of what he said was pure bunk and completely unbelievable.\n他说的大部分都是胡说八道，完全不可信。"
   },
   {
     "id": "word_1593",
@@ -30868,7 +30868,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunker/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的人Bunk的认识显著提高。"
+    "example": "The soldiers took shelter in the underground bunker during the attack.\n士兵们在袭击期间躲在地下掩体里。\nThe golf course has several sand bunkers near the putting greens.\n高尔夫球场在果岭附近有几个沙坑。"
   },
   {
     "id": "word_1594",
@@ -30883,7 +30883,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunkhouse/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，bunkhouse的重要性怎么强调都不为过。"
+    "example": "The ranch hands gathered in the bunkhouse after a long day of work.\n牧场工人在一天漫长的工作后聚集在工棚里。\nThe simple bunkhouse provided basic accommodation for the seasonal workers.\n简陋的工棚为季节性工人提供基本的住宿。"
   },
   {
     "id": "word_1595",
@@ -30898,7 +30898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bunkum/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbunkum的理论为理解这一现象提供了框架。"
+    "example": "The politician dismissed the accusations as pure bunkum and lies.\n政客驳斥这些指控纯属胡说八道和谎言。\nShe refused to listen to any more of his ridiculous bunkum stories.\n她拒绝再听他那些荒谬的胡说八道的故事。"
   },
   {
     "id": "word_1596",
@@ -30913,7 +30913,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buoy/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与buoy相关的实践技能在工作场所受到高度重视。"
+    "example": "The buoy marked the safe channel for boats entering the harbor.\n浮标为进入港口的船只标示安全航道。\nThe rescue team threw a buoy to the struggling swimmer in the water.\n救援队向水中挣扎的游泳者扔了一个救生圈。"
   },
   {
     "id": "word_1597",
@@ -30928,7 +30928,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buoyancy/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会buoyancy的发展。"
+    "example": "The buoyancy of the water helps support the weight of the swimmer.\n水的浮力有助于支撑游泳者的体重。\nHer natural buoyancy and optimism helped her overcome many difficult challenges.\n她天生的乐观和活力帮助她克服了许多困难的挑战。"
   },
   {
     "id": "word_1598",
@@ -30943,7 +30943,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burble/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，倍的的研究取得了重大进展。"
+    "example": "The baby began to burble happily while playing with colorful toys.\n婴儿在玩彩色玩具时开始快乐地咿呀学语。\nThe stream continued to burble gently over the smooth river stones.\n小溪继续在光滑的河石上轻轻地潺潺流淌。"
   },
   {
     "id": "word_1599",
@@ -30958,7 +30958,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burbled/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索已...的新方面。"
+    "example": "The excited child burbled with joy about her birthday party plans.\n兴奋的孩子喋喋不休地谈论她的生日派对计划。\nThe brook burbled musically as it wound through the peaceful forest.\n小溪蜿蜒穿过宁静的森林时发出悦耳的潺潺声。"
   },
   {
     "id": "word_1600",
@@ -30973,7 +30973,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burden/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n重担的应用革新了各个行业。"
+    "example": "The heavy burden of responsibility weighed on his shoulders constantly.\n沉重的责任负担不断压在他的肩上。\nShe did not want to be a burden to her children in her old age.\n她不想在年老时成为孩子们的负担。"
   },
   {
     "id": "word_1601",
@@ -30988,7 +30988,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burdock/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对burdock的认识显著提高。"
+    "example": "The burdock plant is known for its prickly burrs that stick to clothing.\n牛蒡植物以其粘在衣服上的多刺芒刺而闻名。\nHerbalists use burdock root as a traditional remedy for various skin conditions.\n草药师使用牛蒡根作为治疗各种皮肤病的传统药物。"
   },
   {
     "id": "word_1602",
@@ -31003,7 +31003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bureau/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，局的重要性怎么强调都不为过。"
+    "example": "She contacted the travel bureau to book her summer vacation package.\n她联系旅游局预订她的暑假套餐。\nThe statistics bureau released new data about employment rates yesterday.\n统计局昨天发布了关于就业率的新数据。"
   },
   {
     "id": "word_1603",
@@ -31018,7 +31018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bureaucracy/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n官僚主义的理论为理解这一现象提供了框架。"
+    "example": "The complex bureaucracy made it difficult to get permits for the project.\n复杂的官僚机构使项目获得许可证变得困难。\nMany people complain about the inefficiency of government bureaucracy.\n许多人抱怨政府官僚机构的低效率。"
   },
   {
     "id": "word_1604",
@@ -31033,7 +31033,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burette/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与burette相关的实践技能在工作场所受到高度重视。"
+    "example": "The scientist carefully measured the liquid using a glass burette in the lab.\n科学家在实验室里用玻璃滴定管仔细测量液体。\nThe chemistry students learned how to read the burette accurately.\n化学学生学习了如何准确读取滴定管。"
   },
   {
     "id": "word_1605",
@@ -31048,7 +31048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgage/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会行为的发展。"
+    "example": "The medieval burgage plots were narrow but extended far back from the street.\n中世纪的租地地块很窄，但从街道向后延伸很远。\nHistorical records show the burgage system was common in medieval English towns.\n历史记录显示租地制度在中世纪英国城镇很普遍。"
   },
   {
     "id": "word_1606",
@@ -31063,7 +31063,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgee/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，burgee的研究取得了重大进展。"
+    "example": "The yacht club flew a distinctive burgee from the top of the mast.\n游艇俱乐部在桅杆顶部飘扬着独特的三角旗。\nEach sailing club has its own unique burgee design and colors.\n每个帆船俱乐部都有自己独特的三角旗设计和颜色。"
   },
   {
     "id": "word_1607",
@@ -31078,7 +31078,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgeon/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索burgeon的新方面。"
+    "example": "The small startup began to burgeon into a successful technology company.\n小型初创企业开始蓬勃发展成为一家成功的科技公司。\nThe garden plants burgeoned quickly after the spring rain showers.\n春雨过后花园里的植物迅速生长。"
   },
   {
     "id": "word_1608",
@@ -31093,7 +31093,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burgh/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nburgh的应用革新了各个行业。"
+    "example": "The ancient burgh was surrounded by stone walls for protection.\n古老的自治市被石墙包围以保护安全。\nThe royal burgh held important trading rights granted by the king.\n皇家自治市拥有国王授予的重要贸易权。"
   },
   {
     "id": "word_1609",
@@ -31108,7 +31108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burghbot/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对burghbot的认识显著提高。"
+    "example": "The medieval burghbot was responsible for collecting taxes from merchants.\n中世纪的城镇官员负责向商人收税。\nHistorical documents mention the burghbot as an important town official.\n历史文件提到城镇官员是重要的城镇官员。"
   },
   {
     "id": "word_1610",
@@ -31123,7 +31123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burglar/",
     "frequency": "中频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，burglar的重要性怎么强调都不为过。"
+    "example": "The burglar broke into the house through the unlocked kitchen window.\n窃贼通过未锁的厨房窗户闯入房子。\nThe security system alerted the police about the burglar immediately.\n安全系统立即向警方报警有窃贼入侵。"
   },
   {
     "id": "word_1611",
@@ -31138,7 +31138,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burial/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n埋葬的理论为理解这一现象提供了框架。"
+    "example": "The family held a traditional burial ceremony for their beloved grandmother.\n家人为他们敬爱的祖母举行了传统的葬礼仪式。\nArchaeologists discovered an ancient burial site dating back thousands of years.\n考古学家发现了一个可追溯到数千年前的古代墓葬遗址。"
   },
   {
     "id": "word_1612",
@@ -31153,7 +31153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burlesque/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与burlesque相关的实践技能在工作场所受到高度重视。"
+    "example": "The burlesque show featured elaborate costumes and comedic performances.\n滑稽歌舞表演以精致的服装和喜剧表演为特色。\nShe performed in a burlesque theater that entertained audiences nightly.\n她在一家每晚为观众提供娱乐的滑稽歌舞剧院演出。"
   },
   {
     "id": "word_1613",
@@ -31168,7 +31168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burly/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会...地Bur的发展。"
+    "example": "The burly security guard stood at the entrance checking identification.\n魁梧的保安站在入口处检查身份证件。\nThe burly lumberjack easily carried the heavy logs on his shoulder.\n魁梧的伐木工人轻松地把沉重的原木扛在肩上。"
   },
   {
     "id": "word_1614",
@@ -31183,7 +31183,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɜːn/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，燃烧的研究取得了重大进展。"
+    "example": "Be careful not to burn yourself on the hot stove while cooking.\n做饭时要小心不要被热炉子烫伤。\nThe fire continued to burn throughout the night in the fireplace.\n火在壁炉里持续燃烧了一整夜。"
   },
   {
     "id": "word_1615",
@@ -31198,7 +31198,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burner/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的人Burn的新方面。"
+    "example": "She turned on the gas burner to heat water for her morning coffee.\n她打开煤气炉烧水准备早上的咖啡。\nThe scientist used a Bunsen burner to heat the chemical mixture.\n科学家用本生灯加热化学混合物。"
   },
   {
     "id": "word_1616",
@@ -31213,7 +31213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burnish/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\n像...的应用革新了各个行业。"
+    "example": "The craftsman carefully burnished the silver vase until it shone brightly.\n工匠仔细地擦亮银花瓶，直到它闪闪发光。\nYears of use had burnished the wooden table to a smooth finish.\n多年的使用使木桌变得光滑亮丽。"
   },
   {
     "id": "word_1617",
@@ -31228,7 +31228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burp/",
     "frequency": "中频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对burp的认识显著提高。"
+    "example": "The baby let out a small burp after drinking the bottle of milk.\n婴儿喝完奶瓶后打了一个小嗝。\nHe politely covered his mouth when he needed to burp after dinner.\n晚饭后需要打嗝时，他礼貌地捂住了嘴。"
   },
   {
     "id": "word_1618",
@@ -31243,7 +31243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burr/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，burr的重要性怎么强调都不为过。"
+    "example": "He spoke with a distinctive Scottish burr that charmed the audience.\n他带着独特的苏格兰口音说话，迷住了观众。\nThe burr on the metal part needed to be smoothed before assembly.\n金属部件上的毛刺在组装前需要磨平。"
   },
   {
     "id": "word_1619",
@@ -31258,7 +31258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bursar/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbursar的理论为理解这一现象提供了框架。"
+    "example": "The bursar manages all financial matters at the prestigious university.\n财务主管管理着这所著名大学的所有财务事务。\nStudents must contact the bursar office to pay their tuition fees.\n学生必须联系财务处支付学费。"
   },
   {
     "id": "word_1620",
@@ -31273,7 +31273,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bursary/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与...相关的实践技能在工作场所受到高度重视。"
+    "example": "The university offers a bursary to students from low-income families.\n大学为来自低收入家庭的学生提供助学金。\nShe applied for a bursary to help cover her educational expenses.\n她申请了助学金来帮助支付她的教育费用。"
   },
   {
     "id": "word_1621",
@@ -31288,7 +31288,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bɜːst/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会爆发的发展。"
+    "example": "The balloon suddenly burst with a loud pop during the party.\n气球在聚会期间突然砰的一声爆裂了。\nShe burst into tears when she heard the sad news about her friend.\n当她听到关于朋友的坏消息时，她突然哭了起来。"
   },
   {
     "id": "word_1622",
@@ -31303,7 +31303,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/burtle/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，倍的的研究取得了重大进展。"
+    "example": "The burtle swam gracefully in the small pond behind the house.\n小乌龟在房子后面的小池塘里优雅地游动。\nChildren love to watch the burtle basking on the rocks in sunlight.\n孩子们喜欢看小乌龟在阳光下晒在岩石上。"
   },
   {
     "id": "word_1623",
@@ -31318,7 +31318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈberi/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索埋葬的新方面。"
+    "example": "They decided to bury the time capsule in the school garden for future generations.\n他们决定把时间胶囊埋在学校花园里留给后代。\nThe dog loves to bury its bones in the backyard for safekeeping.\n狗喜欢把骨头埋在后院保管。"
   },
   {
     "id": "word_1624",
@@ -31333,7 +31333,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʌs/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\n公共汽车的应用革新了各个行业。"
+    "example": "The school bus picks up children from the neighborhood every morning.\n校车每天早上从社区接孩子。\nWe took the bus downtown to visit the famous art museum.\n我们乘公共汽车去市中心参观著名的艺术博物馆。"
   },
   {
     "id": "word_1625",
@@ -31348,7 +31348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/busby/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对busby的认识显著提高。"
+    "example": "The guardsman wore a tall busby as part of his ceremonial uniform.\n卫兵戴着高大的熊皮帽作为仪式制服的一部分。\nThe busby is a traditional military headdress worn by certain regiments.\n熊皮帽是某些军团佩戴的传统军帽。"
   },
   {
     "id": "word_1626",
@@ -31363,7 +31363,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bush/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，灌木的重要性怎么强调都不为过。"
+    "example": "The children hid behind the bush while playing hide and seek.\n孩子们玩捉迷藏时躲在灌木丛后面。\nThe president gave a speech in the rose bush garden yesterday.\n总统昨天在玫瑰园发表了演讲。"
   },
   {
     "id": "word_1627",
@@ -31378,7 +31378,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bushbuck/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\nbushbuck的理论为理解这一现象提供了框架。"
+    "example": "The bushbuck is a shy antelope found in the forests of Africa.\n林羚是一种在非洲森林中发现的害羞羚羊。\nWe spotted a beautiful bushbuck drinking at the waterhole at sunset.\n我们在日落时在水坑边发现了一只美丽的林羚在喝水。"
   },
   {
     "id": "word_1628",
@@ -31393,7 +31393,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bushfire/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与bushfire相关的实践技能在工作场所受到高度重视。"
+    "example": "The bushfire spread rapidly through the dry Australian outback.\n丛林大火在干燥的澳大利亚内陆迅速蔓延。\nFirefighters worked tirelessly to contain the dangerous bushfire near the town.\n消防员不知疲倦地工作以控制城镇附近危险的丛林大火。"
   },
   {
     "id": "word_1629",
@@ -31408,7 +31408,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bushwhack/",
     "frequency": "中频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会bushwhack的发展。"
+    "example": "The hikers had to bushwhack through dense vegetation to reach the summit.\n徒步旅行者不得不在茂密的植被中开辟道路才能到达山顶。\nThe soldiers learned to bushwhack through the jungle during survival training.\n士兵们在生存训练中学会了在丛林中开辟道路。"
   },
   {
     "id": "word_1630",
@@ -31423,7 +31423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɪznəs/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，商业的研究取得了重大进展。"
+    "example": "She started her own business selling handmade jewelry online.\n她开始了自己的生意，在网上销售手工珠宝。\nThe business meeting was scheduled for early Monday morning.\n商务会议安排在周一早上。"
   },
   {
     "id": "word_1631",
@@ -31438,7 +31438,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/businesslike/",
     "frequency": "高频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索businesslike的新方面。"
+    "example": "She maintained a businesslike attitude during the important negotiations.\n她在重要的谈判中保持着务实的态度。\nThe manager appreciated his businesslike approach to solving problems.\n经理欣赏他解决问题的务实方法。"
   },
   {
     "id": "word_1632",
@@ -31453,7 +31453,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bustard/",
     "frequency": "中频",
-    "example": "The application of this concept has revolutionized various industries.\nbustard的应用革新了各个行业。"
+    "example": "The great bustard is one of the heaviest flying birds in the world.\n大鸨是世界上最重的飞鸟之一。\nConservation efforts have helped increase the bustard population in the region.\n保护工作帮助增加了该地区鸨的数量。"
   },
   {
     "id": "word_1633",
@@ -31468,7 +31468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buster/",
     "frequency": "低频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对...的人Bust的认识显著提高。"
+    "example": "The crime buster worked tirelessly to solve the difficult case.\n破案专家不知疲倦地工作来解决这个棘手的案件。\nThe myth buster television show tests popular beliefs and urban legends.\n流言终结者电视节目测试流行的信念和都市传说。"
   },
   {
     "id": "word_1634",
@@ -31483,7 +31483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bustle/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，倍的的重要性怎么强调都不为过。"
+    "example": "The city streets bustle with activity during the morning rush hour.\n城市街道在早高峰时段熙熙攘攘。\nShe watched the holiday bustle from her apartment window above the street.\n她从街上的公寓窗户观看假日的繁忙景象。"
   },
   {
     "id": "word_1635",
@@ -31498,7 +31498,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbɪzi/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n忙碌的理论为理解这一现象提供了框架。"
+    "example": "The restaurant was busy with customers during the lunch hour.\n午餐时间餐厅里挤满了顾客。\nShe has been busy preparing for her final exams all week.\n她整个星期都在忙着准备期末考试。"
   },
   {
     "id": "word_1636",
@@ -31513,7 +31513,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/bʌt/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与但是相关的实践技能在工作场所受到高度重视。"
+    "example": "I wanted to go to the party but I had too much homework to finish.\n我想去参加派对，但我有太多作业要完成。\nThe project was challenging but ultimately very rewarding to complete.\n这个项目很有挑战性，但最终完成它非常有回报。"
   },
   {
     "id": "word_1637",
@@ -31528,7 +31528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/butch/",
     "frequency": "高频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会butch的发展。"
+    "example": "The butch appearance of the character challenged traditional gender norms.\n这个角色的阳刚外表挑战了传统的性别规范。\nShe adopted a butch style with short hair and masculine clothing.\n她采用了阳刚的风格，留着短发，穿着男性化的衣服。"
   },
   {
     "id": "word_1638",
@@ -31543,7 +31543,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/butcher/",
     "frequency": "中频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，屠夫的研究取得了重大进展。"
+    "example": "The butcher carefully prepared the meat cuts for his customers.\n屠夫仔细地为顾客准备肉块。\nThe serial killer was known as the butcher of the small town.\n连环杀手被称为小镇的屠夫。"
   },
   {
     "id": "word_1639",
@@ -31558,7 +31558,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/butler/",
     "frequency": "低频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索...的人Butl的新方面。"
+    "example": "The butler served dinner to the guests in the elegant dining room.\n管家在优雅的餐厅里为客人端上晚餐。\nThe family butler had served them faithfully for over thirty years.\n家庭管家忠实地为他们服务了三十多年。"
   },
   {
     "id": "word_1640",
@@ -31573,7 +31573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/butte/",
     "frequency": "高频",
-    "example": "The application of this concept has revolutionized various industries.\nbutte的应用革新了各个行业。"
+    "example": "The towering butte rose dramatically from the flat desert landscape.\n高耸的孤山从平坦的沙漠景观中戏剧性地升起。\nHikers climbed to the top of the butte for a panoramic view of the valley.\n徒步旅行者爬上孤山山顶，欣赏山谷的全景。"
   },
   {
     "id": "word_1641",
@@ -31588,7 +31588,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʌtə/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对黄油的认识显著提高。"
+    "example": "She spread butter on her toast for a quick breakfast this morning.\n她今天早上在吐司上涂黄油作为快速早餐。\nThe recipe calls for melted butter mixed with sugar and flour.\n这个食谱需要融化的黄油与糖和面粉混合。"
   },
   {
     "id": "word_1642",
@@ -31603,7 +31603,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buttercup/",
     "frequency": "低频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，buttercup的重要性怎么强调都不为过。"
+    "example": "The meadow was filled with bright yellow buttercup flowers in spring.\n春天草地上开满了明亮的黄色毛茛花。\nChildren held buttercups under their chins to see if they liked butter.\n孩子们把毛茛花放在下巴下看他们是否喜欢黄油。"
   },
   {
     "id": "word_1643",
@@ -31618,7 +31618,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/butterfly/",
     "frequency": "高频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n蝴蝶的理论为理解这一现象提供了框架。"
+    "example": "A beautiful butterfly landed on the flower in the garden.\n一只美丽的蝴蝶落在花园里的花上。\nThe butterfly effect suggests small changes can have large consequences.\n蝴蝶效应表明小的变化可能会产生大的后果。"
   },
   {
     "id": "word_1644",
@@ -31633,7 +31633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buttermilk/",
     "frequency": "中频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与buttermilk相关的实践技能在工作场所受到高度重视。"
+    "example": "She used buttermilk to make fluffy pancakes for Sunday breakfast.\n她用酪乳为周日早餐制作蓬松的煎饼。\nThe recipe requires buttermilk to give the bread a tangy flavor.\n这个食谱需要酪乳给面包带来酸味。"
   },
   {
     "id": "word_1645",
@@ -31648,7 +31648,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/butterscotch/",
     "frequency": "低频",
-    "example": "Many factors contribute to the development of this concept in society.\n许多因素促成了社会butterscotch的发展。"
+    "example": "The butterscotch candy had a rich creamy flavor that melted slowly.\n奶油糖有浓郁的奶油味道，慢慢融化。\nShe made a delicious butterscotch pudding for the family dessert.\n她为家庭甜点制作了美味的奶油糖布丁。"
   },
   {
     "id": "word_1646",
@@ -31663,7 +31663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈbʌtn/",
     "frequency": "高频",
-    "example": "The study of this concept has made significant progress in recent years.\n近年来，按钮的研究取得了重大进展。"
+    "example": "Please press the red button to stop the machine immediately.\n请按红色按钮立即停止机器。\nShe sewed a new button onto her favorite winter coat.\n她在她最喜欢的冬衣上缝了一个新纽扣。"
   },
   {
     "id": "word_1647",
@@ -31678,7 +31678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buttonwood/",
     "frequency": "中频",
-    "example": "Researchers are constantly exploring new aspects of this concept.\n研究人员不断探索buttonwood的新方面。"
+    "example": "The buttonwood tree provided shade for the historic town square.\n梧桐树为历史悠久的城镇广场提供了阴凉。\nThe Buttonwood Agreement was signed under a large buttonwood tree in 1792.\n梧桐树协议于1792年在一棵大梧桐树下签署。"
   },
   {
     "id": "word_1648",
@@ -31693,7 +31693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buttress/",
     "frequency": "低频",
-    "example": "The application of this concept has revolutionized various industries.\nbuttress的应用革新了各个行业。"
+    "example": "The medieval cathedral was supported by flying buttresses on both sides.\n中世纪大教堂两侧由飞扶壁支撑。\nThese facts serve to buttress the main argument of the research paper.\n这些事实有助于支持研究论文的主要论点。"
   },
   {
     "id": "word_1649",
@@ -31708,7 +31708,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buxom/",
     "frequency": "高频",
-    "example": "Public awareness of this concept has increased significantly.\n公众对buxom的认识显著提高。"
+    "example": "The buxom actress was known for her glamorous roles in classic films.\n丰满的女演员以经典电影中的迷人角色而闻名。\nThe Renaissance paintings often depicted buxom women as symbols of fertility.\n文艺复兴时期的绘画经常将丰满的女性描绘为生育的象征。"
   },
   {
     "id": "word_1650",
@@ -31723,7 +31723,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/baɪ/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，购买的重要性怎么强调都不为过。"
+    "example": "She decided to buy a new car after her old one broke down completely.\n她决定在旧车完全坏掉后买一辆新车。\nThe company plans to buy back shares to increase stock value.\n公司计划回购股票以增加股票价值。"
   },
   {
     "id": "word_1651",
@@ -31738,7 +31738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buyer/",
     "frequency": "低频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n买家的理论为理解这一现象提供了框架。"
+    "example": "The buyer inspected the house carefully before making the final offer.\n买家在提出最终报价之前仔细检查了房子。\nThe enthusiastic buyer purchased several paintings at the art auction.\n热情的买家在艺术品拍卖会上购买了几幅画。"
   },
   {
     "id": "word_1652",
@@ -31753,7 +31753,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/buzz/",
     "frequency": "高频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与buzz相关的实践技能在工作场所受到高度重视。"
+    "example": "The bees buzz around the flowers collecting nectar for honey production.\n蜜蜂在花丛中嗡嗡飞舞，采集花蜜生产蜂蜜。\nThere was a buzz of excitement in the room before the concert began.\n音乐会开始前，房间里充满了兴奋的嗡嗡声。"
   },
   {
     "id": "word_1653",
