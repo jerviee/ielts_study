@@ -40,7 +40,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbæk/",
     "frequency": "高频",
-    "example": "The sudden news took him aback leaving him speechless for a moment.\n这个突如其来的消息让他大吃一惊，一时说不出话来。\nShe was taken aback by the unexpected turn of events during the meeting.\n会议期间意想不到的事件转折让她大吃一惊。"
+    "example": "I was taken aback when my boss suddenly announced his resignation during the morning meeting in front of everyone.\n当我老板在早会上突然宣布辞职时，我大吃一惊。\nShe was completely taken aback by the unexpected birthday party that her colleagues had secretly organized for her.\n她被同事们秘密为她组织的惊喜生日派对完全惊呆了。"
   },
   {
     "id": "word_2",
@@ -61,7 +61,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbændən/",
     "frequency": "中频",
-    "example": "The sailors were forced to abandon the sinking ship before it went under.\n水手们被迫在沉船沉没前弃船逃生。\nNever abandon your dreams no matter how difficult the journey may seem.\n无论旅程看起来多么艰难，都不要放弃你的梦想。"
+    "example": "The old castle was left in abandon after the royal family fled during the great war many centuries ago.\n这座古老的城堡在几个世纪前皇室在战争中逃离后被遗弃了。\nYou should never abandon your dreams no matter how many obstacles and difficulties you may encounter in life.\n无论你在生活中遇到多少障碍和困难，你都不应该放弃你的梦想。"
   },
   {
     "id": "word_3",
@@ -82,7 +82,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbeɪt/",
     "frequency": "低频",
-    "example": "The storm began to abate after several hours of heavy rain and strong winds.\n经过几个小时的暴雨和大风，风暴开始减弱。\nWe hope the pain will abate once the medication starts working.\n我们希望药物开始起作用后疼痛会减轻。"
+    "example": "The heavy storm finally began to abate in the late afternoon after causing significant damage to coastal areas throughout the morning.\n在上午对沿海地区造成严重破坏后，猛烈的暴风雨终于在下午晚些时候开始减弱。\nLocal authorities are working hard to abate the noise pollution caused by constant construction activities near residential neighborhoods.\n当地政府正在努力减少因住宅区附近持续施工活动造成的噪音污染。"
   },
   {
     "id": "word_4",
@@ -103,7 +103,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbi/",
     "frequency": "高频",
-    "example": "The ancient abbey stood on the hill overlooking the peaceful countryside.\n古老的修道院坐落在山上，俯瞰着宁静的乡村。\nTourists visit the historic abbey to admire its beautiful architecture and gardens.\n游客参观这座历史悠久的修道院，欣赏其美丽的建筑和花园。"
+    "example": "The ancient abbey has stood on top of the hill for over eight hundred years, attracting thousands of visitors every single year.\n这座古老的修道院在山顶矗立了八百多年，每年吸引成千上万的游客。\nMonks still live and pray in the abbey, maintaining traditions that have been passed down through many generations.\n僧侣们仍然在修道院生活和祈祷，保持着代代相传的传统。"
   },
   {
     "id": "word_5",
@@ -124,7 +124,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbət/",
     "frequency": "中频",
-    "example": "The abbot of the monastery welcomed the visitors with warmth and hospitality.\n修道院的院长热情好客地欢迎来访者。\nFor many years he served as the abbot overseeing the daily operations of the monastery.\n多年来，他担任院长，监督修道院的日常运作。"
+    "example": "The abbot of the monastery welcomed the pilgrims with a warm smile and offered them shelter for the cold winter night.\n修道院院长热情地欢迎朝圣者，并为他们提供寒冷冬夜的庇护所。\nAs the spiritual leader of the community, the abbot guided his followers through difficult times with wisdom and compassion.\n作为社区的精神领袖，院长以智慧和同情心引导他的追随者度过困难时期。"
   },
   {
     "id": "word_6",
@@ -145,7 +145,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbdəmən/",
     "frequency": "低频",
-    "example": "The doctor examined his abdomen to check for any signs of discomfort or pain.\n医生检查了他的腹部，查看是否有任何不适或疼痛的迹象。\nExercise and a healthy diet can help strengthen the muscles in your abdomen.\n运动和健康饮食有助于增强腹部肌肉。"
+    "example": "The athlete felt severe pain in his abdomen during the marathon and had to stop running immediately to seek medical attention.\n这位运动员在马拉松比赛期间感到腹部剧烈疼痛，不得不立即停止跑步寻求医疗救助。\nDoctors recommend regular exercise to strengthen the muscles in your abdomen and maintain overall physical health.\n医生建议定期锻炼以加强腹部肌肉并保持整体身体健康。"
   },
   {
     "id": "word_7",
@@ -166,7 +166,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbaɪd/",
     "frequency": "高频",
-    "example": "You must abide by the rules and regulations of this institution.\n你必须遵守这个机构的规章制度。\nShe chose to abide by her promise even though it was difficult to keep.\n尽管很难遵守，她还是选择遵守她的承诺。"
+    "example": "All citizens must abide by the laws of their country regardless of their personal opinions or social status in society.\n所有公民都必须遵守国家的法律，无论他们的个人观点或社会地位如何。\nShe could not abide the rude behavior of her coworkers and decided to report the incident to human resources.\n她无法忍受同事们的粗鲁行为，决定向人力资源部门报告此事。"
   },
   {
     "id": "word_8",
@@ -187,7 +187,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɪləti/",
     "frequency": "高频",
-    "example": "Her ability to speak multiple languages impressed everyone at the international conference.\n她会说多种语言的能力给国际会议上的每个人留下了深刻印象。\nDeveloping your ability to communicate effectively is essential for success in any field.\n培养有效沟通的能力对于任何领域的成功都至关重要。"
+    "example": "Her exceptional ability to solve complex mathematical problems earned her a scholarship to study at a prestigious university.\n她解决复杂数学问题的卓越能力为她赢得了在著名大学学习的奖学金。\nWith practice and dedication, anyone can develop the ability to speak a foreign language fluently and confidently.\n通过练习和奉献，任何人都可以培养流利自信地说外语的能力。"
   },
   {
     "id": "word_9",
@@ -208,7 +208,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbleɪz/",
     "frequency": "低频",
-    "example": "The entire building was set ablaze by the raging fire that spread quickly.\n熊熊大火迅速蔓延，整栋建筑被点燃。\nThe fireworks lit up the night sky leaving it ablaze with brilliant colors.\n烟花照亮了夜空，使它闪耀着绚丽的色彩。"
+    "example": "The old warehouse was completely ablaze within minutes, sending thick black smoke billowing into the clear evening sky above the city.\n旧仓库在几分钟内完全被大火吞没，浓浓的黑烟滚滚升入城市上空晴朗的夜空。\nHer eyes were ablaze with determination as she stepped onto the stage to deliver her passionate speech to the audience.\n当她走上舞台向观众发表激情演讲时，她的眼睛里闪烁着坚定的光芒。"
   },
   {
     "id": "word_10",
@@ -229,7 +229,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪbl/",
     "frequency": "高频",
-    "example": "With hard work and dedication anyone is able to achieve their goals.\n通过努力和奉献，任何人都能够实现他们的目标。\nShe proved herself able to handle the challenges of the demanding job.\n她证明了自己有能力应对这份高要求工作的挑战。"
+    "example": "After months of physical therapy, the patient was finally able to walk without assistance for the first time in over a year.\n经过数月的物理治疗，这位病人终于能够在一年多的时间里第一次无需帮助地行走。\nA good teacher is able to explain complex concepts in simple terms that all students can easily understand.\n一位好老师能够用简单易懂的方式解释复杂的概念，让所有学生都能轻松理解。"
   },
   {
     "id": "word_11",
@@ -250,7 +250,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪbli/",
     "frequency": "中频",
-    "example": "The young pianist performed ably despite her nerves before the concert.\n尽管音乐会前很紧张，这位年轻钢琴家还是出色地表演了。\nHe managed the project ably ensuring everything was completed on schedule.\n他出色地管理了这个项目，确保一切按时完成。"
+    "example": "She ably managed the entire project from start to finish, ensuring that all deadlines were met without any major problems.\n她出色地从头到尾管理了整个项目，确保所有截止日期都按时完成，没有任何重大问题。\nThe experienced surgeon ably performed the complicated operation, saving the patients life in a remarkable display of skill.\n这位经验丰富的外科医生出色地完成了复杂的手术，以非凡的技巧挽救了病人的生命。"
   },
   {
     "id": "word_12",
@@ -271,7 +271,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æbˈnɔːml/",
     "frequency": "中频",
-    "example": "The test results showed some abnormal values that required further investigation.\n测试结果显示一些异常值，需要进一步调查。\nDetecting abnormal behavior early can help prevent serious problems later.\n及早发现异常行为有助于预防以后出现严重问题。"
+    "example": "The doctor noticed something abnormal in the test results and ordered additional examinations to determine the exact cause.\n医生在检测结果中发现了一些异常，并下令进行额外检查以确定确切原因。\nAbnormal weather patterns have become more frequent in recent years, raising concerns about climate change.\n近年来，异常天气模式变得更加频繁，引发了人们对气候变化的担忧。"
   },
   {
     "id": "word_13",
@@ -292,7 +292,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbəʊd/",
     "frequency": "高频",
-    "example": "They made their abode in a small cottage nestled among the mountains.\n他们在一座坐落在群山之中的小屋里安家。\nThe old mansion served as their family abode for several generations.\n这座古老的豪宅几代人都作为他们的家。"
+    "example": "The hermit made his abode in a small cave on the side of the mountain, far away from civilization and modern conveniences.\n这位隐士在远离文明和现代便利的山边小洞穴中安家。\nWelcome to my humble abode, the host said as he invited his guests into the cozy little cottage by the lake.\n欢迎来到我简陋的住所，主人邀请客人进入湖边舒适的小屋时说道。"
   },
   {
     "id": "word_14",
@@ -313,7 +313,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɒlɪʃ/",
     "frequency": "中频",
-    "example": "The government decided to abolish the outdated law that no longer served its purpose.\n政府决定废除不再发挥作用的过时法律。\nActivists worked tirelessly to abolish the practice of child labor in the region.\n活动家不懈努力废除该地区的童工做法。"
+    "example": "Many countries have decided to abolish the death penalty, believing that every human life has inherent value and dignity.\n许多国家决定废除死刑，认为每个人类生命都具有内在的价值和尊严。\nThe new government promised to abolish outdated laws that unfairly discriminated against certain groups of people in society.\n新政府承诺废除不公平歧视社会中某些群体的过时法律。"
   },
   {
     "id": "word_15",
@@ -334,7 +334,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæbəˈlɪʃn/",
     "frequency": "低频",
-    "example": "The abolition of slavery was a significant milestone in the countrys history.\n废除奴隶制是该国历史上的重要里程碑。\nHer grandfather was a passionate advocate for the abolition of unfair labor practices.\n她的祖父是废除不公平劳动做法的热情倡导者。"
+    "example": "The abolition of slavery was one of the most significant social reforms in human history, fundamentally changing how societies viewed human rights.\n废除奴隶制是人类历史上最重要的社会改革之一，从根本上改变了社会对权利的看法。\nMany activists campaigned for years for the abolition of cruel and inhumane practices in the criminal justice system.\n许多活动家多年来一直在争取废除刑事司法系统中残忍和不人道的做法。"
   },
   {
     "id": "word_16",
@@ -355,7 +355,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæbəˈrɪdʒənl/",
     "frequency": "高频",
-    "example": "The aboriginal people have lived on this land for thousands of years.\n土著人民在这片土地上生活了数千年。\nWe must respect the rights and traditions of aboriginal communities.\n我们必须尊重土著社区的权利和传统。"
+    "example": "Aboriginal cultures have rich traditions that date back thousands of years and continue to influence modern art and music today.\n原住民文化拥有可追溯到数千年前的丰富传统，至今仍在影响现代艺术和音乐。\nThe government is working to protect aboriginal lands and preserve the unique heritage of indigenous communities.\n政府正在努力保护原住民土地并保护土著社区的独特遗产。"
   },
   {
     "id": "word_17",
@@ -376,7 +376,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbaʊnd/",
     "frequency": "中频",
-    "example": "The forest abounds with wildlife including deer birds and small mammals.\n森林里野生动物比比皆是，包括鹿、鸟类和小型哺乳动物。\nOpportunities for growth and learning abound in this vibrant community.\n在这个充满活力的社区里，成长和学习的机会很多。"
+    "example": "Natural resources abound in this region, providing local communities with abundant opportunities for economic development and growth.\n该地区自然资源丰富，为当地社区提供了丰富的发展机会。\nDuring the spring season, colorful wildflowers abound in the meadows, creating breathtaking landscapes for visitors to enjoy.\n春季期间，五颜六色的野花在草地上随处可见，为游客创造了令人叹为观止的风景。"
   },
   {
     "id": "word_18",
@@ -397,7 +397,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbreɪʒn/",
     "frequency": "低频",
-    "example": "The doctor cleaned the abrasion on his knee and applied a bandage.\n医生清洗了他膝盖上的擦伤并贴上了绷带。\nConstant friction caused an abrasion on the surface of the old wooden table.\n持续的摩擦在旧木桌表面造成了磨损。"
+    "example": "The cyclist suffered a severe abrasion on his knee after falling off his bike during the challenging mountain race last weekend.\n这位自行车手在上周末具有挑战性的山地比赛中从自行车上摔下来后，膝盖受了严重的擦伤。\nProper wound care is essential to prevent infection when treating an abrasion on the skin.\n在治疗皮肤擦伤时，适当的伤口护理对于预防感染至关重要。"
   },
   {
     "id": "word_19",
@@ -418,7 +418,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbreɪsɪv/",
     "frequency": "高频",
-    "example": "Be careful when using that abrasive cleaner as it can damage delicate surfaces.\n使用那种研磨清洁剂时要小心，因为它会损坏精致的表面。\nHis abrasive personality made it difficult for him to maintain good relationships.\n他粗鲁的性格使他难以维持良好的人际关系。"
+    "example": "His abrasive personality made it difficult for his colleagues to work with him on group projects and assignments.\n他粗暴的性格使同事们难以与他合作完成小组项目和任务。\nThe carpenter used an abrasive material to smooth the rough surface of the wooden table before applying varnish.\n木匠在使用清漆之前，使用研磨材料将木桌的粗糙表面打磨光滑。"
   },
   {
     "id": "word_20",
@@ -439,7 +439,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrest/",
     "frequency": "中频",
-    "example": "Keep abreast of the latest developments in your field to stay competitive.\n了解你所在领域的最新发展，保持竞争力。\nThe two runners stayed abreast of each other throughout the entire race.\n两名赛跑运动员在整个比赛中并驾齐驱。"
+    "example": "The two friends walked abreast along the beach, enjoying the sunset while sharing stories about their childhood memories.\n两位朋友并肩沿着海滩散步，一边欣赏日落，一边分享他们童年回忆的故事。\nIt is important to keep abreast of current events by reading newspapers and following reliable news sources daily.\n通过每天阅读报纸和关注可靠的新闻来源，及时了解时事很重要。"
   },
   {
     "id": "word_21",
@@ -460,7 +460,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrɔːd/",
     "frequency": "低频",
-    "example": "Many students choose to study abroad to experience different cultures and educational systems.\n许多学生选择出国留学，体验不同的文化和教育体系。\nHer job requires her to travel abroad frequently for international business meetings.\n她的工作要求她经常出国参加国际商务会议。"
+    "example": "She decided to study abroad for a semester to experience a different culture and improve her language skills significantly.\n她决定出国学习一个学期，以体验不同的文化并显著提高她的语言技能。\nMany young professionals choose to work abroad to gain international experience and broaden their career opportunities.\n许多年轻专业人士选择出国工作，以获得国际经验并拓宽他们的职业机会。"
   },
   {
     "id": "word_22",
@@ -481,7 +481,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbrʌpt/",
     "frequency": "高频",
-    "example": "The meeting came to an abrupt end when an emergency situation arose.\n紧急情况发生时，会议突然结束。\nHis abrupt manner of speaking often makes people feel uncomfortable in conversations.\n他说话的生硬方式常常让人们在交谈中感到不舒服。"
+    "example": "The conversation came to an abrupt end when the telephone line suddenly disconnected during the important business discussion.\n在重要的商业讨论期间，电话线突然断开，谈话戛然而止。\nHis abrupt departure from the meeting surprised everyone who was expecting him to stay until the end.\n他突然离开会议让所有人都感到惊讶，他们原本期望他会待到结束。"
   },
   {
     "id": "word_23",
@@ -502,7 +502,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbses/",
     "frequency": "中频",
-    "example": "The dentist had to drain the abscess to relieve the patients severe toothache.\n牙医不得不排出脓肿以缓解患者严重的牙痛。\nIf left untreated an abscess can lead to more serious health complications.\n如果不及时治疗，脓肿可能导致更严重的健康并发症。"
+    "example": "The dentist discovered a painful abscess at the root of his tooth and recommended immediate treatment to prevent further complications.\n牙医发现他的牙根处有一个疼痛的脓肿，并建议立即治疗以防止进一步的并发症。\nAn untreated abscess can lead to serious infections that may spread throughout the entire body if not addressed quickly.\n未经治疗的脓肿可能导致严重感染，如果不迅速处理，可能会扩散到全身。"
   },
   {
     "id": "word_24",
@@ -523,7 +523,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈskɒnd/",
     "frequency": "低频",
-    "example": "The suspect tried to abscond from the country before the police could arrest him.\n嫌疑人试图在警方逮捕他之前潜逃出境。\nEmployees who abscond with company funds face serious legal consequences.\n携带公司资金潜逃的员工将面临严重的法律后果。"
+    "example": "The corrupt official tried to abscond with the stolen money before the authorities could arrest him and recover the funds.\n这位腐败官员试图在当局逮捕他并追回资金之前携款潜逃。\nSeveral prisoners managed to abscond from the poorly guarded facility during the chaotic night of the storm.\n几名囚犯在暴风雨混乱的夜晚设法从戒备不严的设施中潜逃。"
   },
   {
     "id": "word_25",
@@ -544,7 +544,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsəns/",
     "frequency": "高频",
-    "example": "Her prolonged absence from work raised concerns among her colleagues and supervisors.\n她长时间缺勤引起了同事和主管的担忧。\nThe students repeated absence from class resulted in poor academic performance.\n学生多次缺课导致学业成绩不佳。"
+    "example": "His prolonged absence from work raised concerns among his colleagues who worried about his health and well-being.\n他长期缺勤引起了同事们的担忧，他们担心他的健康和福祉。\nThe absence of any evidence made it impossible for the police to prove the suspect committed the crime.\n没有任何证据使警方无法证明嫌疑人犯了罪。"
   },
   {
     "id": "word_26",
@@ -565,7 +565,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsənt/",
     "frequency": "中频",
-    "example": "Several key members were absent from the important board meeting.\n几位关键成员缺席了重要的董事会会议。\nPlease notify the teacher if you will be absent from school due to illness.\n如果你因病缺课，请通知老师。"
+    "example": "Three students were absent from class today because they had to attend an important regional academic competition at another school.\n三名学生今天缺课，因为他们必须参加另一所学校的重要区域学术竞赛。\nHe seemed completely absent during the meeting, staring blankly at the wall as if lost in deep thought.\n他在会议期间似乎完全心不在焉，茫然地盯着墙壁，仿佛陷入了沉思。"
   },
   {
     "id": "word_27",
@@ -586,7 +586,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbsəluːt/",
     "frequency": "中频",
-    "example": "The judge has absolute authority to make decisions in the courtroom.\n法官在法庭上拥有绝对的决策权。\nThere is no absolute truth in many philosophical debates about life and existence.\n在许多关于生命和存在的哲学辩论中，没有绝对的真理。"
+    "example": "The king had absolute power over his kingdom, making all decisions without consulting his advisors or the general population.\n国王对他的王国拥有绝对权力，做出所有决定时不咨询他的顾问或普通民众。\nThere is no absolute truth in science; every theory must be tested and validated through rigorous experimentation.\n科学中没有绝对真理；每个理论都必须通过严格的实验来测试和验证。"
   },
   {
     "id": "word_28",
@@ -607,7 +607,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈzɒlv/",
     "frequency": "低频",
-    "example": "The court decided to absolve him of all charges due to lack of evidence.\n由于缺乏证据，法院决定免除他的所有指控。\nShe found it difficult to absolve herself of guilt after the mistake she made.\n她发现自己很难在犯错后原谅自己。"
+    "example": "The court decided to absolve him of all charges after new evidence proved his complete innocence in the matter.\n在新的证据证明他完全无辜后，法院决定免除他的所有指控。\nThe priest could not absolve the sinner until he sincerely confessed his wrongdoings and promised to make amends.\n牧师不能在罪人真诚忏悔并承诺弥补之前赦免他。"
   },
   {
     "id": "word_29",
@@ -628,7 +628,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈzɔːb/",
     "frequency": "高频",
-    "example": "The sponge can absorb a large amount of water due to its porous structure.\n海绵由于其多孔结构可以吸收大量水分。\nChildren absorb information quickly when they are engaged in interactive learning activities.\n当孩子们参与互动学习活动时，他们吸收信息很快。"
+    "example": "Sponges are excellent materials that can absorb large amounts of liquid in a surprisingly short period of time.\n海绵是极好的材料，可以在令人惊讶的短时间内吸收大量液体。\nThe students found it difficult to absorb all the complex information presented during the lengthy three-hour lecture.\n学生们发现在漫长的三小时讲座中很难吸收所有复杂的信息。"
   },
   {
     "id": "word_30",
@@ -649,7 +649,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæbstrækt/",
     "frequency": "中频",
-    "example": "The artist created an abstract painting that left viewers with many interpretations.\n艺术家创作了一幅抽象画，让观众有多种解读。\nUnderstanding abstract concepts requires careful analysis and critical thinking skills.\n理解抽象概念需要仔细分析和批判性思维能力。"
+    "example": "Modern art often features abstract designs that challenge viewers to interpret meaning from shapes and colors rather than realistic depictions.\n现代艺术经常以抽象设计为特色，挑战观众从形状和颜色而不是写实描绘中解读意义。\nThe scientist wrote an abstract summarizing the key findings of his extensive research before submitting it to the journal.\n这位科学家在将他的广泛研究提交给期刊之前，撰写了一份摘要来总结其关键发现。"
   },
   {
     "id": "word_31",
@@ -670,7 +670,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əbˈsɜːd/",
     "frequency": "低频",
-    "example": "His explanation for being late was so absurd that nobody believed him.\n他迟到的解释太荒谬了，没人相信他。\nIt would be absurd to expect success without putting in any effort or dedication.\n期望不付出任何努力或奉献就能成功是荒谬的。"
+    "example": "The idea that the earth is flat is completely absurd and contradicts centuries of scientific evidence and observation.\n地球是平的这个想法完全荒谬，与几个世纪的科学证据和观察相矛盾。\nIt would be absurd to spend all your savings on a single luxury item that you will rarely use.\n把你所有的积蓄都花在一件你很少使用的奢侈品上是荒谬的。"
   },
   {
     "id": "word_32",
@@ -691,7 +691,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbʌndəns/",
     "frequency": "中频",
-    "example": "The region is known for its abundance of natural resources and fertile land.\n该地区以其丰富的自然资源和肥沃的土地而闻名。\nWe should be grateful for the abundance of opportunities available to us in life.\n我们应该感激生活中提供给我们的丰富机会。"
+    "example": "The garden produced an abundance of vegetables this summer, far more than the family could possibly consume on their own.\n今年夏天，花园里收获了大量的蔬菜，远远超过这个家庭自己可能消耗的数量。\nAn abundance of natural resources has allowed this region to develop rapidly and attract businesses from around the world.\n丰富的自然资源使该地区得以快速发展，并吸引了来自世界各地的企业。"
   },
   {
     "id": "word_33",
@@ -712,7 +712,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbʌndənt/",
     "frequency": "中频",
-    "example": "The tropical rainforest is home to an abundant variety of plant and animal species.\n热带雨林拥有丰富多样的植物和动物物种。\nShe provided abundant evidence to support her argument during the debate.\n她在辩论中提供了充分的证据来支持她的论点。"
+    "example": "Wildlife is abundant in the rainforest, with thousands of different species living in a relatively small geographic area.\n热带雨林中野生动物丰富，成千上万的不同物种生活在相对较小的地理区域内。\nShe had abundant evidence to support her theory, making it difficult for critics to challenge her conclusions.\n她有丰富的证据支持她的理论，使批评者很难质疑她的结论。"
   },
   {
     "id": "word_34",
@@ -733,7 +733,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈbɪs/",
     "frequency": "低频",
-    "example": "The diver descended into the dark abyss exploring the depths of the ocean.\n潜水员潜入黑暗的深渊，探索海洋深处。\nThere seemed to be an abyss between their understanding of the complex issue.\n他们对这个复杂问题的理解之间似乎存在着鸿沟。"
+    "example": "The hiker peered into the dark abyss below the cliff, feeling a sense of awe and fear at the sheer depth of the canyon.\n徒步旅行者凝视着悬崖下方黑暗的深渊，对峡谷的深邃感到敬畏和恐惧。\nSome philosophers believe that contemplating the abyss of existential nothingness can lead to profound personal insights.\n一些哲学家认为，沉思存在虚无的深渊可以带来深刻的个人洞察力。"
   },
   {
     "id": "word_35",
@@ -754,7 +754,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkeɪʃə/",
     "frequency": "高频",
-    "example": "The acacia tree provides shade for animals in the African savanna ecosystem.\n金合欢树为非洲草原生态系统的动物提供阴凉。\nAcacia wood is commonly used for making durable furniture and flooring materials.\n金合欢木常用于制作耐用家具和地板材料。"
+    "example": "The acacia tree provides essential shade for animals living in the hot African savanna ecosystem during the intense midday heat.\n金合欢树在炎热的中午为生活在非洲热带草原生态系统中的动物提供必要的阴凉。\nAcacia wood is commonly used for making durable furniture and flooring materials because of its strength and beautiful grain.\n金合欢木常用于制作耐用家具和地板材料，因为它坚固且纹理美丽。"
   },
   {
     "id": "word_36",
@@ -775,7 +775,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækəˈdemɪk/",
     "frequency": "高频",
-    "example": "The university offers a wide range of academic programs for undergraduate students.\n该大学为本科生提供广泛的学术课程。\nHer academic achievements earned her a scholarship to pursue graduate studies.\n她的学术成就为她赢得了攻读研究生的奖学金。"
+    "example": "The university has strict academic standards that all students must meet in order to graduate with honors and distinction.\n大学有严格的学术标准，所有学生都必须达到这些标准才能以优异成绩毕业。\nHis academic achievements in mathematics earned him recognition from several prestigious international institutions.\n他在数学方面的学术成就为他赢得了多个著名国际机构的认可。"
   },
   {
     "id": "word_37",
@@ -796,7 +796,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkædəmi/",
     "frequency": "中频",
-    "example": "The Royal Academy of Arts showcases important cultural exhibitions throughout the year.\n皇家艺术学院全年展示重要的文化展览。\nShe graduated from the military academy with honors and excellent leadership skills.\n她以优异成绩从军事学院毕业，具备出色的领导能力。"
+    "example": "The Royal Academy of Arts showcases important cultural exhibitions throughout the year, attracting visitors from all over the world.\n皇家艺术学院全年展示重要的文化展览，吸引来自世界各地的游客。\nShe graduated from the military academy with honors and excellent leadership skills that prepared her for command.\n她以优异成绩从军事学院毕业，具备出色的领导能力，为指挥做好了准备。"
   },
   {
     "id": "word_38",
@@ -817,7 +817,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈseləreɪt/",
     "frequency": "中频",
-    "example": "The driver had to accelerate quickly to merge safely onto the highway.\n司机必须迅速加速才能安全并入高速公路。\nInvesting in technology can help accelerate the growth of small businesses.\n投资技术可以帮助加速小企业的发展。"
+    "example": "The driver had to accelerate rapidly to merge safely onto the busy highway during the morning rush hour traffic.\n司机必须迅速加速才能在早高峰期间安全地汇入繁忙的高速公路。\nClimate scientists warn that global warming will accelerate if countries do not take immediate action to reduce carbon emissions.\n气候科学家警告说，如果各国不立即采取行动减少碳排放，全球变暖将加速。"
   },
   {
     "id": "word_39",
@@ -838,7 +838,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæksent/",
     "frequency": "高频",
-    "example": "She speaks English with a charming accent that reflects her cultural background.\n她讲英语带有迷人的口音，反映了她的文化背景。\nThe singer emphasized certain words with a strong accent to convey emotion.\n歌手用强烈的口音强调某些词来传达情感。"
+    "example": "She spoke with a distinct British accent that immediately revealed her origins to everyone she met during her travels.\n她带有明显的英国口音，这立即向她在旅行中遇到的每个人揭示了她的出身。\nThe interior designer chose to accent the room with bold red curtains that contrasted beautifully with the neutral walls.\n室内设计师选择用大胆的红色窗帘来点缀房间，与中性墙壁形成美丽的对比。"
   },
   {
     "id": "word_40",
@@ -859,7 +859,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsentʃueɪt/",
     "frequency": "中频",
-    "example": "The lighting design was used to accentuate the architectural features of the building.\n灯光设计被用来突出建筑物的建筑特色。\nWearing a bright accessory can accentuate your outfit and make a bold statement.\n佩戴明亮的配饰可以突出你的着装，做出大胆的声明。"
+    "example": "The artist used dark shadows to accentuate the dramatic lighting in the painting, creating a powerful emotional effect.\n艺术家使用深色阴影来突出绘画中的戏剧性光线，创造出强烈的情感效果。\nWearing a belt can accentuate your waist and create a more defined silhouette in any outfit you choose.\n系腰带可以突出你的腰部，在你选择的任何服装中创造出更清晰的轮廓。"
   },
   {
     "id": "word_41",
@@ -880,7 +880,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsept/",
     "frequency": "高频",
-    "example": "We are pleased to accept your application for the scholarship program.\n我们很高兴接受您的奖学金项目申请。\nIt is important to accept constructive criticism as it helps you grow and improve.\n接受建设性批评很重要，因为它有助于你成长和改进。"
+    "example": "She decided to accept the job offer after carefully considering all the benefits and career opportunities it provided.\n在仔细考虑了这份工作提供的所有福利和职业机会后，她决定接受这份工作。\nIt is important to accept constructive criticism gracefully and use it as an opportunity for personal growth.\n优雅地接受建设性的批评并将其作为个人成长的机会很重要。"
   },
   {
     "id": "word_42",
@@ -901,7 +901,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈseptəns/",
     "frequency": "中频",
-    "example": "Her acceptance into the prestigious university was a dream come true.\n她被这所著名大学录取是梦想成真。\nThe acceptance of new ideas requires an open mind and willingness to learn.\n接受新思想需要开放的心态和学习的意愿。"
+    "example": "His acceptance into the prestigious graduate program was the result of years of hard work and academic excellence.\n他被著名的研究生项目录取是多年努力学习和学术卓越的结果。\nThe community showed remarkable acceptance of the new immigrants, welcoming them with open arms.\n社区对新移民表现出显著的接纳，张开双臂欢迎他们。"
   },
   {
     "id": "word_43",
@@ -922,7 +922,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækses/",
     "frequency": "高频",
-    "example": "Residents can access the community center facilities during operating hours.\n居民可以在营业时间内使用社区中心设施。\nHaving reliable access to the internet is essential for remote work and online learning.\n可靠的互联网接入对于远程工作和在线学习至关重要。"
+    "example": "Students need a password to access the online library resources from their personal computers at home.\n学生需要密码才能从家里个人电脑访问在线图书馆资源。\nThe new highway will provide better access to remote mountain villages that were previously difficult to reach.\n这条新高速公路将为以前难以到达的偏远山村提供更好的通道。"
   },
   {
     "id": "word_44",
@@ -943,7 +943,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈsesəbl/",
     "frequency": "中频",
-    "example": "The building has been renovated to be accessible for people with disabilities.\n该建筑已翻新，方便残疾人使用。\nMaking information accessible to everyone promotes equality and inclusion.\n使信息对所有人都可访问有助于促进平等和包容。"
+    "example": "The museum has been redesigned to be fully accessible to visitors with physical disabilities and mobility challenges.\n博物馆已经重新设计，使有身体残疾和行动障碍的访客可以完全无障碍地参观。\nThe professor made complex theories accessible to first-year students by using simple analogies and practical examples.\n教授通过使用简单的类比和实际例子，使复杂理论对一年级学生来说易于理解。"
   },
   {
     "id": "word_45",
@@ -964,7 +964,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæksɪdənt/",
     "frequency": "高频",
-    "example": "The traffic accident caused significant damage to both vehicles involved.\n这起交通事故对涉及的两辆车造成了重大损坏。\nWearing a seatbelt can greatly reduce the risk of injury in a car accident.\n系安全带可以大大降低车祸中受伤的风险。"
+    "example": "A terrible traffic accident occurred at the intersection during rush hour, causing long delays for commuters.\n高峰时段十字路口发生了一起可怕的交通事故，给通勤者造成了长时间的延误。\nThe laboratory accident prompted the university to implement stricter safety protocols for all research facilities on campus.\n实验室事故促使大学为校园内所有研究设施实施更严格的安全协议。"
   },
   {
     "id": "word_46",
@@ -985,7 +985,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkleɪm/",
     "frequency": "中频",
-    "example": "The new movie received widespread acclaim from critics and audiences alike.\n这部新电影受到评论家和观众的广泛赞誉。\nHer outstanding performance in the play earned her critical acclaim.\n她在剧中的出色表演为她赢得了评论界的赞誉。"
+    "example": "The young director received critical acclaim for her innovative film that challenged traditional storytelling conventions.\n这位年轻导演因其挑战传统叙事惯例的创新电影而获得了评论界的高度赞誉。\nThe novel gained international acclaim and was translated into more than twenty languages within the first year of publication.\n这部小说获得了国际赞誉，在出版的第一年内被翻译成二十多种语言。"
   },
   {
     "id": "word_47",
@@ -1006,7 +1006,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæklɪmeɪt/",
     "frequency": "高频",
-    "example": "It takes time to acclimate to the high altitude when visiting mountainous regions.\n访问山区时，需要时间适应高海拔。\nNew employees need time to acclimate to the companys culture and procedures.\n新员工需要时间适应公司的文化和程序。"
+    "example": "It took several weeks for the tropical plants to acclimate to the cooler temperatures in the northern greenhouse.\n热带植物花了几个星期才适应北方温室中较凉爽的温度。\nNew employees need time to acclimate to the company culture and understand the expectations of their roles.\n新员工需要时间适应公司文化并了解他们角色的期望。"
   },
   {
     "id": "word_48",
@@ -1027,7 +1027,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒmədeɪt/",
     "frequency": "低频",
-    "example": "The hotel can accommodate up to 500 guests during peak travel season.\n酒店在旅游旺季可容纳多达500位客人。\nWe need to accommodate the special needs of all participants in the event.\n我们需要满足活动中所有参与者的特殊需求。"
+    "example": "The hotel can accommodate up to five hundred guests during peak season with its extensive facilities and spacious rooms.\n这家酒店在旺季可以容纳多达五百名客人，拥有完善的设施和宽敞的房间。\nTeachers should accommodate different learning styles to ensure that all students can succeed in the classroom environment.\n教师应该适应不同的学习风格，以确保所有学生都能在课堂环境中取得成功。"
   },
   {
     "id": "word_49",
@@ -1048,7 +1048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkʌmpəni/",
     "frequency": "中频",
-    "example": "Parents are encouraged to accompany their children on the school field trip.\n鼓励家长陪同孩子参加学校实地考察。\nA qualified guide will accompany the tourists during their visit to the ancient ruins.\n一位合格的导游将在游客参观古代遗址时陪同他们。"
+    "example": "The pianist will accompany the choir during the concert, providing beautiful harmonies for the vocal performance.\n钢琴家将在音乐会期间为合唱团伴奏，为声乐表演提供美妙的和声。\nChildren under the age of twelve must be accompanied by an adult when visiting the science museum.\n十二岁以下的儿童参观科学博物馆时必须由成人陪同。"
   },
   {
     "id": "word_50",
@@ -1069,7 +1069,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒmplɪs/",
     "frequency": "高频",
-    "example": "The police arrested the accomplice who helped plan the robbery.\n警方逮捕了帮助策划抢劫的同伙。\nBeing an accomplice in a crime carries serious legal consequences.\n成为犯罪的从犯会带来严重的法律后果。"
+    "example": "The police arrested the thief and his accomplice after they were caught trying to break into the jewelry store at midnight.\n警方在窃贼和同伙试图在午夜闯入珠宝店时抓住了他们。\nThe two brothers acted as accomplices in the elaborate scheme to defraud hundreds of unsuspecting investors.\n这两兄弟在一项精心策划的诈骗数百名毫无戒备投资者的阴谋中充当同谋。"
   },
   {
     "id": "word_51",
@@ -1090,7 +1090,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkʌmplɪʃ/",
     "frequency": "中频",
-    "example": "With determination and hard work you can accomplish anything you set your mind to.\n凭借决心和努力，你可以完成任何你下定决心要做的事情。\nThe team worked together to accomplish their goal ahead of the deadline.\n团队共同努力，在截止日期前完成了目标。"
+    "example": "With determination and hard work, she managed to accomplish her lifelong dream of becoming a professional photographer.\n凭借决心和努力，她实现了成为专业摄影师的终身梦想。\nThe engineering team worked together to accomplish the challenging task of building the bridge ahead of schedule.\n工程团队共同努力，提前完成了建造桥梁的挑战性任务。"
   },
   {
     "id": "word_52",
@@ -1111,7 +1111,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɔːd/",
     "frequency": "低频",
-    "example": "In accord with company policy all employees must attend the safety training.\n按照公司政策，所有员工必须参加安全培训。\nThe decision was made in accord with the recommendations of the expert committee.\n该决定是根据专家委员会的建议做出的。"
+    "example": "The two nations signed a peace accord after years of conflict, bringing hope for stability to the entire region.\n两国在多年冲突后签署了和平协议，为整个地区带来了稳定的希望。\nHis views are in complete accord with the principles that our organization has upheld for decades.\n他的观点与我们组织几十年来坚持的原则完全一致。"
   },
   {
     "id": "word_53",
@@ -1132,7 +1132,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkɒst/",
     "frequency": "高频",
-    "example": "The stranger tried to accost her on the street asking for personal information.\n那个陌生人试图在街上搭讪她，询问个人信息。\nSecurity guards are trained to handle individuals who accost customers in the store.\n保安接受过处理在商店骚扰顾客的人员的培训。"
+    "example": "A stranger tried to accost her on the dark street, demanding money and threatening her with physical violence.\n一个陌生人在黑暗的街道上试图拦住她，要求钱并威胁对她使用暴力。\nReporters often accost celebrities outside restaurants, asking invasive questions about their personal lives.\n记者经常在餐厅外拦住名人，问一些关于他们个人生活的侵入性问题。"
   },
   {
     "id": "word_54",
@@ -1153,7 +1153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊnt/",
     "frequency": "高频",
-    "example": "Please create an account on our website to access exclusive features.\n请在我们的网站上创建账户以访问独家功能。\nThe accountant reviewed the companys financial account to ensure accuracy.\n会计审查了公司的财务账目以确保准确性。"
+    "example": "You should open a savings account at the bank to start building your financial security for the future.\n你应该在银行开一个储蓄账户，开始为未来的财务安全做准备。\nThe witness gave a detailed account of what happened at the crime scene to the investigating officers.\n目击者向调查人员详细描述了犯罪现场发生的事情。"
   },
   {
     "id": "word_55",
@@ -1174,7 +1174,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊntəbl/",
     "frequency": "低频",
-    "example": "Public officials must be accountable to the citizens they serve.\n公职人员必须对他们服务的公民负责。\nTaking responsibility makes you accountable for your actions and decisions.\n承担责任使你对自己的行为和决定负责。"
+    "example": "Government officials must be accountable to the public for their decisions and actions that affect the entire nation.\n政府官员必须对其影响整个国家的决定和行动向公众负责。\nAs team leader, she held herself accountable for the project delay and took steps to resolve the issues.\n作为团队负责人，她对项目延误负责并采取措施解决问题。"
   },
   {
     "id": "word_56",
@@ -1195,7 +1195,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊntənt/",
     "frequency": "中频",
-    "example": "The certified public accountant prepared the annual financial statements.\n注册会计师准备了年度财务报表。\nHiring a professional accountant can help manage your personal finances effectively.\n聘请专业会计师可以帮助有效管理你的个人财务。"
+    "example": "The accountant carefully reviewed all the financial statements before submitting them to the tax authorities for annual audit.\n会计在将财务报表提交给税务机关进行年度审计之前仔细审查了所有报表。\nBecoming a certified accountant requires passing rigorous examinations and completing several years of professional training.\n成为一名注册会计师需要通过严格的考试并完成多年的专业培训。"
   },
   {
     "id": "word_57",
@@ -1216,7 +1216,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkaʊntɪŋ/",
     "frequency": "中频",
-    "example": "She studied accounting in college and now works for a major financial firm.\n她在大学学习会计，现在在一家大型金融公司工作。\nProper accounting practices are essential for maintaining business transparency.\n适当的会计做法对于保持业务透明度至关重要。"
+    "example": "She decided to pursue a career in accounting because she enjoyed working with numbers and analyzing financial data.\n她决定从事会计职业，因为她喜欢与数字打交道并分析财务数据。\nProper accounting practices are essential for any business to track income, expenses, and overall financial health.\n适当的会计实务对于任何企业跟踪收入、支出和整体财务状况至关重要。"
   },
   {
     "id": "word_58",
@@ -1237,7 +1237,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkredɪt/",
     "frequency": "低频",
-    "example": "The organization is accredited by the national education board.\n该组织获得国家教育委员会的认证。\nUniversities must meet strict standards to be accredited as degree-granting institutions.\n大学必须达到严格标准才能获得授予学位机构的认证。"
+    "example": "The university must meet strict standards before national authorities will accredit its degree programs for international recognition.\n在国家当局认可其学位课程获得国际认可之前，大学必须达到严格的标准。\nIndependent agencies regularly accredit hospitals to ensure they maintain high quality patient care standards.\n独立机构定期对医院进行认证，以确保它们保持高质量的患者护理标准。"
   },
   {
     "id": "word_59",
@@ -1258,7 +1258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkriːʃn/",
     "frequency": "高频",
-    "example": "The accretion of sediment over millions of years formed the layers of rock.\n数百万年来沉积物的堆积形成了岩层。\nThe slow accretion of knowledge and experience leads to wisdom over time.\n知识和经验的缓慢积累会随着时间的推移带来智慧。"
+    "example": "The gradual accretion of sediment at the river mouth eventually formed a small island that became a popular tourist destination.\n河口沉积物的逐渐积累最终形成了一个小岛，成为热门的旅游目的地。\nThe accretion of knowledge over many years of study transformed her into an expert in the specialized field.\n多年学习积累的知识使她成为该专业领域的专家。"
   },
   {
     "id": "word_60",
@@ -1279,7 +1279,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkjuːmjʊleɪt/",
     "frequency": "中频",
-    "example": "Over time dust and debris accumulate in hard-to-reach corners of the house.\n随着时间的推移，灰尘和碎屑会积聚在房子难以触及的角落。\nInvestors aim to accumulate wealth through strategic investments and savings.\n投资者旨在通过战略投资和储蓄积累财富。"
+    "example": "Over the years, he managed to accumulate a substantial collection of rare books from different countries and historical periods.\n多年来，他设法积累了来自不同国家和历史时期的珍贵书籍的大量收藏。\nToxic chemicals can accumulate in the body over time, leading to serious health problems if left untreated.\n有毒化学物质会随着时间的推移在体内积累，如果不加以治疗，会导致严重的健康问题。"
   },
   {
     "id": "word_61",
@@ -1300,7 +1300,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækjərəsi/",
     "frequency": "低频",
-    "example": "Scientists must ensure the accuracy of their data before publishing research findings.\n科学家在发表研究结果之前必须确保数据的准确性。\nThe accuracy of the weather forecast depends on advanced modeling techniques.\n天气预报的准确性取决于先进的建模技术。"
+    "example": "The accuracy of the weather forecast has improved dramatically thanks to advanced computer modeling and satellite technology.\n得益于先进的计算机建模和卫星技术，天气预报的准确性已大幅提高。\nScientists demand extreme accuracy when conducting experiments that could affect public health and safety.\n科学家在进行可能影响公共健康和安全的实验时要求极高的准确性。"
   },
   {
     "id": "word_62",
@@ -1321,7 +1321,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækjərət/",
     "frequency": "高频",
-    "example": "Please provide accurate information on the application form to avoid delays.\n请在申请表上提供准确信息，以免延误。\nAn accurate map is essential for navigating through unfamiliar territory.\n准确的地图对于在陌生地区导航至关重要。"
+    "example": "The journalist made every effort to provide accurate information in her article by verifying all facts with multiple sources.\n记者通过在多个来源核实所有事实，尽最大努力在她的文章中提供准确的信息。\nIt is impossible to make accurate predictions about the stock market due to its unpredictable and volatile nature.\n由于股市不可预测和不稳定的性质，不可能对其做出准确的预测。"
   },
   {
     "id": "word_63",
@@ -1342,7 +1342,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækjuˈzeɪʃn/",
     "frequency": "中频",
-    "example": "The false accusation damaged his reputation and caused emotional distress.\n虚假指控损害了他的声誉并造成了情绪困扰。\nShe denied the accusation stating she had evidence to prove her innocence.\n她否认了指控，表示有证据证明自己的清白。"
+    "example": "The false accusation damaged his reputation and took years to fully clear his name in the eyes of the public.\n虚假的指控损害了他的名誉，花了数年时间才在公众眼中完全洗清他的名声。\nShe faced serious accusations of financial misconduct during her time as director of the charitable organization.\n她在担任慈善机构主任期间面临严重的财务不当行为指控。"
   },
   {
     "id": "word_64",
@@ -1363,7 +1363,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsiːtɪk/",
     "frequency": "低频",
-    "example": "Acetic acid is commonly used in the production of vinegar and various chemicals.\n乙酸常用于生产醋和各种化学品。\nThe chemist analyzed the acetic solution to determine its concentration.\n化学家分析了乙酸溶液以确定其浓度。"
+    "example": "Acetic acid is the main component of vinegar and gives it the characteristic sour taste that we all recognize.\n醋酸是醋的主要成分，赋予它我们都认识的特有的酸味。\nThe laboratory used a dilute acetic solution to clean the ancient artifacts without causing any chemical damage.\n实验室使用稀释的乙酸溶液来清洁古代文物，而不造成任何化学损坏。"
   },
   {
     "id": "word_65",
@@ -1384,7 +1384,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtʃiːv/",
     "frequency": "高频",
-    "example": "With dedication and perseverance you can achieve great things in life.\n凭借奉献和毅力，你可以在生活中取得伟大成就。\nThe team worked hard to achieve their sales target for the quarter.\n团队努力工作以实现本季度的销售目标。"
+    "example": "With determination and persistent effort, anyone can achieve their goals regardless of the obstacles they may face along the way.\n凭借决心和持续的努力，任何人都可以实现他们的目标，无论他们在途中可能面临什么障碍。\nThe research team worked tirelessly for five years to achieve a breakthrough in cancer treatment methods.\n研究团队不懈努力了五年，在癌症治疗方法上取得了突破。"
   },
   {
     "id": "word_66",
@@ -1405,7 +1405,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈtʃiːvmənt/",
     "frequency": "高频",
-    "example": "Graduating from college was one of her greatest achievements in life.\n大学毕业是她人生中最伟大的成就之一。\nThe athletes remarkable achievement inspired young people across the nation.\n这位运动员的卓越成就激励了全国的年轻人。"
+    "example": "Winning the Nobel Prize was the greatest achievement of his career and brought him international recognition and respect.\n获得诺贝尔奖是他职业生涯中最伟大的成就，为他带来了国际认可和尊重。\nGraduating from university is a significant achievement that represents years of dedication and intellectual growth.\n从大学毕业是一项重大成就，代表着多年的奉献和智力成长。"
   },
   {
     "id": "word_67",
@@ -1426,7 +1426,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækrəˈmætɪk/",
     "frequency": "中频",
-    "example": "The artist used an achromatic color palette for the minimalist painting.\n艺术家为这幅极简主义画作使用了无彩色调色板。\nAchromatic lenses are used in optical instruments to reduce color distortion.\n消色差透镜用于光学仪器以减少色差。"
+    "example": "The artist chose an achromatic color scheme for the painting, using only shades of black, white, and gray.\n艺术家为这幅画选择了无彩色配色方案，只使用黑色、白色和灰色的色调。\nAchromatic lenses are designed to reduce color distortion and produce clearer images in optical instruments.\n消色差透镜旨在减少色差并在光学仪器中产生更清晰的图像。"
   },
   {
     "id": "word_68",
@@ -1447,7 +1447,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæsɪd/",
     "frequency": "中频",
-    "example": "Lemon juice contains citric acid which gives it a sour taste.\n柠檬汁含有柠檬酸，使其具有酸味。\nStrong acids must be handled with care to avoid chemical burns.\n强酸必须小心处理，以免化学灼伤。"
+    "example": "Strong acid can cause severe burns if it comes into direct contact with human skin without proper protective equipment.\n强酸如果直接接触人体皮肤而没有适当的防护设备，会造成严重烧伤。\nCitrus fruits contain citric acid, which gives them their characteristic sharp and refreshing sour taste.\n柑橘类水果含有柠檬酸，赋予它们特有的清爽酸味。"
   },
   {
     "id": "word_69",
@@ -1468,7 +1468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪdɪk/",
     "frequency": "高频",
-    "example": "Soil that is too acidic can affect the growth of certain plants.\n酸性太强的土壤会影响某些植物的生长。\nThe scientist measured the acidic levels of the solution using a pH meter.\n科学家使用pH计测量溶液的酸性水平。"
+    "example": "The soil in this region is too acidic for most common vegetables to grow well and produce healthy crops.\n该地区的土壤对大多数常见蔬菜来说酸性太强，无法生长良好并产出健康的作物。\nAcidic foods and drinks can gradually erode tooth enamel, leading to sensitivity and dental problems over time.\n酸性食物和饮料会逐渐侵蚀牙釉质，随着时间的推移导致敏感和牙齿问题。"
   },
   {
     "id": "word_70",
@@ -1489,7 +1489,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈsɪdɪfaɪ/",
     "frequency": "中频",
-    "example": "Pollution from factories can acidify lakes and rivers over time.\n工厂污染会随着时间使湖泊和河流酸化。\nAdding certain chemicals can acidify the soil for specific crop cultivation.\n添加某些化学品可以使土壤酸化以种植特定作物。"
+    "example": "Industrial pollution can acidify lakes and rivers, threatening the survival of fish and other aquatic organisms.\n工业污染会使湖泊和河流酸化，威胁鱼类和其他水生生物的生存。\nScientists are studying how increased carbon dioxide levels in the atmosphere will acidify the oceans in coming decades.\n科学家正在研究大气中二氧化碳含量增加将如何在未来几十年内使海洋酸化。"
   },
   {
     "id": "word_71",
@@ -1510,7 +1510,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əkˈnɒlɪdʒ/",
     "frequency": "高频",
-    "example": "It is important to acknowledge the contributions of all team members.\n承认所有团队成员的贡献很重要。\nShe failed to acknowledge his help which made him feel undervalued.\n她没有承认他的帮助，这让他觉得自己被低估了。"
+    "example": "The manager took time to acknowledge every team members contribution to the successful completion of the challenging project.\n经理花时间认可每位团队成员对成功完成具有挑战性项目的贡献。\nIt is important to acknowledge your mistakes and take responsibility for the consequences of your actions.\n承认你的错误并为你行为的后果承担责任很重要。"
   },
   {
     "id": "word_72",
@@ -1531,7 +1531,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkɔːn/",
     "frequency": "低频",
-    "example": "Squirrels gather acorns in the autumn to store for winter food.\n松鼠在秋天收集橡子储存过冬食物。\nThe oak tree produces thousands of acorns each year for wildlife to eat.\n橡树每年产生数千颗橡子供野生动物食用。"
+    "example": "A single acorn contains everything needed to grow into a mighty oak tree that can live for hundreds of years.\n一颗橡子包含了生长成一棵可以活数百年的巨大橡树所需的一切。\nSquirrels collect and bury acorns during autumn to ensure they have enough food for the harsh winter months ahead.\n松鼠在秋天收集和埋藏橡子，以确保它们在即将到来的严冬中有足够的食物。"
   },
   {
     "id": "word_73",
@@ -1552,7 +1552,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkuːstɪk/",
     "frequency": "高频",
-    "example": "The concert hall was designed with excellent acoustic properties for music performances.\n音乐厅设计具有出色的声学特性，适合音乐表演。\nAcoustic guitars produce sound without the need for electronic amplification.\n原声吉他不需要电子放大就能产生声音。"
+    "example": "The concert hall was designed with excellent acoustic properties to ensure perfect sound quality for every seat in the auditorium.\n音乐厅设计时具有出色的声学特性，以确保礼堂内每个座位都有完美的音质。\nAcoustic guitars produce a warmer and more natural sound compared to their electric counterparts.\n与电吉他相比，原声吉他产生更温暖、更自然的声音。"
   },
   {
     "id": "word_74",
@@ -1573,7 +1573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkweɪnt/",
     "frequency": "中频",
-    "example": "I would like to acquaint you with our company policies and procedures.\n我想让你了解我们公司的政策和程序。\nTraveling to different countries helps acquaint people with diverse cultures.\n到不同国家旅行有助于人们了解不同的文化。"
+    "example": "The orientation program was designed to acquaint new employees with the companys policies, procedures, and organizational culture.\n入职培训计划旨在让新员工熟悉公司的政策、程序和组织文化。\nLet me acquaint you with the basic principles of quantum physics before we discuss the more complex theories.\n在我们讨论更复杂的理论之前，让我向你介绍量子物理学的基本原理。"
   },
   {
     "id": "word_75",
@@ -1594,7 +1594,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwiˈes/",
     "frequency": "低频",
-    "example": "Reluctantly she agreed to acquiesce to their demands to avoid conflict.\n她不情愿地同意默许他们的要求以避免冲突。\nThe board decided to acquiesce to the shareholders requests for change.\n董事会决定默许股东的变革要求。"
+    "example": "Despite his personal reservations, he decided to acquiesce to the majority vote and support the proposed policy changes.\n尽管有个人保留意见，他还是决定默许多数票并支持拟议的政策变更。\nShe would not acquiesce to their unreasonable demands, standing firm on her principles even under pressure.\n她不会默许他们不合理的要求，即使在压力下也坚定地坚持自己的原则。"
   },
   {
     "id": "word_76",
@@ -1615,7 +1615,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwaɪə/",
     "frequency": "高频",
-    "example": "The company plans to acquire several smaller businesses to expand its market share.\n该公司计划收购几家较小的企业以扩大市场份额。\nChildren acquire language skills naturally through exposure and practice.\n儿童通过接触和练习自然地获得语言技能。"
+    "example": "The museum managed to acquire a rare painting by Van Gogh through a generous donation from a wealthy private collector.\n博物馆通过一位富有的私人收藏家的慷慨捐赠，设法获得了一幅梵高的稀有画作。\nChildren acquire language naturally through immersion and interaction with fluent speakers around them.\n儿童通过与周围流利说话者的沉浸和互动自然地习得语言。"
   },
   {
     "id": "word_77",
@@ -1636,7 +1636,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwɪˈzɪʃn/",
     "frequency": "中频",
-    "example": "The acquisition of the startup brought new technology to the parent company.\n收购这家初创公司为母公司带来了新技术。\nSuccessful acquisition requires careful planning and due diligence.\n成功的收购需要仔细规划和尽职调查。"
+    "example": "The companys acquisition of its smaller competitor significantly expanded its market share in the technology industry.\n该公司对其较小竞争对手的收购大大扩大了其在技术行业的市场份额。\nLanguage acquisition in early childhood is remarkably rapid, with most children learning thousands of words by age five.\n儿童早期的语言习得非常迅速，大多数儿童在五岁时就学会了数千个单词。"
   },
   {
     "id": "word_78",
@@ -1657,7 +1657,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwɪt/",
     "frequency": "中频",
-    "example": "The jury voted to acquit the defendant due to insufficient evidence.\n陪审团因证据不足投票宣判被告无罪。\nAfter a lengthy trial the court decided to acquit him of all charges.\n经过漫长的审判，法院决定宣判他所有指控无罪。"
+    "example": "The jury decided to acquit the defendant after reviewing all the evidence and finding reasonable doubt about his guilt.\n陪审团在审查了所有证据并对他的罪行发现合理怀疑后，决定宣判被告无罪。\nThe judge made the unusual decision to acquit the accused before the defense even presented its case.\n法官做出了不寻常的决定，在辩方甚至提出案件之前就宣判被告无罪。"
   },
   {
     "id": "word_79",
@@ -1678,7 +1678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwɪtl/",
     "frequency": "低频",
-    "example": "The unexpected acquittal surprised everyone following the high-profile case.\n这起备受瞩目的案件意外宣判无罪让所有人感到惊讶。\nHis acquittal was based on new evidence presented by the defense team.\n他的无罪释放是基于辩护团队提出的新证据。"
+    "example": "His acquittal came as a shock to many who had believed the evidence against him was overwhelming and conclusive.\n他的无罪释放令许多人震惊，他们原本认为针对他的证据是压倒性和决定性的。\nThe defendants acquittal was based on technical grounds rather than a determination of actual innocence.\n被告的无罪释放是基于技术理由，而不是对实际无罪的判定。"
   },
   {
     "id": "word_80",
@@ -1699,7 +1699,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkə/",
     "frequency": "低频",
-    "example": "The farm covers over 500 acres of fertile land for crop cultivation.\n农场占地超过500英亩肥沃土地用于农作物种植。\nThey purchased several acres of land to build their dream home.\n他们购买了几英亩土地来建造他们梦想中的家园。"
+    "example": "The farm covered over five hundred acres of fertile land, producing corn, wheat, and soybeans for the local market.\n这个农场占地五百多英亩肥沃的土地，为当地市场生产玉米、小麦和大豆。\nThey purchased a small acre of land near the lake where they planned to build their retirement home someday.\n他们在湖边购买了一小块土地，计划有一天在那里建造他们的退休之家。"
   },
   {
     "id": "word_81",
@@ -1720,7 +1720,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪkərɪdʒ/",
     "frequency": "中频",
-    "example": "The total acreage of the national park exceeds one million acres.\n国家公园的总面积超过一百万英亩。\nFarmers are expanding their acreage to meet the growing demand for organic produce.\n农民正在扩大种植面积以满足对有机农产品不断增长的需求。"
+    "example": "The farmer owned thousands of acres of fertile acreage that produced abundant crops throughout the growing season.\n这位农民拥有数千英亩的肥沃土地，在整个生长季节都出产丰富的作物。\nDevelopers are interested in purchasing the undeveloped acreage near the highway for a new shopping center project.\n开发商有兴趣购买高速公路附近未开发的土地用于新购物中心项目。"
   },
   {
     "id": "word_82",
@@ -1741,7 +1741,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækrɪd/",
     "frequency": "低频",
-    "example": "The acrid smell of burning plastic filled the air after the fire.\n火灾后，燃烧塑料的刺鼻气味弥漫在空中。\nHis acrid remarks during the meeting offended several participants.\n他在会议上的尖刻言论冒犯了几位与会者。"
+    "example": "The acrid smell of burning rubber filled the air after the car tires caught fire on the highway.\n汽车轮胎在高速公路上着火后，燃烧的橡胶的刺鼻气味弥漫在空气中。\nSmoke from the factory chimney carried an acrid odor that irritated the eyes and throats of nearby residents.\n工厂烟囱冒出的烟带有刺鼻的气味，刺激附近居民的眼睛和喉咙。"
   },
   {
     "id": "word_83",
@@ -1762,7 +1762,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkrɒs/",
     "frequency": "高频",
-    "example": "We walked across the bridge to reach the other side of the river.\n我们走过桥到达河的另一边。\nThe news spread quickly across the country reaching people in every region.\n消息迅速传遍全国，传到了每个地区的人们耳中。"
+    "example": "She walked across the busy street carefully, looking both ways before stepping onto the pedestrian crossing.\n她小心地穿过繁忙的街道，在踏上人行横道之前左右张望。\nThe new bridge spans across the wide river, connecting the two cities that were previously separated by water.\n这座新桥横跨宽阔的河流，连接了以前被水隔开的两个城市。"
   },
   {
     "id": "word_84",
@@ -1783,7 +1783,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkrɪlɪk/",
     "frequency": "中频",
-    "example": "She painted a beautiful landscape using vibrant acrylic colors on canvas.\n她在画布上用鲜艳的丙烯颜料画了一幅美丽的风景画。\nAcrylic nails have become a popular choice for those who want long-lasting manicures.\n亚克力指甲已成为想要持久美甲的人的热门选择。"
+    "example": "The artist preferred acrylic paints because they dried quickly and allowed her to work on multiple layers in a single session.\n这位艺术家喜欢丙烯颜料，因为它们干燥迅速，让她可以在一次会话中处理多层。\nThe furniture was made from high-quality acrylic material that was both durable and visually appealing.\n家具由高质量的丙烯酸材料制成，既耐用又美观。"
   },
   {
     "id": "word_85",
@@ -1804,7 +1804,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ækt/",
     "frequency": "中频",
-    "example": "The actors performance in the play received standing ovations from the audience.\n演员在剧中的表演获得了观众的起立鼓掌。\nIt is important to act responsibly when making decisions that affect others.\n在做出影响他人的决定时，负责任地行事很重要。"
+    "example": "The government passed a new act to protect endangered species and preserve their natural habitats for future generations.\n政府通过了一项新法案来保护濒危物种并为后代保存它们的自然栖息地。\nEveryone must act responsibly to reduce pollution and protect our planet from further environmental damage.\n每个人都必须负责任地行动，以减少污染并保护我们的星球免受进一步的环境破坏。"
   },
   {
     "id": "word_86",
@@ -1825,7 +1825,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækʃn/",
     "frequency": "中频",
-    "example": "The government announced new action plans to address climate change.\n政府宣布了应对气候变化的新行动计划。\nTaking action now can prevent problems from becoming worse in the future.\n现在采取行动可以防止问题在未来变得更糟。"
+    "example": "Immediate action is required to address the climate crisis before it causes irreversible damage to our planet.\n必须立即采取行动应对气候危机，以免它对地球造成不可逆转的破坏。\nThe director preferred to use real stunts rather than computer-generated effects for the action sequences in the film.\n导演更喜欢在电影的特技镜头中使用真实的特技而不是计算机生成效果。"
   },
   {
     "id": "word_87",
@@ -1846,7 +1846,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪveɪt/",
     "frequency": "中频",
-    "example": "Please activate your account by clicking the link in the confirmation email.\n请通过点击确认电子邮件中的链接激活您的账户。\nThe security system will activate automatically if an unauthorized person enters.\n如果未经授权的人进入，安全系统将自动启动。"
+    "example": "You need to activate your account by clicking the verification link sent to your email address during registration.\n你需要点击注册期间发送到你电子邮件地址的验证链接来激活你的账户。\nThe security system will activate automatically if any unauthorized person tries to enter the building after hours.\n如果有任何未经授权的人试图在下班后进入大楼，安全系统将自动激活。"
   },
   {
     "id": "word_88",
@@ -1867,7 +1867,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪv/",
     "frequency": "高频",
-    "example": "Maintaining an active lifestyle is essential for good physical and mental health.\n保持积极的生活方式对良好的身心健康至关重要。\nShe has been an active member of the community organization for many years.\n多年来，她一直是社区组织的积极成员。"
+    "example": "Regular physical exercise is essential for maintaining an active and healthy lifestyle throughout your adult years.\n定期体育锻炼对于在成年期间保持积极健康的生活方式至关重要。\nThe volcano has been active for centuries, periodically erupting and reshaping the surrounding landscape.\n这座火山已经活跃了几个世纪，定期喷发并重塑周围的地貌。"
   },
   {
     "id": "word_89",
@@ -1888,7 +1888,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktɪvɪst/",
     "frequency": "高频",
-    "example": "The environmental activist organized a protest to raise awareness about pollution.\n这位环保活动家组织了一场抗议活动，以提高人们对污染的认识。\nHuman rights activists work tirelessly to promote equality and justice around the world.\n人权活动家不懈努力在世界各地促进平等和正义。"
+    "example": "The environmental activist spent her entire life campaigning for cleaner air and water in polluted industrial areas.\n这位环保活动家一生都在为污染工业区的更清洁空气和水而奔走呼吁。\nA prominent human rights activist was invited to speak at the international conference on social justice.\n一位著名的人权活动家被邀请在社会正义国际会议上发言。"
   },
   {
     "id": "word_90",
@@ -1909,7 +1909,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ækˈtɪvəti/",
     "frequency": "高频",
-    "example": "Children should engage in physical activity for at least one hour each day.\n儿童每天应至少进行一小时的体育活动。\nThe community center offers various activity programs for people of all ages.\n社区中心为各个年龄段的人提供各种活动项目。"
+    "example": "Physical activity is essential for children because it promotes healthy growth and development of both body and mind.\n体育活动对儿童至关重要，因为它促进身心健康的成长和发展。\nThe volcano showed increased activity over the past month, prompting authorities to evacuate nearby villages.\n这座火山在过去一个月显示出增加的活动，促使当局疏散附近村庄。"
   },
   {
     "id": "word_91",
@@ -1930,7 +1930,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktə/",
     "frequency": "高频",
-    "example": "The famous actor starred in several blockbuster movies last year.\n这位著名演员去年主演了几部大片。\nBecoming a successful actor requires talent dedication and perseverance.\n成为一名成功的演员需要天赋、奉献和毅力。"
+    "example": "The talented actor delivered a powerful performance that moved the entire audience to tears during the final scene.\n这位才华横溢的演员在最后一场戏中奉献了动人的表演，感动得全场观众落泪。\nBecoming a successful actor requires years of training, dedication, and the ability to connect emotionally with audiences.\n成为一名成功的演员需要多年的训练、奉献以及与观众建立情感联系的能力。"
   },
   {
     "id": "word_92",
@@ -1951,7 +1951,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktrəs/",
     "frequency": "低频",
-    "example": "She became the first actress of color to win the prestigious award.\n她成为第一位获得该著名奖项的有色人种女演员。\nThe young actress impressed critics with her powerful performance in the film.\n这位年轻女演员在电影中的出色表现给评论家留下了深刻印象。"
+    "example": "The young actress won an Academy Award for her outstanding performance in the critically acclaimed historical drama.\n这位年轻女演员因在广受好评的历史剧中的出色表演而获得了奥斯卡奖。\nShe dreamed of becoming a famous actress ever since she performed in her first school play at age seven.\n自从七岁在第一部学校戏剧中表演以来，她就梦想成为一名著名的女演员。"
   },
   {
     "id": "word_93",
@@ -1972,7 +1972,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktʃuəl/",
     "frequency": "高频",
-    "example": "The actual cost of the project was much higher than initially estimated.\n项目的实际成本远高于最初估计。\nDespite what he said the actual situation was quite different from his description.\n尽管他这么说，但实际情况与他的描述大不相同。"
+    "example": "The actual cost of the project was much higher than the initial estimate due to unexpected complications and delays.\n由于意外的复杂情况和延误，项目的实际成本远高于最初的估计。\nThe movie was based on actual events that occurred during the historic space mission to the moon.\n这部电影是根据登月历史太空任务期间发生的真实事件改编的。"
   },
   {
     "id": "word_94",
@@ -1993,7 +1993,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktʃuəli/",
     "frequency": "中频",
-    "example": "I thought it would be difficult but actually it was quite easy.\n我以为会很难，但实际上相当容易。\nActually I have been working on this project longer than you think.\n实际上，我从事这个项目的时间比你想象的要长。"
+    "example": "I actually enjoyed the concert more than I expected, despite my initial reluctance to attend the event.\n尽管我最初不愿意参加这个活动，但实际上我比预期的更喜欢这场音乐会。\nThe ancient building is actually much older than historians originally thought, according to recent archaeological findings.\n根据最近的考古发现，这座古老建筑实际上比历史学家最初认为的要古老得多。"
   },
   {
     "id": "word_95",
@@ -2014,7 +2014,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæktʃueɪt/",
     "frequency": "低频",
-    "example": "The machine uses hydraulic pressure to actuate the mechanical arm.\n该机器使用液压来驱动机械臂。\nAn electric signal is sent to actuate the valve and control the flow of water.\n发送电信号来驱动阀门并控制水流。"
+    "example": "The emergency alarm system will actuate automatically when smoke detectors sense dangerous levels of heat or fire.\n当烟雾探测器感应到危险的热量或火灾水平时，紧急报警系统将自动启动。\nA small electric motor is used to actuate the valve that controls the flow of water through the pipeline.\n一个小型电动机用于启动控制水流通过管道的阀门。"
   },
   {
     "id": "word_96",
@@ -2035,7 +2035,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækjəmən/",
     "frequency": "高频",
-    "example": "His business acumen helped him build a successful company from scratch.\n他的商业头脑帮助他从零开始建立了一家成功的公司。\nHaving financial acumen is essential for making wise investment decisions.\n具备金融智慧对于做出明智的投资决策至关重要。"
+    "example": "Her remarkable business acumen enabled her to identify lucrative investment opportunities that her competitors had completely overlooked in the market.\n她卓越的商业敏锐度使她能够发现竞争对手在市场上完全忽视的有利可图的投资机会。\nSuccessful entrepreneurs often possess financial acumen that allows them to make wise decisions even during economic uncertainty.\n成功的企业家通常拥有财务敏锐度，即使在经济不确定时期也能做出明智的决策。"
   },
   {
     "id": "word_97",
@@ -2056,7 +2056,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkjuːt/",
     "frequency": "低频",
-    "example": "The patient was rushed to the hospital due to acute chest pain.\n患者因急性胸痛被紧急送往医院。\nThere is an acute shortage of skilled workers in the technology sector.\n科技行业存在熟练工人严重短缺的问题。"
+    "example": "The patient experienced acute pain in his chest and was rushed to the emergency room for immediate medical treatment.\n病人感到胸部剧痛，被紧急送往急诊室接受立即治疗。\nShe has an acute sense of hearing that allows her to detect subtle changes in musical pitch.\n她有敏锐的听觉，可以检测音乐音高的微妙变化。"
   },
   {
     "id": "word_98",
@@ -2077,7 +2077,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædəmənt/",
     "frequency": "低频",
-    "example": "She remained adamant that she would not compromise on her principles.\n她坚持不妥协自己的原则。\nDespite the criticism he was adamant about pursuing his unconventional ideas.\n尽管受到批评，他仍坚持追求自己的非传统想法。"
+    "example": "He remained adamant in his refusal to compromise, even when faced with strong opposition from his own team members.\n即使面对自己团队成员的强烈反对，他仍然坚决拒绝妥协。\nShe was adamant that the project must be completed on time, regardless of the challenges they encountered.\n她坚持认为项目必须按时完成，无论他们遇到什么挑战。"
   },
   {
     "id": "word_99",
@@ -2098,7 +2098,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdæpt/",
     "frequency": "高频",
-    "example": "Animals must adapt to changing environmental conditions to survive.\n动物必须适应不断变化的环境条件才能生存。\nWe need to adapt our strategies to meet the evolving needs of our customers.\n我们需要调整策略以满足客户不断变化的需求。"
+    "example": "Many species have evolved remarkable abilities to adapt to extreme environmental conditions in order to survive.\n许多物种已经进化出非凡的能力来适应极端环境条件以生存。\nBusinesses must adapt quickly to changing market trends if they want to remain competitive in the global economy.\n企业如果想在全球经济中保持竞争力，就必须迅速适应不断变化的市场趋势。"
   },
   {
     "id": "word_100",
@@ -2119,7 +2119,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædæpˈteɪʃn/",
     "frequency": "中频",
-    "example": "The adaptation of the novel into a movie received mixed reviews from audiences.\n这部小说改编成电影后，观众反响不一。\nBiological adaptation is a key mechanism for species to survive over time.\n生物适应是物种长期生存的关键机制。"
+    "example": "The film adaptation of the bestselling novel attracted millions of viewers and won several prestigious awards.\n这部畅销小说的电影改编吸引了数百万观众并赢得了几项著名奖项。\nAnimals living in the Arctic have developed remarkable physical adaptations to survive in freezing temperatures.\n生活在北极的动物已经发展出非凡的身体适应能力，以在冰冻温度中生存。"
   },
   {
     "id": "word_101",
@@ -2140,7 +2140,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æd/",
     "frequency": "高频",
-    "example": "Please add your name to the guest list before the event starts.\n请在活动开始前将您的名字添加到宾客名单中。\nYou can add more sugar to the recipe if you prefer it sweeter.\n如果你喜欢更甜，可以在食谱中添加更多糖。"
+    "example": "Please add some salt to the soup to enhance its flavor before serving it to your guests.\n请在招待客人之前往汤里加点盐以增强其味道。\nIf you add more RAM to your computer, it will run much faster and handle multiple applications simultaneously.\n如果你给电脑增加更多内存，它将运行得更快，并能同时处理多个应用程序。"
   },
   {
     "id": "word_102",
@@ -2161,7 +2161,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædɪd/",
     "frequency": "低频",
-    "example": "The added bonus of working from home is the flexibility it provides.\n在家工作的额外好处是它提供的灵活性。\nThe newly added features make the software more user-friendly than before.\n新添加的功能使软件比以前更用户友好。"
+    "example": "The added pressure of the deadline made it difficult for the team to complete the project without making errors.\n截止日期的额外压力使团队难以在不犯错误的情况下完成项目。\nShe appreciated the added convenience of having a grocery store located just across the street from her apartment.\n她很感激她家公寓街对面就有一家杂货店带来的额外便利。"
   },
   {
     "id": "word_103",
@@ -2182,7 +2182,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdendəm/",
     "frequency": "高频",
-    "example": "The contract included an addendum outlining additional terms and conditions.\n合同包含一份概述附加条款的附录。\nPlease review the addendum carefully before signing the agreement.\n签署协议前请仔细阅读附录。"
+    "example": "The lawyer prepared an addendum to the contract to clarify certain terms that had been ambiguous in the original document.\n律师准备了一份合同附录，以澄清原始文件中某些含糊不清的条款。\nAn addendum was added to the report after new data became available following the initial publication.\n在最初发表后新数据可用时，报告中增加了一份附录。"
   },
   {
     "id": "word_104",
@@ -2203,7 +2203,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɪʃn/",
     "frequency": "高频",
-    "example": "In addition to his regular salary he earns extra income from freelance work.\n除了正常工资外，他还从自由职业中赚取额外收入。\nThe addition of a new wing to the building increased its capacity significantly.\n建筑新增的侧翼大大增加了其容量。"
+    "example": "In addition to her regular duties, she volunteered to organize the company charity event every year.\n除了她的常规职责外，她每年还自愿组织公司慈善活动。\nThe addition of a swimming pool significantly increased the value of the property in the upscale neighborhood.\n游泳池的添加显著提高了这个高档社区房产的价值。"
   },
   {
     "id": "word_105",
@@ -2224,7 +2224,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɪʃənl/",
     "frequency": "高频",
-    "example": "We need additional time to complete the project due to unexpected delays.\n由于意外延误，我们需要额外的时间来完成项目。\nPlease provide additional information to support your claim.\n请提供额外信息支持您的主张。"
+    "example": "The professor provided additional reading materials to help students better understand the complex theoretical concepts.\n教授提供了额外的阅读材料，以帮助学生更好地理解复杂的理论概念。\nThere will be an additional charge for express delivery if you need the package to arrive by tomorrow morning.\n如果你需要包裹在明天早上之前到达，快递将收取额外费用。"
   },
   {
     "id": "word_106",
@@ -2245,7 +2245,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædl/",
     "frequency": "高频",
-    "example": "The prolonged heat began to addle the milk causing it to spoil quickly.\n持续的高温开始使牛奶变质，导致它很快腐坏。\nTrying to solve too many problems at once can addle your mind and reduce productivity.\n试图同时解决太多问题会使你的头脑混乱，降低效率。"
+    "example": "The confusing instructions served only to addle his brain, making it impossible for him to complete the simple task.\n令人困惑的指示只会使他的大脑混乱，使他无法完成简单的任务。\nToo much alcohol can addle the mind and impair judgment, leading to poor decisions and dangerous behavior.\n过量饮酒会使头脑混乱并损害判断力，导致糟糕的决策和危险的行为。"
   },
   {
     "id": "word_107",
@@ -2266,7 +2266,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdres/",
     "frequency": "高频",
-    "example": "Please provide your full address for delivery of the package.\n请提供您的完整地址以递送包裹。\nThe president will address the nation in a live television broadcast tonight.\n总统今晚将在电视直播中向全国发表讲话。"
+    "example": "Please write your complete mailing address on the form so we can send the package to the correct location.\n请在表格上写下你的完整邮寄地址，以便我们可以将包裹发送到正确的位置。\nThe mayor will address the citizens at the town hall meeting to discuss plans for urban development.\n市长将在市政厅会议上向市民发表讲话，讨论城市发展计划。"
   },
   {
     "id": "word_108",
@@ -2287,7 +2287,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdjuːs/",
     "frequency": "低频",
-    "example": "The lawyer tried to adduce evidence to support his clients innocence.\n律师试图引用证据来支持他的客户无罪。\nYou must adduce sufficient proof to back up your claims in court.\n在法庭上你必须提供足够的证据来支持你的主张。"
+    "example": "The lawyer attempted to adduce new evidence that would prove his clients innocence beyond any reasonable doubt.\n律师试图提出新的证据，以证明他的客户没有任何合理怀疑的清白。\nShe was able to adduce several examples from her research to support the controversial theory that challenged established beliefs.\n她能够从她的研究中举出几个例子来支持挑战既定信念的有争议理论。"
   },
   {
     "id": "word_109",
@@ -2308,7 +2308,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdept/",
     "frequency": "高频",
-    "example": "She is adept at managing multiple projects simultaneously without feeling overwhelmed.\n她擅长同时管理多个项目而不感到不知所措。\nBeing adept at communication is essential for building strong relationships.\n善于沟通对于建立牢固的关系至关重要。"
+    "example": "She is particularly adept at solving complex mathematical problems that most students find extremely challenging.\n她特别擅长解决大多数学生认为极具挑战性的复杂数学问题。\nAfter years of practice, he became adept at playing the piano and could perform difficult compositions with ease.\n经过多年的练习，他变得擅长弹钢琴，可以轻松演奏困难的乐曲。"
   },
   {
     "id": "word_110",
@@ -2329,7 +2329,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædɪkwət/",
     "frequency": "中频",
-    "example": "The company must provide adequate safety equipment for all employees.\n公司必须为所有员工提供足够的安全设备。\nWe need to ensure adequate funding is available for the research project.\n我们需要确保研究项目有足够的资金。"
+    "example": "The small apartment was adequate for a single person but would be too cramped for a family of four.\n这间小公寓对一个人来说足够了，但对四口之家来说会太 cramped。\nEmployers must provide adequate safety equipment to protect workers from potential hazards in the workplace.\n雇主必须提供足够的安全设备，以保护工人免受工作场所潜在危险的伤害。"
   },
   {
     "id": "word_111",
@@ -2350,7 +2350,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈhɪə/",
     "frequency": "低频",
-    "example": "All participants must adhere to the rules and regulations of the competition.\n所有参赛者必须遵守比赛的规章制度。\nThe paint will adhere better to the surface if it is clean and dry.\n如果表面干净干燥，油漆会更好地附着。"
+    "example": "All employees must adhere to the companys strict code of conduct while representing the organization in public.\n所有员工在公开场合代表组织时必须遵守公司严格的行为准则。\nThe paint failed to adhere properly to the wall because the surface had not been cleaned before application.\n油漆未能正确地附着在墙上，因为在涂抹之前表面没有被清洁。"
   },
   {
     "id": "word_112",
@@ -2371,7 +2371,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈhiːsɪv/",
     "frequency": "高频",
-    "example": "Use a strong adhesive to attach the pieces together permanently.\n使用强力粘合剂将碎片永久粘合在一起。\nThe adhesive on the sticker lost its effectiveness after being exposed to sunlight.\n贴纸的粘合剂在暴露在阳光下后失去了效力。"
+    "example": "You will need a strong adhesive to fix the broken ceramic vase so it can hold water again without leaking.\n你需要一种强力粘合剂来修复破损的陶瓷花瓶，这样它就可以再次盛水而不漏水。\nThe surgeon used a special medical adhesive to close the wound instead of traditional stitches.\n外科医生使用了一种特殊的医用粘合剂来缝合伤口，而不是传统的缝线。"
   },
   {
     "id": "word_113",
@@ -2392,7 +2392,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒɔɪn/",
     "frequency": "中频",
-    "example": "Our property adjoins the national park providing beautiful views of nature.\n我们的房产毗邻国家公园，提供美丽的自然风光。\nThe two rooms adjoin each other making it convenient for families with children.\n这两个房间相互连接，方便有孩子的家庭使用。"
+    "example": "The two rooms adjoin each other, sharing a common wall that can be opened to create a larger conference space.\n这两个房间相邻，共用一堵可以打开的墙，以创造更大的会议空间。\nThe park adjoins the school property, providing students with easy access to outdoor recreational areas.\n公园与学校地产相邻，为学生提供便捷的户外休闲区域。"
   },
   {
     "id": "word_114",
@@ -2413,7 +2413,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒɜːn/",
     "frequency": "低频",
-    "example": "The meeting was adjourned until the following week due to time constraints.\n由于时间限制，会议休会到下周。\nThe judge decided to adjourn the trial until new evidence could be presented.\n法官决定推迟审判，直到能够提交新证据。"
+    "example": "The judge decided to adjourn the court proceedings until the following morning due to lack of sufficient evidence presented by the prosecution.\n法官决定因控方未提供足够证据而将法庭诉讼推迟到第二天早上。\nThe committee voted to adjourn the meeting after discussing all items on the lengthy agenda thoroughly.\n委员会在彻底讨论了冗长议程上的所有项目后投票决定休会。"
   },
   {
     "id": "word_115",
@@ -2434,7 +2434,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʒʌŋkt/",
     "frequency": "高频",
-    "example": "She works as an adjunct professor teaching courses in the evening.\n她担任兼职教授，在晚上授课。\nThe new software serves as an adjunct to our existing management system.\n新软件作为我们现有管理系统的补充。"
+    "example": "As an adjunct professor, she taught evening classes while maintaining her full-time career in the technology industry.\n作为兼职教授，她在保持科技行业全职职业的同时教授晚间课程。\nThe new wing was added as an adjunct to the existing hospital building to accommodate more patients comfortably.\n新翼楼作为现有医院建筑的附属建筑添加，以舒适地容纳更多病人。"
   },
   {
     "id": "word_116",
@@ -2455,7 +2455,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒʊə/",
     "frequency": "中频",
-    "example": "The witness was adjured to tell the truth during the court proceedings.\n证人在法庭诉讼中被宣誓要讲真话。\nHe adjured his friends to keep his secret and never reveal it to anyone.\n他恳求他的朋友们保守他的秘密，永远不要告诉任何人。"
+    "example": "The judge adjured the witness to tell the truth, the whole truth, and nothing but the truth before the court.\n法官要求证人在法庭上说出真相，全部真相，除了真相别无其他。\nShe adjured him to reconsider his decision before it was too late to change course completely.\n她恳求他在为时已晚之前重新考虑他的决定。"
   },
   {
     "id": "word_117",
@@ -2476,7 +2476,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdʒʌst/",
     "frequency": "中频",
-    "example": "You may need to adjust the settings to optimize the performance of the device.\n您可能需要调整设置以优化设备性能。\nIt takes time to adjust to a new work environment and team dynamics.\n适应新的工作环境和团队动态需要时间。"
+    "example": "You may need to adjust the settings on your camera to get better photos in low-light conditions indoors.\n你可能需要调整相机设置，以便在室内低光条件下获得更好的照片。\nIt took him several weeks to adjust to the new time zone after moving across the world for his new job position.\n在搬到世界各地从事新职位后，他花了几周时间适应新的时区。"
   },
   {
     "id": "word_118",
@@ -2497,7 +2497,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædmən/",
     "frequency": "高频",
-    "example": "The experienced adman created a memorable advertising campaign for the product.\n这位经验丰富的广告人为该产品创作了一个令人难忘的广告活动。\nBecoming a successful adman requires creativity and understanding of consumer behavior.\n成为一名成功的广告人需要创造力和对消费者行为的理解。"
+    "example": "The clever adman created a memorable slogan that helped increase product sales by over fifty percent in just six months.\n这位聪明的广告人创造了一个令人难忘的口号，在短短六个月内帮助产品销量增加了百分之五十以上。\nWorking as an adman requires both creativity and a deep understanding of consumer psychology and market trends.\n作为广告人工作需要创造力以及对消费者心理学和市场趋势的深刻理解。"
   },
   {
     "id": "word_119",
@@ -2518,7 +2518,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmeʒə/",
     "frequency": "中频",
-    "example": "The surveyor will admeasure the land to determine its exact boundaries.\n测量员将测量土地以确定其确切边界。\nWe need to admeasure the room before purchasing furniture to ensure proper fit.\n购买家具前我们需要测量房间以确保合适。"
+    "example": "Surveyors were called in to admeasure the property boundaries before the legal dispute could be resolved fairly.\n在公正解决法律纠纷之前，测量员被叫来测量房产边界。\nThey needed to admeasure the exact dimensions of the room to ensure the new furniture would fit properly.\n他们需要测量房间的确切尺寸，以确保新家具能够合适地放置。"
   },
   {
     "id": "word_120",
@@ -2539,7 +2539,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪnɪstə/",
     "frequency": "低频",
-    "example": "The nurse will administer the medication according to the doctors instructions.\n护士将按照医生的指示给药。\nThe organization hired a professional to administer its daily operations.\n该组织聘请了一名专业人员来管理其日常运营。"
+    "example": "The nurse will administer the medication according to the doctors precise instructions and the patients medical history.\n护士将按照医生的精确指示和病人的病史来给药。\nThe government agency was created to administer federal funds for education and community development programs nationwide.\n该政府机构成立是为了管理用于全国教育和社区发展项目的联邦资金。"
   },
   {
     "id": "word_121",
@@ -2560,7 +2560,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
     "frequency": "高频",
-    "example": "The new administration promised to implement significant policy changes.\n新政府承诺实施重大政策变革。\nEffective administration is crucial for the smooth operation of any organization.\n有效的管理对于任何组织的顺利运作至关重要。"
+    "example": "The new administration promised to implement comprehensive reforms to improve the national healthcare system.\n新政府承诺实施全面改革以改善国家医疗保健系统。\nThe administration of the university approved the construction of a new library to accommodate the growing student population.\n大学管理部门批准建造一座新图书馆，以容纳不断增长的学生人数。"
   },
   {
     "id": "word_122",
@@ -2581,7 +2581,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪnɪstrətɪv/",
     "frequency": "高频",
-    "example": "She works in the administrative department handling paperwork and schedules.\n她在行政部门工作，处理文书工作和日程安排。\nThe administrative staff ensures that office operations run efficiently.\n行政人员确保办公室运作高效。"
+    "example": "She works in an administrative position, handling scheduling, correspondence, and office management duties daily.\n她从事行政工作，每天处理日程安排、信函和办公室管理职责。\nThe administrative costs of running the charity must be kept low to ensure maximum funds reach those in need.\n运行慈善机构的行政成本必须保持低位，以确保最大资金到达需要的人手中。"
   },
   {
     "id": "word_123",
@@ -2602,7 +2602,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædmərəl/",
     "frequency": "中频",
-    "example": "The admiral commanded the fleet during the naval exercise.\n海军上将在海军演习中指挥舰队。\nHe was promoted to admiral after many years of dedicated service in the navy.\n在海军服役多年后，他被晋升为海军上将。"
+    "example": "The admiral commanded the entire fleet during the naval exercise, demonstrating exceptional leadership and strategic thinking.\n海军上将在海军演习期间指挥整个舰队，展示了卓越的领导力和战略思维。\nAfter decades of distinguished service, she became the first female admiral in the history of the nations navy.\n经过数十年的杰出服务，她成为该国海军历史上第一位女性海军上将。"
   },
   {
     "id": "word_124",
@@ -2623,7 +2623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmaɪə/",
     "frequency": "中频",
-    "example": "I admire her courage and determination in pursuing her dreams.\n我钦佩她追求梦想的勇气和决心。\nMany people admire his ability to stay calm under pressure.\n许多人钦佩他在压力下保持冷静的能力。"
+    "example": "I greatly admire her dedication to helping others, which she demonstrates through countless hours of volunteer work every month.\n我非常钦佩她帮助他人的奉献精神，她通过每月无数小时的志愿工作来展示这一点。\nVisitors from around the world come to admire the magnificent architecture of the ancient cathedral every summer.\n每年夏天，来自世界各地的游客前来欣赏这座古老大教堂的宏伟建筑。"
   },
   {
     "id": "word_125",
@@ -2644,7 +2644,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪʃn/",
     "frequency": "低频",
-    "example": "Students must submit their applications before the admission deadline.\n学生必须在录取截止日期前提交申请。\nThe museum offers free admission to children under the age of twelve.\n博物馆为12岁以下儿童提供免费入场。"
+    "example": "His admission into the elite university was celebrated by his entire family, who had supported his academic dreams for many years.\n他被精英大学录取的消息让整个家庭庆祝，他们多年来一直支持他的学术梦想。\nThe museums general admission fee includes access to all permanent exhibits and special collections for visitors.\n博物馆的普通门票包括所有永久展览和特别收藏品对游客的参观权。"
   },
   {
     "id": "word_126",
@@ -2665,7 +2665,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɪt/",
     "frequency": "高频",
-    "example": "He finally had to admit that he made a mistake in his calculations.\n他最终不得不承认他在计算中犯了一个错误。\nThe university will admit students based on their academic performance and test scores.\n大学将根据学生的学业成绩和考试成绩录取学生。"
+    "example": "He had to admit that he was wrong after the evidence clearly proved his mistake to everyone in the courtroom.\n在证据清楚地向法庭上的每个人证明了他的错误后，他不得不承认自己错了。\nThe hospital will admit emergency patients immediately, regardless of their ability to pay for treatment in advance.\n医院将立即收治急诊病人，无论他们是否有能力提前支付治疗费用。"
   },
   {
     "id": "word_127",
@@ -2686,7 +2686,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈmɒnɪʃ/",
     "frequency": "低频",
-    "example": "The teacher had to admonish the students for talking during the lecture.\n老师不得不告诫学生在讲座期间不要说话。\nParents often admonish their children to be careful when crossing the street.\n父母经常告诫孩子过马路时要小心。"
+    "example": "The teacher gently admonished the student for arriving late without making him feel embarrassed in front of his classmates.\n老师温和地告诫学生迟到，但没有让他在同学面前感到尴尬。\nParents should admonish their children when necessary, but always with love and constructive guidance for their development.\n父母应在必要时告诫孩子，但要始终带着爱和对其发展的建设性指导。"
   },
   {
     "id": "word_128",
@@ -2707,7 +2707,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdəʊbi/",
     "frequency": "高频",
-    "example": "The traditional house was built using adobe bricks made from clay and straw.\n这座传统房屋是用粘土和稻草制成的土坯砖建造的。\nAdobe systems are commonly used in dry climates for building construction.\n土坯建筑系统通常用于干旱气候的建筑施工。"
+    "example": "Traditional adobe houses are well-suited to desert climates because the thick walls provide excellent insulation against extreme temperatures.\n传统的土坯房非常适合沙漠气候，因为厚墙提供了极好的隔热效果以抵御极端温度。\nThe artist used adobe bricks to construct a unique outdoor sculpture that blended with the natural landscape beautifully.\n这位艺术家用土坯砖建造了一座独特的户外雕塑，与自然环境美丽地融为一体。"
   },
   {
     "id": "word_129",
@@ -2728,7 +2728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædəˈlesnt/",
     "frequency": "中频",
-    "example": "Adolescent development involves significant physical and emotional changes.\n青少年发展涉及重大的生理和情感变化。\nParents play an important role in guiding adolescent children through this stage.\n父母在引导青少年度过这个阶段方面发挥重要作用。"
+    "example": "Adolescent students often face unique challenges as they navigate the complex transition from childhood to adulthood.\n青少年学生在从童年到成年的复杂过渡过程中常常面临独特的挑战。\nThe psychologist specializes in treating mental health issues specific to adolescent patients between thirteen and nineteen.\n这位心理学家专门治疗十三至十九岁青少年患者特有的心理健康问题。"
   },
   {
     "id": "word_130",
@@ -2749,7 +2749,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɒpt/",
     "frequency": "高频",
-    "example": "The couple decided to adopt a child from the orphanage.\n这对夫妇决定从孤儿院收养一个孩子。\nMany companies adopt new technologies to improve their competitiveness.\n许多公司采用新技术来提高竞争力。"
+    "example": "The couple decided to adopt a child from overseas after learning about the needs of orphans in developing countries.\n这对夫妇在了解到发展中国家孤儿的需要后，决定从海外收养一个孩子。\nMany cities are starting to adopt new recycling policies to reduce waste and protect the environment.\n许多城市开始采用新的回收政策以减少浪费并保护环境。"
   },
   {
     "id": "word_131",
@@ -2770,7 +2770,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɒpʃn/",
     "frequency": "高频",
-    "example": "The adoption process requires careful consideration and preparation.\n收养过程需要仔细考虑和准备。\nInternational adoption can be a complex and lengthy procedure.\n跨国收养可能是一个复杂而漫长的过程。"
+    "example": "The widespread adoption of electric vehicles will significantly reduce carbon emissions and improve air quality in major metropolitan areas.\n电动汽车的广泛采用将显著减少碳排放并改善大都市地区的空气质量。\nThe couple celebrated the final legal adoption of their daughter after completing two years of paperwork and home visits.\n这对夫妇在完成两年的文书工作和家访后，庆祝了他们女儿的最终法律收养。"
   },
   {
     "id": "word_132",
@@ -2791,7 +2791,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædəˈreɪʃn/",
     "frequency": "高频",
-    "example": "Her eyes filled with adoration when she looked at her newborn baby.\n当她看着她刚出生的婴儿时，眼中充满了爱慕之情。\nThe crowd expressed their adoration for the famous singer during the concert.\n人群在音乐会期间表达了对这位著名歌手的爱慕。"
+    "example": "The fans showed their adoration for the famous musician by waiting outside the concert hall for hours after the performance ended.\n粉丝们在演出结束后在音乐厅外等了几个小时，以表达他们对这位著名音乐家的崇拜。\nShe looked at her newborn baby with pure adoration, feeling overwhelmed by the depth of her love.\n她带着纯粹的崇拜看着她的新生婴儿，感到被她的爱的深度所淹没。"
   },
   {
     "id": "word_133",
@@ -2812,7 +2812,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdɔːn/",
     "frequency": "中频",
-    "example": "She likes to adorn her hair with beautiful flowers on special occasions.\n她喜欢在特殊场合用美丽的花朵装饰头发。\nThe Christmas tree was adorned with colorful lights and ornaments.\n圣诞树上装饰着彩灯和装饰品。"
+    "example": "The walls were adorned with beautiful paintings that the artist had collected during his travels throughout Europe.\n墙上装饰着这位艺术家在欧洲旅行期间收集的美丽画作。\nShe chose to adorn her hair with fresh flowers for the garden wedding ceremony in the countryside.\n她选择用鲜花装饰她的头发，参加乡村的花园婚礼仪式。"
   },
   {
     "id": "word_134",
@@ -2833,7 +2833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdriːnl/",
     "frequency": "低频",
-    "example": "The adrenal glands produce hormones that help the body respond to stress.\n肾上腺产生帮助身体应对压力的激素。\nAdrenal fatigue can result from prolonged periods of high stress.\n长期高压可能导致肾上腺疲劳。"
+    "example": "The adrenal glands produce hormones that help the body respond to stress and regulate essential metabolic functions.\n肾上腺产生帮助身体应对压力和调节基本代谢功能的激素。\nDoctors measured his adrenal levels to determine if stress was contributing to his persistent fatigue and anxiety.\n医生测量了他的肾上腺水平，以确定压力是否导致了他持续的疲劳和焦虑。"
   },
   {
     "id": "word_135",
@@ -2854,7 +2854,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdrɪft/",
     "frequency": "高频",
-    "example": "The small boat was left adrift in the middle of the ocean.\n小船被遗弃在海洋中央漂流。\nAfter the storm several containers were found adrift in the harbor.\n暴风雨过后，在港口发现了几个漂浮的集装箱。"
+    "example": "The small boat was left adrift in the open ocean after the storm destroyed its mast and navigation equipment.\n暴风雨摧毁了船的桅杆和导航设备后，这艘小船被留在公海上漂流。\nFeeling emotionally adrift after graduation, she spent several months traveling to find her purpose in life.\n毕业后感到情感上漂泊不定，她花了几个月时间旅行以寻找生活的目标。"
   },
   {
     "id": "word_136",
@@ -2875,7 +2875,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈdrɔɪt/",
     "frequency": "中频",
-    "example": "He is adroit at handling difficult situations with diplomacy and tact.\n他善于用外交手段和技巧处理困难局面。\nThe adroit negotiator was able to reach a favorable agreement for both parties.\n这位精明的谈判者能够为双方达成有利的协议。"
+    "example": "The adroit diplomat managed to negotiate a peace treaty that satisfied both conflicting nations after months of discussions.\n这位灵巧的外交官在数月的讨论后，成功谈判了一项令两个冲突国家都满意的和平条约。\nShe was adroit at handling difficult customer complaints, turning angry callers into satisfied clients.\n她擅长处理棘手的客户投诉，将愤怒的电话者变成满意的客户。"
   },
   {
     "id": "word_137",
@@ -2896,7 +2896,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈsɔːb/",
     "frequency": "低频",
-    "example": "Activated carbon can adsorb impurities from water making it safe to drink.\n活性炭可以吸附水中的杂质，使其可以安全饮用。\nThe sponge can adsorb large amounts of liquid due to its porous structure.\n海绵由于其多孔结构可以吸附大量液体。"
+    "example": "Activated charcoal can adsorb toxins from the digestive system, making it useful in treating certain types of poisoning.\n活性炭可以从消化系统中吸附毒素，使其在治疗某些类型的中毒方面很有用。\nThe material was designed to adsorb oil spills from water surfaces without absorbing water itself.\n这种材料被设计成可以从水面吸附油污，而不吸收水本身。"
   },
   {
     "id": "word_138",
@@ -2917,7 +2917,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌædʒʊˈleɪʃn/",
     "frequency": "中频",
-    "example": "The celebrity enjoyed the adulation of her fans wherever she went.\n这位名人无论走到哪里都享受着粉丝的追捧。\nExcessive adulation can sometimes make people lose touch with reality.\n过度的追捧有时会使人脱离现实。"
+    "example": "The celebrity grew tired of the constant adulation from fans who treated her every word as profound wisdom.\n这位名人厌倦了粉丝们不断的吹捧，他们把她的每一句话都视为深刻的智慧。\nHis adulation for the famous scientist bordered on obsession, as he collected every article and book about him.\n他对这位著名科学家的崇拜近乎痴迷，因为他收集了关于他的每一篇文章和书籍。"
   },
   {
     "id": "word_139",
@@ -2938,7 +2938,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʌlt/",
     "frequency": "高频",
-    "example": "As an adult you are responsible for your own decisions and actions.\n作为成年人，你要对自己的决定和行为负责。\nThe movie is rated for adult audiences due to its mature content.\n由于其成熟内容，这部电影被评为成人级。"
+    "example": "As an adult, you are responsible for making your own decisions and accepting the consequences of your actions.\n作为成年人，你有责任做出自己的决定并承担行为的后果。\nThe film is rated for adult audiences only due to its mature themes and graphic content.\n由于成熟的主题和生动的内容，这部电影仅被评为成人观众观看。"
   },
   {
     "id": "word_140",
@@ -2959,7 +2959,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædʌmbreɪt/",
     "frequency": "低频",
-    "example": "The report adumbrates the main challenges facing the organization in the coming year.\n该报告概述了该组织来年面临的主要挑战。\nThe speaker began to adumbrate his plans for the future of the company.\n演讲者开始概述他对公司未来的计划。"
+    "example": "The professor used a few examples to adumbrate the complex theory before explaining it in full detail.\n教授在详细解释之前用几个例子来概述这个复杂的理论。\nThe opening chapters of the novel adumbrate the major conflicts that will drive the rest of the story forward.\n小说的前几章预示了将推动故事其余部分向前发展的主要冲突。"
   },
   {
     "id": "word_141",
@@ -2980,7 +2980,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːns/",
     "frequency": "高频",
-    "example": "The army made significant advances in the battle after deploying new strategies.\n军队在部署新战略后，在战斗中取得了重大进展。\nScientific advances in medicine have helped extend the average human lifespan considerably.\n医学上的科学进步有助于大大延长人类的平均寿命。"
+    "example": "Technological advance in artificial intelligence continues to reshape industries and create new opportunities for businesses around the world.\n人工智能的技术进步继续重塑行业并为世界各地的企业创造新机会。\nThe soldiers received orders to advance slowly through the dense forest while maintaining complete silence and radio communication blackout.\n士兵们接到命令，在保持完全沉默和无线电通讯中断的情况下缓慢穿过茂密的森林。"
   },
   {
     "id": "word_142",
@@ -3001,7 +3001,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːnst/",
     "frequency": "高频",
-    "example": "The university offers advanced courses for students who have completed the basics.\n该大学为已完成基础课程的学生提供高级课程。\nAdvanced technology has revolutionized the way we communicate and access information.\n先进技术彻底改变了我们交流和获取信息的方式。"
+    "example": "The university offers an advanced mathematics course that covers topics such as differential equations and abstract algebra theory.\n大学提供一门高等数学课程，涵盖微分方程和抽象代数理论等主题。\nAdvanced medical imaging technology now allows doctors to detect tumors at much earlier stages than previously possible.\n先进的医学成像技术现在使医生能够在比以前更早的阶段检测到肿瘤。"
   },
   {
     "id": "word_143",
@@ -3022,7 +3022,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɑːntɪdʒ/",
     "frequency": "高频",
-    "example": "Living in the city offers many advantages including better job opportunities and healthcare.\n住在城市有很多优势，包括更好的工作机会和医疗保健。\nUnderstanding multiple languages gives you a significant advantage in the global job market.\n懂多种语言在全球就业市场上给你带来显著优势。"
+    "example": "Growing up bilingual gives children a significant cognitive advantage in problem-solving and multitasking throughout their academic careers.\n从小双语成长给儿童在学术生涯中的解决问题和多任务处理方面带来显著的认知优势。\nThe company gained a competitive advantage by investing heavily in research and development of innovative products.\n该公司通过对创新产品研发的大量投资获得了竞争优势。"
   },
   {
     "id": "word_144",
@@ -3043,7 +3043,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvent/",
     "frequency": "高频",
-    "example": "The advent of the internet has transformed nearly every aspect of modern life.\n互联网的出现改变了现代生活的几乎所有方面。\nWith the advent of smartphones people can now work from anywhere at any time.\n随着智能手机的出现，人们现在可以随时随地工作。"
+    "example": "The advent of smartphones revolutionized personal communication and made instant access to information available to billions of people globally.\n智能手机的出现彻底改变了个人通信，使数十亿人能够即时获取信息。\nWith the advent of spring, the entire valley becomes covered with colorful wildflowers that attract tourists from distant cities.\n随着春天的到来，整个山谷被色彩斑斓的野花覆盖，吸引了来自远方城市的游客。"
   },
   {
     "id": "word_145",
@@ -3064,7 +3064,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈventʃə/",
     "frequency": "中频",
-    "example": "The children embarked on an exciting adventure exploring the mysterious forest.\n孩子们踏上了探索神秘森林的激动人心的冒险之旅。\nTraveling solo across different countries was the most memorable adventure of her life.\n独自穿越不同国家旅行是她一生中最难忘的冒险。"
+    "example": "Traveling alone through foreign countries taught him that real adventure often comes from unexpected encounters with local people and cultures.\n独自穿越外国旅行让他明白，真正的冒险往往来自与当地人民和文化的意外相遇。\nThe young boy dreamed of having a grand adventure exploring mysterious islands filled with hidden treasures and ancient ruins.\n小男孩梦想着有一场探索充满隐藏宝藏和古代遗迹的神秘岛屿的盛大冒险。"
   },
   {
     "id": "word_146",
@@ -3085,7 +3085,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɜːbiəl/",
     "frequency": "低频",
-    "example": "Understanding adverbial phrases can help improve your writing and comprehension skills.\n理解副词短语有助于提高你的写作和理解能力。\nThe teacher explained how adverbial clauses function to modify the main verb in sentences.\n老师解释了状语从句如何在句子中修饰主要动词。"
+    "example": "In the sentence, the adverbial phrase at the beginning of the paragraph clearly indicates when the historical event actually took place.\n在句子中，段落开头的状语短语清楚地表明了历史事件实际发生的时间。\nAdverbial clauses of time are commonly used in English to show the chronological relationship between two actions in a sentence.\n时间状语从句在英语中常用于显示句子中两个动作的时间顺序关系。"
   },
   {
     "id": "word_147",
@@ -3106,7 +3106,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvəsəri/",
     "frequency": "高频",
-    "example": "The political adversary challenged the current policies during the debate.\n这位政治对手在辩论中挑战了现行政策。\nDespite facing a formidable adversary the team managed to secure a victory.\n尽管面对强大的对手，团队还是成功赢得了胜利。"
+    "example": "Throughout the long political campaign, the two candidates remained fierce adversaries who debated every issue with great passion and intensity.\n在整个漫长的政治竞选中，两位候选人始终是激烈的对手，以极大的热情和强度辩论每个问题。\nThe chess champion finally defeated his greatest adversary in a thrilling match that lasted more than six hours.\n国际象棋冠军终于在一场持续六个多小时的激动人心的比赛中击败了他最大的对手。"
   },
   {
     "id": "word_148",
@@ -3127,7 +3127,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvɜːs/",
     "frequency": "高频",
-    "example": "Adverse weather conditions forced the cancellation of the outdoor event.\n恶劣的天气条件迫使户外活动取消。\nThe medication may cause adverse side effects in some patients.\n这种药物可能会对一些患者产生不良副作用。"
+    "example": "Adverse weather conditions forced the airline to cancel multiple flights and reroute passengers through alternative airports.\n恶劣天气条件迫使航空公司取消多个航班并通过替代机场重新安排乘客路线。\nThe medication may cause adverse reactions in patients who have pre-existing allergies to certain chemical compounds.\n该药物可能对某些化学化合物有既存过敏症的患者产生不良反应。"
   },
   {
     "id": "word_149",
@@ -3148,7 +3148,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvətaɪz/",
     "frequency": "高频",
-    "example": "Companies often advertise their products on social media platforms to reach more customers.\n公司经常在社交媒体平台上做广告，以接触更多客户。\nThe school will advertise the new program to attract more students next semester.\n学校将为下学期的新项目做广告以吸引更多学生。"
+    "example": "Large corporations often spend millions of dollars to advertise their products during popular television programs and major sporting events.\n大公司经常在热门电视节目和重大体育赛事期间花费数百万美元来宣传他们的产品。\nSmall businesses can effectively advertise their services on social media platforms without spending enormous amounts of money.\n小型企业可以在社交媒体平台上有效宣传他们的服务，而无需花费巨额资金。"
   },
   {
     "id": "word_150",
@@ -3169,7 +3169,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvɜːtɪsmənt/",
     "frequency": "高频",
-    "example": "The advertisement on television promoted the new smartphone with impressive features.\n电视上的广告宣传了这款具有令人印象深刻功能的新智能手机。\nReading advertisement carefully can help you make informed purchasing decisions.\n仔细阅读广告可以帮助你做出明智的购买决定。"
+    "example": "The full-page advertisement in the national newspaper cost the company thousands of dollars but reached millions of potential customers.\n在全国性报纸上的整版广告花费了公司数千美元，但覆盖了数百万潜在客户。\nAn engaging online advertisement can significantly increase website traffic and boost sales during holiday shopping seasons.\n引人入胜的在线广告可以显著增加网站流量并在假日购物季节促进销售。"
   },
   {
     "id": "word_151",
@@ -3190,7 +3190,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvətaɪzɪŋ/",
     "frequency": "高频",
-    "example": "Effective advertising campaigns can significantly boost a companys sales revenue.\n有效的广告活动可以显著提高公司的销售收入。\nThe advertising industry is constantly evolving with new digital platforms and strategies.\n广告行业随着新的数字平台和策略不断发展。"
+    "example": "The advertising industry has undergone dramatic transformation with the shift from traditional print media to digital platforms.\n广告行业随着从传统媒体向数字平台的转变而经历了巨大的变革。\nMisleading advertising practices are strictly regulated by government agencies to protect consumers from false product claims.\n误导性广告行为受到政府机构的严格监管，以保护消费者免受虚假产品声明的侵害。"
   },
   {
     "id": "word_152",
@@ -3211,7 +3211,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪs/",
     "frequency": "高频",
-    "example": "Following her advice helped me make a much better decision about my career path.\n听从她的建议帮助我对职业道路做出了更好的决定。\nI would appreciate your advice on how to improve my public speaking skills.\n我将感谢您对我如何提高演讲技巧的建议。"
+    "example": "When facing difficult career decisions, it is always wise to seek advice from experienced professionals who understand the industry.\n面对艰难的职业决策时，向了解该行业的经验丰富的专业人士寻求建议总是明智的。\nMy grandmother often gives me valuable advice about life that she has accumulated through decades of personal experience.\n我的祖母经常给我关于生活的宝贵建议，这些建议是她通过数十年的个人经验积累而来的。"
   },
   {
     "id": "word_153",
@@ -3232,7 +3232,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪz/",
     "frequency": "高频",
-    "example": "I strongly advise you to seek professional help before making any financial decisions.\n我强烈建议你在做任何财务决定之前寻求专业帮助。\nThe doctor will advise the patient on the best treatment options available.\n医生将为患者提供有关最佳治疗方案的建议。"
+    "example": "Financial experts strongly advise people to start saving for retirement as early as possible in their professional careers.\n金融专家强烈建议人们在职业生涯中尽早开始为退休储蓄。\nThe travel agent will advise you about the best destinations to visit during your extended vacation in Southeast Asia.\n旅行顾问将建议你关于在东南亚长假期间访问的最佳目的地。"
   },
   {
     "id": "word_154",
@@ -3253,7 +3253,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ədˈvaɪzə/",
     "frequency": "高频",
-    "example": "The experienced financial adviser helped the family plan for a secure retirement.\n经验丰富的财务顾问帮助这家人规划安全的退休生活。\nHaving a trusted adviser can make a significant difference in your business success.\n有一个值得信赖的顾问可以对您的商业成功产生重大影响。"
+    "example": "The president relies heavily on his senior foreign policy adviser when making critical decisions about international diplomatic relations.\n总统在做出关于国际外交关系的关键决策时，严重依赖他的高级外交政策顾问。\nEvery graduate student is assigned a faculty adviser who provides guidance throughout the research and thesis writing process.\n每位研究生都被分配一名教职顾问，在研究过程和论文撰写过程中提供指导。"
   },
   {
     "id": "word_155",
@@ -3274,7 +3274,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈædvəkeɪt/",
     "frequency": "中频",
-    "example": "She has dedicated her life to being an advocate for environmental protection and sustainability.\n她毕生致力于倡导环境保护和可持续发展。\nHuman rights advocates work tirelessly to ensure justice for marginalized communities worldwide.\n人权倡导者不懈努力，确保全世界边缘化社区的正义。"
+    "example": "She has dedicated her entire legal career to being a passionate advocate for victims of domestic violence and abuse.\n她将她整个法律职业生涯都致力于成为家庭暴力和虐待受害者的热情倡导者。\nEnvironmental groups advocate for stricter regulations on industrial pollution to protect fragile ecosystems and public health.\n环保团体倡导对工业污染实施更严格的监管，以保护脆弱的生态系统和公众健康。"
   },
   {
     "id": "word_156",
@@ -3295,7 +3295,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈiːdʒɪs/",
     "frequency": "中频",
-    "example": "The project operates under the aegis of the United Nations development program.\n该项目在联合国开发计划署的保护下运作。\nThe royal family provides aegis to various charitable organizations nationwide.\n皇室家族为全国各种慈善组织提供保护。"
+    "example": "The humanitarian mission was carried out under the aegis of the United Nations, providing vital aid to refugees fleeing war zones.\n人道主义任务在联合国的支持下进行，为逃离战区的难民提供重要援助。\nThe research study was conducted under the aegis of a prestigious medical institution with funding from federal grants.\n该研究在一所享有盛誉的医学机构的支持下，由联邦拨款资助进行。"
   },
   {
     "id": "word_157",
