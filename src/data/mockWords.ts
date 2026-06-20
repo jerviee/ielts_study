@@ -5488,7 +5488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːltər/",
     "frequency": "低频",
-    "example": "The altar in the church serves as sacred worship space.\n教堂的祭坛作为神圣崇拜空间。\nReligious ceremonies take place at the altar during services.\n宗教仪式在服务期间在祭坛举行。"
+    "example": "The ancient altar in the temple was beautifully decorated with flowers and candles for the religious ceremony.\n寺庙里的古老祭坛为宗教仪式装饰着美丽的鲜花和蜡烛。\nFamily members gathered around the altar to pay their respects to their ancestors during the traditional festival.\n家庭成员在传统节日期间聚集在祭坛周围向祖先致敬。"
   },
   {
     "id": "word_288",
@@ -5509,7 +5509,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːltə/",
     "frequency": "中频",
-    "example": "The company alter its policies to meet customer demands.\n公司改变其政策以满足客户需求。\nClimate conditions alter ecosystems affecting wildlife habitats.\n气候条件改变生态系统影响野生动物栖息地。"
+    "example": "The company decided to alter its marketing strategy to better reach younger consumers in the digital age.\n公司决定改变其营销策略，以更好地在数字时代接触年轻消费者。\nShe altered her wedding dress to fit perfectly, making adjustments to the hem and the bodice.\n她修改了婚纱使其完美合身，对裙边和上衣进行了调整。"
   },
   {
     "id": "word_289",
@@ -5530,7 +5530,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɔːltəˈreɪʃn/",
     "frequency": "中频",
-    "example": "The alteration of the building required extensive renovation work.\n建筑的改变需要大规模翻新工作。\nAlteration in genetic structure can cause inherited diseases.\n遗传结构的改变可能导致遗传疾病。"
+    "example": "The alteration of the building plans required approval from the city planning commission and local authorities.\n建筑计划的修改需要获得城市规划委员会和地方当局的批准。\nSignificant alteration to the contract terms was necessary to accommodate the changing business environment.\n合同条款的重大修改是必要的，以适应不断变化的商业环境。"
   },
   {
     "id": "word_290",
@@ -5551,7 +5551,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɔːltəˈkeɪʃn/",
     "frequency": "低频",
-    "example": "The altercation between neighbors resulted in police intervention.\n邻居之间的争执导致警方干预。\nPublic altercations are inappropriate in professional settings.\n公开争执在专业环境中是不适当的。"
+    "example": "The altercation between the two drivers escalated quickly, attracting the attention of nearby pedestrians and police.\n两名司机之间的争执迅速升级，引起了附近行人及警察的注意。\nAn altercation broke out in the restaurant when one customer refused to pay for the meal he had ordered.\n当一名顾客拒绝支付他所点的餐费时，餐厅里爆发了一场争执。"
   },
   {
     "id": "word_291",
@@ -5572,7 +5572,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈtɜːnət/",
     "frequency": "低频",
-    "example": "The team alternate players during the tournament matches.\n团队在锦标赛比赛期间轮换球员。\nAlternate routes help avoid traffic congestion during rush hours.\n替代路线帮助避免高峰时段的交通拥堵。"
+    "example": "The committee decided to alternate meeting locations between the two offices to accommodate all members fairly.\n委员会决定在两个办公室之间轮流开会，以公平地照顾所有成员。\nStudents alternate between studying and taking breaks to maintain focus and productivity throughout the day.\n学生在学习和休息之间交替进行，以保持全天的专注和效率。"
   },
   {
     "id": "word_292",
@@ -5593,7 +5593,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈtɜːnətɪv/",
     "frequency": "高频",
-    "example": "The alternative solution provides better outcomes for users.\n替代解决方案为用户提供更好的结果。\nAlternative energy sources reduce dependence on fossil fuels.\n替代能源减少对化石燃料的依赖。"
+    "example": "When the traditional treatment failed, the doctor suggested an alternative therapy that had shown promising results.\n当传统治疗失败时，医生建议了一种已显示出良好效果的替代疗法。\nMany commuters are seeking alternative transportation methods to reduce their carbon footprint and save money.\n许多通勤者正在寻找替代交通方式，以减少碳足迹并节省金钱。"
   },
   {
     "id": "word_293",
@@ -5614,7 +5614,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɔːlˈðəʊ/",
     "frequency": "高频",
-    "example": "Although the weather was bad, the event proceeded successfully.\n虽然天气不好，活动仍成功进行。\nAlthough expensive, the product offers excellent quality features.\n虽然昂贵，产品提供卓越的质量特征。"
+    "example": "Although the weather was terrible, the team continued their outdoor training session without any hesitation.\n虽然天气很糟糕，但团队毫不犹豫地继续他们的户外训练。\nShe decided to pursue her dreams although many people advised her to choose a more practical career path.\n她决定追求自己的梦想，尽管许多人建议她选择更实际的职业道路。"
   },
   {
     "id": "word_294",
@@ -5635,7 +5635,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæltruɪzəm/",
     "frequency": "低频",
-    "example": "Altruism motivates people to help others without expecting rewards.\n利他主义激励人们帮助他人而不期待回报。\nAltruism plays important roles in community volunteer organizations.\n利他主义在社区志愿组织中扮演重要角色。"
+    "example": "Her altruism was evident when she donated a significant portion of her wealth to charitable organizations.\n她的利他主义很明显，她将大部分财富捐给了慈善组织。\nActs of altruism, such as volunteering and helping strangers, contribute to a more compassionate society.\n利他主义行为，如志愿服务和帮助陌生人，有助于建立一个更有同情心的社会。"
   },
   {
     "id": "word_295",
@@ -5656,7 +5656,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈluːmɪnəm/",
     "frequency": "高频",
-    "example": "Aluminum is widely used in construction and manufacturing industries.\n铝广泛用于建筑和制造行业。\nThe aluminum recycling process conserves natural resources effectively.\n铝回收过程有效保护自然资源。"
+    "example": "The aluminum frame of the bicycle makes it lightweight and resistant to corrosion from weather.\n自行车的铝制框架使其轻便且耐天气腐蚀。\nAluminum cans are recycled in large quantities to reduce environmental waste and conserve resources.\n铝罐被大量回收以减少环境废物并节约资源。"
   },
   {
     "id": "word_296",
@@ -5677,7 +5677,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈlʌmnaɪ/",
     "frequency": "中频",
-    "example": "The alumni association supports graduates through networking events.\n校友会通过社交活动支持毕业生。\nAlumni contributions fund scholarships for deserving students annually.\n校友捐款每年为优秀学生资助奖学金。"
+    "example": "The university alumni association organizes annual reunions to help graduates reconnect with their former classmates.\n大学校友会组织年度聚会，帮助毕业生与以前的同班同学重新联系。\nSuccessful alumni often return to their alma mater to share their experiences and mentor current students.\n成功的校友经常回到母校分享他们的经验并指导在校学生。"
   },
   {
     "id": "word_297",
@@ -5698,7 +5698,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɔːlweɪz/",
     "frequency": "高频",
-    "example": "She always arrives early for important business meetings.\n她总是提前到达重要的商务会议。\nThe system always performs backups to prevent data loss.\n系统总是执行备份以防止数据丢失。"
+    "example": "She always arrives early to meetings to prepare and review the agenda before discussions begin.\n她总是提前到达会议，在讨论开始前准备和审查议程。\nParents always remind their children to be careful when crossing busy streets during rush hour.\n父母总是提醒孩子在高峰时段过繁忙街道时要小心。"
   },
   {
     "id": "word_298",
@@ -5719,7 +5719,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmælɡəm/",
     "frequency": "高频",
-    "example": "The amalgam of different cultures creates unique social dynamics.\n不同文化的混合创造独特的社会动态。\nDental amalgam has been used for filling cavities for decades.\n牙科混合物已用于填充蛀牙数十年。"
+    "example": "The amalgam of different cultural traditions creates a unique and vibrant community atmosphere in the city.\n不同文化传统的融合在城市中创造了一种独特而充满活力的社区氛围。\nDentists use amalgam fillings to repair cavities because they are durable and cost-effective for patients.\n牙医使用汞合金填充物修复蛀牙，因为它们耐用且对患者来说性价比高。"
   },
   {
     "id": "word_299",
@@ -5740,7 +5740,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌmænjuˈensɪs/",
     "frequency": "中频",
-    "example": "The amanuensis recorded the professor lectures for students.\n抄写员为学生记录教授讲座。\nHistorical figures employed amanuensis to document their writings.\n历史人物雇佣抄写员记录他们的著作。"
+    "example": "The famous author hired an amanuensis to help him transcribe his manuscripts as his eyesight deteriorated.\n这位著名作家雇佣了一位抄写员来帮助他抄写手稿，因为他的视力在恶化。\nIn ancient times, an amanuensis was essential for scholars who needed assistance with writing and documentation.\n在古代，抄写员对于需要写作和文档帮助的学者来说是必不可少的。"
   },
   {
     "id": "word_300",
@@ -5761,7 +5761,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmətə/",
     "frequency": "低频",
-    "example": "The amateur photographer captured stunning images of nature.\n业余摄影师捕捉了自然的惊人图像。\nAmateur athletes compete in local tournaments for experience.\n业余运动员参加本地锦标赛积累经验。"
+    "example": "The amateur photographer won the competition with a stunning image of the sunset over mountains.\n业余摄影师以一张山上日落的惊人图像赢得了比赛。\nMany amateur athletes participate in local tournaments to improve their skills and gain experience.\n许多业余运动员参加当地锦标赛以提高技能并获得经验。"
   },
   {
     "id": "word_301",
@@ -5782,7 +5782,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmeɪz/",
     "frequency": "中频",
-    "example": "The magician tricks amaze audiences with incredible illusions.\n魔术师的戏法以难以置信的幻觉让观众惊叹。\nHer artistic skills amaze critics and collectors worldwide.\n她的艺术技能让全球评论家和收藏家惊叹。"
+    "example": "The magician continued to amaze the audience with his incredible tricks and illusions throughout the performance.\n魔术师在整个表演过程中继续用他不可思议的魔术和幻术让观众惊叹。\nThe technological advancements in recent years continue to amaze scientists and researchers worldwide.\n近年来技术进步继续让世界各地的科学家和研究人员惊叹。"
   },
   {
     "id": "word_302",
@@ -5803,7 +5803,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmeɪzɪŋ/",
     "frequency": "中频",
-    "example": "The amazing performance received standing ovations from the audience.\n惊人的表演获得了观众的站立鼓掌。\nAmazing technological advances have transformed modern society.\n惊人的技术进步改变了现代社会。"
+    "example": "The amazing view from the mountain top inspired the artist to create a series of breathtaking paintings.\n山顶的惊人景色激发了艺术家创作一系列令人叹为观止的画作。\nHer amazing performance in the competition earned her a gold medal and widespread recognition from judges.\n她在比赛中的惊人表现为她赢得了金牌和评委的广泛认可。"
   },
   {
     "id": "word_303",
@@ -5824,7 +5824,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbæsədə/",
     "frequency": "低频",
-    "example": "The ambassador represents the country in international negotiations.\n大使在国际谈判中代表国家。\nThe ambassador promotes cultural exchange between nations regularly.\n大使定期促进国家间的文化交流。"
+    "example": "The ambassador represented her country in diplomatic negotiations with foreign governments abroad.\n大使在国外与外国政府的外交谈判中代表她的国家。\nThe ambassador worked tirelessly to strengthen relationships between the two nations during her tenure.\n大使在她的任期内不知疲倦地努力加强两国之间的关系。"
   },
   {
     "id": "word_304",
@@ -5845,7 +5845,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbər/",
     "frequency": "低频",
-    "example": "The amber jewelry displays beautiful golden hues in sunlight.\n琥珀珠宝在阳光下展示美丽的金色色调。\nAncient amber preserves insects from millions of years ago.\n古代琥珀保存了数百万年前的昆虫。"
+    "example": "The amber necklace glowed beautifully under the light, revealing its ancient origins and natural beauty.\n琥珀项链在灯光下美丽地发光，展示了它的古老起源和自然之美。\nScientists study amber fossils to learn about prehistoric insects and plants that existed millions of years ago.\n科学家研究琥珀化石，以了解数百万年前存在的史前昆虫和植物。"
   },
   {
     "id": "word_305",
@@ -5866,7 +5866,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæmbɪˈdekstrəs/",
     "frequency": "高频",
-    "example": "Ambidextrous individuals can use both hands equally well.\n双手灵巧的人可以同样好地使用双手。\nThe ambidextrous player excels in sports requiring hand coordination.\n双手灵巧的运动员在需要手协调的运动中表现出色。"
+    "example": "Being ambidextrous allows the pianist to play complex pieces with equal skill using both hands effortlessly.\n双手灵巧使钢琴家能够轻松地用双手以同样的技巧演奏复杂的乐曲。\nThe ambidextrous artist can paint with either hand, creating beautiful works of art with remarkable precision.\n这位双手灵巧的艺术家可以用任何一只手绘画，以惊人的精确度创作美丽的艺术作品。"
   },
   {
     "id": "word_306",
@@ -5887,7 +5887,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbiəns/",
     "frequency": "中频",
-    "example": "The restaurant ambience creates romantic atmosphere for diners.\n餐厅的氛围为用餐者创造浪漫氛围。\nThe ambience of the library encourages focused study sessions.\n图书馆的氛围鼓励专注的学习时段。"
+    "example": "The restaurant created a romantic ambience with soft lighting, elegant decorations, and gentle background music.\n餐厅通过柔和的灯光、优雅的装饰和轻柔的背景音乐营造了浪漫的氛围。\nThe peaceful ambience of the spa helped guests relax and rejuvenate after their stressful work weeks.\n水疗中心宁静的氛围帮助客人在紧张的工作周后放松和恢复活力。"
   },
   {
     "id": "word_307",
@@ -5908,7 +5908,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbiənt/",
     "frequency": "低频",
-    "example": "Ambient temperature affects equipment performance in outdoor settings.\n环境温度影响户外设备性能。\nAmbient music provides relaxing background sounds for meditation.\n环境音乐为冥想提供放松的背景声音。"
+    "example": "The ambient temperature in the room was carefully controlled to ensure optimal conditions for the experiment.\n房间内的环境温度被仔细控制，以确保实验的最佳条件。\nAmbient lighting in the gallery enhanced the beauty of the artworks without causing damage to the paintings.\n画廊的环境照明增强了艺术品的美感，而不会对画作造成损害。"
   },
   {
     "id": "word_308",
@@ -5929,7 +5929,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪɡjuəs/",
     "frequency": "低频",
-    "example": "The ambiguous instructions confused workers during the project.\n模糊的指示在项目期间困惑了工人。\nAmbiguous language in contracts can lead to legal disputes.\n合同中的模糊语言可能导致法律纠纷。"
+    "example": "The ambiguous statement made by the politician confused voters who were trying to understand his position.\n政治家发表的模棱两可的声明让试图理解他立场选民感到困惑。\nLegal contracts should avoid ambiguous language to prevent misunderstandings and potential disputes between parties.\n法律合同应避免模棱两可的语言，以防止当事人之间的误解和潜在纠纷。"
   },
   {
     "id": "word_309",
@@ -5950,7 +5950,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbɪt/",
     "frequency": "中频",
-    "example": "The ambit of the investigation includes multiple departments.\n调查的范围包括多个部门。\nThe ambit of authority defines responsibilities for officials.\n权限的范围定义了官员的责任。"
+    "example": "The ambit of the new legislation covers all aspects of environmental protection and conservation.\n新立法的范围涵盖环境保护和保育的所有方面。\nThe ambit of the investigation was expanded to include additional suspects in the criminal case.\n调查的范围被扩大以包括刑事案件中的额外嫌疑人。"
   },
   {
     "id": "word_310",
@@ -5971,7 +5971,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪʃn/",
     "frequency": "中频",
-    "example": "Her ambition drives her to achieve professional success continuously.\n她的野心驱动她持续实现职业成功。\nAmbition without proper planning often leads to failure.\n没有适当规划的野心往往导致失败。"
+    "example": "Her ambition to become a successful entrepreneur drove her to work hard and overcome numerous challenges.\n她成为成功企业家的雄心壮志驱使她努力工作并克服许多挑战。\nParents should encourage their children to pursue their ambition while providing guidance and support.\n父母应该在提供指导和支持的同时鼓励孩子追求他们的雄心壮志。"
   },
   {
     "id": "word_311",
@@ -5992,7 +5992,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪʃəs/",
     "frequency": "中频",
-    "example": "The ambitious project aims to revolutionize the industry standards.\n雄心勃勃的项目旨在革命行业标准。\nAmbitious students pursue advanced degrees for career advancement.\n雄心勃勃的学生追求高级学位以职业晋升。"
+    "example": "The ambitious project aims to revolutionize the transportation industry with innovative electric vehicles.\n这个雄心勃勃的项目旨在用创新的电动汽车彻底改变交通运输业。\nShe is an ambitious student who plans to attend a prestigious university and pursue a medical career.\n她是一个雄心勃勃的学生，计划进入一所著名大学并从事医学职业。"
   },
   {
     "id": "word_312",
@@ -6013,7 +6013,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbɪvələnt/",
     "frequency": "中频",
-    "example": "She feels ambivalent about moving to a new city for work.\n她对搬到新城市工作感到矛盾。\nAmbivalent attitudes toward technology affect adoption rates.\n对技术的矛盾态度影响采用率。"
+    "example": "She felt ambivalent about accepting the job offer because it required relocating to another city.\n她对接受这份工作邀请感到矛盾，因为它需要搬到另一个城市。\nHis ambivalent feelings about the decision made it difficult for him to choose between the options.\n他对这个决定的矛盾感受使他难以在选项之间做出选择。"
   },
   {
     "id": "word_313",
@@ -6034,7 +6034,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbl/",
     "frequency": "低频",
-    "example": "The elderly couple amble through the park every morning.\n老年夫妇每天早上在公园漫步。\nThe horse amble along the trail enjoying the peaceful scenery.\n马沿着小径漫步享受宁静的景色。"
+    "example": "The elderly couple enjoyed ambling through the park every evening, enjoying the peaceful surroundings together.\n这对老年夫妇喜欢每天傍晚在公园里漫步，一起享受宁静的环境。\nWe decided to amble along the beach, taking time to appreciate the beautiful sunset and ocean waves.\n我们决定沿着海滩漫步，花时间欣赏美丽的日落和海浪。"
   },
   {
     "id": "word_314",
@@ -6055,7 +6055,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈbrəʊziəl/",
     "frequency": "高频",
-    "example": "The ambrosial fragrance of flowers filled the garden air.\n花朵的天香充满了花园空气。\nThe chef created ambrosial dishes using fresh ingredients.\n厨师使用新鲜食材创造了美味的菜肴。"
+    "example": "The ambrosial aroma of freshly baked bread attracted customers to the bakery from blocks away.\n新鲜烘焙面包的芳香吸引了顾客从几个街区外来到面包店。\nThe chef prepared an ambrosial feast that delighted the guests with its exquisite flavors and presentation.\n厨师准备了一场美味的盛宴，以其精致的口味和呈现让客人愉悦。"
   },
   {
     "id": "word_315",
@@ -6076,7 +6076,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbjələns/",
     "frequency": "高频",
-    "example": "The ambulance arrived quickly to transport the injured patient.\n救护车迅速到达运送受伤患者。\nAmbulance services provide emergency medical care to communities.\n救护车服务为社区提供紧急医疗护理。"
+    "example": "The ambulance arrived quickly at the accident scene to transport the injured passengers to the hospital.\n救护车迅速到达事故现场，将受伤乘客送往医院。\nEmergency medical technicians in the ambulance provided critical care to the patient during the transport.\n救护车中的紧急医疗技术人员在运输过程中为患者提供了关键护理。"
   },
   {
     "id": "word_316",
@@ -6097,7 +6097,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmbʊʃ/",
     "frequency": "低频",
-    "example": "The military ambush surprised enemy forces during the operation.\n军事伏击在行动期间惊讶了敌方部队。\nThe police ambush caught criminals attempting illegal activities.\n警方伏击抓住了企图非法活动的罪犯。"
+    "example": "The soldiers set up an ambush along the road to surprise the enemy convoy during the military operation.\n士兵们在道路沿线设置伏击，在军事行动中突袭敌方车队。\nPolice officers planned an ambush to capture the criminals who had been terrorizing the neighborhood residents.\n警察计划伏击抓捕那些一直在恐吓社区居民的罪犯。"
   },
   {
     "id": "word_317",
@@ -6118,7 +6118,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmiːbə/",
     "frequency": "高频",
-    "example": "The ameba moves through water using pseudopod extensions.\n变形虫通过伪足延伸在水中移动。\nAmeba organisms reproduce through simple cell division processes.\n变形虫生物通过简单的细胞分裂过程繁殖。"
+    "example": "The ameba is a single-celled organism that can change its shape and move by extending its pseudopods.\n变形虫是一种单细胞生物，可以通过伸展伪足来改变形状和移动。\nScientists study the ameba to understand basic cellular processes and the evolution of simple life forms.\n科学家研究变形虫以了解基本细胞过程和简单生命形式的进化。"
   },
   {
     "id": "word_318",
@@ -6139,7 +6139,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmiːliəreɪt/",
     "frequency": "中频",
-    "example": "The government programs ameliorate living conditions for poor families.\n政府项目改善贫困家庭的生活条件。\nMedical treatments ameliorate symptoms of chronic diseases effectively.\n医疗治疗有效改善慢性疾病的症状。"
+    "example": "The government implemented new policies to ameliorate the living conditions of low-income families.\n政府实施了新政策来改善低收入家庭的生活条件。\nDoctors work tirelessly to ameliorate the symptoms of chronic diseases and improve patient quality of life.\n医生不懈努力改善慢性疾病的症状并提高患者的生活质量。"
   },
   {
     "id": "word_319",
@@ -6160,7 +6160,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmiːnəbl/",
     "frequency": "低频",
-    "example": "The amenable employee accepts feedback for professional improvement.\n顺从的员工接受反馈以专业改进。\nAmenable solutions address problems without creating new issues.\n顺从的解决方案解决问题而不创造新问题。"
+    "example": "The manager was amenable to suggestions from employees, creating a collaborative work environment.\n经理对员工的建议持开放态度，创造了一个协作的工作环境。\nThe patient was amenable to the treatment plan proposed by the medical team after thorough explanation.\n患者在充分解释后对医疗团队提出的治疗方案持接受态度。"
   },
   {
     "id": "word_320",
@@ -6181,7 +6181,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmend/",
     "frequency": "低频",
-    "example": "The committee amend the proposal to address member concerns.\n委员会修改提案以解决成员关切。\nLegislators amend laws to reflect changing societal needs.\n立法者修改法律以反映变化的社会需求。"
+    "example": "The committee voted to amend the proposal to address concerns raised by several members during discussion.\n委员会投票修改提案，以解决讨论期间几位成员提出的担忧。\nCongress needs to amend the existing law to reflect the changing social and economic circumstances.\n国会需要修改现行法律，以反映不断变化的社会和经济情况。"
   },
   {
     "id": "word_321",
@@ -6202,7 +6202,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmendz/",
     "frequency": "中频",
-    "example": "He made amends for his mistakes through sincere apologies.\n他通过真诚道歉为错误做出补偿。\nThe company made amends to customers for service failures.\n公司为服务失败向客户做出补偿。"
+    "example": "He made amends for his mistake by apologizing sincerely and taking responsibility for his actions.\n他通过真诚道歉和对自己的行为负责来弥补他的错误。\nThe company offered to make amends to customers affected by the product defect with refunds and replacements.\n公司向受产品缺陷影响的客户提供退款和替换以弥补损失。"
   },
   {
     "id": "word_322",
@@ -6223,7 +6223,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɜːs/",
     "frequency": "低频",
-    "example": "The court amerce individuals for violating traffic regulations.\n法院因违反交通规定对个人罚款。\nHistorical courts amerce offenders for minor legal violations.\n历史法院因轻微法律违规对罪犯罚款。"
+    "example": "The court decided to amerce the defendant for violating the city regulations and causing public disturbance.\n法院决定对违反城市规定并造成公共骚乱的被告处以罚款。\nIn medieval times, offenders were often amerced as punishment for minor crimes and civil violations.\n在中世纪，违法者经常因轻微犯罪和民事违规而被处以罚款。"
   },
   {
     "id": "word_323",
@@ -6244,7 +6244,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmerɪkən/",
     "frequency": "中频",
-    "example": "American culture influences global trends in entertainment industry.\n美国文化影响娱乐行业的全球趋势。\nThe American economy plays significant roles in international trade.\n美国经济在国际贸易中扮演重要角色。"
+    "example": "The American economy is one of the largest in the world with significant global influence.\n美国经济是世界上最大的经济体之一，具有重要的全球影响力。\nAmerican culture has spread globally through movies, music, and television programs over decades.\n美国文化通过电影、音乐和电视节目在几十年间在全球传播。"
   },
   {
     "id": "word_324",
@@ -6265,7 +6265,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæməθɪst/",
     "frequency": "高频",
-    "example": "The amethyst gemstone displays beautiful purple coloration naturally.\n紫水晶宝石自然展示美丽的紫色。\nAmethyst crystals are popular choices for jewelry and decorations.\n紫水晶晶体是珠宝和装饰的热门选择。"
+    "example": "The beautiful amethyst necklace was a gift from her grandmother who had owned it for decades.\n美丽的紫水晶项链是她祖母的礼物，祖母已经拥有它几十年了。\nAmethyst is a purple variety of quartz that has been valued as a gemstone since ancient times.\n紫水晶是石英的紫色品种，自古以来就被视为珍贵的宝石。"
   },
   {
     "id": "word_325",
@@ -6286,7 +6286,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmɪkəbl/",
     "frequency": "中频",
-    "example": "The amicable settlement resolved the dispute without legal action.\n友好的解决在没有法律行动的情况下解决了争议。\nAmicable relationships between neighbors promote community harmony.\n邻居之间的友好关系促进社区和谐。"
+    "example": "The two companies reached an amicable agreement after weeks of negotiation and compromise.\n两家公司在数周的谈判和妥协后达成了友好的协议。\nThey maintained an amicable relationship even after their romantic partnership came to an end.\n即使在浪漫关系结束后，他们仍然保持着友好的关系。"
   },
   {
     "id": "word_326",
@@ -6307,7 +6307,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɪd/",
     "frequency": "低频",
-    "example": "The project continued amid challenging economic conditions globally.\n项目在全球挑战性经济条件下继续进行。\nAmid the chaos, volunteers helped victims of natural disasters.\n在混乱中，志愿者帮助自然灾害受害者。"
+    "example": "Amid the chaos of the emergency, the firefighters remained calm and focused on rescue operations.\n在紧急情况的混乱中，消防员保持冷静并专注于救援行动。\nThe company announced record profits amid concerns about the economic downturn affecting the industry.\n在担心经济衰退影响该行业的情况下，公司宣布了创纪录的利润。"
   },
   {
     "id": "word_327",
@@ -6328,7 +6328,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɪs/",
     "frequency": "低频",
-    "example": "Something was amiss with the equipment causing operational failures.\n设备有问题导致运营失败。\nThe manager noticed something amiss in the financial reports.\n经理注意到财务报告中有问题。"
+    "example": "Something was amiss in the laboratory when the experiment produced unexpected results repeatedly.\n当实验反复产生意外结果时，实验室里出了问题。\nThe detective noticed that something was amiss when he examined the evidence at the crime scene carefully.\n侦探在仔细检查犯罪现场的证据时注意到有些不对劲。"
   },
   {
     "id": "word_328",
@@ -6349,7 +6349,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmˌmiːtər/",
     "frequency": "高频",
-    "example": "The ammeter measures electrical current flowing through circuits.\n安培计测量通过电路流动的电流。\nTechnicians use ammeter devices for electrical system diagnostics.\n技术人员使用安培计设备进行电气系统诊断。"
+    "example": "The electrician used an ammeter to measure the current flowing through the electrical circuit accurately.\n电工使用安培计准确测量流经电路的电流。\nStudents in the physics lab learned how to use an ammeter to conduct experiments on electrical systems.\n物理实验室的学生学习了如何使用安培计进行电气系统实验。"
   },
   {
     "id": "word_329",
@@ -6370,7 +6370,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæməʊ/",
     "frequency": "中频",
-    "example": "The soldiers carried sufficient ammo for the military operation.\n士兵为军事行动携带了足够的弹药。\nAmmo supplies were replenished before the next battle engagement.\n弹药供应在下一场战斗前补充。"
+    "example": "The soldiers checked their ammo supplies before heading out on the dangerous mission ahead.\n士兵们在执行前方危险任务之前检查了他们的弹药供应。\nThe video game character collected ammo throughout the level to prepare for the final boss battle.\n视频游戏角色在整个关卡中收集弹药，为最终的首领战做准备。"
   },
   {
     "id": "word_330",
@@ -6391,7 +6391,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈniːziə/",
     "frequency": "低频",
-    "example": "The patient suffered amnesia after the severe head injury.\n患者在严重头部受伤后遭受失忆。\nAmnesia affects memory retention causing significant life disruptions.\n失忆影响记忆保留造成重大生活干扰。"
+    "example": "The patient suffered from amnesia after the accident and could not remember events from his past.\n患者在事故后患上健忘症，无法记住过去的事件。\nDoctors are researching new treatments to help patients recover from amnesia and restore their memories.\n医生正在研究新的治疗方法来帮助患者从健忘症中恢复并恢复记忆。"
   },
   {
     "id": "word_331",
@@ -6412,7 +6412,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmnəsti/",
     "frequency": "高频",
-    "example": "The government granted amnesty to political refugees from conflicts.\n政府向冲突的政治难民授予赦免。\nAmnesty programs allow illegal immigrants to obtain legal status.\n赦免项目允许非法移民获得合法身份。"
+    "example": "The government granted amnesty to political refugees who had fled their home countries due to persecution.\n政府向因迫害而逃离本国的政治难民给予了赦免。\nThe amnesty program allowed undocumented immigrants to apply for legal status without fear of deportation.\n赦免计划允许无证移民申请合法身份，而不用担心被驱逐出境。"
   },
   {
     "id": "word_332",
@@ -6433,7 +6433,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmʌŋ/",
     "frequency": "高频",
-    "example": "The winner was selected among hundreds of qualified applicants.\n获胜者是从数百名合格申请人中选出的。\nThe disease spread rapidly among children in the community.\n疾病在社区儿童中迅速传播。"
+    "example": "She was selected among hundreds of applicants for the prestigious scholarship program.\n她从数百名申请者中被选中参加著名的奖学金项目。\nThe ancient artifact was found among the ruins of a civilization that existed thousands of years ago.\n这件古代文物是在数千年前存在的文明废墟中发现的。"
   },
   {
     "id": "word_333",
@@ -6454,7 +6454,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪˈmɒrəl/",
     "frequency": "低频",
-    "example": "Amoral behavior disregards ethical standards in professional settings.\n不道德行为在专业环境中无视道德标准。\nThe amoral corporation prioritized profits over social responsibility.\n不道德公司优先考虑利润而非社会责任。"
+    "example": "The amoral behavior of the corporation caused widespread criticism from the public and media.\n该公司的非道德行为引起了公众和媒体的广泛批评。\nSome philosophers argue that certain actions are amoral and should not be judged by ethical standards.\n一些哲学家认为某些行为是非道德的，不应受到道德标准的评判。"
   },
   {
     "id": "word_334",
@@ -6475,7 +6475,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmərəs/",
     "frequency": "高频",
-    "example": "The amorous couple expressed affection through romantic gestures.\n多情的夫妇通过浪漫姿态表达感情。\nAmorous relationships require mutual respect and understanding.\n多情关系需要相互尊重和理解。"
+    "example": "The amorous couple walked hand in hand along the beach enjoying the romantic sunset together.\n这对恋人手牵手沿着海滩散步，一起享受浪漫的日落。\nHis amorous advances were politely declined by the woman who was not interested in a relationship.\n他的爱情追求被那位对关系不感兴趣的女性礼貌地拒绝了。"
   },
   {
     "id": "word_335",
@@ -6496,7 +6496,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɔːfəs/",
     "frequency": "中频",
-    "example": "The amorphous material lacks defined structure or crystalline form.\n无定形材料缺乏定义的结构或晶体形式。\nAmorphous organizations struggle with unclear goals and objectives.\n无定形组织因不明确的目标和目的而挣扎。"
+    "example": "The amorphous structure of the material makes it difficult to define its exact shape and form.\n材料的无定形结构使其难以定义其确切的形状和形式。\nThe amorphous organization lacked clear leadership and direction, causing confusion among members.\n无定形的组织缺乏明确的领导和方向，导致成员之间的困惑。"
   },
   {
     "id": "word_336",
@@ -6517,7 +6517,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmɔːtaɪz/",
     "frequency": "低频",
-    "example": "Companies amortize loans over extended periods for financial management.\n公司在延长期内摊销贷款以进行财务管理。\nThe mortgage amortize monthly payments reducing principal balance.\n抵押贷款每月摊销付款减少本金余额。"
+    "example": "The company plans to amortize the cost of the new equipment over a period of five years.\n公司计划在五年内摊销新设备的成本。\nHomeowners can amortize their mortgage payments over the loan term to manage their finances effectively.\n房主可以在贷款期限内摊销抵押贷款付款，以有效管理财务。"
   },
   {
     "id": "word_337",
@@ -6538,7 +6538,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæməsaɪt/",
     "frequency": "高频",
-    "example": "Amosite asbestos was used in construction materials historically.\n阿莫西特石棉历史上用于建筑材料。\nAmosite fibers pose health risks requiring careful handling procedures.\n阿莫西特纤维造成健康风险需要小心处理程序。"
+    "example": "Amosite is a type of asbestos that was commonly used in construction materials in the past.\n铁石棉是一种过去常用于建筑材料的石棉类型。\nWorkers exposed to amosite in older buildings face health risks due to its hazardous properties.\n在旧建筑中接触铁石棉的工人由于其危险特性而面临健康风险。"
   },
   {
     "id": "word_338",
@@ -6559,7 +6559,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmaʊnt/",
     "frequency": "高频",
-    "example": "The total amount exceeds the budget allocated for the project.\n总金额超过了为项目分配的预算。\nLarge amount of data requires sophisticated processing systems.\n大量数据需要复杂的处理系统。"
+    "example": "The amount of rainfall this year exceeded all previous records in the regions history.\n今年的降雨量超过了该地区历史上的所有先前记录。\nA significant amount of money was invested in the project to ensure its successful completion.\n大量资金被投入到项目中以确保其成功完成。"
   },
   {
     "id": "word_339",
@@ -6580,7 +6580,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmʊər/",
     "frequency": "低频",
-    "example": "The amour between the couple lasted for many years happily.\n这对夫妇之间的恋情幸福地持续了多年。\nAmour stories often feature romantic themes in literature works.\n恋情故事在文学作品经常具有浪漫主题。"
+    "example": "Their secret amour was discovered when they were seen together at the social event.\n他们的秘密恋情在社交活动中被发现时被曝光。\nThe novel tells the story of an amour that developed between two unlikely characters over time.\n这部小说讲述了两个不太可能的角色之间随着时间发展的一段恋情。"
   },
   {
     "id": "word_340",
@@ -6601,7 +6601,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpeər/",
     "frequency": "高频",
-    "example": "The ampere measures electrical current intensity in circuits.\n安培测量电路中的电流强度。\nElectrical devices require specific ampere ratings for safe operation.\n电气设备需要特定安培额定值以安全运行。"
+    "example": "The ampere is the unit of electric current used to measure the flow of electrical charge.\n安培是用于测量电荷流动的电流单位。\nEngineers calculate the ampere rating of circuits to ensure they can handle the expected load safely.\n工程师计算电路的安培额定值以确保它们能够安全地处理预期负载。"
   },
   {
     "id": "word_341",
@@ -6622,7 +6622,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpəsænd/",
     "frequency": "中频",
-    "example": "The ampersand symbol represents and in written communication.\n安培符号在书面交流中代表和。\nDesigners use ampersand characters for aesthetic typography purposes.\n设计师使用安培字符进行美学排版目的。"
+    "example": "The ampersand symbol is commonly used in business names to represent the word and concisely.\n符号通常用于商业名称中以简洁地表示单词and。\nDesigners use the ampersand in logos and branding materials for its aesthetic appeal and functionality.\n设计师在标志和品牌材料中使用符号，因为其美学吸引力和功能性。"
   },
   {
     "id": "word_342",
@@ -6643,7 +6643,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æmˈfɪbiən/",
     "frequency": "低频",
-    "example": "Amphibian species live in both aquatic and terrestrial environments.\n两栖物种生活在水生和陆地环境中。\nThe amphibian population declines due to habitat destruction globally.\n两栖动物数量因全球栖息地破坏而下降。"
+    "example": "Frogs and salamanders are examples of amphibians that can live both in water and on land.\n青蛙和蝾螈是可以生活在水中和陆地上的两栖动物的例子。\nScientists study amphibian populations to understand environmental changes and ecosystem health.\n科学家研究两栖动物种群以了解环境变化和生态系统健康。"
   },
   {
     "id": "word_343",
@@ -6664,7 +6664,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmfɪθɪətər/",
     "frequency": "高频",
-    "example": "The ancient amphitheater hosted performances for large audiences.\n古代圆形剧场为大量观众举办表演。\nThe amphitheater design allows excellent viewing from all angles.\n圆形剧场设计允许从所有角度观看优秀。"
+    "example": "The ancient amphitheater was used for gladiatorial contests and public spectacles in Roman times.\n古代圆形剧场在罗马时代用于角斗比赛和公共表演。\nThe modern amphitheater hosts outdoor concerts and performances during the summer festival season.\n现代圆形剧场在夏季音乐节期间举办户外音乐会和表演。"
   },
   {
     "id": "word_344",
@@ -6685,7 +6685,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpl/",
     "frequency": "中频",
-    "example": "The ample resources support comprehensive research projects effectively.\n充足的资源有效支持综合研究项目。\nAmple evidence proves the defendant innocence in the case.\n充分证据证明被告在案件中的无罪。"
+    "example": "The hotel provides ample space for guests to relax and enjoy their stay comfortably.\n酒店为客人提供充足的空间，让他们舒适地放松和享受住宿。\nThere is ample evidence to support the theory that the climate is changing due to human activities.\n有充足的证据支持气候变化是由人类活动引起的理论。"
   },
   {
     "id": "word_345",
@@ -6706,7 +6706,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpli/",
     "frequency": "低频",
-    "example": "The room amply accommodates all participants comfortably during meetings.\n房间在会议期间充分容纳所有参与者舒适。\nThe budget amply covers all necessary expenses for the project.\n预算充分覆盖项目的所有必要开支。"
+    "example": "The research findings amply demonstrated the effectiveness of the new treatment method.\n研究结果充分证明了新治疗方法的有效性。\nShe was amply rewarded for her hard work and dedication to the company over many years.\n她因多年来对公司的辛勤工作和奉献而得到了充分的回报。"
   },
   {
     "id": "word_346",
@@ -6727,7 +6727,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmpjuteɪt/",
     "frequency": "高频",
-    "example": "Doctors amputate severely damaged limbs to save patient lives.\n医生截肢严重受损的肢体以拯救患者生命。\nThe surgeon amputate the infected tissue preventing spread.\n外科医生截肢感染组织防止扩散。"
+    "example": "The surgeon had to amputate the patients leg to prevent the spread of infection throughout the body.\n外科医生不得不截肢患者的腿以防止感染扩散到全身。\nDoctors decided to amputate the damaged limb after all other treatment options had failed completely.\n在所有其他治疗方案完全失败后，医生决定截肢受损的肢体。"
   },
   {
     "id": "word_347",
@@ -6748,7 +6748,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmʌk/",
     "frequency": "中频",
-    "example": "The theory of this concept provides a framework for understanding this phenomenon.\n狂暴行为的理论为理解这一现象提供了框架。"
+    "example": "The angry mob ran amuck through the streets, destroying property and causing chaos.\n愤怒的暴徒在街道上疯狂奔跑，破坏财产并造成混乱。\nThe sudden noise sent the elephants amuck, causing them to stampede through the village in panic.\n突然的噪音让大象疯狂，导致它们惊恐地冲过村庄。"
   },
   {
     "id": "word_348",
@@ -6769,7 +6769,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæmjʊlɪt/",
     "frequency": "低频",
-    "example": "Practical skills related to this concept are highly valued in the workplace.\n与护身符相关的实践技能在珠宝行业受到高度重视。"
+    "example": "She wore an amulet around her neck for protection against evil spirits and bad luck.\n她脖子上戴着护身符，以保护自己免受邪灵和厄运的伤害。\nThe ancient amulet was discovered in the tomb and believed to have magical powers by archaeologists.\n这件古老的护身符在墓中被发现，考古学家认为它具有魔力。"
   },
   {
     "id": "word_349",
@@ -6790,7 +6790,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈmjuːz/",
     "frequency": "中频",
-    "example": "The clown amused the children.\n小丑逗乐了孩子们。"
+    "example": "The clown tried to amuse the children at the birthday party with funny tricks and jokes.\n小丑试图在生日派对上用有趣的魔术和笑话逗乐孩子们。\nThe comedian amused the audience with his hilarious stories and witty observations about life.\n喜剧演员用他关于生活的滑稽故事和机智观察逗乐了观众。"
   },
   {
     "id": "word_350",
@@ -6811,7 +6811,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈkɒndə/",
     "frequency": "中频",
-    "example": "The anaconda constricts its prey before swallowing it whole.\n森蚺在吞下猎物之前先将其勒死。\nAnacondas are among the largest snakes found in South American jungles.\n森蚺是南美丛林中发现的最大蛇类之一。"
+    "example": "The anaconda is one of the largest snakes in the world, found in the Amazon rainforest.\n水蚺是世界上最大的蛇之一，发现于亚马逊雨林。\nWildlife researchers study anaconda behavior to understand their role in the ecosystem and habitat.\n野生动物研究人员研究水蚺的行为，以了解它们在生态系统和栖息地中的作用。"
   },
   {
     "id": "word_351",
@@ -6832,7 +6832,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈniːmiə/",
     "frequency": "低频",
-    "example": "The doctor diagnosed the patient with anaemia after blood tests.\n医生在血液检查后诊断该患者患有贫血症。\nAnaemia causes fatigue and weakness due to low red blood cells.\n贫血症因红细胞低而导致疲劳和虚弱。"
+    "example": "The patient was diagnosed with anaemia caused by iron deficiency in her diet and lifestyle.\n患者被诊断患有由饮食和生活方式中铁缺乏引起的贫血症。\nAnaemia can cause fatigue and weakness, affecting the patients ability to perform daily activities.\n贫血症可能导致疲劳和虚弱，影响患者进行日常活动的能力。"
   },
   {
     "id": "word_352",
@@ -6853,7 +6853,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈrəʊbɪk/",
     "frequency": "高频",
-    "example": "Anaerobic bacteria thrive in environments without oxygen.\n厌氧细菌在无氧环境中茁壮成长。\nAnaerobic exercise builds muscle strength through intense bursts.\n无氧运动通过高强度爆发增强肌肉力量。"
+    "example": "Anaerobic exercise involves short bursts of intense activity that do not require oxygen for energy.\n无氧运动涉及不需要氧气产生能量的短时间高强度活动。\nScientists study anaerobic bacteria that can survive in environments without oxygen or air.\n科学家研究可以在没有氧气或空气的环境中生存的无氧细菌。"
   },
   {
     "id": "word_353",
@@ -6874,7 +6874,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəɡræm/",
     "frequency": "中频",
-    "example": "The puzzle uses anagrams to create words from scrambled letters.\n这个谜题使用字谜从乱序字母创造单词。\nLiterary enthusiasts enjoy solving anagram challenges for entertainment.\n文学爱好者喜欢解字谜挑战作为娱乐。"
+    "example": "The puzzle challenged players to solve anagrams by rearranging letters to form new words.\n这个谜题挑战玩家通过重新排列字母来解决字谜并形成新单词。\nShe created an anagram of her name to use as a unique username for her online accounts.\n她创建了她的名字的字谜，用作她在线账户的独特用户名。"
   },
   {
     "id": "word_354",
@@ -6895,7 +6895,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəlˈdʒiːzɪk/",
     "frequency": "低频",
-    "example": "The analgesic provides effective pain relief for patients.\n镇痛剂为患者提供有效疼痛缓解。\nAnalgesic medications are commonly prescribed after surgical procedures.\n镇痛药物通常在外科手术后开出。"
+    "example": "The doctor prescribed a strong analgesic to relieve the patients severe pain after surgery.\n医生处方了强效止痛药来缓解患者手术后的剧烈疼痛。\nAnalgesic medications are commonly used to manage chronic pain conditions in elderly patients.\n止痛药通常用于管理老年患者的慢性疼痛状况。"
   },
   {
     "id": "word_355",
@@ -6916,7 +6916,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlɒɡ/",
     "frequency": "高频",
-    "example": "The analog clock displays time using traditional hour hands.\n传统时钟使用传统时针显示时间。\nAnalog technology has been largely replaced by digital systems.\n模拟技术已被数字系统大量取代。"
+    "example": "The analog clock on the wall showed the time with traditional hands instead of digital display.\n墙上的模拟时钟用传统的指针而不是数字显示来显示时间。\nMany musicians prefer analog instruments for their warm, natural sound quality compared to digital.\n许多音乐家更喜欢模拟乐器，因为它们比数字乐器具有温暖、自然的音质。"
   },
   {
     "id": "word_356",
@@ -6937,7 +6937,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnælədʒi/",
     "frequency": "中频",
-    "example": "The teacher used an analogy to explain complex scientific concepts.\n老师用类比解释复杂的科学概念。\nDrawing analogies helps students understand abstract ideas better.\n画类比帮助学生更好理解抽象概念。"
+    "example": "The teacher used an analogy to explain the complex concept to students who were struggling.\n老师使用类比来向正在挣扎的学生解释复杂的概念。\nThe analogy between the two systems helped researchers understand how they function similarly.\n两个系统之间的类比帮助研究人员理解它们如何相似地运作。"
   },
   {
     "id": "word_357",
@@ -6958,7 +6958,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlaɪz/",
     "frequency": "高频",
-    "example": "Scientists analyse data to draw meaningful conclusions from research.\n科学家分析数据从研究中得出有意义的结论。\nThe detective analyse evidence to solve the challenging case.\n侦探分析证据以解决棘手的案件。"
+    "example": "Scientists analyse data from experiments to draw conclusions about their research hypotheses.\n科学家分析实验数据以得出关于他们研究假设的结论。\nThe team will analyse the market trends to determine the best strategy for product launch.\n团队将分析市场趋势以确定产品发布的最佳策略。"
   },
   {
     "id": "word_358",
@@ -6979,7 +6979,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnæləsɪs/",
     "frequency": "高频",
-    "example": "The detailed analysis revealed important trends in market data.\n详细分析揭示了市场数据中的重要趋势。\nStatistical analysis helps businesses make informed strategic decisions.\n统计分析帮助企业做出明智的战略决策。"
+    "example": "The analysis of the financial statements revealed several areas for improvement in operations.\n财务报表的分析揭示了运营中需要改进的几个领域。\nDetailed analysis of the samples showed that they contained traces of the chemical substance.\n样本的详细分析显示它们含有化学物质的痕迹。"
   },
   {
     "id": "word_359",
@@ -7000,7 +7000,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlɪst/",
     "frequency": "低频",
-    "example": "The financial analyst recommended investing in technology stocks.\n金融分析师建议投资科技股。\nData analysts use various tools to interpret complex datasets.\n数据分析师使用各种工具解释复杂数据集。"
+    "example": "The financial analyst predicted that the stock market would experience significant growth next year.\n金融分析师预测明年股市将经历显著增长。\nA data analyst interprets complex information to help organizations make informed decisions.\n数据分析师解释复杂信息以帮助组织做出明智的决策。"
   },
   {
     "id": "word_360",
@@ -7021,7 +7021,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlaɪz/",
     "frequency": "高频",
-    "example": "Students learn to analyze literature for deeper understanding.\n学生学习分析文学作品以获得更深理解。\nCompanies analyze consumer behavior to improve marketing strategies.\n公司分析消费者行为以改进营销策略。"
+    "example": "Researchers analyze the results of their experiments to validate their scientific theories.\n研究人员分析他们的实验结果以验证他们的科学理论。\nThe software can analyze large datasets quickly to identify patterns and trends in the data.\n软件可以快速分析大型数据集以识别数据中的模式和趋势。"
   },
   {
     "id": "word_361",
@@ -7042,7 +7042,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəmˈniːsɪs/",
     "frequency": "高频",
-    "example": "The medicalanamnesis includes patient medical history details.\n医学记忆包括患者病史细节。\nPsychologists study anamnesis to understand past trauma effects.\n心理学家研究记忆以理解过去创伤的影响。"
+    "example": "The doctor took a detailed anamnesis of the patients medical history before diagnosis.\n医生在诊断前详细了解了患者的病史。\nAnamnesis helps physicians understand the patients background and previous health conditions.\n病史帮助医生了解患者的背景和以前的健康状况。"
   },
   {
     "id": "word_362",
@@ -7063,7 +7063,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəkɪst/",
     "frequency": "中频",
-    "example": "The anarchist advocated for dismantling all forms of government.\n无政府主义者倡导瓦解所有形式的政府。\nHistorical anarchists believed in voluntary cooperation among individuals.\n历史无政府主义者相信个人间的自愿合作。"
+    "example": "The anarchist advocated for the abolition of all forms of government and hierarchical authority.\n无政府主义者主张废除所有形式的政府和等级权威。\nThe anarchist movement gained popularity during periods of political instability and social unrest.\n无政府主义运动在政治不稳定和社会动荡期间获得了人气。"
   },
   {
     "id": "word_363",
@@ -7084,7 +7084,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəki/",
     "frequency": "低频",
-    "example": "The country descended into anarchy after the government collapsed.\n政府垮台后国家陷入无政府状态。\nAnarchy in the streets created chaos and widespread looting.\n街头无政府状态造成混乱和广泛抢劫。"
+    "example": "The country experienced anarchy after the government collapsed and law enforcement disappeared.\n该国在政府垮台和执法消失后经历了无政府状态。\nPolitical theorists debate whether anarchy would lead to chaos or a more free and equal society.\n政治理论家辩论无政府状态是否会导致混乱或更自由平等的社会。"
   },
   {
     "id": "word_364",
@@ -7105,7 +7105,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnæθəmə/",
     "frequency": "高频",
-    "example": "Violence is anathema to peaceful community living standards.\n暴力对和平社区生活标准是厌恶之事。\nCorruption is anathema to ethical business practices worldwide.\n腐败对全球道德商业实践是厌恶之事。"
+    "example": "The idea of censorship was anathema to the journalists who valued freedom of expression.\n审查制度的概念对重视表达自由的记者来说是可憎的。\nHis behavior was considered anathema by the conservative members of the traditional community.\n他的行为被传统社区的保守成员认为是可憎的。"
   },
   {
     "id": "word_365",
@@ -7126,7 +7126,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænsestə/",
     "frequency": "中频",
-    "example": "The family traced their ancestry back to ancestors from Europe.\n这个家族追溯到来自欧洲的祖先。\nHuman ancestors evolved over millions of years through natural selection.\n人类祖先通过自然选择在数百万年间进化。"
+    "example": "The ancestor of modern humans lived thousands of years ago in different parts of the world.\n现代人类的祖先数千年前生活在世界的不同地区。\nMany people research their ancestors to learn about their family history and cultural heritage.\n许多人研究他们的祖先以了解他们的家族历史和文化遗产。"
   },
   {
     "id": "word_366",
@@ -7147,7 +7147,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænsestri/",
     "frequency": "低频",
-    "example": "The genealogical test revealed interesting information about ancestry.\n族谱测试揭示了关于祖先的有趣信息。\nUnderstanding ancestry helps people connect with cultural heritage.\n了解祖先帮助人们与文化遗产建立联系。"
+    "example": "She traced her ancestry back several generations to discover her familys origins in Europe.\n她追溯她的祖先几代以发现她家族在欧洲的起源。\nThe ancestry of the breed can be traced to ancient times when these animals were first domesticated.\n这个品种的血统可以追溯到古代，当时这些动物首次被驯化。"
   },
   {
     "id": "word_367",
@@ -7168,7 +7168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkə/",
     "frequency": "低频",
-    "example": "The ship dropped anchor in the harbor during the storm.\n船在风暴期间在港口抛锚。\nThe news anchor delivered the breaking story on national television.\n新闻主播在国家电视台播报突发新闻。"
+    "example": "The ship dropped anchor in the harbor to wait for better weather conditions before sailing.\n船在港口抛锚等待更好的天气条件后再航行。\nThe news anchor reported on the breaking story with accuracy and professionalism throughout the broadcast.\n新闻主播在整个广播中以准确和专业的方式报道了突发新闻。"
   },
   {
     "id": "word_368",
@@ -7189,7 +7189,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntʃəvi/",
     "frequency": "中频",
-    "example": "The pizza was topped with delicious cheese and anchovy fillets.\n披萨上铺有美味的奶酪和鳀鱼片。\nAnchovy paste adds strong flavor to various Mediterranean sauces.\n鳀鱼酱为各种地中海酱汁增添浓郁风味。"
+    "example": "The chef added anchovy to the salad dressing to give it a distinctive salty and savory flavor.\n厨师在沙拉酱中添加了凤尾鱼，使其具有独特的咸味和鲜味。\nAnchovy is a small fish commonly used in Mediterranean cuisine for its rich and intense taste.\n凤尾鱼是一种小鱼，因其浓郁强烈的味道而常用于地中海菜肴。"
   },
   {
     "id": "word_369",
@@ -7210,7 +7210,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪnʃənt/",
     "frequency": "高频",
-    "example": "Ancient civilizations built remarkable monuments that still stand today.\n古代文明建造了至今仍然屹立的非凡纪念碑。\nThe ancient temple attracts thousands of tourists annually.\n这座古老的寺庙每年吸引数千名游客。"
+    "example": "The ancient ruins attract tourists from around the world who are interested in history and archaeology.\n古代遗址吸引了来自世界各地对历史和考古学感兴趣的游客。\nMany ancient traditions are still practiced today, preserving cultural heritage for future generations.\n许多古代传统今天仍在实践，为子孙后代保留文化遗产。"
   },
   {
     "id": "word_370",
@@ -7231,7 +7231,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈsɪləri/",
     "frequency": "高频",
-    "example": "The ancillary services support the main business operations efficiently.\n辅助服务有效支持主要业务运营。\nAncillary staff provide essential support functions in hospitals.\n辅助人员在医院提供必要的支持职能。"
+    "example": "The ancillary staff provides essential support services to the main operations of the hospital.\n辅助人员为医院的主要运营提供必要的支持服务。\nAncillary equipment is necessary to ensure the smooth functioning of the primary machinery in production.\n辅助设备对于确保生产中主要机器的顺利运行是必要的。"
   },
   {
     "id": "word_371",
@@ -7252,7 +7252,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænd/",
     "frequency": "低频",
-    "example": "The recipe requires flour and sugar to make the cake batter.\n食谱需要面粉和糖来制作蛋糕糊。\nShe studied biology and chemistry at university for her degree.\n她在大学学习生物学和化学以获得学位。"
+    "example": "She studied hard and passed the exam with excellent grades that impressed her teachers.\n她努力学习并以优异成绩通过了考试，让老师们印象深刻。\nThe company expanded its operations and opened new branches in several cities across the region.\n公司扩大了业务，并在该地区多个城市开设了新分支机构。"
   },
   {
     "id": "word_372",
@@ -7273,7 +7273,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈdænteɪ/",
     "frequency": "低频",
-    "example": "The andante movement provides a gentle contrast to allegro sections.\n行板乐章为快板部分提供柔和对比。\nComposers use andante tempo for expressive melodic passages.\n作曲家使用行板速度表达旋律段落。"
+    "example": "The pianist played the andante movement of the sonata with beautiful expression and gentle tempo.\n钢琴家以优美的表现和温和的节奏演奏了奏鸣曲的行板乐章。\nAndante is a musical term indicating a moderately slow tempo that creates a flowing and graceful mood.\n行板是一个音乐术语，表示中等缓慢的节奏，创造流畅优雅的氛围。"
   },
   {
     "id": "word_373",
@@ -7294,7 +7294,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈændɪsaɪt/",
     "frequency": "高频",
-    "example": "Andesite is a common volcanic rock found in mountain ranges.\n安山岩是在山脉中发现的常见火山岩。\nGeologists study andesite formations to understand volcanic activity.\n地质学家研究安山岩地层以理解火山活动。"
+    "example": "Andesite is a volcanic rock commonly found in mountainous regions formed by volcanic activity.\n安山岩是一种火山岩，常见于由火山活动形成的山区。\nGeologists study andesite formations to understand the geological history of volcanic regions worldwide.\n地质学家研究安山岩形成以了解全球火山地区的地质历史。"
   },
   {
     "id": "word_374",
@@ -7315,7 +7315,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈændrɔɪd/",
     "frequency": "中频",
-    "example": "The android smartphone offers customizable features for users worldwide.\n安卓智能手机为全球用户提供可定制功能。\nAndroid applications are developed using Java programming language.\n安卓应用程序使用Java编程语言开发。"
+    "example": "The android robot was designed to perform complex tasks that humans cannot do efficiently.\n安卓机器人被设计用于执行人类无法高效完成的复杂任务。\nMany smartphones run on the Android operating system, offering users a wide range of applications.\n许多智能手机运行安卓操作系统，为用户提供广泛的应用程序。"
   },
   {
     "id": "word_375",
@@ -7336,7 +7336,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪkdəʊt/",
     "frequency": "低频",
-    "example": "The author shared an amusing anecdote from her childhood.\n作者分享了她童年的一个有趣轶事。\nThe speaker used a humorous anecdote to engage the audience.\n演讲者使用幽默轶事吸引观众。"
+    "example": "She shared an amusing anecdote about her childhood that made everyone laugh at the dinner party.\n她分享了一个关于她童年的有趣轶事，让晚餐聚会上的每个人都笑了。\nThe speakers anecdote illustrated the main point of his presentation in an engaging and memorable way.\n演讲者的轶事以引人入胜且令人难忘的方式阐述了他演讲的主要观点。"
   },
   {
     "id": "word_376",
@@ -7357,7 +7357,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈneməni/",
     "frequency": "高频",
-    "example": "The sea anemone provides shelter for clownfish in ocean ecosystems.\n海葵在海洋生态系统中为小丑鱼提供庇护。\nAnemone flowers bloom beautifully in gardens during spring months.\n海葵花在春季在花园中美丽绽放。"
+    "example": "The sea anemone is a colorful marine creature that attaches itself to rocks in ocean environments.\n海葵是一种色彩斑斓的海洋生物，附着在海洋环境中的岩石上。\nGardeners plant anemone flowers in their gardens for their beautiful blooms and vibrant colors.\n园丁在花园里种植银莲花，因为它们美丽的花朵和鲜艳的颜色。"
   },
   {
     "id": "word_377",
@@ -7378,7 +7378,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænədʒi/",
     "frequency": "中频",
-    "example": "The medical condition causes anergy reducing immune response effectiveness.\n医学状况导致无反应性降低免疫反应有效性。\nAnergy can result from chronic illness or immunosuppressive treatments.\n无反应性可能由慢性疾病或免疫抑制治疗引起。"
+    "example": "The patients anergy indicated that his immune system was not responding properly to infections.\n患者的无反应表明他的免疫系统对感染反应不正常。\nScientists study anergy in cells to understand immune system disorders and potential treatments.\n科学家研究细胞的无反应以了解免疫系统疾病和潜在治疗方法。"
   },
   {
     "id": "word_378",
@@ -7399,7 +7399,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænesˈθetɪk/",
     "frequency": "低频",
-    "example": "The anesthetic allows patients to undergo surgery without pain.\n麻醉剂让患者在手术期间无疼痛。\nGeneral anesthetic requires careful monitoring during medical procedures.\n全身麻醉在医疗程序期间需要仔细监测。"
+    "example": "The dentist used a local anesthetic to numb the area before performing the dental procedure.\n牙医在进行牙科手术之前使用局部麻醉剂麻醉该区域。\nGeneral anesthetic is administered to patients undergoing major surgeries to ensure they remain unconscious.\n全身麻醉剂被给予接受重大手术的患者以确保他们保持无意识状态。"
   },
   {
     "id": "word_379",
@@ -7420,7 +7420,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪndʒl/",
     "frequency": "低频",
-    "example": "The guardian angel protected the lost child from danger.\n守护天使保护迷路的孩子免受危险。\nReligious paintings often depict angels with wings and halos.\n宗教画通常描绘有翅膀和光环的天使。"
+    "example": "The angel in the painting was depicted with beautiful wings and a serene expression on her face.\n画中的天使被描绘成美丽的翅膀和脸上宁静的表情。\nMany people believe that angels are spiritual beings who protect and guide humans through life.\n许多人相信天使是保护并引导人类度过生活的精神存在。"
   },
   {
     "id": "word_380",
@@ -7441,7 +7441,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈdʒelɪk/",
     "frequency": "中频",
-    "example": "The choir sang with angelic voices during the ceremony.\n唱诗班在仪式期间用天使般的声音演唱。\nThe child had an angelic expression on her face while sleeping.\n孩子在睡觉时脸上有天使般的表情。"
+    "example": "The choir sang with angelic voices that filled the cathedral with beautiful and heavenly sounds.\n合唱团用天使般的声音歌唱，让大教堂充满了美丽而神圣的声音。\nHer angelic appearance and kind nature made her beloved by everyone in the small community.\n她天使般的外表和善良的性格让她受到小社区每个人的喜爱。"
   },
   {
     "id": "word_381",
@@ -7462,7 +7462,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡə/",
     "frequency": "中频",
-    "example": "The manager expressed anger at the team missing the deadline.\n经理对团队错过截止日期表示愤怒。\nUncontrolled anger can damage personal relationships seriously.\n失控的愤怒可能严重损害个人关系。"
+    "example": "He struggled to control his anger when he heard the unfair criticism of his work performance.\n当他听到对他工作表现不公平的批评时，他努力控制自己的愤怒。\nExpressing anger in a constructive way is important for maintaining healthy relationships with others.\n以建设性的方式表达愤怒对于与他人保持健康关系很重要。"
   },
   {
     "id": "word_382",
@@ -7483,7 +7483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡəli/",
     "frequency": "高频",
-    "example": "He responded angerly to the unfair accusations made against him.\n他愤怒地回应了对他的不公平指责。\nShe spoke angerly about the injustice she witnessed in the workplace.\n她愤怒地谈论她在工作场所目睹的不公正。"
+    "example": "She spoke angerly to her colleague who had made a mistake that affected the project timeline.\n她愤怒地对犯了影响项目时间表错误的同事说话。\nThe customer complained angerly about the poor service he received at the restaurant last night.\n顾客愤怒地抱怨昨晚在餐厅收到的糟糕服务。"
   },
   {
     "id": "word_383",
@@ -7504,7 +7504,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ændʒiˈəʊmə/",
     "frequency": "中频",
-    "example": "The dermatologist examined the angioma on the patient skin carefully.\n皮肤科医生仔细检查了患者皮肤上的血管瘤。\nAngioma is usually a benign growth requiring no treatment.\n血管瘤通常是良性生长不需要治疗。"
+    "example": "The doctor diagnosed the patient with angioma, a benign tumor formed from blood vessels.\n医生诊断患者患有血管瘤，一种由血管形成的良性肿瘤。\nAngioma is typically harmless but may require treatment if it causes discomfort or bleeding.\n血管瘤通常无害，但如果引起不适或出血可能需要治疗。"
   },
   {
     "id": "word_384",
@@ -7525,7 +7525,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈændʒɪəspɜːm/",
     "frequency": "低频",
-    "example": "Angiosperms are flowering plants that produce seeds within fruits.\n被子植物是在果实内产生种子的开花植物。\nAngiosperms constitute the most diverse group of land plants.\n被子植物构成最多样化的陆地植物群。"
+    "example": "Angiosperms are flowering plants that produce seeds enclosed within a fruit structure.\n被子植物是开花植物，产生包裹在果实结构内的种子。\nBotanists study angiosperms to understand plant evolution and biodiversity in ecosystems worldwide.\n植物学家研究被子植物以了解全球生态系统中的植物进化和生物多样性。"
   },
   {
     "id": "word_385",
@@ -7546,7 +7546,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡl/",
     "frequency": "中频",
-    "example": "The architect measured the angle to ensure accurate construction.\n建筑师测量角度以确保准确施工。\nFrom a different angle, the painting reveals hidden details.\n从不同角度看，画作揭示隐藏的细节。"
+    "example": "The photographer adjusted the angle of the camera to capture the best possible image of the subject.\n摄影师调整了相机的角度，以捕捉主体最佳可能的图像。\nMathematicians study angles in geometry to understand spatial relationships and geometric properties.\n数学家研究几何中的角度以了解空间关系和几何性质。"
   },
   {
     "id": "word_386",
@@ -7567,7 +7567,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡlə/",
     "frequency": "中频",
-    "example": "The patient angler spent hours by the lake waiting for fish.\n耐心的钓鱼者在湖边等待数小时钓鱼。\nAngler fish use bioluminescence to attract prey in deep ocean.\n琵琶鱼使用生物发光吸引深海猎物。"
+    "example": "The angler spent hours on the riverbank waiting patiently for the fish to bite his bait.\n钓鱼者在河岸边耐心等待数小时，等待鱼咬他的诱饵。\nProfessional anglers compete in tournaments to showcase their fishing skills and techniques.\n职业钓鱼者参加比赛以展示他们的钓鱼技能和技巧。"
   },
   {
     "id": "word_387",
@@ -7588,7 +7588,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡlɪsaɪz/",
     "frequency": "低频",
-    "example": "Immigrants anglicize their names to adapt to new culture.\n移民将名字英语化以适应新文化。\nMany foreign words are anglicized over time through common usage.\n许多外来词随着时间的推移通过常用而英语化。"
+    "example": "Many immigrants anglicize their names to adapt to the culture of their new country.\n许多移民将他们的名字英语化以适应新国家的文化。\nThe author anglicized the foreign terms in the book to make it more accessible to English readers.\n作者将书中的外来术语英语化，使其更容易为英语读者理解。"
   },
   {
     "id": "word_388",
@@ -7609,7 +7609,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡri/",
     "frequency": "高频",
-    "example": "The angry customer demanded to speak with the manager immediately.\n愤怒的顾客要求立即与经理交谈。\nShe became angry when she discovered her wallet was stolen.\n她发现钱包被偷时变得愤怒。"
+    "example": "The customer became angry when he discovered that the product he purchased was defective.\n当顾客发现他购买的产品有缺陷时，他变得愤怒。\nShe felt angry about the unfair treatment she received from her supervisor at the workplace.\n她对在工作场所受到主管不公平待遇感到愤怒。"
   },
   {
     "id": "word_389",
@@ -7630,7 +7630,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æŋst/",
     "frequency": "中频",
-    "example": "The existential angst influenced the philosophers writing during that era.\n存在焦虑影响了那个时代哲学家的写作。\nTeenagers often experience angst about their future career choices.\n青少年经常对未来职业选择感到焦虑。"
+    "example": "The teenager experienced angst as she struggled to find her identity and place in society.\n青少年在努力寻找自己的身份和社会地位时经历了焦虑。\nMany artists express their angst through creative works that reflect their inner emotional struggles.\n许多艺术家通过反映内心情感挣扎的创意作品表达他们的焦虑。"
   },
   {
     "id": "word_390",
@@ -7651,7 +7651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡwɪʃ/",
     "frequency": "低频",
-    "example": "The family endured tremendous anguish after the natural disaster struck.\n自然灾害袭击后这个家庭忍受了巨大的痛苦。\nEmotional anguish often accompanies the loss of loved ones.\n失去亲人通常伴随情感上的痛苦。"
+    "example": "She felt deep anguish when she learned about the tragic accident that affected her family.\n当她得知影响她家庭的悲惨事故时，她感到深深的痛苦。\nThe patient endured physical anguish during the recovery process after the major surgery.\n患者在重大手术后的恢复过程中忍受着身体痛苦。"
   },
   {
     "id": "word_391",
@@ -7672,7 +7672,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋɡjʊlə/",
     "frequency": "高频",
-    "example": "The angular features of the sculpture create dramatic shadows.\n雕塑的棱角特征创造戏剧性的阴影。\nThe building has an angular design that stands out in the cityscape.\n建筑有在城市景观中脱颖而出的棱角设计。"
+    "example": "The angular design of the modern building contrasted sharply with the traditional architecture nearby.\n现代建筑的棱角设计与附近的传统建筑形成鲜明对比。\nThe angular shape of the rock formation made it a challenging climb for experienced mountaineers.\n岩石形成的棱角形状使其成为经验丰富的登山者的挑战性攀登。"
   },
   {
     "id": "word_392",
@@ -7693,7 +7693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænɪmædˈvɜːt/",
     "frequency": "中频",
-    "example": "Critics animadvert on the flaws in the artistic performance.\n评论家批评艺术表演中的缺陷。\nHistorians animadvert on the governments mishandling of the crisis.\n历史学家批评政府对危机的处理不当。"
+    "example": "Critics animadvert on the governments handling of the economic crisis in their editorial pieces.\n评论家在他们的社论文章中批评政府处理经济危机的方式。\nThe professor animadverted on the students thesis, pointing out several weaknesses in the argument.\n教授批评学生的论文，指出论证中的几个弱点。"
   },
   {
     "id": "word_393",
@@ -7714,7 +7714,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪml/",
     "frequency": "高频",
-    "example": "The animal sanctuary provides refuge for endangered species.\n动物保护区为濒危物种提供庇护。\nDomestic animals require proper care and attention from owners.\n家养动物需要主人适当的照顾和关注。"
+    "example": "The animal shelter provides care and protection for abandoned pets until they find new homes.\n动物收容所为被遗弃的宠物提供照顾和保护，直到它们找到新家。\nScientists study animal behavior to understand evolutionary patterns and ecological relationships.\n科学家研究动物行为以了解进化模式和生态关系。"
   },
   {
     "id": "word_394",
@@ -7735,7 +7735,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænɪˈmælkjuːl/",
     "frequency": "高频",
-    "example": "Microscopic animalcules can be observed using advanced laboratory equipment.\n微观微生物可以使用先进实验室设备观察。\nThe animalcule population thrives in nutrient-rich water environments.\n微生物群在营养丰富的水环境中茁壮成长。"
+    "example": "The microscope revealed tiny animalcules swimming in the water sample from the pond.\n显微镜揭示了池塘水样中游动的微小动物。\nEarly scientists observed animalcules to understand the microscopic world of living organisms.\n早期科学家观察微小动物以了解生物的微观世界。"
   },
   {
     "id": "word_395",
@@ -7756,7 +7756,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪmeɪt/",
     "frequency": "中频",
-    "example": "The filmmaker will animate the story using computer graphics technology.\n电影制作人将使用计算机图形技术制作动画。\nMusic can animate crowds at concerts and public events.\n音乐可以在音乐会和公共活动中活跃人群。"
+    "example": "The talented artist can animate characters that seem to come alive on the screen.\n这位有才华的艺术家可以动画化角色，使它们在屏幕上似乎活了过来。\nThe speaker animated the audience with her energetic presentation and engaging storytelling style.\n演讲者用她充满活力的演讲和引人入胜的叙事风格活跃了观众。"
   },
   {
     "id": "word_396",
@@ -7777,7 +7777,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪmeɪtə/",
     "frequency": "低频",
-    "example": "The animator created stunning visual effects for the blockbuster movie.\n动画师为大片电影创造了惊人的视觉效果。\nTalented animators bring fictional characters to life beautifully.\n才华横溢的动画师将虚构角色美丽地赋予生命。"
+    "example": "The animator spent months creating the detailed frames for the animated feature film.\n动画师花了数月时间为动画电影创建详细的帧。\nA skilled animator combines artistic talent with technical expertise to produce stunning visual effects.\n熟练的动画师将艺术天赋与技术专业知识结合起来，制作令人惊叹的视觉效果。"
   },
   {
     "id": "word_397",
@@ -7798,7 +7798,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænɪmeɪ/",
     "frequency": "高频",
-    "example": "Japanese anime has gained immense popularity worldwide.\n日本动漫已在全球获得巨大 popularity。\nAnime conventions attract thousands of fans from different countries.\n动漫大会吸引来自不同国家的数千名粉丝。"
+    "example": "Japanese anime has gained popularity worldwide for its unique artistic style and storytelling.\n日本动漫因其独特的艺术风格和叙事而在全球范围内获得了人气。\nMany teenagers enjoy watching anime series that feature exciting adventures and complex characters.\n许多青少年喜欢观看具有激动人心冒险和复杂角色的动漫系列。"
   },
   {
     "id": "word_398",
@@ -7819,7 +7819,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænaɪən/",
     "frequency": "中频",
-    "example": "The anion carries a negative electrical charge in chemical solutions.\n阴离子在化学溶液中携带负电荷。\nAnions are attracted to the positively charged electrode during electrolysis.\n阴离子在电解过程中被正电极吸引。"
+    "example": "An anion is a negatively charged ion that plays important roles in chemical reactions and processes.\n阴离子是在化学反应和过程中起重要作用的带负电荷离子。\nScientists study anions to understand electrochemical phenomena and ion exchange mechanisms.\n科学家研究阴离子以了解电化学现象和离子交换机制。"
   },
   {
     "id": "word_399",
@@ -7840,7 +7840,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkl/",
     "frequency": "低频",
-    "example": "The athlete sprained his ankle during the basketball game.\n运动员在篮球比赛中扭伤了脚踝。\nMedical professionals recommend ankle exercises for rehabilitation.\n医疗专业人员建议进行脚踝康复练习。"
+    "example": "She twisted her ankle while running on the uneven trail during her morning exercise.\n她在晨练时在不平坦的小径上跑步时扭伤了脚踝。\nThe doctor examined the patients ankle to determine the extent of the injury and recommend treatment.\n医生检查患者的脚踝以确定受伤程度并建议治疗。"
   },
   {
     "id": "word_400",
@@ -7861,7 +7861,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋklɪt/",
     "frequency": "高频",
-    "example": "The silver anklet made a gentle jingling sound as she walked.\n银脚链在她走动时发出轻柔的叮当声。\nTraditional anklets are worn as decorative jewelry in many cultures.\n传统脚链在许多文化中作为装饰珠宝佩戴。"
+    "example": "She wore a delicate anklet that sparkled beautifully as she walked along the beach.\n她戴着一条精致的脚链，沿着海滩行走时闪闪发光。\nThe jewelry store offered a variety of anklets in different designs and materials for customers.\n珠宝店为顾客提供各种不同设计和材料的脚链。"
   },
   {
     "id": "word_401",
@@ -7882,7 +7882,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəlɪst/",
     "frequency": "中频",
-    "example": "The annalist documented all significant events throughout the year.\n年鉴编纂者记录了一年中所有重要事件。\nHistorical annalists preserved valuable records for future generations.\n历史年鉴编纂者为后代保存了宝贵的记录。"
+    "example": "The annalist recorded important events and developments in the kingdoms history over decades.\n编年史家记录了王国历史上数十年的重要事件和发展。\nAn annalist provides valuable historical records that help scholars understand past civilizations.\n编年史家提供宝贵的历史记录，帮助学者了解过去的文明。"
   },
   {
     "id": "word_402",
@@ -7903,7 +7903,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænlz/",
     "frequency": "低频",
-    "example": "The annals of history remember the great achievements of civilizations.\n历史年鉴铭记文明的伟大成就。\nThe medical annals contain documented cases of rare diseases.\n医学年鉴包含记录在案的罕见疾病病例。"
+    "example": "The annals of the university contain detailed records of its academic achievements and milestones.\n大学的编年史包含其学术成就和里程碑的详细记录。\nHistorians consult the annals to research significant events that shaped the course of history.\n历史学家查阅编年史以研究塑造历史进程的重要事件。"
   },
   {
     "id": "word_403",
@@ -7924,7 +7924,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈniːl/",
     "frequency": "高频",
-    "example": "Metals are annealed to relieve internal stress and improve durability.\n金属被退火以释放内应力并提高耐久性。\nThe annealing process strengthens glass for industrial applications.\n退火过程增强玻璃以用于工业应用。"
+    "example": "Metalworkers anneal steel to increase its strength and durability for industrial applications.\n金属工人对钢进行退火以增加其强度和耐用性，用于工业应用。\nThe process of annealing glass reduces internal stresses and prevents it from breaking easily.\n玻璃退火过程减少内部应力并防止其轻易破裂。"
   },
   {
     "id": "word_404",
@@ -7945,7 +7945,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈneks/",
     "frequency": "中频",
-    "example": "The country decided to annex the disputed territory by force.\n该国决定通过武力吞并有争议的领土。\nThe school will annex a new building to accommodate growing enrollment.\n学校将 annex 新建筑以容纳不断增长的入学人数。"
+    "example": "The company decided to annex a new building to expand its office space for growing staff.\n公司决定增建一座新建筑以扩大办公空间，容纳不断增长的员工。\nThe historical annex to the main library houses rare manuscripts and special collections.\n主图书馆的历史附属建筑收藏稀有手稿和特别收藏。"
   },
   {
     "id": "word_405",
@@ -7966,7 +7966,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaɪəleɪt/",
     "frequency": "低频",
-    "example": "The army attempted to annihilate the enemy forces completely.\n军队企图完全歼灭敌军。\nNuclear weapons have the power to annihilate entire cities.\n核武器有能力摧毁整个城市。"
+    "example": "The powerful army annihilated the opposing forces in a decisive battle that changed history.\n强大的军队在一场改变历史的决定性战役中消灭了敌对力量。\nThe scientist predicted that a massive asteroid could annihilate all life on Earth if it collided.\n科学家预测，如果一颗巨大的小行星碰撞，它可能消灭地球上所有生命。"
   },
   {
     "id": "word_406",
@@ -7987,7 +7987,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈteɪʃn/",
     "frequency": "高频",
-    "example": "The annotation in the textbook helps students understand difficult concepts.\n教科书中的注释帮助学生理解困难的概念。\nDigital annotations enhance collaboration among researchers.\n数字注释增强研究人员之间的合作。"
+    "example": "The annotation in the textbook provided additional explanations for complex concepts and terms.\n教科书中的注释为复杂概念和术语提供了额外的解释。\nScholars add annotations to ancient texts to help modern readers understand historical references.\n学者为古代文本添加注释，帮助现代读者理解历史参考。"
   },
   {
     "id": "word_407",
@@ -8008,7 +8008,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaʊns/",
     "frequency": "高频",
-    "example": "The company will announce its new product line next week.\n公司将于下周宣布其新产品线。\nThe president announced new policies to address economic challenges.\n总统宣布新政策以应对经济挑战。"
+    "example": "The company announced its plans to expand operations into international markets next year.\n公司宣布明年将业务扩展到国际市场的计划。\nThe government announced new policies to address the environmental concerns raised by citizens.\n政府宣布了新政策来解决公民提出的环境担忧。"
   },
   {
     "id": "word_408",
@@ -8029,7 +8029,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnaʊnsmənt/",
     "frequency": "低频",
-    "example": "The announcement of the merger caused stock prices to rise.\n合并公告导致股价上涨。\nThe public announcement attracted attention from media worldwide.\n公开公告吸引了全球媒体的关注。"
+    "example": "The announcement of the winners created excitement among the participants who had competed.\n获奖者的宣布在参赛者中引起了兴奋。\nAn official announcement regarding the merger was made during the press conference this morning.\n关于合并的官方公告在今天上午的新闻发布会上发布。"
   },
   {
     "id": "word_409",
@@ -8050,7 +8050,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɔɪ/",
     "frequency": "中频",
-    "example": "The constant noise annoys the neighbors living next door.\n持续的噪音打扰住在隔壁的邻居。\nHis repetitive questions begin to annoy his colleagues at work.\n他重复的问题开始让工作中的同事感到烦恼。"
+    "example": "The constant noise from the construction site annoyed residents who lived in the nearby apartments.\n施工现场持续不断的噪音让住在附近公寓的居民感到恼火。\nHer younger brother annoyed her by playing loud music while she was trying to study.\n她的弟弟在她试图学习时播放大声音乐让她恼火。"
   },
   {
     "id": "word_410",
@@ -8071,7 +8071,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɔɪəns/",
     "frequency": "中频",
-    "example": "The constant interruptions caused great annoyance to the workers.\n持续的打扰引起工人们极大的烦恼。\nTo her annoyance, the meeting lasted much longer than expected.\n令她烦恼的是，会议持续时间比预期长得多。"
+    "example": "She expressed her annoyance when her flight was delayed for several hours due to weather.\n当她的航班因天气延误数小时时，她表达了她的恼怒。\nThe annoyance caused by the slow internet connection affected productivity in the office.\n缓慢的互联网连接引起的恼怒影响了办公室的生产效率。"
   },
   {
     "id": "word_411",
@@ -8092,7 +8092,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænjuəl/",
     "frequency": "高频",
-    "example": "The company holds an annual conference for all employees.\n公司为所有员工举办年度会议。\nAnnual rainfall in tropical regions exceeds other climate zones significantly.\n热带地区的年降雨量显著超过其他气候区。"
+    "example": "The annual report provides a comprehensive overview of the companys performance and achievements.\n年度报告提供了公司绩效和成就的全面概述。\nThe annual festival attracts thousands of visitors who come to celebrate the traditional holiday.\n年度节日吸引了数千名前来庆祝传统节日的游客。"
   },
   {
     "id": "word_412",
@@ -8113,7 +8113,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnʌl/",
     "frequency": "高频",
-    "example": "The court decided to annul the marriage due to legal issues.\n法院因法律问题决定取消婚姻。\nParliament voted to annul the outdated regulation completely.\n议会投票完全取消过时的法规。"
+    "example": "The court decided to annul the marriage due to evidence of fraud in the original agreement.\n法院决定因原协议中存在欺诈证据而宣告婚姻无效。\nThe contract was annulled after both parties agreed that it was no longer beneficial to continue.\n合同在双方同意继续不再有益后被宣告无效。"
   },
   {
     "id": "word_413",
@@ -8134,7 +8134,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænjʊlə/",
     "frequency": "中频",
-    "example": "The annular eclipse created a dramatic ring of fire in the sky.\n环形日食在天空中创造了壮观的火环。\nAnnular ligaments support joint structures in the human body.\n环形韧带支持人体中的关节结构。"
+    "example": "The annular eclipse created a spectacular ring of light around the moon during the astronomical event.\n日环食在天文事件期间在月球周围创造了壮观的光环。\nThe annular structure of the building allows for efficient airflow and natural lighting throughout.\n建筑的环形结构允许整个建筑的高效气流和自然采光。"
   },
   {
     "id": "word_414",
@@ -8155,7 +8155,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəʊd/",
     "frequency": "低频",
-    "example": "The anode is the positive electrode in an electrical circuit.\n阳极是电路中的正电极。\nDuring electrolysis, metal dissolves at the anode surface.\n电解过程中，金属在阳极表面溶解。"
+    "example": "The anode is the positive electrode in an electrical circuit that attracts negative charges.\n阳极是电路中吸引负电荷的正电极。\nScientists study the behavior of the anode to improve battery performance and energy storage.\n科学家研究阳极的行为以改善电池性能和能量存储。"
   },
   {
     "id": "word_415",
@@ -8176,7 +8176,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɒməli/",
     "frequency": "高频",
-    "example": "The weather anomaly caused unusual temperature patterns worldwide.\n天气异常导致全球异常温度模式。\nScientists investigate genetic anomalies to understand diseases better.\n科学家研究遗传异常以更好理解疾病。"
+    "example": "The anomaly in the data suggested that there was an error in the experimental procedure used.\n数据中的异常表明所使用的实验程序存在错误。\nThe scientist investigated the anomaly to determine whether it was a natural phenomenon or artifact.\n科学家调查异常以确定它是自然现象还是人为产物。"
   },
   {
     "id": "word_416",
@@ -8197,7 +8197,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænəmi/",
     "frequency": "中频",
-    "example": "Social anomie leads to breakdown of traditional values in communities.\n社会失范导致社区传统价值观的崩溃。\nEconomic anomie affects individuals during periods of financial crisis.\n经济失范在金融危机时期影响个人。"
+    "example": "Social anomie occurs when there is a breakdown of social norms and values in a community.\n社会失范发生在社区的社会规范和价值观崩溃时。\nThe sociologist studied anomie to understand the causes of social instability in modern societies.\n社会学家研究失范以了解现代社会不稳定的原因。"
   },
   {
     "id": "word_417",
@@ -8218,7 +8218,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænəˈnɪmɪti/",
     "frequency": "低频",
-    "example": "The witness requested anonymity to protect herself from retaliation.\n证人要求匿名以保护自己免受报复。\nOnline anonymity allows people to express opinions freely.\n在线匿名允许人们自由表达意见。"
+    "example": "The anonymity of the participants was protected to ensure honest responses in the survey.\n参与者的匿名性得到保护以确保调查中的诚实回应。\nMany internet users value anonymity when expressing their opinions on sensitive topics online.\n许多互联网用户在表达对敏感话题的意见时重视匿名性。"
   },
   {
     "id": "word_418",
@@ -8239,7 +8239,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɒnɪməs/",
     "frequency": "低频",
-    "example": "The anonymous donor contributed millions to charity organizations.\n匿名捐赠者向慈善组织捐赠了数百万。\nAnonymous letters were sent to threaten the business owner.\n匿名信件被发送威胁企业主。"
+    "example": "The anonymous donor contributed a large sum to the charity without revealing his identity.\n匿名捐赠者向慈善机构捐赠了一大笔钱而不透露他的身份。\nThe author chose to remain anonymous to avoid public attention and maintain privacy.\n作者选择保持匿名以避免公众关注并保持隐私。"
   },
   {
     "id": "word_419",
@@ -8260,7 +8260,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnɒfɪliːz/",
     "frequency": "中频",
-    "example": "Anopheles mosquitoes transmit malaria parasites to humans.\n按蚊将疟原虫传播给人类。\nControlling anopheles populations reduces malaria transmission rates.\n控制按蚊种群降低疟疾传播率。"
+    "example": "The Anopheles mosquito is known for transmitting malaria to humans in tropical regions.\n按蚊以在热带地区向人类传播疟疾而闻名。\nHealth officials implement programs to control Anopheles populations and prevent disease transmission.\n卫生官员实施计划控制按蚊种群并防止疾病传播。"
   },
   {
     "id": "word_420",
@@ -8281,7 +8281,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈnʌðə/",
     "frequency": "高频",
-    "example": "The teacher explained the concept again using another example.\n老师用另一个例子再次解释这个概念。\nShe decided to try another approach to solve the problem.\n她决定尝试另一种方法解决问题。"
+    "example": "She decided to try another approach to solve the problem after the first method failed.\n在第一种方法失败后，她决定尝试另一种方法来解决问题。\nThe company is considering another location for its new headquarters after evaluating several options.\n公司在评估几个选项后正在考虑新总部的另一个地点。"
   },
   {
     "id": "word_421",
@@ -8302,7 +8302,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːnsə/",
     "frequency": "高频",
-    "example": "Students must answer all questions on the exam paper.\n学生必须回答试卷上的所有问题。\nThe customer service representative answered the phone call politely.\n客服代表礼貌地接听电话。"
+    "example": "The student carefully answered each question on the exam to demonstrate his understanding.\n学生仔细回答考试中的每个问题以展示他的理解。\nShe struggled to find the right answer to the complex problem that the professor presented.\n她努力找到教授提出的复杂问题的正确答案。"
   },
   {
     "id": "word_422",
@@ -8323,7 +8323,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænt/",
     "frequency": "中频",
-    "example": "The ant colony works together to build complex underground tunnels.\n蚂蚁群落共同建造复杂的地下隧道。\nAnts communicate through chemical signals with each other.\n蚂蚁通过化学信号相互交流。"
+    "example": "The tiny ant carried a leaf much larger than itself back to its colony for food.\n小蚂蚁携带比自己大得多的叶子回到蚁群作为食物。\nScientists study ant behavior to understand social organization and communication in insect colonies.\n科学家研究蚂蚁行为以了解昆虫群落的社会组织和沟通。"
   },
   {
     "id": "word_423",
@@ -8344,7 +8344,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtæɡənɪst/",
     "frequency": "低频",
-    "example": "The antagonist in the story creates conflict for the protagonist.\n故事中的反面角色为主角创造冲突。\nThe muscle antagonist works in opposition to prime movers.\n拮抗肌与主动肌相反工作。"
+    "example": "The antagonist in the novel created obstacles for the hero throughout the story.\n小说中的反派在整个故事中为英雄制造障碍。\nThe antagonist muscle works against the agonist to control movement and maintain balance.\n拮抗肌对抗主动肌以控制运动并保持平衡。"
   },
   {
     "id": "word_424",
@@ -8365,7 +8365,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntideɪt/",
     "frequency": "低频",
-    "example": "This artifact antedates the ancient civilization by centuries.\n这个文物比古代文明早几个世纪。\nHistorical records antedate the founding of the modern state.\n历史记录早于现代国家的建立。"
+    "example": "The ancient manuscript antedates the printed version by several centuries according to scholars.\n根据学者的说法，古代手稿比印刷版本早几个世纪。\nThe events described in the book antedate the authors own lifetime and experiences.\n书中描述的事件早于作者自己的生平和经历。"
   },
   {
     "id": "word_425",
@@ -8386,7 +8386,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntɪdɪˈluːviən/",
     "frequency": "高频",
-    "example": "The antediluvian fossils provide evidence of prehistoric life forms.\n史前化石提供史前生命形式的证据。\nHis antediluvian ideas seem outdated in modern society.\n他的古老想法在现代社会显得过时。"
+    "example": "The antediluvian customs of the isolated community seemed outdated to modern visitors.\n孤立社区的古老习俗对现代游客来说似乎过时了。\nThe museum displays antediluvian artifacts that provide insights into prehistoric civilizations.\n博物馆展示了提供史前文明见解的古老文物。"
   },
   {
     "id": "word_426",
@@ -8407,7 +8407,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtenə/",
     "frequency": "低频",
-    "example": "The television antenna receives broadcast signals from transmission towers.\n电视天线从发射塔接收广播信号。\nInsects use antennae to detect chemical signals in their environment.\n昆虫使用触角探测环境中的化学信号。"
+    "example": "The antenna on the roof receives signals from satellites for television broadcasting.\n屋顶上的天线接收卫星信号用于电视广播。\nSome insects use their antenna to sense environmental changes and communicate with others.\n一些昆虫用它们的触角感知环境变化并与他人交流。"
   },
   {
     "id": "word_427",
@@ -8428,7 +8428,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪəriə/",
     "frequency": "高频",
-    "example": "The anterior chamber of the eye contains clear fluid.\n眼睛的前房含有清澈液体。\nAnterior knowledge refers to information acquired before an event.\n先验知识指事件发生前获得的信息。"
+    "example": "The anterior part of the brain is responsible for higher cognitive functions and decision-making.\n大脑的前部负责更高的认知功能和决策。\nThe anterior teeth in the mouth are used for cutting and tearing food during the eating process.\n口腔中的前牙用于在进食过程中切割和撕裂食物。"
   },
   {
     "id": "word_428",
@@ -8449,7 +8449,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntiruːm/",
     "frequency": "高频",
-    "example": "Visitors waited in the anteroom before entering the conference hall.\n访客在进入会议厅前在接待室等待。\nThe anteroom served as a waiting area for patients.\n接待室作为患者的等候区。"
+    "example": "Guests waited in the anteroom before being admitted to the main hall for the formal ceremony.\n客人在前厅等候，然后被允许进入正厅参加正式仪式。\nThe anteroom served as a transitional space between the entrance and the main living area.\n前厅作为入口和主要生活区之间的过渡空间。"
   },
   {
     "id": "word_429",
@@ -8470,7 +8470,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænθəm/",
     "frequency": "低频",
-    "example": "The national anthem was played during the opening ceremony.\n国歌在开幕式上演奏。\nThe school anthem promotes unity among students and faculty.\n校歌促进学生和教职员工之间的团结。"
+    "example": "The national anthem was played at the beginning of the ceremony to honor the countrys heritage.\n国歌在仪式开始时播放以纪念国家的遗产。\nThe school anthem expresses the values and traditions that students are expected to uphold.\n校歌表达了学生应该坚持的价值观和传统。"
   },
   {
     "id": "word_430",
@@ -8491,7 +8491,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪl/",
     "frequency": "低频",
-    "example": "The anthill in the garden contains thousands of working ants.\n花园里的蚁丘包含数千只工蚁。\nChildren often watch anthills for entertainment and educational purposes.\n孩子们经常观看蚁丘以获得娱乐和教育目的。"
+    "example": "The anthill was carefully constructed by thousands of ants working together over many months.\n蚁丘是由数千只蚂蚁在数月内共同精心建造的。\nScientists study anthill structures to understand the complex social organization of ant colonies.\n科学家研究蚁丘结构以了解蚁群的复杂社会组织。"
   },
   {
     "id": "word_431",
@@ -8512,7 +8512,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈθɒlədʒi/",
     "frequency": "高频",
-    "example": "The poetry anthology features works from various famous poets.\n诗集收录了多位著名诗人的作品。\nShe edited an anthology of short stories for the literary magazine.\n她为文学杂志编辑了一本短篇小说选集。"
+    "example": "The anthology of poetry includes works from famous poets spanning several centuries of literature.\n诗集包括来自著名诗人的作品，跨越几个世纪的文学。\nThe professor compiled an anthology of short stories for students to analyze in the literature course.\n教授为学生汇编了一本短篇小说集，供文学课程分析。"
   },
   {
     "id": "word_432",
@@ -8533,7 +8533,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænθrəsaɪt/",
     "frequency": "中频",
-    "example": "Anthracite coal burns longer and produces more heat than other types.\n无烟煤比其他类型燃烧更久产生更多热量。\nAnthracite mining has decreased due to environmental concerns.\n由于环境问题，无烟煤开采已经减少。"
+    "example": "Anthracite is a high-quality coal that burns cleanly and efficiently for industrial purposes.\n无烟煤是一种高质量煤炭，燃烧清洁高效，用于工业目的。\nThe mining company extracts anthracite from deep underground deposits for energy production.\n采矿公司从深层地下矿床中提取无烟煤用于能源生产。"
   },
   {
     "id": "word_433",
@@ -8554,7 +8554,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænθrəpəˈsentrɪk/",
     "frequency": "低频",
-    "example": "Anthropocentric views place human interests above all other species.\n人类中心主义观点将人类利益置于所有其他物种之上。\nAnthropocentric thinking has contributed to environmental degradation.\n人类中心主义思维导致了环境退化。"
+    "example": "The anthropocentric view places humans at the center of the universe and considers their needs paramount.\n人类中心主义观点将人类置于宇宙中心，认为他们的需求至关重要。\nCritics argue that anthropocentric thinking leads to environmental degradation and species extinction.\n批评者认为人类中心主义思维导致环境退化和物种灭绝。"
   },
   {
     "id": "word_434",
@@ -8575,7 +8575,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈænθrəpɔɪd/",
     "frequency": "高频",
-    "example": "Anthropoid apes include gorillas, chimpanzees, and orangutans.\n类人猿包括大猩猩、黑猩猩和红毛猩猩。\nThe anthropoid skeleton shares many features with human anatomy.\n类人猿骨骼与人类解剖学有许多共同特征。"
+    "example": "Anthropoid apes share many physical and behavioral characteristics with human beings.\n类人猿与人类共享许多身体和行为特征。\nScientists study anthropoid primates to understand human evolution and biological development.\n科学家研究类人猿以了解人类进化和生物发展。"
   },
   {
     "id": "word_435",
@@ -8596,7 +8596,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænθrəˈpɒlədʒi/",
     "frequency": "中频",
-    "example": "Anthropology studies human cultures societies and biological development.\n人类学研究人类文化、社会和生物发展。\nFieldwork in anthropology involves observing communities firsthand.\n人类学田野工作涉及直接观察社区。"
+    "example": "Anthropology is the study of human cultures, societies, and development throughout history.\n人类学是研究人类文化、社会和历史发展的学科。\nThe anthropology department offers courses on various aspects of human civilization and behavior.\n人类学系提供关于人类文明和行为各个方面的课程。"
   },
   {
     "id": "word_436",
@@ -8617,7 +8617,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænθrəˈpɒmɪtri/",
     "frequency": "低频",
-    "example": "Anthropometry measures human body dimensions for various applications.\n人体测量学测量人体尺寸用于各种应用。\nAnthropometry data helps design ergonomic furniture and equipment.\n人体测量数据帮助设计符合人体工程学的家具和设备。"
+    "example": "Anthropometry involves measuring human body dimensions for applications in design and health.\n人体测量学涉及测量人体尺寸，用于设计和健康应用。\nResearchers use anthropometry data to create ergonomic products that fit human body proportions.\n研究人员使用人体测量数据创造符合人体比例的人体工程学产品。"
   },
   {
     "id": "word_437",
@@ -8638,7 +8638,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌænθrəpəˈmɔːfɪzəm/",
     "frequency": "高频",
-    "example": "Anthropomorphism attributes human characteristics to animals or objects.\n拟人化将人类特征归于动物或物体。\nCartoon characters often use anthropomorphism to create emotional connections.\n卡通人物经常使用拟人化创造情感联系。"
+    "example": "Anthropomorphism is the attribution of human characteristics to non-human entities and objects.\n拟人化是将人类特征赋予非人类实体和物体。\nChildren often engage in anthropomorphism when they imagine that animals have human-like feelings.\n儿童经常在想象动物具有类似人类的感情时进行拟人化。"
   },
   {
     "id": "word_438",
@@ -8659,7 +8659,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntiˈeəkrɑːft/",
     "frequency": "中频",
-    "example": "The anti-aircraft batteries protected the city from enemy bombers.\n防空炮保护城市免受敌方轰炸机攻击。\nAnti-aircraft technology has evolved significantly over the decades.\n防空技术几十年来显著发展。"
+    "example": "The anti-aircraft guns were positioned around the city to defend against potential aerial attacks.\n防空炮部署在城市周围以防御潜在的空中攻击。\nMilitary forces deployed anti-aircraft missiles to protect strategic locations from enemy aircraft.\n军事力量部署防空导弹以保护战略地点免受敌机攻击。"
   },
   {
     "id": "word_439",
@@ -8680,7 +8680,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntibaɪˈɒtɪk/",
     "frequency": "低频",
-    "example": "The doctor prescribed an antibiotic to treat the bacterial infection.\n医生开出抗生素治疗细菌感染。\nAntibiotic resistance has become a serious global health concern.\n抗生素耐药性已成为严重的全球健康问题。"
+    "example": "The doctor prescribed an antibiotic to treat the bacterial infection that the patient had developed.\n医生处方抗生素治疗患者发展的细菌感染。\nOveruse of antibiotics can lead to resistance and make future treatments less effective.\n过度使用抗生素可能导致耐药性，使未来的治疗效果降低。"
   },
   {
     "id": "word_440",
@@ -8701,7 +8701,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntibɒdi/",
     "frequency": "高频",
-    "example": "Antibodies help the immune system fight against harmful pathogens.\n抗体帮助免疫系统对抗有害病原体。\nBlood tests detect specific antibodies to diagnose diseases.\n血液检查检测特定抗体以诊断疾病。"
+    "example": "The antibody produced by the immune system helps fight against foreign invaders like viruses.\n免疫系统产生的抗体帮助对抗像病毒这样的外来入侵者。\nScientists study antibodies to develop vaccines and treatments for various infectious diseases.\n科学家研究抗体以开发各种传染病的疫苗和治疗方法。"
   },
   {
     "id": "word_441",
@@ -8722,7 +8722,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪk/",
     "frequency": "中频",
-    "example": "The comedian performedantics to entertain the audience members.\n喜剧演员表演滑稽动作娱乐观众。\nThe childrens antics amused everyone at the birthday party.\n孩子们的滑稽动作让生日聚会的每个人都感到开心。"
+    "example": "The playful antic of the puppy amused the children who were watching in the garden.\n小狗顽皮的滑稽动作逗乐了在花园里观看的孩子们。\nThe circus performer entertained the audience with amusing antic that showcased his agility and humor.\n马戏团表演者用展示敏捷和幽默的滑稽动作娱乐观众。"
   },
   {
     "id": "word_442",
@@ -8743,7 +8743,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntikraɪst/",
     "frequency": "低频",
-    "example": "Some religious texts mention the antichrist as a future figure.\n一些宗教文本提及敌基督为未来人物。\nThe concept of antichrist varies among different religious traditions.\n敌基督的概念在不同宗教传统中有所不同。"
+    "example": "In religious texts, the antichrist is described as a figure who opposes Christ and spreads evil.\n在宗教文本中，敌基督被描述为反对基督并传播邪恶的人物。\nThe concept of the antichrist has been interpreted differently by various religious traditions throughout history.\n敌基督的概念在历史上被各种宗教传统不同地解释。"
   },
   {
     "id": "word_443",
@@ -8764,7 +8764,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪsɪpeɪt/",
     "frequency": "中频",
-    "example": "Meteorologists anticipate heavy rainfall during the monsoon season.\n气象学家预期季风季节会有大雨。\nInvestors anticipate market trends to make informed decisions.\n投资者预期市场趋势以做出明智决策。"
+    "example": "The company anticipates strong demand for its new product launch in the coming quarter.\n公司预计其新产品在下一季度的推出将有强劲需求。\nShe anticipated the challenges that might arise and prepared solutions in advance accordingly.\n她预见到可能出现的挑战，并相应地提前准备了解决方案。"
   },
   {
     "id": "word_444",
@@ -8785,7 +8785,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntikəʊˈæɡjələnt/",
     "frequency": "中频",
-    "example": "The anticoagulant prevents blood clots from forming in vessels.\n抗凝剂防止血管中形成血凝块。\nPatients on anticoagulant medication require regular blood monitoring.\n服用抗凝药物的患者需要定期血液监测。"
+    "example": "Anticoagulant medications prevent blood clots from forming in patients with certain conditions.\n抗凝药物防止患有某些疾病的患者形成血栓。\nDoctors prescribe anticoagulant drugs to patients at risk of stroke or heart attack due to clotting.\n医生向因凝血而有中风或心脏病发作风险的患者处方抗凝药物。"
   },
   {
     "id": "word_445",
@@ -8806,7 +8806,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪks/",
     "frequency": "低频",
-    "example": "The puppy antics kept the family entertained throughout the day.\n小狗的滑稽动作让家人整天开心。\nPolitical antics often dominate news coverage during election periods.\n政治滑稽动作在选举期间经常主导新闻报道。"
+    "example": "The antics of the comedian made the audience laugh throughout the entire performance.\n喜剧演员的滑稽动作让观众在整个表演中大笑。\nThe playful antics of the kittens entertained the family as they watched them play together.\n小猫顽皮的滑稽动作让家人在观看它们一起玩耍时感到娱乐。"
   },
   {
     "id": "word_446",
@@ -8827,7 +8827,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntidəʊt/",
     "frequency": "高频",
-    "example": "The antidote saved the patient from the poisonous snake bite.\n解毒剂从毒蛇咬伤中拯救了患者。\nThere is no antidote for certain viral infections currently available.\n目前某些病毒感染没有解毒剂。"
+    "example": "The antidote was administered immediately to counteract the effects of the poisonous substance.\n解毒剂立即被给予以抵消有毒物质的影响。\nResearchers are working to develop an antidote for the new toxin that has been discovered recently.\n研究人员正在努力为最近发现的新毒素开发解毒剂。"
   },
   {
     "id": "word_447",
@@ -8848,7 +8848,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪdʒən/",
     "frequency": "中频",
-    "example": "The antigen triggers an immune response in the human body.\n抗原在人体内触发免疫反应。\nBlood typing identifies antigens on red blood cell surfaces.\n血型鉴定识别红细胞表面的抗原。"
+    "example": "The antigen triggers the immune system to produce antibodies that fight against infection.\n抗原触发免疫系统产生对抗感染的抗体。\nScientists identify specific antigens to develop diagnostic tests for various diseases.\n科学家识别特定抗原以开发各种疾病的诊断测试。"
   },
   {
     "id": "word_448",
@@ -8869,7 +8869,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪpəθi/",
     "frequency": "低频",
-    "example": "His antipathy towards modern technology made adaptation difficult.\n他对现代技术的反感使适应困难。\nThe antipathy between rival groups led to ongoing conflicts.\n对立群体之间的反感导致持续冲突。"
+    "example": "She felt a strong antipathy toward the person who had betrayed her trust in the past.\n她对过去背叛她信任的人感到强烈的反感。\nThe antipathy between the two political parties made cooperation on legislation difficult.\n两个政党之间的反感使得立法合作变得困难。"
   },
   {
     "id": "word_449",
@@ -8890,7 +8890,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪfən/",
     "frequency": "高频",
-    "example": "The choir sang an antiphon during the religious ceremony.\n唱诗班在宗教仪式期间唱对唱。\nAntiphonal singing creates beautiful harmonies in worship services.\n对唱在礼拜服务中创造美丽的和声。"
+    "example": "The antiphon was sung by the choir during the religious ceremony as part of the liturgy.\n对唱曲在宗教仪式期间由合唱团演唱，作为礼拜的一部分。\nMusicians study antiphon structures to understand traditional forms of religious music composition.\n音乐家研究对唱曲结构以了解传统宗教音乐作曲形式。"
   },
   {
     "id": "word_450",
@@ -8911,7 +8911,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪpədəl/",
     "frequency": "中频",
-    "example": "Antipodal points on Earth are exactly opposite to each other.\n地球上的对跖点恰好彼此相对。\nAntipodal regions experience opposite seasons simultaneously.\n对跖地区同时经历相反的季节。"
+    "example": "Antipodal points are located on opposite sides of a sphere, such as the Earths surface.\n对极点位于球体（如地球表面）的相对两侧。\nThe antipodal regions have different climates and ecosystems due to their geographical positions.\n对极地区由于其地理位置而具有不同的气候和生态系统。"
   },
   {
     "id": "word_451",
@@ -8932,7 +8932,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪpəʊd/",
     "frequency": "低频",
-    "example": "The antipode of Europe lies in the Pacific Ocean region.\n欧洲的对跖点位于太平洋地区。\nScientists study antipode locations for geological research purposes.\n科学家为地质研究目的研究对跖位置。"
+    "example": "The antipode of a location is the point directly opposite on the Earths surface globally.\n一个地点的对极点是地球表面上直接相对的点。\nGeographers calculate antipodes to understand global geographical relationships and positions.\n地理学家计算对极点以了解全球地理关系和位置。"
   },
   {
     "id": "word_452",
@@ -8953,7 +8953,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæntɪˈkweəriən/",
     "frequency": "高频",
-    "example": "The antiquarian collects rare manuscripts from medieval periods.\n文物收藏家收集中世纪时期的稀有手稿。\nAntiquarian bookshops specialize in historical publications.\n古董书店专营历史出版物。"
+    "example": "The antiquarian collected rare books and manuscripts from ancient civilizations for his private library.\n古董收藏家为他的私人图书馆收集来自古代文明的稀有书籍和手稿。\nAn antiquarian studies historical artifacts to preserve knowledge about past cultures and traditions.\n古董收藏家研究历史文物以保存关于过去文化和传统的知识。"
   },
   {
     "id": "word_453",
@@ -8974,7 +8974,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntɪkweɪtɪd/",
     "frequency": "中频",
-    "example": "The antiquated laws need modernization to reflect current society.\n过时的法律需要现代化以反映当前社会。\nAntiquated teaching methods are being replaced with modern approaches.\n过时的教学方法正在被现代方法取代。"
+    "example": "The antiquated machinery in the factory needed to be replaced with modern equipment for efficiency.\n工厂中过时的机器需要用现代设备替换以提高效率。\nMany antiquated laws are still in effect despite being irrelevant to modern society and circumstances.\n许多过时的法律仍然有效，尽管它们与现代社会和情况无关。"
   },
   {
     "id": "word_454",
@@ -8995,7 +8995,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtiːk/",
     "frequency": "低频",
-    "example": "The antique furniture was worth thousands of dollars at auction.\n这件古董家具在拍卖会上价值数千美元。\nShe collects antique clocks from the Victorian era.\n她收集维多利亚时代的古董钟表。"
+    "example": "The antique vase was carefully preserved in the museum as a valuable historical artifact.\n古董花瓶作为有价值的历史文物在博物馆中被精心保存。\nCollectors search for antique furniture at auctions to add to their personal collections and displays.\n收藏家在拍卖会上寻找古董家具以添加到他们的个人收藏和展示中。"
   },
   {
     "id": "word_455",
@@ -9016,7 +9016,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ænˈtɪθəsɪs/",
     "frequency": "高频",
-    "example": "Darkness is the antithesis of light in philosophical discussions.\n在哲学讨论中，暗是光的反面。\nHis behavior was the antithesis of what the company represents.\n他的行为是公司所代表的东西的反面。"
+    "example": "The antithesis between good and evil is a common theme in literature and philosophical discussions.\n善与恶的对立是文学和哲学讨论中的常见主题。\nThe concept of antithesis is used in rhetoric to emphasize contrast between opposing ideas and arguments.\n对立的概念在修辞中被用来强调对立思想和论点之间的对比。"
   },
   {
     "id": "word_456",
@@ -9037,7 +9037,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntlə(r)/",
     "frequency": "中频",
-    "example": "The deer shed its antlers naturally during winter months.\n鹿在冬季自然脱落鹿角。\nAntler velvet is used in traditional medicine for various treatments.\n鹿茸用于传统医学的各种治疗。"
+    "example": "The deer shed its antler annually as part of its natural biological cycle and growth process.\n鹿每年脱落鹿角作为其自然生物周期和生长过程的一部分。\nThe antler of the moose was displayed as a trophy in the hunters cabin for many years.\n驼鹿的鹿角作为战利品在猎人的小屋里展示多年。"
   },
   {
     "id": "word_457",
@@ -9058,7 +9058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntlaɪən/",
     "frequency": "低频",
-    "example": "The antlion larva dig pits to trap unsuspecting prey.\n蚁狮幼虫挖坑陷阱毫无戒心的猎物。\nAntlion traps are commonly found in sandy soil areas.\n蚁狮陷阱常见于沙土地区。"
+    "example": "The antlion creates a pit in the sand to trap unsuspecting insects that wander too close.\n蚁狮在沙中创建陷阱以诱捕不小心靠近的无警觉昆虫。\nBiologists study antlion behavior to understand predatory mechanisms in insect species.\n生物学家研究蚁狮行为以了解昆虫物种的捕食机制。"
   },
   {
     "id": "word_458",
@@ -9079,7 +9079,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntənɪm/",
     "frequency": "低频",
-    "example": "Hot is the antonym of cold in temperature descriptions.\n在温度描述中，热是冷的反义词。\nStudents learn antonyms to expand their vocabulary knowledge.\n学生学习反义词以扩展词汇知识。"
+    "example": "The antonym of happy is sad, representing opposite meanings in the English vocabulary.\n快乐的反义词是悲伤，代表英语词汇中的相反含义。\nStudents learn antonyms to expand their vocabulary and understand word relationships better.\n学生学习反义词以扩大词汇量并更好地理解单词关系。"
   },
   {
     "id": "word_459",
@@ -9100,7 +9100,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæntrəl/",
     "frequency": "中频",
-    "example": "The antral region of the stomach produces digestive acids.\n胃窦区域产生消化酸。\nAntral biopsies help diagnose various stomach conditions.\n窦活检帮助诊断各种胃部疾病。"
+    "example": "Antral follicles in the ovary develop during the reproductive cycle in female mammals.\n窦卵泡在雌性哺乳动物的生殖周期期间在卵巢中发育。\nDoctors examine antral structures to assess fertility and reproductive health in patients.\n医生检查窦结构以评估患者的生育能力和生殖健康。"
   },
   {
     "id": "word_460",
@@ -9121,7 +9121,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æŋˈzaɪəti/",
     "frequency": "中频",
-    "example": "The anxiety about exams causes stress among students worldwide.\n对考试的焦虑引起全球学生的压力。\nMeditation helps reduce anxiety and promotes mental wellbeing.\n冥想帮助减少焦虑促进心理健康。"
+    "example": "She experienced anxiety before the important presentation that would determine her career advancement.\n她在决定她职业晋升的重要演讲前经历了焦虑。\nManaging anxiety through relaxation techniques can improve mental health and overall well-being.\n通过放松技巧管理焦虑可以改善心理健康和整体福祉。"
   },
   {
     "id": "word_461",
@@ -9142,7 +9142,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæŋkʃəs/",
     "frequency": "中频",
-    "example": "The anxious parents waited for news about their missing child.\n焦虑的父母等待关于失踪孩子的消息。\nShe felt anxious about the upcoming job interview tomorrow.\n她对明天即将到来的工作面试感到焦虑。"
+    "example": "The anxious student waited nervously for the exam results that would affect her future.\n焦虑的学生紧张地等待将影响她未来的考试结果。\nParents felt anxious about their childs safety during the school trip to the remote area.\n父母在孩子去偏远地区的学校旅行期间对孩子的安全感到焦虑。"
   },
   {
     "id": "word_462",
@@ -9163,7 +9163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeni/",
     "frequency": "高频",
-    "example": "Any student who finishes early may leave the examination room.\n任何提前完成的学生可以离开考场。\nYou can choose any restaurant for our dinner tonight.\n你可以选择任何餐厅作为我们今晚的晚餐。"
+    "example": "Any student who completes the requirements can graduate from the program this semester.\n任何完成要求的学生都可以在本学期从该项目毕业。\nThe company accepts any qualified applicant who meets the criteria for the position.\n公司接受任何符合该职位标准的合格申请人。"
   },
   {
     "id": "word_463",
@@ -9184,7 +9184,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈenibɒdi/",
     "frequency": "高频",
-    "example": "Anybody can learn to code with proper training and resources.\n任何人都可以通过适当的培训和资源学习编程。\nIs anybody home in this old abandoned house?\n这座废弃老房子里有人吗？"
+    "example": "Anybody interested in learning can attend the free workshop offered by the community center.\n任何有兴趣学习的人都可以参加社区中心提供的免费工作坊。\nThe policy applies to anybody who works in the organization regardless of their position.\n该政策适用于在该组织工作的任何人，无论其职位如何。"
   },
   {
     "id": "word_464",
@@ -9205,7 +9205,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈenihaʊ/",
     "frequency": "中频",
-    "example": "The project failed anyhow despite all the hard work invested.\n尽管投入了所有努力，项目无论如何都失败了。\nAnyhow, we should proceed with the original plan.\n无论如何，我们应该继续执行原计划。"
+    "example": "Anyhow, we managed to complete the project despite the numerous challenges we encountered.\n无论如何，我们设法完成了项目，尽管我们遇到了许多挑战。\nShe decided to proceed anyhow because she believed the outcome would be worth the effort.\n她决定无论如何都要继续，因为她相信结果值得努力。"
   },
   {
     "id": "word_465",
@@ -9226,7 +9226,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniwʌn/",
     "frequency": "高频",
-    "example": "Does anyone have questions about the assignment requirements?\n有人对作业要求有问题吗？\nAnyone can participate in the charity event by registering online.\n任何人都可以通过在线注册参加慈善活动。"
+    "example": "Anyone who violates the rules will face consequences according to the established policies.\n任何违反规则的人将根据既定政策面临后果。\nThe competition is open to anyone with the skills and determination to participate successfully.\n比赛对任何有技能和决心成功参与的人开放。"
   },
   {
     "id": "word_466",
@@ -9247,7 +9247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniθɪŋ/",
     "frequency": "高频",
-    "example": "The museum has anything from ancient artifacts to modern art.\n博物馆有从古代文物到现代艺术的任何东西。\nWould you like anything to drink with your meal?\n你想在用餐时喝点什么吗？"
+    "example": "She was willing to do anything to help her friend who was going through difficult times.\n她愿意做任何事情来帮助正在经历困难时期的朋友。\nThe store sells anything from basic household items to luxury products for discerning customers.\n商店出售从基本家居用品到奢侈产品的任何东西，供有眼光的顾客选择。"
   },
   {
     "id": "word_467",
@@ -9268,7 +9268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniweɪ/",
     "frequency": "高频",
-    "example": "The weather was bad, but we enjoyed the trip anyway.\n天气不好，但我们还是享受了这次旅行。\nI dont need the ticket anymore, so you can have it anyway.\n我不再需要票了，所以你可以拿去。"
+    "example": "Anyway, the meeting continued despite the absence of several key participants.\n无论如何，尽管缺少几位关键参与者，会议继续进行。\nShe decided to pursue her goals anyway because she believed in her ability to succeed.\n她决定无论如何都要追求她的目标，因为她相信自己的成功能力。"
   },
   {
     "id": "word_468",
@@ -9289,7 +9289,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeniweə/",
     "frequency": "高频",
-    "example": "You can find comfortable hotels anywhere in the major cities.\n你可以在主要城市的任何地方找到舒适的酒店。\nThis species of bird can be found anywhere near water sources.\n这种鸟类可以在水源附近的任何地方找到。"
+    "example": "The lost dog wandered anywhere in the neighborhood searching for its home and family.\n丢失的狗在社区里到处游荡，寻找它的家和家人。\nWith internet access, you can work from anywhere in the world as long as you have connection.\n有了互联网接入，你可以在世界任何地方工作，只要你有连接。"
   },
   {
     "id": "word_469",
@@ -9310,7 +9310,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/eɪˈɔːtə/",
     "frequency": "中频",
-    "example": "The aorta is the largest artery carrying blood from the heart.\n主动脉是从心脏输送血液的最大动脉。\nAortic aneurysms require immediate medical attention and treatment.\n主动脉瘤需要立即医疗关注和治疗。"
+    "example": "The aorta is the main artery that carries blood from the heart to the rest of the body.\n主动脉是将血液从心脏输送到身体其他部位的主要动脉。\nDoctors monitor the aorta for signs of disease that could lead to serious health complications.\n医生监测主动脉是否有可能导致严重健康并发症的疾病迹象。"
   },
   {
     "id": "word_470",
