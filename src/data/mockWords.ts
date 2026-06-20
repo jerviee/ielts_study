@@ -113361,7 +113361,7 @@ export const mockWords: IELTSWord[] = [
   {
     "id": "word_5593",
     "word": "solidarity",
-    "meaning": "n. 性质；状态",
+    "meaning": "n. 团结；团结一致",
     "level": "IELTS6",
     "root": "solid",
     "rootMeaning": "团结；一致",
@@ -114033,7 +114033,7 @@ export const mockWords: IELTSWord[] = [
   {
     "id": "word_5625",
     "word": "spacious",
-    "meaning": "adj. 充满...的Spaci",
+    "meaning": "adj. 宽敞的；广阔的",
     "level": "IELTS8",
     "root": "space",
     "rootMeaning": "宽敞的；广阔的",
