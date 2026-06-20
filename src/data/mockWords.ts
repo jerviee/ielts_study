@@ -48520,7 +48520,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/does/",
     "frequency": "高频",
-    "example": "The extra homework given by the teacher does not necessarily mean students have less free time.\n老师布置的额外作业并不一定意味着学生的自由时间减少。\nA good university education does open many doors to better career opportunities in the future.\n良好的大学教育确实为未来更好的职业机会打开了许多大门。",
+    "example": "The comprehensive research study does provide strong evidence supporting the effectiveness of the new treatment method.\n这项综合研究确实提供了强有力的证据，支持新治疗方法的有效性。\nA well structured educational program does significantly improve learning outcomes for students from diverse backgrounds.\n结构良好的教育计划确实显著改善了来自不同背景学生的学习成果。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48541,7 +48541,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dollar/",
     "frequency": "中频",
-    "example": "The beautiful antique vase was sold for thousands of dollars at the prestigious auction house.\n这只美丽的古董花瓶在著名的拍卖行以数千美元售出。\nThe exchange rate between the US dollar and the Euro fluctuates daily based on global market conditions.\n美元和欧元之间的汇率根据全球市场条件每日波动。",
+    "example": "The antique painting was sold for several million dollars at the prestigious international auction house.\n这幅古董画在著名的国际拍卖行以数百万美元售出。\nThe exchange rate between the US dollar and major currencies fluctuates daily based on global economic conditions.\n美元与主要货币之间的汇率根据全球经济条件每日波动。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48562,7 +48562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/domain/",
     "frequency": "低频",
-    "example": "The internet domain name system allows users to access websites using easy to remember domain addresses.\n互联网域名系统允许用户使用易于记忆的域名地址访问网站。\nThe government claimed that the disputed ocean territory fell within its sovereign domain.\n政府声称争议海洋领土属于其主权管辖范围。",
+    "example": "The internet domain name system enables users to access websites using memorable addresses instead of numerical codes.\n互联网域名系统让用户能够使用易记的地址而非数字代码访问网站。\nThe government asserted that the disputed territory fell within its sovereign domain according to historical records.\n政府声称根据历史记录，争议领土属于其主权管辖范围。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48583,7 +48583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/domestic/",
     "frequency": "高频",
-    "example": "Domestic flights are often less expensive than international routes.\n国内航班通常比国际航线便宜。\nDomestic violence affects families across all socioeconomic backgrounds.\n家庭暴力影响所有社会经济背景的家庭。",
+    "example": "Domestic violence remains a serious social issue that affects millions of families across all economic backgrounds.\n家庭暴力仍然是一个影响所有经济背景数百万家庭的严重社会问题。\nDomestic airline flights are typically much cheaper than international routes during the off peak travel seasons.\n国内航班在淡季旅行期间通常比国际航线便宜很多。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48604,7 +48604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dominant/",
     "frequency": "中频",
-    "example": "The company maintains a dominant position in the global technology market.\n该公司在全球技术市场保持主导地位。\nThe left hand is dominant in approximately ninety percent of people.\n左手在约百分之九十的人中占主导地位。",
+    "example": "The dominant technology company has maintained its leading market position through continuous innovation and strategic acquisitions.\n这家主导技术公司通过持续创新和战略收购保持了其领先市场地位。\nThe left hand is dominant in approximately ninety percent of the global population according to scientific studies.\n根据科学研究，左手在全球约百分之九十的人口中占主导地位。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48625,7 +48625,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dominate/",
     "frequency": "低频",
-    "example": "Large corporations tend to dominate industries with significant capital requirements.\n大型企业往往主导需要大量资本的产业。\nThe ruling party has dominated national politics for several decades.\n执政党几十年来一直主导国家政治。",
+    "example": "Large multinational corporations tend to dominate global markets with their extensive resources and established brand recognition.\n大型跨国公司往往以其丰富的资源和已建立的品牌认知主导全球市场。\nThe ruling political party has dominated the national government for several consecutive decades.\n执政党已连续几十年主导国家政府。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48646,7 +48646,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donate/",
     "frequency": "高频",
-    "example": "Charitable organizations rely on generous individuals and corporations to donate money and essential resources.\n慈善机构依靠慷慨的个人和公司捐款和基本资源。\nShe decided to donate all her old warm clothes to the local shelter for homeless people.\n她决定把所有的旧衣服捐给当地的无家可归者收容所。",
+    "example": "The charitable organization relies on generous individuals and corporations to donate essential funds and resources.\n慈善组织依靠慷慨的个人和企业捐赠必要的资金和资源。\nShe decided to donate her collection of warm clothing to the local shelter for homeless people.\n她决定将收集的保暖衣物捐给当地的无家可归者收容所。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48667,7 +48667,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donation/",
     "frequency": "中频",
-    "example": "The charitable donation helped establish new scholarship programs for students.\n慈善捐款帮助建立了新的学生奖学金项目。\nBlood donation centers depend on voluntary donations to save lives.\n献血中心依赖自愿献血来拯救生命。",
+    "example": "The university organized a successful blood donation drive that collected over five hundred units from volunteers.\n大学组织了一场成功的献血活动，从志愿者那里收集了超过五百单位血液。\nThe art museum gratefully acknowledged the generous donation of valuable paintings from the anonymous collector.\n艺术博物馆感谢匿名收藏家慷慨捐赠珍贵画作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48688,7 +48688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donkey/",
     "frequency": "低频",
-    "example": "The donkey carried supplies along the narrow mountain trail for many years.\n这头驴沿着狭窄的山路运送物资多年。\nDonkeys are known for their sure footedness on difficult terrain.\n驴子以其在困难地形上的稳健步伐而闻名。",
+    "example": "The patient donkey has been used for centuries by farmers to transport heavy loads across difficult mountain terrain.\n耐心的驴子几个世纪以来一直被农民用来在艰难的山地地形中运送重物。\nDonkeys are well known for their stubbornness but also for their remarkable intelligence and endurance abilities.\n驴子以其固执著称，但也因其非凡的智慧和耐力能力而闻名。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48709,7 +48709,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/donor/",
     "frequency": "高频",
-    "example": "The bone marrow donor saved the childs life with a successful transplant.\n骨髓捐赠者通过成功的移植挽救了孩子的生命。\nThe anonymous donor contributed significantly to the universitys research fund.\n匿名捐赠者为大学研究基金做出了重大贡献。",
+    "example": "The national organ donor registry helps match available organs with patients who urgently need life saving transplants.\n国家器官捐赠者注册处帮助将可用器官与迫切需要救命移植的患者进行匹配。\nThe wealthy donor contributed significantly to the university scholarship fund for underprivileged students.\n富有的捐赠者为贫困学生的大学奖学金基金做出了重大贡献。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48730,7 +48730,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doom/",
     "frequency": "中频",
-    "example": "Pessimistic predictions about environmental doom have encouraged many governments to take climate action.\n对环境厄运的悲观预测鼓励了许多政府采取气候行动。\nThe ill fated voyage was doomed from the start due to inadequate supplies and poor planning.\n由于供应不足和计划不善，命运多舛的航行从一开始就注定失败。",
+    "example": "Many scientific predictions about environmental doom have encouraged governments worldwide to take stronger climate action.\n许多关于环境厄运的科学预测鼓励世界各国政府采取更有力的气候行动。\nThe ill fated expedition was doomed from the beginning due to inadequate supplies and poor planning.\n命运多舛的探险从一开始就注定失败，原因是供应不足和计划不善。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48751,7 +48751,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/door/",
     "frequency": "低频",
-    "example": "Please close the door when leaving the air conditioned room to maintain the proper temperature.\n离开空调房间时请关门，以保持适当的温度。\nThe grand front door of the historic mansion was decorated with elaborate hand carved wooden patterns.\n这座历史豪宅的宏伟前门装饰着精心手工雕刻的木质图案。",
+    "example": "Please remember to close the door when leaving the air conditioned room to maintain the proper temperature.\n离开空调房间时请记得关门，以保持适当的温度。\nThe magnificent front door of the historic mansion was decorated with elaborate hand carved wooden patterns.\n这座历史豪宅的宏伟前门装饰着精心手工雕刻的木质图案。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48772,7 +48772,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doorway/",
     "frequency": "高频",
-    "example": "She stood thoughtfully in the antique doorway, admiring the beautiful craftsmanship of the past.\n她若有所思地站在古董门口，欣赏着过去的精美工艺。\nThe large wooden doorway was too narrow to accommodate the wide furniture being moved into the house.\n大木门口太窄，无法容纳正在搬入房屋的宽大家具。",
+    "example": "She stood peacefully in the antique doorway admiring the beautiful sunset over the distant mountain range.\n她平静地站在古董门口，欣赏远处山脉上的美丽日落。\nThe narrow entrance doorway was unfortunately too small for the large antique furniture to pass through.\n狭窄的入口门道不幸太小，大型古董家具无法通过。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48793,7 +48793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dorm/",
     "frequency": "中频",
-    "example": "She lives in the dorm during her first year at university.\n她在大学第一年住在宿舍。\nThe dorm has facilities for over two hundred students.\n宿舍有容纳超过两百名学生的设施。",
+    "example": "The university dorm provides comfortable accommodation for hundreds of students during the academic year.\n大学宿舍在学年期间为数百名学生提供舒适的住宿。\nLiving in a dorm offers students the opportunity to meet people from diverse cultural backgrounds and make friends.\n住在宿舍为学生提供了结识来自不同文化背景的人并交朋友的机会。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48814,7 +48814,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dormitory/",
     "frequency": "低频",
-    "example": "The dormitory provides comfortable accommodation for students.\n宿舍为学生提供舒适的住宿。\nEach dormitory room is shared by two students.\n每个宿舍房间由两名学生共用。",
+    "example": "The spacious dormitory building houses over two thousand students in shared and private rooms during the semester.\n宽敞的宿舍楼在学期期间在共享和私人房间中容纳了超过两千名学生。\nInternational students often choose to live in the dormitory to experience campus community life and culture.\n国际学生经常选择住在宿舍以体验校园社区生活和文化。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48835,7 +48835,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dose/",
     "frequency": "高频",
-    "example": "The medicine should be taken in the correct dose as prescribed by the physician.\n药物应按照医生的处方服用正确的剂量。\nA single dose of this vaccine is usually sufficient to provide protection for several years.\n这种疫苗的单次剂量通常足以提供数年的保护。",
+    "example": "The physician prescribed a specific dose of antibiotics to be taken twice daily for one week.\n医生开了特定剂量的抗生素，每日两次服用一周。\nIt is critically important to take the correct dose of medication as instructed by your healthcare provider.\n按照医疗服务提供者的指示服用正确剂量的药物至关重要。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48856,7 +48856,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/double/",
     "frequency": "中频",
-    "example": "The hotel room cost has doubled in price since last year due to increased tourism demand.\n由于旅游需求增加，酒店房间价格自去年以来翻了一番。\nThe company announced plans to double its workforce within the next two years.\n公司宣布计划在未来两年内将其员工人数翻倍。",
+    "example": "The company announced that its annual profits had doubled due to successful expansion into international markets.\n公司宣布其年度利润因成功扩张到国际市场而翻了一番。\nThe population of the small town has doubled since the new manufacturing facility opened nearby.\n自新制造设施在附近开业以来，这个小镇的人口翻了一番。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48877,7 +48877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/doubt/",
     "frequency": "低频",
-    "example": "There is no reason to doubt the accuracy of the scientific findings published in the journal.\n没有理由怀疑发表在期刊上的科学发现的准确性。\nDespite mounting evidence, the skeptic continued to express doubt about the validity of the theory.\n尽管证据越来越多，怀疑者仍继续对该理论的有效性表示怀疑。",
+    "example": "There is absolutely no reason to doubt the accuracy of the scientific findings published in the prestigious journal.\n完全没有理由怀疑发表在著名期刊上的科学发现的准确性。\nDespite mounting evidence, some skeptics continue to express doubt about the validity of the theory.\n尽管证据越来越多，一些怀疑者仍继续对该理论的有效性表示怀疑。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48898,7 +48898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/down/",
     "frequency": "高频",
-    "example": "The exhausted hiker sat down on the rock to rest before continuing up the mountain trail.\n疲惫的徒步旅行者坐在岩石上休息，然后继续登山。\nThe old abandoned building finally came down after years of deterioration and neglect.\n这座废弃的旧建筑在多年的恶化和忽视后终于倒塌了。",
+    "example": "The exhausted marathon runner finally collapsed down on the ground after crossing the finish line.\n疲惫的马拉松运动员在越过终点线后终于倒在地上。\nThe old abandoned building eventually came down after years of structural deterioration and neglect.\n这座废弃的旧建筑在多年的结构恶化和忽视后终于倒塌了。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48919,7 +48919,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/downstairs/",
     "frequency": "中频",
-    "example": "The family went downstairs to the basement to play board games together during the storm.\n暴风雨期间，这家人下楼到地下室一起玩棋盘游戏。\nThe cozy restaurant downstairs serves the most delicious traditional breakfast in the neighborhood.\n楼下的舒适餐厅提供附近最美味的传统早餐。",
+    "example": "The family went downstairs to the living room to watch a movie together on the large screen television.\n这家人下楼到客厅，在大屏幕电视上一同观看电影。\nThe cozy restaurant downstairs serves delicious traditional cuisine at very reasonable prices.\n楼下舒适的餐厅以非常合理的价格提供美味的传统菜肴。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48940,7 +48940,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/downtown/",
     "frequency": "低频",
-    "example": "The vibrant downtown area attracts thousands of tourists every year with its shops and entertainment.\n充满活力的市中心地区以其商店和娱乐活动每年吸引成千上万的游客。\nShe secured a prestigious job at a major corporation headquartered downtown.\n她在一家总部位于市中心的大公司获得了一份 prestigious 的工作。",
+    "example": "The vibrant downtown area attracts thousands of tourists annually with its numerous shops and entertainment venues.\n充满活力的市中心地区以其众多商店和娱乐场所每年吸引成千上万的游客。\nShe secured a prestigious position at a major financial corporation headquartered in the downtown business district.\n她在一家总部位于市中心商业区的大型金融公司获得了一个 prestigious 的职位。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48961,7 +48961,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/downward/",
     "frequency": "高频",
-    "example": "The downward trajectory of unemployment rates indicates economic recovery is underway.\n失业率的下降轨迹表明经济复苏正在进行中。\nThe experienced skydiver guided the parachute downward toward the designated landing zone.\n经验丰富的跳伞者引导降落伞向下朝指定降落区飞去。",
+    "example": "The downward trend in housing prices has continued for the third consecutive month according to market analysts.\n房价下跌趋势已连续第三个月持续，根据市场分析师的说法。\nThe experienced skydiver skillfully guided the parachute downward toward the designated landing zone.\n经验丰富的跳伞者熟练地引导降落伞向下朝指定降落区飞去。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -48982,7 +48982,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dozen/",
     "frequency": "中频",
-    "example": "She bought a dozen eggs from the supermarket yesterday.\n她昨天从超市买了一打鸡蛋。\nThere were dozens of people waiting in line for tickets.\n有几十个人排队买票。",
+    "example": "The generous donor contributed several dozen computers to the school for the new technology program.\n慷慨的捐赠者为学校的新技术项目捐赠了数十台电脑。\nWe ordered a dozen pizzas for the large birthday party that was attended by over fifty guests.\n我们为超过五十位客人参加的大型生日派对订购了十二个披萨。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -49003,7 +49003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/draft/",
     "frequency": "低频",
-    "example": "The first draft of the novel needs significant revision.\n小说的初稿需要大幅修改。\nShe sent the draft proposal to her manager for approval.\n她把提案草稿发给经理审批。"
+    "example": "The writer completed the first draft of the novel after months of intensive research and creative writing.\n作家在经过数月的研究和创意写作后完成了小说的初稿。\nThe government released a draft proposal for the new environmental regulations to solicit public feedback.\n政府发布了新环境法规的草案提案，以征求公众反馈。"
   },
   {
     "id": "word_2493",
@@ -49018,7 +49018,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drag/",
     "frequency": "高频",
-    "example": "Please do not drag your feet when walking in the hallway.\n在走廊行走时请不要拖着脚走。\nThe heavy box was difficult to drag across the floor.\n沉重的箱子很难在地板上拖动。"
+    "example": "The heavy suitcase was difficult to drag across the rough pavement toward the train station entrance.\n沉重的行李箱很难在粗糙的路面拖向火车站入口。\nThe prolonged legal proceedings continued to drag on for years without reaching a final resolution.\n漫长的法律程序继续拖延多年，没有达成最终解决方案。"
   },
   {
     "id": "word_2494",
@@ -49033,7 +49033,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dragon/",
     "frequency": "中频",
-    "example": "The dragon is a mythical creature in many ancient stories.\n龙是许多古老故事中的神话生物。\nThe festival featured a colorful dragon dance performance.\n节日有丰富多彩的舞龙表演。"
+    "example": "The ancient mythology describes a powerful dragon that guarded the treasure in the mountain cave for centuries.\n古代神话描述了一条强大的龙，在山洞里守护宝藏数百年。\nThe dragon is a significant symbol in many Asian cultures representing power and good fortune.\n龙在许多亚洲文化中是一个重要的象征，代表力量和好运。"
   },
   {
     "id": "word_2495",
@@ -49048,7 +49048,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drain/",
     "frequency": "低频",
-    "example": "The drain in the sink was clogged with debris.\n水槽的排水管被碎片堵塞。\nShe felt emotionally drained after the long meeting.\n她在漫长的会议后感到精疲力竭。"
+    "example": "The clogged kitchen drain caused water to overflow onto the floor and required immediate professional repair.\n堵塞的厨房下水道导致水溢出到地板上，需要立即专业维修。\nThe government decided to drain the swampy area to create more agricultural land for local farmers.\n政府决定排干沼泽地区，为当地农民创造更多农田。"
   },
   {
     "id": "word_2496",
@@ -49063,7 +49063,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drainage/",
     "frequency": "高频",
-    "example": "The drainage system prevents flooding during heavy rains.\n排水系统防止大雨期间洪水。\nProper drainage is essential for maintaining healthy soil.\n适当的排水对于保持健康土壤至关重要。"
+    "example": "The city invested millions in improving the drainage system to prevent flooding during heavy rainfall.\n城市投资数百万改善排水系统，以防止大雨期间的洪水。\nPoor drainage in the agricultural fields resulted in significant crop losses during the rainy season.\n农田排水不良导致雨季期间农作物严重损失。"
   },
   {
     "id": "word_2497",
@@ -49078,7 +49078,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drama/",
     "frequency": "中频",
-    "example": "The drama club will perform a play next weekend.\n戏剧俱乐部下周末将表演一出戏。\nShe enjoys watching drama movies on television.\n她喜欢在电视上看戏剧电影。"
+    "example": "The television drama series became extremely popular due to its compelling storyline and talented cast.\n这部电视剧因其引人入胜的故事线和才华横溢的演员阵容而变得非常受欢迎。\nShe studied drama and theater arts at the prestigious university to pursue her acting career.\n她在著名大学学习戏剧和戏剧艺术，以追求她的演艺事业。"
   },
   {
     "id": "word_2498",
@@ -49093,7 +49093,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dramatic/",
     "frequency": "低频",
-    "example": "The dramatic ending of the movie surprised everyone.\n电影的戏剧性结局让每个人都感到惊讶。\nThere has been a dramatic improvement in technology recently.\n最近技术有了戏剧性的改进。"
+    "example": "The dramatic increase in oil prices significantly affected the global economy and consumer spending worldwide.\n石油价格的 dramatic 增长显著影响了全球经济和全球消费者支出。\nThe actor delivered a dramatic performance that earned him critical acclaim and numerous awards.\n这位演员呈现了一场 dramatic 的表演，为他赢得了评论界的赞誉和众多奖项。"
   },
   {
     "id": "word_2499",
@@ -49108,7 +49108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drank/",
     "frequency": "中频",
-    "example": "She drank a cup of coffee before starting her work.\n她在开始工作前喝了一杯咖啡。\nThe children drank all the juice during the party.\n孩子们在派对期间喝了所有的果汁。"
+    "example": "The thirsty hikers drank all the water they had brought before reaching the mountain summit.\n口渴的徒步旅行者在到达山顶前喝光了他们带来的所有水。\nHe drank too much coffee during the long night shift and could not sleep afterwards.\n他在漫长的夜班期间喝了太多咖啡，之后无法入睡。"
   },
   {
     "id": "word_2500",
@@ -49123,7 +49123,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drape/",
     "frequency": "低频",
-    "example": "She decided to drape the curtains over the window.\n她决定把窗帘挂在窗户上。\nThe fabric was draped elegantly over the furniture.\n织物优雅地覆盖在家具上。"
+    "example": "The elegant curtains were carefully draped over the large windows in the formal dining room.\n优雅的窗帘被精心地悬挂在正式餐厅的大窗户上。\nThe artist draped the fabric over the model to create a beautiful composition for the painting.\n艺术家将织物悬挂在模特身上，为画作创造美丽的构图。"
   },
   {
     "id": "word_2501",
@@ -49138,7 +49138,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drastically/",
     "frequency": "高频",
-    "example": "The policy changed drastically after the new government took office.\n新政府上台后，政策发生了巨大变化。\nThe weather has changed drastically over the past few days.\n过去几天天气发生了巨大变化。"
+    "example": "The company drastically reduced its workforce due to the economic recession and declining revenues.\n由于经济衰退和收入下降，公司大幅减少了员工人数。\nThe new policy drastically changed the way healthcare services are delivered to patients.\n新政策 drastically 改变了向患者提供医疗服务的方式。"
   },
   {
     "id": "word_2502",
@@ -49153,7 +49153,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/draw/",
     "frequency": "高频",
-    "example": "She likes to draw pictures of nature in her free time.\n她喜欢在空闲时间画大自然的图画。\nThe game ended in a draw with both teams scoring equally.\n比赛以平局结束，两队得分相同。"
+    "example": "The talented artist can draw realistic portraits of people using only a pencil and paper.\n这位才华横溢的艺术家可以仅用铅笔和纸绘制逼真的人物肖像。\nThe lottery draw will determine the winners of the substantial cash prizes announced earlier.\n彩票抽奖将决定之前宣布的大额现金奖金的获奖者。"
   },
   {
     "id": "word_2503",
@@ -49168,7 +49168,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawer/",
     "frequency": "中频",
-    "example": "She kept her important documents in the top drawer.\n她把重要文件放在顶层抽屉里。\nThe drawer was stuck and could not be opened easily.\n抽屉卡住了，不容易打开。"
+    "example": "She organized all her important documents in the top drawer of the filing cabinet.\n她将所有重要文件整理在文件柜的最上层抽屉里。\nThe antique desk has multiple small drawers for storing writing materials and personal items.\n这张古董书桌有多个小抽屉，用于存放书写材料和私人物品。"
   },
   {
     "id": "word_2504",
@@ -49183,7 +49183,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawing/",
     "frequency": "低频",
-    "example": "The drawing of the landscape was displayed in the gallery.\n风景画在画廊展出。\nShe spent hours working on her drawing assignment.\n她花了几个小时完成绘画作业。"
+    "example": "The architectural drawing showed detailed plans for the new hospital construction project.\n建筑图纸显示了新医院建设项目的详细计划。\nHer beautiful drawing of the landscape won first prize in the regional art competition.\n她美丽的风景画在地区艺术比赛中获得一等奖。"
   },
   {
     "id": "word_2505",
@@ -49198,7 +49198,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawl/",
     "frequency": "中频",
-    "example": "He spoke with a slow drawl that was characteristic of the region.\n他说话带有该地区特有的慢吞吞的拖腔。\nThe southern drawl made his speech distinctive and memorable.\n南方拖腔使他的演讲独特且令人难忘。"
+    "example": "The southern farmer spoke with a slow drawl that was characteristic of the rural region.\n这位南方农民说话带有慢吞吞的拖长音，这是该农村地区的特征。\nHis distinctive drawl made him easily recognizable whenever he spoke on the telephone.\n他独特的拖长音使他每次在电话上说话时都很容易被认出。"
   },
   {
     "id": "word_2506",
@@ -49213,7 +49213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drawn/",
     "frequency": "低频",
-    "example": "The match was drawn with both teams scoring two goals.\n比赛以两队各进两球而平局。\nShe was drawn to the beautiful scenery of the countryside.\n她被乡村美丽的风景所吸引。"
+    "example": "The ancient map was drawn by hand using traditional techniques and natural pigments.\n这张古老的地图是用传统技术和天然颜料手工绘制的。\nShe was drawn to the beautiful painting in the museum gallery and spent hours studying it.\n她被博物馆画廊里的美丽画作所吸引，花了几个小时研究它。"
   },
   {
     "id": "word_2507",
@@ -49228,7 +49228,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dreadful/",
     "frequency": "中频",
-    "example": "The dreadful weather ruined our plans for the weekend.\n糟糕的天气毁了我们周末的计划。\nThe dreadful news shocked everyone in the community.\n可怕的消息震惊了社区里的每个人。"
+    "example": "The dreadful weather conditions forced the organizers to cancel the outdoor music festival completely.\n糟糕的天气条件迫使组织者完全取消了户外音乐节。\nThe dreadful news about the accident spread quickly throughout the small community.\n关于事故的可怕消息在整个小社区迅速传播。"
   },
   {
     "id": "word_2508",
@@ -49243,7 +49243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dream/",
     "frequency": "低频",
-    "example": "She had a wonderful dream about traveling around the world.\n她有一个环游世界的美好梦想。\nHis dream of becoming a doctor finally came true.\n他成为医生的梦想终于实现了。"
+    "example": "She had a vivid dream about traveling to exotic destinations around the world.\n她做了一个生动的梦，梦见在世界各地 exotic 的目的地旅行。\nAchieving his lifelong dream of becoming a professional musician required years of dedicated practice.\n实现他成为职业音乐家的毕生梦想需要多年的 dedicated 练习。"
   },
   {
     "id": "word_2509",
@@ -49258,7 +49258,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dress/",
     "frequency": "高频",
-    "example": "She wore a beautiful dress to the wedding ceremony.\n她在婚礼仪式上穿了一件漂亮的连衣裙。\nThe dress was designed by a famous fashion designer.\n这件连衣裙是由著名时装设计师设计的。"
+    "example": "The bride wore an elegant white dress specially designed for the wedding ceremony.\n新娘穿着专门为婚礼设计的优雅白色礼服。\nShe decided to dress formally for the important business meeting with potential investors.\n她决定为与潜在投资者的重要商务会议正式着装。"
   },
   {
     "id": "word_2510",
@@ -49273,7 +49273,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drift/",
     "frequency": "中频",
-    "example": "The boat began to drift slowly away from the shore.\n船开始慢慢漂离岸边。\nShe felt her thoughts drift during the boring lecture.\n在无聊的讲座期间，她感到思绪飘散。"
+    "example": "The wooden boat began to drift slowly away from the shore due to the gentle current.\n木船因温和的水流开始慢慢漂离岸边。\nThe conversation drifted from one topic to another as the evening progressed.\n随着夜晚的进行，对话从一个话题漂移到另一个话题。"
   },
   {
     "id": "word_2511",
@@ -49288,7 +49288,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drill/",
     "frequency": "低频",
-    "example": "The construction workers used a drill to make holes.\n建筑工人用钻机打洞。\nThe military drill was intense and demanding for soldiers.\n军事演习对士兵来说紧张而苛刻。"
+    "example": "The construction workers used a powerful drill to bore holes into the concrete foundation.\n建筑工人使用强力钻机在混凝土基础上钻孔。\nThe military drill was designed to train soldiers for emergency combat situations.\n军事演习旨在训练士兵应对紧急战斗情况。"
   },
   {
     "id": "word_2512",
@@ -49303,7 +49303,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drink/",
     "frequency": "高频",
-    "example": "Please drink plenty of water during the hot summer days.\n在炎热的夏天请多喝水。\nShe decided to drink tea instead of coffee this morning.\n她今天早上决定喝茶而不是咖啡。"
+    "example": "It is important to drink plenty of water during physical exercise to prevent dehydration.\n在体育锻炼期间喝大量水以防止脱水很重要。\nThe restaurant offers a variety of refreshing drinks including fresh juices and herbal teas.\n餐厅提供各种清爽饮料，包括新鲜果汁和草药茶。"
   },
   {
     "id": "word_2513",
@@ -49318,7 +49318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drip/",
     "frequency": "低频",
-    "example": "The faucet was dripping water slowly throughout the night.\n水龙头整夜慢慢滴水。\nThe drip from the ceiling indicated a leak in the roof.\n天花板滴水表明屋顶有泄漏。"
+    "example": "The leaky faucet continued to drip water throughout the night causing annoyance to the residents.\n漏水的水龙头整夜滴水，让居民感到烦恼。\nThe gentle drip of rain from the roof created a soothing sound in the quiet garden.\n屋顶雨水的轻柔滴落声在安静的花园中创造了舒缓的声音。"
   },
   {
     "id": "word_2514",
@@ -49333,7 +49333,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drive/",
     "frequency": "高频",
-    "example": "She learned to drive a car when she was eighteen.\n她在十八岁时学会了开车。\nThe long drive to the countryside was enjoyable and relaxing.\n开车去乡村的长途旅行令人愉快和放松。"
+    "example": "The long drive through the scenic countryside took several hours to reach the destination.\n穿过风景如画的乡村的长途驾驶花了几个小时才到达目的地。\nHer strong ambition and determination drive her to achieve excellence in her professional career.\n她强烈的雄心和决心驱使她在职业生涯中追求卓越。"
   },
   {
     "id": "word_2515",
@@ -49348,7 +49348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/driver/",
     "frequency": "中频",
-    "example": "The bus driver greeted passengers as they boarded.\n公交车司机在乘客上车时问候他们。\nThe taxi driver took her to the airport efficiently.\n出租车司机高效地把她送到机场。"
+    "example": "The experienced taxi driver navigated through the busy city streets with remarkable skill.\n经验丰富的出租车司机以非凡的技巧穿行于繁忙的城市街道。\nThe bus driver ensured that all passengers reached their destinations safely and on time.\n公交车司机确保所有乘客安全准时到达目的地。"
   },
   {
     "id": "word_2516",
@@ -49363,7 +49363,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drop/",
     "frequency": "低频",
-    "example": "Please do not drop your trash on the street.\n请不要在街上扔垃圾。\nThe temperature dropped significantly during the night.\n夜间温度显著下降。"
+    "example": "The careless student accidentally dropped his textbooks while rushing to the classroom.\n粗心的学生在赶往教室时意外掉了教科书。\nThe sharp drop in temperature indicated that winter was approaching rapidly.\n温度的急剧下降表明冬天正在迅速逼近。"
   },
   {
     "id": "word_2517",
@@ -49378,7 +49378,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drown/",
     "frequency": "高频",
-    "example": "The swimmer almost drowned in the rough ocean waves.\n游泳者差点在汹涌的海浪中淹死。\nThe city was drowned in noise from the construction site.\n城市被建筑工地的噪音淹没。"
+    "example": "The lifeguard rescued the child who was about to drown in the deep swimming pool.\n救生员救起了即将在深游泳池溺水的孩子。\nThe loud noise from the construction site drowned out the peaceful sounds of nature.\n建筑工地的大噪音淹没了大自然的宁静声音。"
   },
   {
     "id": "word_2518",
@@ -49393,7 +49393,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drug/",
     "frequency": "中频",
-    "example": "The doctor prescribed a new drug for her condition.\n医生为她的病情开了一种新药。\nThe illegal drug trade is a serious problem in society.\n非法毒品交易是社会的严重问题。"
+    "example": "The pharmaceutical company developed a new drug to treat the chronic disease effectively.\n制药公司开发了一种新药，有效治疗这种慢性疾病。\nThe illegal drug trade remains a serious problem that affects communities worldwide.\n非法毒品贸易仍然是一个影响全球社区的严重问题。"
   },
   {
     "id": "word_2519",
@@ -49408,7 +49408,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drum/",
     "frequency": "低频",
-    "example": "The drummer played the drum rhythmically during the concert.\n鼓手在音乐会期间有节奏地敲鼓。\nThe traditional drum is used in many cultural ceremonies.\n传统鼓用于许多文化仪式。"
+    "example": "The traditional drum was used in cultural ceremonies to accompany the ritual dances.\n传统鼓在文化仪式中用于伴奏仪式舞蹈。\nThe drummer played the drum rhythmically to create an energetic atmosphere at the concert.\n鼓手有节奏地击鼓，在音乐会创造了充满活力的氛围。"
   },
   {
     "id": "word_2520",
@@ -49423,7 +49423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/drunk/",
     "frequency": "高频",
-    "example": "He was drunk after drinking too much at the party.\n他在派对上喝太多后醉了。\nDriving while drunk is illegal and dangerous.\n醉酒驾车是非法和危险的。"
+    "example": "The drunk driver was arrested by police for operating a vehicle under the influence of alcohol.\n醉酒司机因酒后驾车被警方逮捕。\nHe regretted the things he said when he was drunk at the party the previous night.\n他后悔前一天晚上在派对醉酒时说的话。"
   },
   {
     "id": "word_2521",
@@ -49438,7 +49438,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dual/",
     "frequency": "中频",
-    "example": "The dual system allows for both public and private options.\n双重系统允许公共和私人两种选择。\nShe has dual citizenship in two different countries.\n她在两个不同的国家拥有双重国籍。"
+    "example": "The new smartphone features a dual camera system that enhances photography capabilities.\n新智能手机具有双摄像头系统，增强了摄影功能。\nThe dual citizenship allows her to legally reside and work in both countries.\n双重国籍允许她合法居住和工作在两个国家。"
   },
   {
     "id": "word_2522",
@@ -49453,7 +49453,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/duck/",
     "frequency": "低频",
-    "example": "The duck swam gracefully across the pond in the park.\n鸭子优雅地游过公园里的池塘。\nChildren love to feed the ducks at the lake.\n孩子们喜欢在湖边喂鸭子。"
+    "example": "The mother duck led her ducklings across the pond to teach them how to swim.\n母鸭带领小鸭穿过池塘教它们游泳。\nThe hunter quickly ducked behind the tree to avoid being seen by the approaching deer.\n猎人迅速躲在树后，避免被接近的鹿发现。"
   },
   {
     "id": "word_2523",
@@ -49468,7 +49468,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dude/",
     "frequency": "高频",
-    "example": "The dude at the party was very friendly and outgoing.\n派对上的那个人非常友好和外向。\nHey dude, are you coming to the concert tonight?\n嘿伙计，你今晚来参加音乐会吗？"
+    "example": "The dude at the beach was surfing on the large waves with impressive skill and confidence.\n海滩上的 dude 以令人印象深刻的技巧和信心在大浪上冲浪。\nHey dude, are you coming to the party tonight at the beach house?\n嘿 dude，你今晚来海滩房子的派对吗？"
   },
   {
     "id": "word_2524",
@@ -49483,7 +49483,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/due/",
     "frequency": "中频",
-    "example": "The assignment is due by the end of this week.\n作业要在本周末前完成。\nThe train is due to arrive at the station in ten minutes.\n火车预计十分钟后到达车站。"
+    "example": "The final assignment is due next Friday and must be submitted through the online portal.\n最终作业下周五到期，必须通过在线门户提交。\nThe flight delay was due to severe weather conditions at the departure airport.\n航班延误是由于出发机场的恶劣天气条件。"
   },
   {
     "id": "word_2525",
@@ -49498,7 +49498,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dull/",
     "frequency": "低频",
-    "example": "The dull knife could not cut through the meat properly.\n钝刀不能正确地切肉。\nThe lecture was dull and many students fell asleep.\n讲座很枯燥，许多学生睡着了。"
+    "example": "The dull knife could not cut through the tough meat and needed to be sharpened.\n钝刀无法切穿坚硬的肉，需要磨锋利。\nThe lecture was so dull that many students struggled to stay attentive throughout the session.\n讲座如此 dull，许多学生在整个过程中难以保持注意力。"
   },
   {
     "id": "word_2526",
@@ -49513,7 +49513,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dumb/",
     "frequency": "高频",
-    "example": "That was a dumb decision that cost us a lot of money.\n那是一个愚蠢的决定，让我们损失了很多钱。\nIt is dumb to ignore the advice of experienced professionals.\n忽视经验丰富的专业人士的建议是愚蠢的。"
+    "example": "The dumb mistake cost the team valuable points in the crucial championship match.\n愚蠢的错误让团队在关键冠军赛中失去了宝贵的分数。\nIt was a dumb decision to invest all savings in a single risky stock without research.\n将所有积蓄投资于单一风险股票而不进行研究是一个愚蠢的决定。"
   },
   {
     "id": "word_2527",
@@ -49528,7 +49528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dump/",
     "frequency": "中频",
-    "example": "They decided to dump the old equipment at the recycling center.\n他们决定把旧设备扔到回收中心。\nThe company dumped toxic waste into the river illegally.\n公司非法将有毒废物倒入河流。"
+    "example": "The construction company dumped excess materials at the designated waste disposal site.\n建筑公司将多余材料倾倒在指定的废物处理场所。\nThe illegal dump site was discovered by environmental inspectors during their routine patrol.\n非法倾倒场被环境检查员在日常巡逻中发现。"
   },
   {
     "id": "word_2528",
@@ -49543,7 +49543,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dune/",
     "frequency": "低频",
-    "example": "The sand dune shifted slowly with the wind over time.\n沙丘随着时间的推移随风缓慢移动。\nThe desert dune is a popular spot for photography enthusiasts.\n沙漠沙丘是摄影爱好者的热门地点。"
+    "example": "The vast sand dune stretched across the desert landscape for several kilometers.\n广阔的沙丘在沙漠景观中绵延数公里。\nThe researchers studied the formation and movement of sand dunes in the coastal region.\n研究人员研究了沿海地区沙丘的形成和运动。"
   },
   {
     "id": "word_2529",
@@ -49558,7 +49558,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/duration/",
     "frequency": "高频",
-    "example": "The duration of the flight was approximately five hours.\n飞行时间大约是五个小时。\nThe project has a duration of six months from start to finish.\n项目从开始到完成持续六个月。"
+    "example": "The duration of the academic semester is approximately sixteen weeks including examination periods.\n学术学期的持续时间大约是十六周，包括考试期间。\nThe project duration was extended due to unexpected technical challenges and resource constraints.\n项目持续时间因意外的技术挑战和资源限制而延长。"
   },
   {
     "id": "word_2530",
@@ -49573,7 +49573,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/during/",
     "frequency": "中频",
-    "example": "During the meeting, several important decisions were made.\n在会议期间，做出了几个重要决定。\nShe worked hard during her college years to achieve success.\n她在大学期间努力工作以取得成功。"
+    "example": "The students remained focused and attentive during the entire lecture presented by the professor.\n学生在教授讲授的整个讲座期间保持专注和注意力。\nMany important historical events occurred during the twentieth century that shaped modern society.\n二十世纪发生了许多塑造现代社会的重要历史事件。"
   },
   {
     "id": "word_2531",
@@ -49588,7 +49588,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dusk/",
     "frequency": "低频",
-    "example": "The sky turned beautiful colors at dusk yesterday evening.\n昨晚黄昏时天空变成了美丽的颜色。\nThey decided to walk home before dusk completely faded.\n他们决定在黄昏完全消失前走回家。"
+    "example": "The beautiful colors of the sunset appeared at dusk as the sun disappeared below the horizon.\n日落时分，美丽的颜色出现在黄昏，太阳消失在地平线以下。\nThe animals began to emerge from their shelters at dusk to search for food in the forest.\n动物在黄昏时分开始从庇护所出来，在森林中寻找食物。"
   },
   {
     "id": "word_2532",
@@ -49603,7 +49603,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dust/",
     "frequency": "高频",
-    "example": "The room was covered with dust after months of neglect.\n房间在几个月的忽视后布满了灰尘。\nThe dust storm made visibility difficult on the road.\n沙尘暴使道路上的能见度变得困难。"
+    "example": "The old library books were covered with dust after years of storage without proper maintenance.\n旧图书馆书籍在多年没有适当维护的储存后被灰尘覆盖。\nThe construction site generated significant dust that affected air quality in nearby residential areas.\n建筑工地产生了大量灰尘，影响了附近住宅区的空气质量。"
   },
   {
     "id": "word_2533",
@@ -49618,7 +49618,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dusty/",
     "frequency": "中频",
-    "example": "The dusty road led to the old abandoned farmhouse.\n尘土飞扬的道路通向废弃的老农舍。\nThe dusty book needed to be cleaned before reading.\n尘土飞扬的书在阅读前需要清洁。"
+    "example": "The dusty road leading to the remote village was difficult to navigate during dry weather conditions.\n通往偏远村庄的尘土飞扬的道路在干燥天气条件下很难导航。\nThe dusty attic contained many forgotten treasures from previous generations of the family.\n尘土飞扬的阁楼包含了许多家族前几代人遗忘的宝藏。"
   },
   {
     "id": "word_2534",
@@ -49633,7 +49633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dutch/",
     "frequency": "低频",
-    "example": "She is learning Dutch to communicate with her relatives.\n她正在学习荷兰语以便与亲戚交流。\nThe Dutch culture is known for its tolerance and openness.\n荷兰文化以其宽容和开放而闻名。"
+    "example": "The Dutch artist created masterpieces that are now displayed in museums around the world.\n这位荷兰艺术家创作的杰作现在在世界各地的博物馆展出。\nThe Dutch language is spoken by millions of people in the Netherlands and Belgium.\n荷兰语被荷兰和比利时数百万人使用。"
   },
   {
     "id": "word_2535",
@@ -49648,7 +49648,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/duty/",
     "frequency": "高频",
-    "example": "It is her duty to take care of her elderly parents.\n照顾年迈的父母是她的责任。\nThe soldier performed his duty with honor and dedication.\n士兵以荣誉和奉献履行了他的职责。"
+    "example": "The police officer performed his duty with professionalism and dedication to public safety.\n警察以专业精神和对公共安全的奉献履行职责。\nIt is the duty of every citizen to participate in the democratic process through voting.\n每个公民都有责任通过投票参与民主进程。"
   },
   {
     "id": "word_2536",
@@ -49663,7 +49663,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dwarf/",
     "frequency": "中频",
-    "example": "The dwarf planet was discovered by astronomers recently.\n矮行星最近被天文学家发现。\nThe dwarf trees in the garden are perfect for small spaces.\n花园里的矮树非常适合小空间。"
+    "example": "The dwarf character in the fairy tale helped the princess find her way home safely.\n童话故事中的矮人角色帮助公主安全找到回家的路。\nThe dwarf planet was discovered by astronomers using advanced telescopic technology.\n这颗矮行星是天文学家使用先进望远镜技术发现的。"
   },
   {
     "id": "word_2537",
@@ -49678,7 +49678,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dwell/",
     "frequency": "低频",
-    "example": "She chose to dwell in the countryside for a peaceful life.\n她选择住在乡下过平静的生活。\nThe ancient tribe dwelled in the mountains for centuries.\n古代部落几个世纪以来居住在山区。"
+    "example": "The ancient tribe dwelled in the mountainous region for centuries before migrating elsewhere.\n古代部落在这个山区居住了几个世纪，然后迁移到其他地方。\nHer thoughts dwell on the memories of her childhood spent in the countryside.\n她的思绪停留在她在乡村度过的童年记忆上。"
   },
   {
     "id": "word_2538",
@@ -49693,7 +49693,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/dynamic/",
     "frequency": "高频",
-    "example": "The importance of this concept cannot be overstated in modern life.\n在现代生活中，...的重要性怎么强调都不为过。"
+    "example": "The dynamic nature of the technology industry requires constant adaptation and innovation.\n技术行业的动态性质需要不断的适应和创新。\nThe dynamic speaker engaged the audience with her energetic presentation style.\n这位充满活力的演讲者以其充满活力的演讲风格吸引了观众。"
   },
   {
     "id": "word_2539",
