@@ -115566,7 +115566,7 @@ export const mockWords: IELTSWord[] = [
   {
     "id": "word_5698",
     "word": "stark",
-    "meaning": "adj. 僵硬的；明显的",
+    "meaning": "adj. 荒凉的；赤裸的；明显的",
     "level": "IELTS5",
     "root": "stark",
     "rootMeaning": "僵硬的",
@@ -116553,7 +116553,7 @@ export const mockWords: IELTSWord[] = [
   {
     "id": "word_5745",
     "word": "strand",
-    "meaning": "n./v.  Strand；搁浅",
+    "meaning": "n. 缕；股 v. 搁浅；使陷于困境",
     "level": "IELTS7",
     "root": "strand",
     "rootMeaning": "线；绳索；搁浅",
