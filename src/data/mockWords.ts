@@ -9331,7 +9331,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpeɪs/",
     "frequency": "低频",
-    "example": "The construction project proceeded apace despite the weather challenges.\n尽管天气挑战，建筑项目进展迅速。\nTechnology development continues apace with new innovations emerging.\n技术发展随着新创新的出现而快速继续。"
+    "example": "The construction project proceeded apace with workers completing tasks ahead of schedule efficiently.\n建设项目快速进行，工人们提前高效完成任务。\nTime passes apace when you are engaged in activities that you enjoy and find fulfilling personally.\n当你从事你喜欢并感到满足的活动时，时间过得很快。"
   },
   {
     "id": "word_471",
@@ -9352,7 +9352,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpənɪdʒ/",
     "frequency": "高频",
-    "example": "The royal apanage included vast territories and valuable resources.\n皇室封地包括广阔领土和宝贵资源。\nWealth is often considered an apanage of the privileged classes.\n财富通常被认为是特权阶级的特权。"
+    "example": "The apanage was granted to the younger son of the king as his inheritance and support.\n附属领地被授予国王的幼子作为他的继承和支持。\nHistorical records show that apanages were common in medieval European monarchies for royal families.\n历史记录显示，附属领地在中世纪欧洲君主制王室中很常见。"
   },
   {
     "id": "word_472",
@@ -9373,7 +9373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɑːt/",
     "frequency": "高频",
-    "example": "The two friends grew apart due to their different career paths.\n两个朋友因不同职业道路而疏远。\nThe components can be taken apart for easy transportation.\n组件可以拆卸以便轻松运输。"
+    "example": "The two buildings stood apart from each other, separated by a wide garden and pathway between them.\n两座建筑彼此分开，由宽阔的花园和路径分隔。\nShe felt apart from the group because she did not share their interests and hobbies with them.\n她感到与群体分开，因为她不分享他们的兴趣和爱好。"
   },
   {
     "id": "word_473",
@@ -9394,7 +9394,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɑːtmənt/",
     "frequency": "高频",
-    "example": "The modern apartment offers stunning views of the city skyline.\n现代公寓提供城市天际线的壮丽景色。\nShe rented an affordable apartment near the university campus.\n她在大学校园附近租了一套经济实惠的公寓。"
+    "example": "The apartment building offers modern amenities and comfortable living spaces for all residents there.\n公寓大楼为所有居民提供现代设施和舒适的居住空间。\nMany young professionals choose to rent apartments in urban areas close to their workplaces for convenience.\n许多年轻专业人士选择在城市地区租公寓，靠近他们的工作场所以便。"
   },
   {
     "id": "word_474",
@@ -9415,7 +9415,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpəθi/",
     "frequency": "低频",
-    "example": "Political apathy among young voters concerns election officials.\n年轻选民的政治冷漠令选举官员担忧。\nApathy towards health issues leads to poor lifestyle choices.\n对健康问题的冷漠导致不良生活方式选择。"
+    "example": "The apathy of the voters resulted in low turnout during the recent local elections held in the city.\n选民冷漠导致最近在城市举行的地方选举投票率低。\nTeachers expressed concern about student apathy toward learning and academic achievement in school.\n教师表达了对学生在学校学习和学术成就冷漠的担忧。"
   },
   {
     "id": "word_475",
@@ -9436,7 +9436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpətʃə/",
     "frequency": "低频",
-    "example": "The camera aperture controls the amount of light entering the lens.\n相机光圈控制进入镜头的光量。\nThe pupil acts as an aperture regulating light into the eye.\n瞳孔作为光圈调节进入眼睛的光线。"
+    "example": "The photographer adjusted the aperture of the camera to control the amount of light entering the lens.\n摄影师调整了相机的光圈以控制进入镜头的光量。\nScientists use specialized apertures in telescopes to observe distant stars and celestial objects clearly.\n科学家在望远镜中使用专门的光圈来清晰地观察遥远的恒星和天体。"
   },
   {
     "id": "word_476",
@@ -9457,7 +9457,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpeks/",
     "frequency": "低频",
-    "example": "The company reached the apex of success after years of effort.\n公司在多年努力后达到了成功的顶峰。\nMountaineers celebrated reaching the apex of the challenging peak.\n登山者在到达挑战山峰顶峰时庆祝。"
+    "example": "The apex of the mountain offers breathtaking views of the surrounding valleys and forests.\n山顶提供了周围山谷和森林的惊人景色。\nThe company reached the apex of its success after years of hard work and strategic planning.\n公司在多年的努力工作和战略规划后达到了成功的顶峰。"
   },
   {
     "id": "word_477",
@@ -9478,7 +9478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈfeɪziə/",
     "frequency": "低频",
-    "example": "Stroke patients sometimes suffer from aphasia affecting communication.\n中风患者有时会患影响沟通的失语症。\nAphasia treatment involves speech therapy and rehabilitation exercises.\n失语症治疗涉及言语治疗和康复练习。"
+    "example": "The patient suffered from aphasia after the stroke, affecting his ability to speak clearly and fluently.\n患者在中风后患有失语症，影响了他清晰流利说话的能力。\nSpeech therapists work with aphasia patients to help them regain their communication skills gradually over time.\n语言治疗师与失语症患者合作，帮助他们逐渐恢复沟通技能。"
   },
   {
     "id": "word_478",
@@ -9499,7 +9499,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪfɪd/",
     "frequency": "高频",
-    "example": "Aphids feed on plant sap and can cause significant damage.\n蚜虫以植物汁液为食，可能造成重大损害。\nLadybugs are natural predators that control aphid populations.\n瓢虫是控制蚜虫种群的天然捕食者。"
+    "example": "The aphid infestation damaged the crops in the field, causing significant losses for local farmers.\n蚜虫侵扰损害了田里的作物，给当地农民造成了重大损失。\nGardeners use natural methods to control aphid populations without harming beneficial insects in the garden.\n园丁使用自然方法控制蚜虫种群而不伤害花园中的有益昆虫。"
   },
   {
     "id": "word_479",
@@ -9520,7 +9520,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæfərɪzəm/",
     "frequency": "中频",
-    "example": "The philosopher is famous for his insightful aphorisms about life.\n这位哲学家以其关于人生的深刻格言而闻名。\nAphorisms distil complex ideas into memorable short statements.\n格言将复杂思想提炼成令人难忘的简短陈述。"
+    "example": "The famous aphorism about time management has inspired many people to be more productive in their daily work.\n关于时间管理的著名格言激励了许多人在日常工作中更加高效。\nPhilosophers often use aphorisms to express complex ideas in concise and memorable statements for readers.\n哲学家经常使用格言以简洁而难忘的陈述向读者表达复杂思想。"
   },
   {
     "id": "word_480",
@@ -9541,7 +9541,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpiəri/",
     "frequency": "低频",
-    "example": "The apiary contains dozens of beehives producing fresh honey.\n养蜂场包含数十个生产新鲜蜂蜜的蜂箱。\nBeekeepers maintain apiaries to pollinate crops and harvest honey.\n养蜂人维护养蜂场为作物授粉和收获蜂蜜。"
+    "example": "The apiary houses hundreds of bees that produce honey for local markets and consumers in the region.\n养蜂场容纳数百只蜜蜂，为该地区的当地市场和消费者生产蜂蜜。\nBeekeepers maintain the apiary carefully to ensure the health and productivity of the bee colonies there.\n养蜂人精心维护养蜂场以确保那里蜂群的健康和生产力。"
   },
   {
     "id": "word_481",
@@ -9562,7 +9562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪpɪkʌltʃə/",
     "frequency": "高频",
-    "example": "Apiculture provides income for rural communities worldwide.\n养蜂业为全球农村社区提供收入。\nModern apiculture techniques improve honey production efficiency.\n现代养蜂技术提高蜂蜜生产效率。"
+    "example": "Apiculture has become an important industry for producing honey and other bee products for consumers.\n养蜂业已成为为消费者生产蜂蜜和其他蜂产品的重要产业。\nStudents learn about apiculture in agricultural programs to understand sustainable farming practices thoroughly.\n学生在农业项目中学习养蜂业以彻底了解可持续农业实践。"
   },
   {
     "id": "word_482",
@@ -9583,7 +9583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/æpˈniːə/",
     "frequency": "中频",
-    "example": "Sleep apnea causes breathing interruptions during nighttime rest.\n睡眠呼吸暂停导致夜间休息期间呼吸中断。\nCPAP machines are commonly used to treat sleep apnea patients.\nCPAP机器常用于治疗睡眠呼吸暂停患者。"
+    "example": "The patient was diagnosed with sleep apnea, which caused interruptions in breathing during rest at night.\n患者被诊断患有睡眠呼吸暂停，导致夜间休息时呼吸中断。\nDoctors recommend treatment for apnea to improve sleep quality and overall health outcomes for patients.\n医生建议治疗呼吸暂停以改善患者的睡眠质量和整体健康结果。"
   },
   {
     "id": "word_483",
@@ -9604,7 +9604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒkəlɪps/",
     "frequency": "低频",
-    "example": "The apocalypse scenario terrified viewers of the disaster movie.\n末日场景吓坏了灾难电影的观众。\nEnvironmentalists warn of ecological apocalypse without immediate action.\n环保主义者警告不立即行动将导致生态末日。"
+    "example": "The apocalypse described in religious texts predicts the end of the world and humanity as we know it.\n宗教文本中描述的启示录预测了我们所知的世界和人类的终结。\nMovies about apocalypse scenarios often depict survival challenges in post-civilization settings for viewers.\n关于启示录场景的电影经常为观众描绘后文明环境中的生存挑战。"
   },
   {
     "id": "word_484",
@@ -9625,7 +9625,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒkrɪfl/",
     "frequency": "高频",
-    "example": "The apocryphal story about the founding father has been debunked.\n关于开国元勋的伪经故事已被揭穿。\nMany apocryphal legends have been passed down through generations.\n许多伪经传说已代代相传。"
+    "example": "The apocryphal story about the founders meeting has been passed down through generations of family members.\n关于创始人相遇的虚构故事已通过几代家庭成员流传下来。\nHistorians question apocryphal accounts that lack reliable evidence and documented sources for verification.\n历史学家质疑缺乏可靠证据和记录来源以验证的虚构叙述。"
   },
   {
     "id": "word_485",
@@ -9646,7 +9646,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpədʒiː/",
     "frequency": "中频",
-    "example": "The satellite reached its apogee farthest point from Earth.\n卫星到达其远地点离地球最远的点。\nHer career reached its apogee when she won the Nobel Prize.\n她的职业生涯在获得诺贝尔奖时达到顶峰。"
+    "example": "The satellite reached its apogee at the highest point of its orbit around the Earth in space.\n卫星在其绕地球轨道的最高点达到了远地点。\nThe companys apogee of success was marked by record profits and global market expansion that year.\n公司成功的远地点以那年的创纪录利润和全球市场扩张为标志。"
   },
   {
     "id": "word_486",
@@ -9667,7 +9667,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpɒləˈdʒetɪk/",
     "frequency": "低频",
-    "example": "The apologetic letter expressed sincere regret for the mistake.\n道歉信表达了对此错误的真诚遗憾。\nShe remained apologetic throughout the conversation about the error.\n在整个关于错误的对话中她保持道歉态度。"
+    "example": "He gave an apologetic smile when he realized he had made a mistake in the presentation.\n当他意识到他在演讲中犯了错误时，他给出了歉意的微笑。\nThe apologetic letter expressed regret for the misunderstanding that had occurred between them.\n道歉信表达了对他们之间发生的误解的遗憾。"
   },
   {
     "id": "word_487",
@@ -9688,7 +9688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈləʊdʒiə/",
     "frequency": "高频",
-    "example": "The author wrote an apologia defending her controversial theories.\n作者写了一篇辩护文为其有争议的理论辩护。\nHistorical apologia often appears after major political scandals.\n历史辩护文经常在重大政治丑闻后出现。"
+    "example": "The author wrote an apologia to defend his controversial book against criticism from reviewers and critics.\n作者写了一篇辩护文章以捍卫他的争议书籍免受评论家和批评者的批评。\nThe apologia provided detailed explanations for the decisions that had been made during the crisis situation.\n辩护文章为危机情况下做出的决定提供了详细解释。"
   },
   {
     "id": "word_488",
@@ -9709,7 +9709,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒlədʒaɪz/",
     "frequency": "中频",
-    "example": "The company should apologize for the defective product recall.\n公司应该为缺陷产品召回道歉。\nChildren should apologize when they hurt others feelings intentionally.\n当孩子故意伤害他人感情时应该道歉。"
+    "example": "She apologized to her friend for forgetting the important appointment they had scheduled together previously.\n她向朋友道歉，因为她忘记了他们之前一起安排的重要约会。\nThe company apologized publicly for the service interruption that affected many customers nationwide.\n公司公开道歉，因为服务中断影响了全国许多客户。"
   },
   {
     "id": "word_489",
@@ -9730,7 +9730,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒlədʒi/",
     "frequency": "中频",
-    "example": "The apology was accepted by all parties involved in the dispute.\n争端各方接受了道歉。\nA sincere apology can help repair damaged relationships effectively.\n真诚的道歉可以有效帮助修复受损的关系。"
+    "example": "His apology was sincere and heartfelt, showing genuine regret for his inappropriate behavior.\n他的道歉真诚而发自内心，表现出对他不当行为的真正遗憾。\nThe manager accepted the apology and promised to resolve the issue that had caused the conflict.\n经理接受了道歉，并承诺解决导致冲突的问题。"
   },
   {
     "id": "word_490",
@@ -9751,7 +9751,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpəpleksi/",
     "frequency": "高频",
-    "example": "The sudden apoplexy required immediate emergency medical treatment.\n突然中风需要立即紧急医疗治疗。\nHistorical texts describe apoplexy as sudden loss of consciousness.\n历史文本将中风描述为突然失去意识。"
+    "example": "The sudden apoplexy struck the elderly man, causing immediate loss of consciousness and movement ability.\n突然中风袭击了老人，导致立即失去意识和运动能力。\nHistorical records describe apoplexy as a condition that affected many prominent figures in ancient times historically.\n历史记录描述中风是一种在历史上影响许多杰出人物的状况。"
   },
   {
     "id": "word_491",
@@ -9772,7 +9772,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstəsi/",
     "frequency": "中频",
-    "example": "His apostasy from the religious organization surprised everyone.\n他退出宗教组织让所有人惊讶。\nApostasy was punished severely in medieval societies historically.\n历史上，叛教在中世纪社会受到严厉惩罚。"
+    "example": "The apostasy from the faith caused controversy among the members of the religious community locally.\n背叛信仰在当地宗教社区的成员中引起了争议。\nHistorical accounts of apostasy reveal the complex relationship between belief and social pressure in societies.\n背叛信仰的历史记录揭示了社会中信仰与社会压力之间的复杂关系。"
   },
   {
     "id": "word_492",
@@ -9793,7 +9793,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒsl/",
     "frequency": "低频",
-    "example": "The apostle spread the teachings throughout the ancient world.\n使徒在整个古代世界传播教义。\nEach apostle had unique characteristics and roles in early Christianity.\n每位使徒在早期基督教中有独特的特征和角色。"
+    "example": "The apostle traveled extensively to spread the teachings of the faith to distant regions around the world.\n使徒广泛旅行，将信仰的教导传播到世界各地遥远地区。\nThe apostle dedicated his life to serving others and sharing his spiritual beliefs with communities everywhere.\n使徒致力于服务他人并与各地的社区分享他的精神信仰。"
   },
   {
     "id": "word_493",
@@ -9814,7 +9814,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstəlɪt/",
     "frequency": "高频",
-    "example": "The apostolate continues the mission of spreading religious teachings.\n使徒统续延续传播宗教教义的使命。\nModern apostolates focus on social justice and community service.\n现代使徒统续专注于社会正义和社区服务。"
+    "example": "The apostolate involves missionary work and spreading religious teachings to new converts in the field.\n使徒职务涉及传教工作并将宗教教导传播给该领域的新皈依者。\nMembers of the apostolate work together to achieve their spiritual goals and community objectives effectively.\n使徒职务的成员共同努力有效地实现他们的精神目标和社区目标。"
   },
   {
     "id": "word_494",
@@ -9835,7 +9835,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒstrəfi/",
     "frequency": "中频",
-    "example": "The apostrophe indicates possession in English grammar.\n撇号在英语语法中表示所有格。\nApostrophes are also used to mark contractions in writing.\n撇号也用于标记书写中的缩写。"
+    "example": "The apostrophe in the sentence indicates possession or omission of letters in words correctly.\n句子中的撇号正确表示所有格或单词中字母的省略。\nStudents learn to use apostrophe correctly in writing to avoid grammatical errors and confusion in texts.\n学生学习在写作中正确使用撇号以避免文本中的语法错误和混淆。"
   },
   {
     "id": "word_495",
@@ -9856,7 +9856,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɒθɪkəri/",
     "frequency": "低频",
-    "example": "The apothecary prepared herbal remedies using traditional methods.\n药师使用传统方法准备草药疗法。\nHistorical apothecaries were early ancestors of modern pharmacists.\n历史药师是现代药剂师的早期祖先。"
+    "example": "The apothecary prepared medicinal remedies for patients who visited his shop in the village regularly.\n药剂师定期为访问他村庄店铺的患者准备了药物疗法。\nHistorical apothecaries played important roles in early healthcare before modern pharmacies existed widely.\n历史药剂师在现代药房广泛存在之前在早期医疗保健中发挥了重要作用。"
   },
   {
     "id": "word_496",
@@ -9877,7 +9877,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpɒθiˈəʊsɪs/",
     "frequency": "高频",
-    "example": "The musicians career reached its apotheosis with the Grammy Award.\n音乐家的职业生涯以格莱美奖达到顶峰。\nThe apotheosis of the hero occurred after his sacrifice for others.\n英雄的升华发生在他为他人牺牲之后。"
+    "example": "The apotheosis of the hero was celebrated in ceremonies that honored his achievements and legacy forever.\n英雄的神化在永远庆祝他成就和遗产的仪式中被庆祝。\nThe apotheosis of the concept represents the highest development and perfection of the idea in theory.\n概念的神化代表了理论中思想的最高发展和完美。"
   },
   {
     "id": "word_497",
@@ -9898,7 +9898,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔːl/",
     "frequency": "中频",
-    "example": "The graphic images appal viewers who were unprepared for the content.\n图形图像使没有准备的观众感到震惊。\nThe devastating news will appal everyone in the community.\n这个毁灭性的消息会让社区中的每个人都感到震惊。"
+    "example": "The shocking news appalled the community, leaving many people in disbelief and distress about the situation.\n令人震惊的消息震惊了社区，让许多人处于对情况的不相信和痛苦中。\nThe cruelty of the situation appalled those who witnessed the events firsthand at the scene directly.\n情况的残酷直接震惊了那些在现场亲眼目睹事件的人。"
   },
   {
     "id": "word_498",
@@ -9919,7 +9919,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈreɪtəs/",
     "frequency": "低频",
-    "example": "The laboratory apparatus includes microscopes and precision instruments.\n实验室设备包括显微镜和精密仪器。\nBreathing apparatus is essential for firefighters in smoke-filled environments.\n呼吸设备对烟雾环境中的消防员至关重要。"
+    "example": "The scientific apparatus in the laboratory allows researchers to conduct precise experiments accurately and safely.\n实验室中的科学设备允许研究人员准确安全地进行精确实验。\nThe gymnastic apparatus includes various equipment for training and competitive performances in sports.\n体操设备包括体育中用于训练和竞技表演的各种器材。"
   },
   {
     "id": "word_499",
@@ -9940,7 +9940,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpærənt/",
     "frequency": "中频",
-    "example": "The apparent contradiction in the data requires further investigation.\n数据中明显的矛盾需要进一步调查。\nHer apparent confidence masked underlying insecurities about the project.\n她表面上的自信掩盖了对项目的潜在不安全感。"
+    "example": "The apparent cause of the problem was identified after thorough investigation by experts in the field.\n问题的明显原因在该领域的专家彻底调查后被确定。\nIt became apparent that the project would require more resources than initially estimated by the team.\n很明显，该项目将需要团队最初估计更多的资源。"
   },
   {
     "id": "word_500",
@@ -9961,7 +9961,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpiːl/",
     "frequency": "高频",
-    "example": "The charity appeal raised millions of dollars for disaster relief.\n慈善呼吁为救灾筹集了数百万美元。\nThe lawyer filed an appeal to challenge the court decision.\n律师提交上诉挑战法院判决。"
+    "example": "The appeal for donations was successful, raising significant funds for the charity organization nationwide.\n捐赠呼吁成功，为全国慈善组织筹集了大量资金。\nThe court appeal process allows defendants to challenge decisions made by lower courts in the system.\n法院上诉程序允许被告挑战系统中下级法院做出的决定。"
   },
   {
     "id": "word_501",
@@ -9982,7 +9982,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɪə/",
     "frequency": "高频",
-    "example": "Ghosts are said to appear in the old mansion at midnight.\n据说鬼魂在午夜出现在古老的豪宅中。\nNew species continue to appear as scientists explore remote areas.\n随着科学家探索偏远地区，新物种继续出现。"
+    "example": "The candidate appeared confident during the interview, impressing the hiring committee members greatly with skills.\n候选人在面试期间表现得自信，用技能给招聘委员会成员留下了深刻印象。\nNew products appear in the market regularly, offering consumers more choices and options for purchase.\n新产品定期出现在市场上，为消费者提供更多购买选择和选项。"
   },
   {
     "id": "word_502",
@@ -10003,7 +10003,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɪərəns/",
     "frequency": "高频",
-    "example": "The sudden appearance of the celebrity caused a media frenzy.\n名人的突然出现引起媒体狂热。\nFirst appearances can be deceiving in professional relationships.\n在职业关系中，第一印象可能具有欺骗性。"
+    "example": "The appearance of the building was improved after renovation work was completed recently by contractors.\n建筑的外观在承包商最近完成翻新工作后得到了改善。\nHer appearance at the event surprised many guests who did not expect her to attend the ceremony.\n她在活动中的出现让许多不期望她出席仪式的客人感到惊讶。"
   },
   {
     "id": "word_503",
@@ -10024,7 +10024,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpiːz/",
     "frequency": "高频",
-    "example": "The government attempted to appease protesters with policy reforms.\n政府试图通过政策改革安抚抗议者。\nOffering snacks may appease hungry children during long car rides.\n在长途车程中提供零食可以安抚饥饿的孩子。"
+    "example": "The government tried to appease the protesters by addressing their concerns and demands promptly and effectively.\n政府试图通过及时有效地解决抗议者的担忧和要求来安抚他们。\nThe manager appeased the angry customer by offering a discount on the product purchased by the client.\n经理通过提供客户购买产品的折扣来安抚愤怒的客户。"
   },
   {
     "id": "word_504",
@@ -10045,7 +10045,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈleɪʃn/",
     "frequency": "中频",
-    "example": "The appellation of the region reflects its historical significance.\n该地区的名称反映了其历史意义。\nWine appellations indicate specific regions where grapes are grown.\n葡萄酒名称表示种植葡萄的特定地区。"
+    "example": "The appellation of the wine indicates its origin and quality according to regional standards and regulations.\n葡萄酒的名称根据地区标准和法规表明其产地和质量。\nThe appellation given to the title reflects the status and responsibilities of the position in the organization.\n赋予头衔的名称反映了组织中该职位的地位和责任。"
   },
   {
     "id": "word_505",
@@ -10066,7 +10066,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpend/",
     "frequency": "低频",
-    "example": "Please append your signature to the bottom of the contract.\n请在合同底部附加您的签名。\nThe appendix will append additional data supporting the research findings.\n附录将附加支持研究发现的其他数据。"
+    "example": "The author appended additional information to the document before final publication by the publishing house.\n作者在出版社最终出版之前向文档添加了额外信息。\nUsers can append comments to the online article to share their opinions with other readers on the site.\n用户可以向在线文章添加评论以与网站上的其他读者分享他们的意见。"
   },
   {
     "id": "word_506",
@@ -10087,7 +10087,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpendɪdʒ/",
     "frequency": "高频",
-    "example": "The insect appendage helps with movement and sensory perception.\n昆虫附器帮助运动和感官感知。\nPolitical alliances often create unwanted appendages in organizations.\n政治联盟经常在组织中产生不必要的附属物。"
+    "example": "The appendage of the insect serves specific functions in its survival and reproduction in the ecosystem.\n昆虫的附属物在其生态系统中的生存和繁殖中发挥特定功能。\nThe appendage was removed during surgery to prevent further complications and health issues for the patient.\n附属物在手术中被移除以防止患者进一步的并发症和健康问题。"
   },
   {
     "id": "word_507",
@@ -10108,7 +10108,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæpəˈteɪn/",
     "frequency": "中频",
-    "example": "Rights appertain to citizens under the constitutional framework.\n权利在宪法框架下属于公民。\nDuties appertain to the role of public officials in governance.\n职责属于公共官员在治理中的角色。"
+    "example": "The rights that appertain to the position are clearly defined in the organizational policies and procedures.\n与职位相关的权利在组织政策和程序中明确规定。\nThe responsibilities that appertain to the role require careful attention and professional dedication from staff.\n与角色相关的责任需要员工的仔细关注和专业奉献。"
   },
   {
     "id": "word_508",
@@ -10129,7 +10129,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtənt/",
     "frequency": "低频",
-    "example": "The appetent behavior in animals indicates readiness for feeding.\n动物的食欲行为表示准备进食。\nYoung birds become appetent shortly after hatching from eggs.\n幼鸟孵化后不久就变得有食欲。"
+    "example": "The appetent student showed great desire to learn and excel in all academic subjects at school consistently.\n渴望的学生表现出在学校所有学术科目中持续学习和优秀的强烈愿望。\nThe appetent audience eagerly awaited the performance that had been advertised extensively in the media.\n渴望的观众热切等待在媒体中广泛宣传的表演。"
   },
   {
     "id": "word_509",
@@ -10150,7 +10150,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtaɪt/",
     "frequency": "中频",
-    "example": "The hike increased my appetite for a hearty dinner afterwards.\n徒步旅行增加了我之后丰盛晚餐的食欲。\nEmotional stress can diminish appetite significantly in some individuals.\n情绪压力可以显著减少某些人的食欲。"
+    "example": "The healthy appetite of the child indicates good physical development and nutrition for growth properly.\n孩子健康的食欲表明良好的身体发育和适当的营养生长。\nThe appetite for knowledge drives students to pursue advanced studies in their chosen fields at university.\n对知识的渴望驱使学生在大学他们选择的领域追求高级研究。"
   },
   {
     "id": "word_510",
@@ -10171,7 +10171,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpɪtaɪzə/",
     "frequency": "中频",
-    "example": "The appetizer included delicious spring rolls and dipping sauces.\n开胃菜包括美味的春卷和蘸酱。\nChefs recommend a light appetizer before the main course.\n厨师建议在主菜前吃清淡的开胃菜。"
+    "example": "The appetizer was served before the main course to stimulate the appetite of guests at the dinner party.\n开胃菜在主菜之前供应以刺激晚餐聚会客人的食欲。\nThe restaurant offers a variety of appetizers that are popular among customers who dine there regularly.\n餐厅提供各种开胃菜，深受定期在那里用餐的顾客欢迎。"
   },
   {
     "id": "word_511",
@@ -10192,7 +10192,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplɔːd/",
     "frequency": "中频",
-    "example": "The audience will applaud enthusiastically after the performance concludes.\n观众将在表演结束后热情鼓掌。\nCritics applaud the director for the innovative artistic approach.\n评论家为导演的创新艺术方法鼓掌。"
+    "example": "The audience applauded enthusiastically after the performance ended with great success and acclaim from critics.\n观众在表演以巨大成功和评论家好评结束后热情鼓掌。\nCritics applauded the novel for its innovative approach to storytelling and character development in literature.\n评论家为小说在文学叙事和角色发展方面的创新方法鼓掌。"
   },
   {
     "id": "word_512",
@@ -10213,7 +10213,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæpl/",
     "frequency": "高频",
-    "example": "The apple orchard produces thousands of fruits every harvest season.\n苹果园每个收获季节生产数千个水果。\nAn apple a day keeps the doctor away according to the proverb.\n根据谚语，一天一个苹果让医生远离。"
+    "example": "The apple tree in the garden produces fresh fruit that the family enjoys every autumn season for eating.\n花园里的苹果树生产新鲜水果，家人每年秋天都享受食用。\nShe selected the ripe apple from the basket to make a delicious pie for dessert at the meal.\n她从篮子里挑选成熟的苹果，为餐食甜点制作美味的派。"
   },
   {
     "id": "word_513",
@@ -10234,7 +10234,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplaɪəns/",
     "frequency": "中频",
-    "example": "Modern appliances make household chores much more efficient.\n现代家电使家务变得更加高效。\nThe kitchen appliance store offers discounts on major brands.\n家电商店提供主要品牌的折扣。"
+    "example": "The kitchen appliance makes cooking easier and more efficient for busy households with limited time.\n厨房设备使烹饪对时间有限的忙碌家庭更容易和高效。\nModern appliances are designed to save energy and reduce environmental impact on the planet significantly.\n现代设备设计节能并显著减少对地球的环境影响。"
   },
   {
     "id": "word_514",
@@ -10255,7 +10255,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplɪkəbl/",
     "frequency": "低频",
-    "example": "The new regulations are applicable to all businesses operating here.\n新法规适用于所有在这里运营的企业。\nThis scholarship is applicable to students from low-income families.\n这项奖学金适用于来自低收入家庭的学生。"
+    "example": "The rules are applicable to all employees regardless of their position in the company hierarchy.\n规则适用于所有员工，无论他们在公司层级中的职位如何。\nThe applicable regulations must be followed to ensure safety and compliance with standards in operations.\n适用法规必须遵守以确保运营中的安全和符合标准。"
   },
   {
     "id": "word_515",
@@ -10276,7 +10276,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæplɪkənt/",
     "frequency": "高频",
-    "example": "The job applicant submitted impressive credentials and references.\n求职者提交了令人印象深刻的证书和推荐信。\nAll applicants must complete the online application form.\n所有申请人必须完成在线申请表。"
+    "example": "Each applicant submitted their resume and cover letter for the job opening position advertised online.\n每位申请人都提交了他们的简历和求职信申请在线广告的职位。\nThe applicant demonstrated excellent skills during the interview process with the hiring team members.\n申请人面试过程中向招聘团队成员展示了出色的技能。"
   },
   {
     "id": "word_516",
@@ -10297,7 +10297,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæplɪˈkeɪʃn/",
     "frequency": "高频",
-    "example": "The software application is available for download on mobile devices.\n软件应用程序可在移动设备上下载。\nStudents submitted college applications before the deadline.\n学生在截止日期前提交了大学申请。"
+    "example": "The application for the scholarship requires detailed information about academic achievements and activities.\n奖学金申请需要关于学术成就和活动的详细信息。\nThe software application helps users manage their daily tasks and schedules efficiently and effectively.\n软件应用程序帮助用户高效有效地管理日常任务和日程。"
   },
   {
     "id": "word_517",
@@ -10318,7 +10318,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈplaɪ/",
     "frequency": "高频",
-    "example": "Candidates should apply online through the official website portal.\n候选人应通过官方网站门户在线申请。\nSunscreen must apply liberally to protect skin from UV damage.\n必须大量涂抹防晒霜以保护皮肤免受紫外线伤害。"
+    "example": "Students apply for admission to universities by submitting required documents and forms before deadlines.\n学生通过在截止日期前提交所需文件和表格申请大学入学。\nThe principles apply to various situations in both professional and personal contexts for individuals.\n这些原则适用于个人在专业和个人背景中的各种情况。"
   },
   {
     "id": "word_518",
@@ -10339,7 +10339,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔɪnt/",
     "frequency": "中频",
-    "example": "The board will appoint a new CEO next month to lead the company.\n董事会将在下个月任命一位新CEO领导公司。\nThe committee appoints representatives to serve on various committees.\n委员会任命代表在各个委员会任职。"
+    "example": "The board appointed a new director to lead the organization through strategic changes and improvements.\n董事会任命了一位新主任领导组织进行战略变革和改进。\nThe president appointed experts to investigate the issue and propose solutions for improvement promptly.\n总统任命专家调查问题并迅速提出改进解决方案。"
   },
   {
     "id": "word_519",
@@ -10360,7 +10360,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔɪntmənt/",
     "frequency": "中频",
-    "example": "I have a dental appointment scheduled for tomorrow morning.\n我预约了明天上午看牙医。\nThe appointment with the professor requires advance preparation.\n与教授的预约需要提前准备。"
+    "example": "The appointment with the doctor was scheduled for next Monday at the clinic location downtown.\n与医生的预约安排在下周一在市中心诊所地点。\nShe missed her appointment due to unexpected traffic delays on the highway during rush hour today.\n她因今天高峰时段高速公路上意外的交通延误而错过了预约。"
   },
   {
     "id": "word_520",
@@ -10381,7 +10381,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɔːʃn/",
     "frequency": "低频",
-    "example": "The budget must apportion funds fairly among all departments.\n预算必须在所有部门之间公平分配资金。\nThe committee will apportion tasks based on team member expertise.\n委员会将根据团队成员专业知识分配任务。"
+    "example": "The committee apportioned the funds among different projects based on priority and need assessments.\n委员会根据优先级和需求评估将资金分配给不同项目。\nThe judge apportioned the blame among all parties involved in the legal dispute case fairly.\n法官公平地将责任分配给法律纠纷案件中涉及的所有各方。"
   },
   {
     "id": "word_521",
@@ -10402,7 +10402,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpreɪzl/",
     "frequency": "高频",
-    "example": "The annual performance appraisal helps employees understand their progress.\n年度绩效评估帮助员工了解他们的进步。\nProperty appraisal determines the market value before sale.\n房产评估在销售前确定市场价值。"
+    "example": "The appraisal of the property determined its market value for the sale transaction with the buyer.\n财产评估确定了其与买方销售交易的市场价值。\nThe performance appraisal helps employees understand their strengths and areas for improvement in work.\n绩效评估帮助员工了解他们在工作中的优势和改进领域。"
   },
   {
     "id": "word_522",
@@ -10423,7 +10423,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpreɪz/",
     "frequency": "中频",
-    "example": "Experts will appraise the antique furniture for insurance purposes.\n专家将为保险目的评估古董家具。\nTeachers appraise student work based on clear criteria and standards.\n教师根据明确的标准评估学生作业。"
+    "example": "Experts appraise the artwork to determine its authenticity and historical significance for collectors.\n专家评估艺术品以确定其对收藏家的真实性和历史意义。\nThe manager appraises employee performance regularly to provide feedback and guidance for development.\n经理定期评估员工绩效以提供发展反馈和指导。"
   },
   {
     "id": "word_523",
@@ -10444,7 +10444,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpriːʃieɪt/",
     "frequency": "高频",
-    "example": "I really appreciate your help with the project completion.\n我真的很感激您在项目完成方面的帮助。\nMusic lovers appreciate the nuanced performances of talented artists.\n音乐爱好者欣赏才华横溢艺术家的细致表演。"
+    "example": "She appreciates the support that her colleagues provided during the difficult project phase at work.\n她感激同事在工作困难项目阶段提供的支持。\nThe company appreciates customer feedback that helps improve products and services quality continuously.\n公司感激持续帮助改进产品和服务的客户反馈。"
   },
   {
     "id": "word_524",
@@ -10465,7 +10465,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˌpriːʃiˈeɪʃn/",
     "frequency": "高频",
-    "example": "The artists work received widespread appreciation from critics.\n艺术家的作品获得评论家的广泛赞赏。\nCultural appreciation involves understanding and respecting different traditions.\n文化欣赏涉及理解和尊重不同传统。"
+    "example": "The appreciation for art and culture is developed through education and exposure to works over time.\n对艺术和文化的欣赏通过教育和随时间接触作品而发展。\nThe appreciation of the currency increased its value in international markets and trade globally.\n货币升值增加了其在全球国际市场和贸易中的价值。"
   },
   {
     "id": "word_525",
@@ -10486,7 +10486,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhend/",
     "frequency": "高频",
-    "example": "Police will apprehend the suspect based on witness descriptions.\n警方将根据证人描述逮捕嫌疑人。\nStudents must apprehend the fundamental concepts before advancing.\n学生在进步前必须领会基本概念。"
+    "example": "The police apprehended the suspect after a thorough investigation of the criminal case by detectives.\n警察在侦探对刑事案件进行彻底调查后逮捕了嫌疑人。\nThe student apprehended the complex concept after the teacher explained it with examples in class.\n学生在老师在课堂上用例子解释后理解了复杂概念。"
   },
   {
     "id": "word_526",
@@ -10507,7 +10507,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhensəbl/",
     "frequency": "中频",
-    "example": "The comprehensible explanation made the complex topic apprehensible.\n易理解的解释使复杂主题变得易于理解。\nScientific concepts become apprehensible through practical demonstrations.\n科学概念通过实践演示变得易于理解。"
+    "example": "The apprehensible explanation made the difficult topic easier for students to understand in the lesson.\n可理解的解释使困难话题更容易让学生在课程中理解。\nThe apprehensible nature of the evidence allowed the jury to reach a verdict quickly in the trial.\n证据的可理解性质允许陪审团在审判中快速达成裁决。"
   },
   {
     "id": "word_527",
@@ -10528,7 +10528,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprɪˈhenʃn/",
     "frequency": "低频",
-    "example": "The apprehension about the exam results kept her awake at night.\n对考试结果的担忧让她整夜睡不着。\nApprehension is natural when facing unknown challenges and situations.\n面对未知挑战和情况时，担忧是自然的。"
+    "example": "She felt apprehension about the upcoming exam that would determine her academic progress at school.\n她对即将到来的在学校决定她学术进步的考试感到担忧。\nThe apprehension of the situation grew as more details about the crisis emerged publicly in the news.\n随着更多关于危机的细节在新闻中公开出现，对情况的担忧增加。"
   },
   {
     "id": "word_528",
@@ -10549,7 +10549,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprentɪs/",
     "frequency": "高频",
-    "example": "The young apprentice learned traditional crafts from master artisans.\n年轻学徒向大师工匠学习传统工艺。\nMedical apprentices work alongside experienced doctors for training.\n医学学徒与经验丰富的医生一起工作进行培训。"
+    "example": "The apprentice learned the trade by working alongside experienced craftsmen in the workshop daily.\n学徒通过与车间经验丰富的工匠每天一起工作学习手艺。\nThe apprentice program provides training for young people entering the workforce for careers successfully.\n学徒计划为成功进入职场从事职业的年轻人提供培训。"
   },
   {
     "id": "word_529",
@@ -10570,7 +10570,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprəʊtʃ/",
     "frequency": "高频",
-    "example": "The new approach to teaching improves student engagement significantly.\n新的教学方法显著提高学生参与度。\nScientists use different approaches to solve complex research problems.\n科学家使用不同方法解决复杂研究问题。"
+    "example": "The approach to solving the problem involves careful analysis and strategic planning steps systematically.\n解决问题的方法涉及系统性的仔细分析和战略规划步骤。\nThe teacher used a new approach to engage students who struggled with traditional methods in class.\n老师使用新方法吸引课堂上在传统方法中挣扎的学生。"
   },
   {
     "id": "word_530",
@@ -10591,7 +10591,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprəˈbeɪʃn/",
     "frequency": "低频",
-    "example": "The proposal received unanimous approbation from the committee members.\n提案获得了委员会成员的一致认可。\nPublic approbation followed the successful completion of the project.\n项目成功完成后获得了公众的认可。"
+    "example": "The approbation from the supervisor encouraged the employee to continue working hard on the project.\n主管的认可鼓励员工继续在项目上努力工作。\nThe project received approbation from the board after successful completion of all objectives planned.\n项目在成功完成所有计划目标后获得了董事会的认可。"
   },
   {
     "id": "word_531",
@@ -10612,7 +10612,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprəʊpriət/",
     "frequency": "高频",
-    "example": "Students should wear appropriate attire for professional settings.\n学生应该在专业环境中穿着得体。\nThe appropriate response to emergency situations requires calm thinking.\n对紧急情况的适当反应需要冷静思考。"
+    "example": "The appropriate response to the situation requires careful consideration of all factors involved thoroughly.\n对情况的适当回应需要彻底仔细考虑所有涉及的因素。\nIt is appropriate to dress formally for the interview to show respect and professionalism to employers.\n面试时正式着装是适当的，以向雇主表示尊重和专业性。"
   },
   {
     "id": "word_532",
@@ -10633,7 +10633,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpruːvl/",
     "frequency": "高频",
-    "example": "The plan requires approval from senior management before implementation.\n该计划在实施前需要高级管理层的批准。\nParent approval is necessary for school field trip participation.\n参加学校实地考察需要家长批准。"
+    "example": "The approval of the proposal was granted after thorough review by the committee members in the meeting.\n提案的批准在会议中委员会成员彻底审查后获得。\nThe project received approval from the regulatory agency before implementation could begin officially.\n项目在实施正式开始前获得了监管机构的批准。"
   },
   {
     "id": "word_533",
@@ -10654,7 +10654,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpruːv/",
     "frequency": "中频",
-    "example": "Board members will approve the annual budget at the meeting.\n董事会成员将在会议上批准年度预算。\nVoters approve or reject proposals through referendums.\n选民通过公投批准或拒绝提案。"
+    "example": "The manager approved the budget for the new project after reviewing all financial details carefully.\n经理在仔细审查所有财务细节后批准了新项目的预算。\nThe committee approved the changes to the policy that had been proposed by the team members earlier.\n委员会批准了团队成员早先提出的政策变更。"
   },
   {
     "id": "word_534",
@@ -10675,7 +10675,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈprɒksɪmət/",
     "frequency": "中频",
-    "example": "The approximate distance to the destination is about fifty kilometers.\n到目的地的估计距离大约五十公里。\nScientists provide approximate dates for historical events.\n科学家提供历史事件的大致日期。"
+    "example": "The approximate cost of the renovation was estimated before the project began officially by contractors.\n翻新的近似成本在承包商正式开始项目前被估算。\nThe approximate location of the event was shared with participants via email communication beforehand.\n活动的近似位置通过电子邮件通信提前与参与者分享。"
   },
   {
     "id": "word_535",
@@ -10696,7 +10696,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈpɜːtɪnəns/",
     "frequency": "中频",
-    "example": "The land appurtenance includes a small barn and storage shed.\n土地附属物包括一个小谷仓和储藏棚。\nProperty appurtenances transfer with the sale of real estate.\n房产附属物随房产销售而转移。"
+    "example": "The appurtenance to the property includes all fixtures and equipment attached permanently to the building.\n财产的附属物包括所有永久固定在建筑上的装置和设备。\nThe legal document lists every appurtenance that transfers with the sale of the house to the buyer.\n法律文件列出了随房屋销售转移给买方的每个附属物。"
   },
   {
     "id": "word_536",
@@ -10717,7 +10717,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeɪprɪkɒt/",
     "frequency": "低频",
-    "example": "Fresh apricots are delicious when eaten ripe during summer months.\n新鲜杏子在夏季成熟时非常美味。\nApricot jam makes a wonderful spread for breakfast toast.\n杏子果酱是早餐吐司的绝佳涂抹酱。"
+    "example": "The apricot tree in the orchard produces sweet fruit that is harvested in summer months.\n果园里的杏树生产甜美的水果，在夏季月份收获。\nShe prepared apricot jam from the fresh fruit that she had picked from the garden trees.\n她用从花园树上采摘的新鲜水果制作杏子果酱。"
   },
   {
     "id": "word_537",
@@ -10738,7 +10738,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæprəˈpəʊ/",
     "frequency": "高频",
-    "example": "The speaker made apropos comments about current events during dinner.\n演讲者在晚宴上对时事发表了恰当的评论。\nApropos remarks show relevance to the ongoing discussion topic.\n恰当的评论显示与正在进行讨论主题的相关性。"
+    "example": "The comment was apropos to the discussion that was taking place among the participants at the meeting.\n评论与会议参与者之间进行的讨论相关。\nHis arrival was apropos as the meeting had just started when he entered the room unexpectedly.\n他的到来恰逢其时，因为当他意外进入房间时会议刚刚开始。"
   },
   {
     "id": "word_538",
@@ -10759,7 +10759,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈæptə/",
     "frequency": "中频",
-    "example": "This solution is apter.\n这个解决方案更恰当。"
+    "example": "The apter solution to the problem was proposed by the consultant after thorough analysis of the situation.\n更恰当的问题解决方案由顾问在对情况彻底分析后提出。\nThe apter candidate was selected for the position based on qualifications and experience in the field.\n更恰当的候选人根据该领域的资格和经验被选中担任该职位。"
   },
   {
     "id": "word_539",
@@ -10780,7 +10780,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌæptɪˈtjuːd/",
     "frequency": "低频",
-    "example": "She has an aptitude for music.\n她有音乐天赋。\nAptitude tests measure ability.\n能力倾向测试衡量能力。"
+    "example": "The student showed aptitude for mathematics and excelled in all related academic courses at school consistently.\n学生表现出数学天赋，在学校所有相关学术课程中持续表现优异。\nThe aptitude test helps identify strengths and weaknesses in various skill areas for career planning.\n能力倾向测试帮助识别各种技能领域的优势和劣势用于职业规划。"
   },
   {
     "id": "word_540",
@@ -10801,7 +10801,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwə/",
     "frequency": "高频",
-    "example": "The aqua color of the swimming pool looks refreshing in summer.\n游泳池的水色在夏天看起来很清爽。\nAqua is often used to describe shades of blue-green in design.\n水绿色常用来描述设计中的蓝绿色调。"
+    "example": "The aqua color of the swimming pool creates a refreshing and inviting atmosphere for visitors to enjoy swimming.\n游泳池的水色为游客创造了清新和诱人的游泳氛围。\nThe aqua solution is used in chemical processes that require specific liquid compositions for reactions.\n水溶液用于需要特定液体成分进行反应的化学过程。"
   },
   {
     "id": "word_541",
@@ -10822,7 +10822,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwəkʌltʃə/",
     "frequency": "中频",
-    "example": "Aquaculture provides sustainable seafood for growing populations.\n水产养殖为不断增长的人口提供可持续的海鲜。\nModern aquaculture techniques help preserve wild fish populations.\n现代水产养殖技术有助于保护野生鱼类种群。"
+    "example": "Aquaculture involves farming aquatic organisms in controlled environments for commercial purposes and profit.\n水产养殖涉及在受控环境中养殖水生生物用于商业目的和利润。\nThe aquaculture industry has grown significantly to meet increasing demand for seafood products globally.\n水产养殖行业显著增长以满足全球对海鲜产品的需求增加。"
   },
   {
     "id": "word_542",
@@ -10843,7 +10843,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌækwədaɪˈnæmɪk/",
     "frequency": "低频",
-    "example": "Engineers design aquadynamic hulls for faster ship movement.\n工程师设计水动力学船体以提高船舶速度。\nAquadynamic testing ensures optimal performance in water.\n水动力学测试确保在水中的最佳性能。"
+    "example": "The aquadynamic design of the boat allows it to move efficiently through water with minimal resistance.\n船的水动力设计使其能够以最小阻力高效地在水中移动。\nScientists study aquadynamic principles to improve the performance of underwater vehicles and equipment.\n科学家研究水动力原理以改善水下车辆和设备的性能。"
   },
   {
     "id": "word_543",
@@ -10864,7 +10864,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwəlʌŋ/",
     "frequency": "高频",
-    "example": "Divers rely on aqualungs to breathe underwater for extended periods.\n潜水员依靠水肺在水下长时间呼吸。\nThe aqualung revolutionized underwater exploration in the 20th century.\n水肺在20世纪彻底改变了水下探索。"
+    "example": "The aqualung enables divers to breathe underwater while exploring the ocean depths safely and comfortably.\n水肺使潜水员能够在安全舒适探索海洋深度的同时在水下呼吸。\nThe invention of the aqualung revolutionized underwater exploration and marine research activities worldwide.\n水肺的发明彻底改变了全球水下探索和海洋研究活动。"
   },
   {
     "id": "word_544",
@@ -10885,7 +10885,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkweəriəm/",
     "frequency": "中频",
-    "example": "The public aquarium displays hundreds of exotic fish species.\n公共水族馆展示数百种外来鱼类。\nChildren love watching colorful marine life at the aquarium.\n孩子们喜欢在水族馆观看五颜六色的海洋生物。"
+    "example": "The aquarium displays various marine species for educational and entertainment purposes for visitors of all ages.\n水族馆为所有年龄段的游客展示各种海洋物种用于教育和娱乐目的。\nMany families visit the aquarium to learn about aquatic life and ocean ecosystems together with children.\n许多家庭与孩子一起参观水族馆以了解水生生物和海洋生态系统。"
   },
   {
     "id": "word_545",
@@ -10906,7 +10906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈkwætɪk/",
     "frequency": "低频",
-    "example": "Aquatic plants thrive in freshwater ponds and lakes.\n水生植物在淡水池塘和湖泊中茁壮成长。\nMany aquatic animals have adapted to life in deep oceans.\n许多水生动物已经适应了深海生活。"
+    "example": "The aquatic plants in the pond provide habitat for fish and other water organisms in the ecosystem naturally.\n池塘中的水生植物为生态系统中的鱼类和其他水生生物自然提供栖息地。\nAquatic sports include swimming, diving, and other activities performed in water environments for competition.\n水上运动包括游泳、潜水和其他在水环境中进行的活动用于比赛。"
   },
   {
     "id": "word_546",
@@ -10927,7 +10927,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwɪdʌkt/",
     "frequency": "高频",
-    "example": "The ancient aqueduct carried water across vast distances.\n古老的渡槽将水输送到很远的地方。\nRoman aqueducts are impressive examples of engineering excellence.\n罗马渡槽是卓越工程的典范。"
+    "example": "The ancient aqueduct transported water from distant sources to the city for public use and consumption daily.\n古代渡槽将水从远处水源输送到城市供公众日常使用和消费。\nThe aqueduct system was essential for supplying water to communities in historical civilizations for survival.\n渡槽系统对于历史文明中社区的生存供水至关重要。"
   },
   {
     "id": "word_547",
@@ -10948,7 +10948,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈækwɪfə/",
     "frequency": "中频",
-    "example": "The aquifer provides drinking water for millions of people.\n含水层为数百万人提供饮用水。\nOver-pumping threatens the sustainability of underground aquifers.\n过度抽水威胁着地下含水层的可持续性。"
+    "example": "The aquifer provides groundwater that is essential for drinking and agricultural irrigation needs in the region.\n含水层提供地下水，对该地区的饮用和农业灌溉需求至关重要。\nScientists study aquifer systems to understand water resources and sustainable management practices for conservation.\n科学家研究含水层系统以了解水资源和可持续管理实践用于保护。"
   },
   {
     "id": "word_548",
@@ -10969,7 +10969,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌærəˈbesk/",
     "frequency": "低频",
-    "example": "The dancer performed a beautiful arabesque position during the ballet performance.\n舞者在芭蕾舞表演中展示了优美的 arabesque 舞姿。\nThe palace walls were decorated with intricate arabesque patterns made of colorful tiles.\n宫殿墙壁上装饰着由彩色瓷砖制成的复杂蔓藤花纹图案。"
+    "example": "The arabesque pattern decorates the walls of the traditional building with intricate designs and artistic details.\n阿拉伯式图案以复杂设计和艺术细节装饰传统建筑的墙壁。\nThe dancer performed an arabesque pose that demonstrated her flexibility and artistic skill to the audience.\n舞者向观众表演了一个阿拉伯式姿势，展示了她的柔韧性和艺术技巧。"
   },
   {
     "id": "word_549",
@@ -10990,7 +10990,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈærəbl/",
     "frequency": "高频",
-    "example": "The arable land in this region is highly fertile and suitable for growing wheat.\n该地区的可耕种土地非常肥沃，适合种植小麦。\nPreserving arable farmland is essential for ensuring food security in the future.\n保护可耕种农田对于确保未来的粮食安全至关重要。"
+    "example": "The arable land in the region is suitable for growing various crops and agricultural products for food production.\n该地区的可耕地适合种植各种作物和农产品用于食品生产。\nFarmers cultivate arable fields to produce food that supplies local markets and communities with fresh produce.\n农民耕种可耕地以生产新鲜农产品供应当地市场和社区。"
   },
   {
     "id": "word_550",
@@ -11011,7 +11011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈræknɪd/",
     "frequency": "中频",
-    "example": "The spider is the most common arachnid found in households around the world.\n蜘蛛是世界各地家庭中最常见的蛛形纲动物。\nAn arachnid has eight legs distinguishing it from insects which have six legs.\n蛛形纲动物有八条腿，这与有六条腿的昆虫不同。"
+    "example": "The arachnid species includes spiders and scorpions that have eight legs and distinct features for identification.\n蛛形纲物种包括蜘蛛和蝎子，它们有八条腿和独特的识别特征。\nScientists study arachnid behavior to understand their ecological roles and biological adaptations in nature.\n科学家研究蛛形纲行为以了解它们在自然中的生态角色和生物适应。"
   },
   {
     "id": "word_551",
@@ -11032,7 +11032,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtə/",
     "frequency": "低频",
-    "example": "The neutral arbiter was chosen to settle the dispute between the two parties.\n选择中立的仲裁人来解决双方之间的争端。\nFashion arbiters often influence trends that become popular worldwide.\n时尚仲裁人经常影响在全球流行的趋势。"
+    "example": "The arbiter was appointed to resolve the dispute between the two conflicting parties fairly and impartially.\n仲裁人被任命公平公正地解决两个冲突方之间的争议。\nThe arbiter made decisions that were accepted by all parties involved in the negotiation process without objection.\n仲裁人做出的决定被谈判过程中涉及的所有各方无异议接受。"
   },
   {
     "id": "word_552",
@@ -11053,7 +11053,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtrəri/",
     "frequency": "中频",
-    "example": "The judges arbitrary decision caused controversy among the public.\n法官的任意决定引起了公众的争议。\nMaking arbitrary choices without considering facts can lead to unfair outcomes.\n不考虑事实就做出随意的选择可能导致不公平的结果。"
+    "example": "The arbitrary decision by the manager upset employees who expected fair treatment and consistency in policies.\n经理的任意决定让期望政策公平对待和一致性的员工感到不安。\nThe rules seemed arbitrary and lacked clear justification for their implementation and enforcement by authorities.\n规则似乎任意，缺乏当局实施和执行的明确理由。"
   },
   {
     "id": "word_553",
@@ -11074,7 +11074,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbɪtreɪt/",
     "frequency": "中频",
-    "example": "The experienced lawyer was asked to arbitrate between the two conflicting companies.\n这位经验丰富的律师被请来在两家有冲突的公司之间进行仲裁。\nThe union leader will arbitrate the labor dispute to find a fair resolution.\n工会领袖将仲裁劳动争议以找到公平的解决方案。"
+    "example": "The judge arbitrated the conflict between the neighbors regarding property boundaries and rights legally and fairly.\n法官合法公平地仲裁了邻居之间关于财产边界和权利的冲突。\nThe organization arbitrated disputes between member states to maintain peace and cooperation in the alliance.\n组织仲裁成员国之间的争端以维持联盟中的和平与合作。"
   },
   {
     "id": "word_554",
@@ -11095,7 +11095,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːbə/",
     "frequency": "低频",
-    "example": "The romantic couple sat beneath the arbor enjoying the shade and fresh air.\n这对浪漫的夫妻坐在凉棚下享受阴凉和新鲜空气。\nA beautiful climbing rose plant was trained to grow over the garden arbor.\n一棵美丽的攀缘玫瑰被培育成在花园凉棚上生长。"
+    "example": "The arbor in the garden provides shade and shelter for plants growing underneath its structure for protection.\n花园中的乔木为其结构下生长的植物提供遮荫和庇护保护。\nThe wooden arbor was decorated with climbing vines that added beauty to the landscape design for visitors.\n木制乔木装饰着攀爬藤蔓，为游客的景观设计增添了美感。"
   },
   {
     "id": "word_555",
@@ -11116,7 +11116,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈbɔːriəl/",
     "frequency": "高频",
-    "example": "Monkeys are arboreal animals that spend most of their lives in trees.\n猴子是树栖动物，一生大部分时间都在树上度过。\nThe forest provides an ideal arboreal habitat for various species of birds.\n森林为各种鸟类提供了理想的树栖栖息地。"
+    "example": "The arboreal animals live in trees and rarely descend to the ground for food or shelter.\n树栖动物生活在树上，很少下到地面觅食或寻找庇护。\nThe arboreal habitat provides unique ecological conditions for species adapted to forest environments.\n树栖栖息地为适应森林环境的物种提供独特的生态条件。"
   },
   {
     "id": "word_556",
@@ -11137,7 +11137,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈbjuːtəs/",
     "frequency": "中频",
-    "example": "The arbutus tree is known for its beautiful red bark and strawberry-like fruit.\n桃金娘科树木以其美丽的红色树皮和草莓状果实而闻名。\nArbutus grows wild along the coastal areas providing food for wildlife.\n桃金娘科植物沿海岸地区野生生长，为野生动物提供食物。"
+    "example": "The arbutus tree produces beautiful flowers that attract pollinators during the spring season.\n杨梅树在春季产生美丽的花朵，吸引传粉者。\nThe arbutus fruit is edible and has been used in traditional cuisine by local communities for generations.\n杨梅果实可食用，已被当地社区世代用于传统烹饪。"
   },
   {
     "id": "word_557",
@@ -11158,7 +11158,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːk/",
     "frequency": "中频",
-    "example": "The rainbow formed a perfect arc across the clear blue sky.\n彩虹在蔚蓝的天空中形成了一道完美的弧线。\nThe electrician traced the arc of the electrical current through the circuit.\n电工追踪了电流通过电路的弧线。"
+    "example": "The arc of the rainbow appeared across the sky after the rain stopped in the afternoon.\n彩虹的弧线在下午雨停后出现在天空中。\nThe arc shape of the bridge allows it to support heavy loads while maintaining structural integrity.\n桥梁的弧形使其能够支撑重负荷，同时保持结构完整性。"
   },
   {
     "id": "word_558",
@@ -11179,7 +11179,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪd/",
     "frequency": "高频",
-    "example": "The children spent the afternoon playing video games at the local arcade.\n孩子们在当地游戏厅玩了一下午电子游戏。\nThe shopping arcade offers a variety of stores selling clothes accessories and food.\n购物商场提供各种销售服装、配饰和食品的商店。"
+    "example": "The arcade offers various games and entertainment options for visitors of all ages to enjoy playing together.\n游戏厅为所有年龄段的游客提供各种游戏和娱乐选择供一起玩。\nThe historic arcade features shops and restaurants that attract tourists to the downtown area for shopping.\n历史拱廊设有商店和餐厅，吸引游客到市中心地区购物。"
   },
   {
     "id": "word_559",
@@ -11200,7 +11200,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪn/",
     "frequency": "中频",
-    "example": "The professor specialized in studying arcane manuscripts from ancient civilizations.\n这位教授专门研究古代文明的秘传手稿。\nSome magical rituals involve arcane symbols that have been passed down for centuries.\n一些魔法仪式涉及几个世纪以来流传下来的神秘符号。"
+    "example": "The arcane knowledge was passed down through generations of practitioners in the ancient tradition secretly.\n神秘知识通过古代传统的几代从业者秘密传承。\nThe arcane symbols on the manuscript puzzled researchers who tried to decipher their meaning for years.\n手稿上的神秘符号让试图解读其含义多年的研究者困惑。"
   },
   {
     "id": "word_560",
@@ -11221,7 +11221,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːkiˈɒlədʒi/",
     "frequency": "低频",
-    "example": "Archaeology helps us understand how ancient civilizations lived and developed.\n考古学帮助我们了解古代文明是如何生活和发展的。\nShe decided to pursue archaeology as a career after visiting the museum exhibition.\n参观博物馆展览后，她决定把考古学作为职业。"
+    "example": "Archaeology studies ancient civilizations through excavation and analysis of artifacts and historical sites globally.\n考古学通过挖掘和分析全球文物和历史遗址研究古代文明。\nThe archaeology department offers courses that teach methods for uncovering and preserving historical evidence.\n考古系提供教授揭示和保存历史证据方法的课程。"
   },
   {
     "id": "word_561",
@@ -11242,7 +11242,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈkeɪɪk/",
     "frequency": "高频",
-    "example": "The archaic law was finally abolished after years of public pressure.\n经过多年的公众压力，这部过时的法律终于被废除了。\nMany archaic traditions have been preserved in rural communities despite modernization.\n尽管现代化了，许多古老的传统在农村社区得到保留。"
+    "example": "The archaic language used in the text makes it difficult for modern readers to understand clearly.\n文本中使用的古老语言使现代读者难以清晰理解。\nThe archaic customs have been preserved by communities that value traditional practices and heritage.\n古老习俗被重视传统实践和遗产的社区保存。"
   },
   {
     "id": "word_562",
@@ -11263,7 +11263,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkitaɪp/",
     "frequency": "中频",
-    "example": "The hero archetype is commonly found in stories across different cultures.\n英雄原型在不同文化的故事中很常见。\nShe embodies the archetype of a strong independent woman in her leadership style.\n在她的领导风格中，她体现了坚强独立女性的原型。"
+    "example": "The archetype of the hero appears in many stories across different cultures and literary traditions worldwide.\n英雄原型出现在全球不同文化和文学传统的许多故事中。\nThe archetype represents universal patterns that resonate with audiences regardless of cultural background differences.\n原型代表与观众共鸣的普遍模式，无论文化背景差异如何。"
   },
   {
     "id": "word_563",
@@ -11284,7 +11284,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːkɪˈmiːdiːz/",
     "frequency": "低频",
-    "example": "Archimedes was an ancient Greek mathematician who made significant discoveries.\n阿基米德是一位古希腊数学家，做出了重大发现。\nThe principle of buoyancy discovered by Archimedes is fundamental in physics.\n阿基米德发现的浮力原理是物理学的基础。"
+    "example": "Archimedes discovered important principles of physics and mathematics that influenced scientific development historically.\n阿基米德发现了影响历史科学发展的重要物理和数学原理。\nThe work of Archimedes contributed significantly to understanding buoyancy and mechanical systems in ancient times.\n阿基米德的工作对古代理解浮力和机械系统做出了重大贡献。"
   },
   {
     "id": "word_564",
@@ -11305,7 +11305,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːkɪˈpeləɡəʊ/",
     "frequency": "高频",
-    "example": "The Indonesian archipelago consists of thousands of islands spread across the ocean.\n印度尼西亚群岛由散布在海洋上的数千个岛屿组成。\nTourists love visiting the Greek archipelago for its beautiful beaches and history.\n游客喜欢游览希腊群岛，因为那里有美丽的海滩和历史。"
+    "example": "The archipelago consists of numerous islands that form a chain extending across the ocean region geographically.\n群岛由众多岛屿组成，地理上形成延伸跨越海洋区域的链条。\nThe archipelago attracts tourists who explore the diverse ecosystems and unique wildlife on the islands annually.\n群岛吸引每年探索岛屿多样生态系统和独特野生动物的游客。"
   },
   {
     "id": "word_565",
@@ -11326,7 +11326,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪtekt/",
     "frequency": "中频",
-    "example": "The talented architect designed the modern museum with innovative features.\n这位才华横溢的建筑师设计了具有创新特色的现代博物馆。\nAn architect must consider both aesthetic beauty and practical functionality in design.\n建筑师在设计中必须考虑美学和实际功能。"
+    "example": "The architect designed the building with innovative features that maximized natural light and space efficiently.\n建筑师设计了具有创新特色的建筑，高效最大化自然光和空间。\nThe architect collaborated with engineers to ensure structural integrity and safety of the construction project.\n建筑师与工程师合作确保建设项目的结构完整性和安全。"
   },
   {
     "id": "word_566",
@@ -11347,7 +11347,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪtektʃə/",
     "frequency": "中频",
-    "example": "The architecture of the cathedral reflects the Gothic style from medieval times.\n大教堂的建筑反映了中世纪的哥特式风格。\nStudying architecture requires an understanding of history art and engineering principles.\n学习建筑学需要了解历史、艺术和工程原理。"
+    "example": "The architecture of the city reflects historical influences and modern design trends in urban development visibly.\n城市的建筑明显反映了历史影响和现代设计趋势在城市发展中。\nStudents study architecture to understand how buildings influence human behavior and community interactions socially.\n学生学习建筑以了解建筑如何影响人类行为和社区社交互动。"
   },
   {
     "id": "word_567",
@@ -11368,7 +11368,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkaɪv/",
     "frequency": "高频",
-    "example": "The historical archive contains important documents dating back centuries.\n历史档案馆包含可以追溯到几个世纪的重要文件。\nResearchers can access the archive to study the evolution of the local culture.\n研究人员可以访问档案馆研究当地文化的演变。"
+    "example": "The archive contains historical documents that are preserved for research and educational purposes for scholars.\n档案馆包含为学者研究和教育目的保存的历史文件。\nThe digital archive allows users to access records remotely through online platforms and databases conveniently.\n数字档案馆允许用户通过在线平台和数据库方便地远程访问记录。"
   },
   {
     "id": "word_568",
@@ -11389,7 +11389,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkɪvɪst/",
     "frequency": "中频",
-    "example": "The archivist carefully preserved historical documents for future generations to study.\n档案管理员仔细保存历史文献供后代研究。\nA skilled archivist must have knowledge of preservation techniques and historical context.\n一名熟练的档案管理员必须了解保存技术和历史背景。"
+    "example": "The archivist manages the collection of historical records and ensures proper preservation of documents carefully.\n档案管理员管理历史记录收藏并确保文件的适当保存。\nThe archivist assists researchers in locating relevant materials for their academic projects and studies regularly.\n档案管理员定期协助研究人员为其学术项目和研究定位相关材料。"
   },
   {
     "id": "word_569",
@@ -11410,7 +11410,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːkjuət/",
     "frequency": "低频",
-    "example": "The arcuate design of the bridge added to its visual appeal and structural integrity.\n桥梁的弓形设计增加了其视觉吸引力和结构完整性。\nThe ancient temple featured beautiful arcuate doorways that reflected Roman architecture.\n这座古庙以反映罗马建筑风格的美丽拱形门道为特色。"
+    "example": "The arcuate structure of the bridge provides support and aesthetic appeal to the architectural design beautifully.\n桥梁的弧形结构为建筑设计提供支撑和美学吸引力。\nThe arcuate pattern in nature appears in various biological structures and geological formations commonly observed.\n自然中的弧形模式常见于各种生物结构和地质构造。"
   },
   {
     "id": "word_570",
@@ -11431,7 +11431,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdnt/",
     "frequency": "高频",
-    "example": "She is an ardent supporter of environmental protection and sustainable living.\n她是环境保护和可持续生活的热情支持者。\nThe ardent fans waited outside the stadium for hours to get tickets to the concert.\n热情的球迷在场外等了几个小时才买到音乐会门票。"
+    "example": "The ardent supporter attended every game and cheered enthusiastically for the team throughout.\n热情的支持者参加了每场比赛，全程为球队热情欢呼。\nHer ardent passion for music led her to pursue a career as a professional musician and performer.\n她对音乐的热情追求使她追求成为专业音乐家和表演者的职业。"
   },
   {
     "id": "word_571",
@@ -11452,7 +11452,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdə/",
     "frequency": "中频",
-    "example": "The soldiers fought with great ardor defending their country against the invasion.\n士兵们以极大的热忱战斗，保卫祖国抵御入侵。\nShe pursued her goals with such ardor that she achieved success in record time.\n她以极大的热忱追求目标，在创纪录的时间内取得了成功。"
+    "example": "The ardor of the young couple was evident in their constant affection and devotion to each other.\n年轻情侣的热情在他们彼此不断的感情和奉献中显而易见。\nHis ardor for learning motivated him to study diligently and achieve academic excellence in school.\n他对学习的热情激励他勤奋学习并在学校取得学术卓越。"
   },
   {
     "id": "word_572",
@@ -11473,7 +11473,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːdjuəs/",
     "frequency": "低频",
-    "example": "Climbing the mountain was an arduous journey that tested everyones endurance.\n爬山是一段艰辛的旅程，考验着每个人的耐力。\nCompleting a PhD program requires years of arduous research and writing.\n完成博士项目需要多年的艰苦研究和写作。"
+    "example": "The arduous journey required determination and perseverance from travelers who faced many challenges along the way.\n艰难的旅程需要面对沿途许多挑战的旅行者的决心和毅力。\nThe arduous task demanded significant effort and dedication from team members to complete successfully together.\n艰巨任务要求团队成员共同努力和奉献才能成功完成。"
   },
   {
     "id": "word_573",
@@ -11488,7 +11488,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈeəriə/",
     "frequency": "高频",
-    "example": "The metropolitan area has a population of over ten million people.\n这个大都市区有超过一千万人口。\nThis area of the park is designated for children to play safely.\n公园的这个区域被指定为儿童安全玩耍的地方。"
+    "example": "The area of the park provides recreational space for families and children to enjoy outdoor activities.\n公园的区域为家庭和儿童提供享受户外活动的休闲空间。\nThe designated area for the event was prepared with necessary facilities and safety measures in place.\n活动的指定区域已准备好必要的设施和安全措施。"
   },
   {
     "id": "word_574",
@@ -11503,7 +11503,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arena/",
     "frequency": "中频",
-    "example": "The boxing arena was filled with excited spectators cheering for their favorite fighters.\n拳击场挤满了兴奋的观众，为他们最喜欢的拳击手加油。\nThe political arena is highly competitive requiring strong communication skills.\n政治舞台竞争激烈，需要很强的沟通技巧。",
+    "example": "The arena hosted the championship match that attracted thousands of spectators from around the region locally.\n竞技场举办了吸引该地区数千名观众的冠军赛。\nThe political arena involves debates and negotiations among leaders who make important decisions for society publicly.\n政治舞台涉及为社会做出重要决策的领导人之间的公开辩论和谈判。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11524,7 +11524,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/argon/",
     "frequency": "低频",
-    "example": "Argon is an inert gas commonly used in welding and light bulbs.\n氩是一种惰性气体，常用于焊接和灯泡。\nThe element argon makes up about one percent of the earths atmosphere.\n氩元素约占地球大气的百分之一。",
+    "example": "Argon is a noble gas used in various industrial applications including welding and lighting manufacturing processes.\n氩气是一种用于各种工业应用包括焊接和照明制造过程的惰性气体。\nScientists study argon properties to understand its behavior in different chemical and physical conditions accurately.\n科学家研究氩气性质以准确了解其在不同化学和物理条件下的行为。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -11545,7 +11545,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/argot/",
     "frequency": "高频",
-    "example": "The criminal underworld has its own argot that ordinary people may not understand.\n犯罪地下世界有自己的行话，普通民众可能不理解。\nUnderstanding the argot of a particular group helps you communicate more effectively.\n了解特定群体的行话有助于你更有效地沟通。"
+    "example": "The argot used by the group consists of specialized vocabulary that is understood only by members internally.\n该群体使用的俚语由仅由内部成员理解的专门词汇组成。\nThe criminal argot allows members to communicate secretly without outsiders understanding their conversations clearly.\n犯罪俚语允许成员秘密交流而外人无法清楚理解他们的对话。"
   },
   {
     "id": "word_577",
@@ -11560,7 +11560,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːɡjuː/",
     "frequency": "高频",
-    "example": "The lawyers will argue their cases before the judge and jury tomorrow.\n律师们明天将在法官和陪审团面前辩论他们的案件。\nScientists continue to argue about the causes and effects of climate change.\n科学家们继续争论气候变化的原因和影响。",
+    "example": "The lawyer argued persuasively in court to convince the jury of the defendants innocence in the case.\n律师在法庭上有说服力地辩论以说服陪审团被告在案件中的无罪。\nThey argued about the best approach to solve the problem during the meeting with colleagues at work yesterday.\n他们在昨天与同事的工作会议期间争论解决问题的最佳方法。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11581,7 +11581,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːɡjumənt/",
     "frequency": "高频",
-    "example": "The heated argument between the neighbors lasted for several hours.\n邻居之间激烈的争论持续了几个小时。\nYour argument needs more evidence to convince the audience of your point.\n你的论点需要更多证据来说服观众接受你的观点。",
+    "example": "The argument presented by the speaker was logical and supported by evidence from research studies conducted.\n演讲者提出的论证逻辑清晰并由进行的研究研究证据支持。\nThe argument between colleagues was resolved through mediation and constructive dialogue between both parties involved.\n同事之间的争论通过调解和涉及双方的建设性对话解决。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11602,7 +11602,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/argyle/",
     "frequency": "高频",
-    "example": "He wore an argyle sweater that made him look stylish and sophisticated.\n他穿着一件菱形花纹毛衣，使他看起来时尚而精致。\nThe argyle pattern originated in Scotland and is traditionally associated with golf attire.\n菱形图案起源于苏格兰，传统上与高尔夫服装相关。",
+    "example": "The argyle pattern on the sweater creates a classic design that is popular in fashion trends.\n毛衣上的菱形图案创造了经典设计，在时尚潮流中很受欢迎。\nThe argyle socks were chosen to match the outfit for the formal occasion and event.\n菱形袜子被选择以匹配正式场合和活动的服装。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11623,7 +11623,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aria/",
     "frequency": "中频",
-    "example": "The famous opera singer performed a beautiful aria that moved the entire audience.\n这位著名的歌剧演唱家表演了一首优美的咏叹调，感动了全场观众。\nShe has been practicing the difficult aria for weeks to prepare for the concert.\n她已经练习这首难度很大的咏叹调好几个星期，为音乐会做准备。",
+    "example": "The aria performed by the soprano captivated the audience with its beautiful melody and expression.\n女高音演唱的咏叹调以其优美的旋律和表达吸引了观众。\nThe aria from the opera is considered one of the most challenging pieces for vocalists to perform.\n歌剧中的咏叹调被认为是声乐家表演最具挑战性的作品之一。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11644,7 +11644,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arid/",
     "frequency": "低频",
-    "example": "The arid desert landscape is home to many unique plant and animal species.\n干旱的沙漠景观是许多独特动植物物种的家园。\nAgriculture in arid regions requires innovative irrigation techniques to succeed.\n干旱地区的农业需要创新的灌溉技术才能成功。",
+    "example": "The arid climate of the region limits agricultural activities due to insufficient rainfall for crop cultivation.\n该地区的干旱气候因降雨不足限制作物种植的农业活动。\nThe arid landscape features sparse vegetation and desert conditions that challenge survival of living organisms there.\n干旱景观具有稀疏植被和沙漠条件，挑战那里生物的生存。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11665,7 +11665,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪz/",
     "frequency": "高频",
-    "example": "Problems may arise during the project that require immediate attention.\n项目期间可能出现需要立即关注的问题。\nOpportunities for career advancement will arise as the company continues to grow.\n随着公司的不断发展，将会出现职业发展机会。",
+    "example": "Problems arise unexpectedly during the project implementation that require immediate attention and resolution quickly.\n项目实施期间意外出现需要立即关注和快速解决的问题。\nThe opportunity arose when the company announced new positions available for qualified applicants to apply.\n当公司宣布新职位供合格申请人申请时机会出现了。",
     "prefix": "a-",
     "prefixMeaning": "向上",
     "prefixMeaningEn": "up",
@@ -11686,7 +11686,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːm/",
     "frequency": "高频",
-    "example": "She broke her arm while falling from the bicycle during the race.\n她在比赛中从自行车上摔下来时摔断了手臂。\nThe government is taking steps to arm local communities with resources for emergencies.\n政府正在采取措施为社区提供应对紧急情况的资源。",
+    "example": "The arm provides essential support for lifting and carrying objects in daily activities and tasks regularly.\n手臂为日常活动和任务中的举物和搬运提供重要支撑。\nThe arm of the machine performs precise movements that are controlled by the operator during manufacturing processes.\n机器臂在制造过程中执行由操作员控制的精确动作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11707,7 +11707,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armada/",
     "frequency": "低频",
-    "example": "The Spanish Armada was a powerful fleet that attempted to invade England in 1588.\n西班牙无敌舰队是一支试图在1588年入侵英格兰的强大舰队。\nA massive armada of fishing boats gathered at the port for the annual festival.\n大量渔船船队在港口聚集，参加年度 festival。",
+    "example": "The armada of ships sailed across the ocean to engage in battle with the enemy fleet.\n舰队穿越海洋与敌舰进行战斗。\nThe historical armada was one of the largest naval forces assembled for the military campaign.\n历史舰队是为军事行动集结的最大海军力量之一。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11728,7 +11728,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armament/",
     "frequency": "高频",
-    "example": "The country increased its armament to defend against potential threats.\n该国增加军备以防御潜在威胁。\nInternational treaties aim to limit the proliferation of nuclear armaments worldwide.\n国际条约旨在限制全世界核武器的扩散。",
+    "example": "The armament of the military includes various weapons and equipment for defense and combat operations globally.\n军事装备包括用于全球防御和作战行动的各种武器和设备。\nThe armament program was developed to modernize the defense capabilities of the nation for security purposes.\n装备计划旨在现代化国家防御能力以实现安全目的。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11749,7 +11749,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armature/",
     "frequency": "中频",
-    "example": "The sculptor created a clay armature before adding the final details to the statue.\n雕塑家在雕像上添加最终细节之前，先制作了粘土骨架。\nThe armature in an electric motor rotates to generate mechanical energy.\n电动机中的电枢旋转产生机械能。",
+    "example": "The armature in the electric motor provides support for the rotating components during operation efficiently.\n电动机中的电枢在运行期间为旋转组件提供高效支撑。\nThe armature structure was reinforced to withstand higher loads and mechanical stress in industrial applications.\n电枢结构被加固以承受工业应用中更高的载荷和机械应力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11770,7 +11770,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armistice/",
     "frequency": "低频",
-    "example": "The two nations signed an armistice bringing an end to years of conflict.\n两国签署了停战协定，结束了多年的冲突。\nThe armistice was observed with a moment of silence to honor those who died.\n人们默哀片刻纪念那些逝去的人，以遵守停战协议。",
+    "example": "The armistice agreement ended the conflict and established peace between the opposing nations historically.\n停战协议结束了冲突并在历史上建立了对立国家之间的和平。\nThe armistice was signed after negotiations that lasted several months between representatives of both sides.\n停战协议在双方代表持续数月的谈判后签署。",
     "prefix": "ar-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "to; intensifier",
@@ -11791,7 +11791,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armor/",
     "frequency": "高频",
-    "example": "The medieval knight wore heavy armor to protect himself in battle.\n中世纪骑士在战斗中穿着沉重的盔甲保护自己。\nModern tanks are equipped with advanced armor plating to withstand enemy attacks.\n现代坦克配备先进的装甲板以抵御敌人攻击。",
+    "example": "The armor worn by knights in medieval times provided protection during battles and combat encounters historically.\n中世纪骑士穿戴的盔甲在历史上在战斗和战斗遭遇期间提供保护。\nModern armor technology uses advanced materials to protect military personnel in dangerous situations effectively.\n现代装甲技术使用先进材料有效保护军事人员在危险情况中。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11812,7 +11812,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/armory/",
     "frequency": "中频",
-    "example": "The national armory contains weapons and military equipment from different eras.\n国家军械库包含不同时代的武器和军事装备。\nPolice officers must register all weapons removed from the armory for official use.\n警察必须登记从军械库取出的所有武器以供正式使用。",
+    "example": "The armory stores weapons and equipment that are used by military personnel for training and operations regularly.\n军械库存储军事人员定期用于训练和行动的武器和设备。\nThe historic armory building has been preserved as a museum that displays military artifacts for visitors.\n历史军械库建筑已被保存为向游客展示军事文物的博物馆。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11833,7 +11833,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːmi/",
     "frequency": "高频",
-    "example": "The army was deployed to assist with disaster relief operations in the region.\n军队被部署协助该地区的救灾行动。\nJoining the army can provide valuable training and discipline for young people.\n参军可以为年轻人提供宝贵的训练和纪律。",
+    "example": "The army was deployed to assist in disaster relief efforts following the natural disaster in the region.\n军队被部署协助该地区自然灾害后的救灾工作。\nThe army conducts training exercises regularly to maintain readiness for various operational scenarios globally.\n军队定期进行训练演习以保持全球各种作战场景的准备状态。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11854,7 +11854,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aroma/",
     "frequency": "高频",
-    "example": "The aroma of freshly baked bread filled the kitchen making everyone hungry.\n新鲜面包的香气弥漫在厨房里，让每个人都饿了。\nThe coffee shop is famous for the rich aroma of its freshly roasted beans.\n这家咖啡店以其新鲜烘焙咖啡豆的浓郁香气而闻名。",
+    "example": "The aroma of freshly baked bread filled the kitchen and attracted everyone to taste it.\n新鲜面包的香气充满厨房，吸引每个人品尝。\nThe aroma of the flowers in the garden creates a pleasant atmosphere for visitors to enjoy.\n花园中花朵的香气为游客创造了愉快的氛围。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11875,7 +11875,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/aromatic/",
     "frequency": "中频",
-    "example": "The aromatic herbs in the garden include basil rosemary and thyme.\n花园里的芳香草本植物包括罗勒、迷迭香和百里香。\nThai cuisine is known for its use of aromatic spices and fresh ingredients.\n泰国菜以其芳香香料和新鲜食材的使用而闻名。",
+    "example": "The aromatic herbs were added to the dish to enhance its flavor and appeal to diners.\n芳香草药被添加到菜肴中以增强其风味并吸引食客。\nThe aromatic properties of the plant make it valuable for producing essential oils and fragrances.\n植物的芳香特性使其对生产精油和香水有价值。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11896,7 +11896,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraʊnd/",
     "frequency": "高频",
-    "example": "The children ran around the playground enjoying their recess time.\n孩子们在操场上跑来跑去，享受他们的课间休息时间。\nLooking around the city you can see many historical buildings and modern architecture.\n环顾城市，你可以看到许多历史建筑和现代建筑。"
+    "example": "The children ran around the playground laughing and playing games with their friends.\n孩子们在操场周围奔跑，与朋友一起笑和玩游戏。\nThe store is located around the corner from the main street and is easily accessible to customers.\n商店位于主街拐角处，对顾客来说很容易到达。"
   },
   {
     "id": "word_594",
@@ -11911,7 +11911,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arpeggio/",
     "frequency": "高频",
-    "example": "The pianist played a beautiful arpeggio that showcased her technical skill.\n钢琴家演奏了一个优美的琶音，展示了她的技术。\nUnderstanding arpeggios is essential for learning to play many musical compositions.\n理解琶音对于学习演奏许多音乐作品至关重要。",
+    "example": "The arpeggio technique involves playing notes of a chord sequentially rather than simultaneously in music performance.\n琶音技术涉及在音乐表演中顺序而非同时演奏和弦音符。\nThe pianist practiced the arpeggio passage repeatedly to achieve smooth and accurate execution in the recital.\n钢琴家反复练习琶音段落以在独奏会中实现流畅准确的执行。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11932,7 +11932,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrack/",
     "frequency": "中频",
-    "example": "Arrack is a traditional alcoholic beverage popular in some Asian countries.\n亚力酒是一种在一些亚洲国家流行的传统酒精饮料。\nThe recipe for the traditional drink includes arrack as one of its main ingredients.\n传统饮料的配方包括亚力酒作为主要成分之一。",
+    "example": "The arrack is a traditional alcoholic beverage that is popular in certain regions of the world.\n亚拉克酒是一种传统酒精饮料，在世界上某些地区很受欢迎。\nThe production of arrack involves fermentation processes that have been practiced for centuries locally.\n亚拉克酒的生产涉及在当地已经实践了几个世纪的发酵过程。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -11953,7 +11953,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈreɪndʒ/",
     "frequency": "高频",
-    "example": "Please arrange the books on the shelf in alphabetical order for easier access.\n请按字母顺序排列书架上的书籍，以便于查找。\nWe need to arrange a meeting with all stakeholders before making this decision.\n在做这个决定之前，我们需要安排与所有利益相关者开会。",
+    "example": "The event coordinator arranged all details for the conference including venue and catering services for attendees.\n活动协调员为会议安排了所有细节，包括场地和与会者的餐饮服务。\nShe arranged the books on the shelf in alphabetical order to make them easier to find and access quickly.\n她将书架上的书籍按字母顺序排列以便更容易快速查找和访问。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -11974,7 +11974,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈreɪndʒmənt/",
     "frequency": "中频",
-    "example": "The floral arrangement on the table added a beautiful touch to the room decor.\n桌上插花布置为房间装饰增添了美丽的点缀。\nThe seating arrangement at the wedding was carefully planned to accommodate all guests.\n婚礼的座位安排经过精心策划，以容纳所有客人。",
+    "example": "The arrangement of furniture in the room maximizes space and creates a comfortable environment for residents living.\n房间家具的安排最大化空间并为居住居民创造舒适环境。\nThe arrangement between the companies allows them to share resources and reduce operational costs effectively together.\n公司之间的安排允许它们共享资源并有效降低运营成本。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -11995,7 +11995,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrant/",
     "frequency": "中频",
-    "example": "He is known as an arrant fool who makes poor decisions without thinking.\n他是一个公认的傻瓜，不经思考就做出糟糕的决定。\nThe arrant nonsense of the rumor was quickly debunked by reliable sources.\n这个荒谬的谣言很快被可靠来源揭穿了。",
+    "example": "The arrant falsehood was exposed when evidence contradicted the claims made by the accused party publicly.\n当证据公开反驳被告方提出的声称时，彻底的谎言被揭露。\nThe arrant behavior of the individual shocked the community who expected better conduct from community members.\n个人的彻底行为震惊了期望社区成员更好行为的社区。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12016,7 +12016,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/array/",
     "frequency": "低频",
-    "example": "The store has a vast array of products to choose from for every budget.\n这家商店有各种各样的产品可供选择，适合各种预算。\nThe scientist analyzed a large array of data to draw meaningful conclusions.\n科学家分析大量数据以得出有意义的结论。",
+    "example": "The array of products displayed in the store attracts customers who browse through various options for purchase.\n商店展示的产品阵列吸引浏览各种购买选项的顾客。\nThe array of data points was analyzed to identify patterns and trends in the research study conducted.\n数据点阵列被分析以识别进行的研究研究中的模式和趋势。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12037,7 +12037,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈrest/",
     "frequency": "中频",
-    "example": "The police arrested the suspect after a thorough investigation of the crime.\n警方在彻底调查犯罪后逮捕了嫌疑人。\nThe doctors worked quickly to arrest the spread of infection in the patient.\n医生们迅速采取行动，阻止了患者感染的扩散。",
+    "example": "The police arrest of the suspect was conducted after sufficient evidence was gathered by investigators thoroughly.\n警察在调查员彻底收集足够证据后逮捕嫌疑人。\nThe arrest warrant was issued by the judge based on probable cause presented by law enforcement authorities.\n逮捕令由法官根据执法当局提出的合理理由签发。",
     "prefix": "ar-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12058,7 +12058,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪvl/",
     "frequency": "高频",
-    "example": "The arrival of the train was delayed due to heavy snow in the region.\n由于该地区大雪，火车的到达被延迟了。\nHer arrival at the party surprised everyone who did not expect to see her.\n她出现在聚会上让没有预料到会见到她的每个人都感到惊讶。",
+    "example": "The arrival of the guests was announced by the host who welcomed them to the event venue.\n客人的到达由欢迎他们到活动场地的主人宣布。\nThe arrival of the shipment was delayed due to unexpected logistics issues during transportation.\n货物的到达因运输过程中意外的物流问题而延误。",
     "prefix": "ar-",
     "prefixMeaning": "向；到",
     "prefixMeaningEn": "toward",
@@ -12079,7 +12079,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/əˈraɪv/",
     "frequency": "高频",
-    "example": "We will arrive at the airport at least two hours before our flight departure.\n我们将在航班起飞前至少两小时到达机场。\nThe package is expected to arrive within three to five business days.\n包裹预计在三到五个工作日内到达。",
+    "example": "The guests arrived at the party earlier than expected and were welcomed by the hosts warmly and graciously.\n客人比预期更早到达聚会，受到主人温暖和亲切的欢迎。\nThe shipment arrived at the destination after several days of transit through various transportation networks.\n货物经过各种运输网络数天运输后到达目的地。",
     "prefix": "ar-",
     "prefixMeaning": "向；到",
     "prefixMeaningEn": "toward",
@@ -12100,7 +12100,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrogant/",
     "frequency": "中频",
-    "example": "His arrogant attitude made it difficult for others to work with him on projects.\n他傲慢的态度使他人在项目中难以与他合作。\nThe arrogant CEO refused to listen to feedback from employees at lower levels.\n这位傲慢的CEO拒绝听取来自基层员工的反馈。",
+    "example": "The arrogant attitude of the manager alienated employees who felt undervalued and disrespected in the workplace.\n经理傲慢的态度疏远了在工作场所感到被低估和不尊重的员工。\nHis arrogant remarks during the meeting offended colleagues who expected professional and respectful communication.\n他在会议期间的傲慢言论冒犯了期望专业和尊重沟通的同事。",
     "prefix": "ar-",
     "prefixMeaning": "向；加强语气",
     "prefixMeaningEn": "toward; intensive",
@@ -12121,7 +12121,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈærəʊ/",
     "frequency": "中频",
-    "example": "The arrow pointed toward the direction we needed to travel to reach the destination.\n箭头指向我们需要前往目的地的方向。\nThe archer released the arrow hitting the target with remarkable accuracy.\n弓箭手射出了箭，准确地击中了目标。",
+    "example": "The arrow was shot from the bow and hit the target accurately during the archery competition.\n箭从弓中射出，在射箭比赛中准确击中目标。\nThe arrow pointed in the direction that the travelers needed to follow to reach their destination.\n箭指向旅行者需要遵循以到达目的地的方向。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12142,7 +12142,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrowhead/",
     "frequency": "低频",
-    "example": "Archaeologists discovered ancient arrowheads made of stone in the excavation site.\n考古学家在挖掘现场发现了用石头制成的古代箭头。\nThe arrowhead was carefully preserved as an artifact from the prehistoric era.\n箭头作为史前时代的文物被仔细保存。",
+    "example": "The arrowhead discovered at the archaeological site provides evidence about ancient hunting practices and tools used.\n在考古遗址发现的箭头提供了关于古代狩猎实践和使用的工具的证据。\nThe arrowhead was crafted from stone and attached to the shaft for use in hunting and warfare activities historically.\n箭头由石头制成并连接到杆上用于历史上的狩猎和战争活动。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12163,7 +12163,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arrowroot/",
     "frequency": "高频",
-    "example": "Arrowroot is a starch extracted from the roots of a tropical plant used in cooking.\n葛粉是从热带植物根部提取的淀粉，用于烹饪。\nArrowroot flour is often used as a gluten-free alternative in baking recipes.\n葛根粉在烘焙食谱中常被用作无麸质替代品。",
+    "example": "Arrowroot is a starch extracted from plants that is used in cooking and medicinal applications.\n竹芋是从植物中提取的淀粉，用于烹饪和医疗应用。\nThe arrowroot powder is commonly used as a thickening agent in various culinary recipes and dishes.\n竹芋粉常作为增稠剂用于各种烹饪食谱和菜肴。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12184,7 +12184,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arsenal/",
     "frequency": "中频",
-    "example": "The football team has a strong arsenal of talented players to choose from.\n这支足球队有强大的球员阵容可供选择。\nThe military arsenal includes a variety of weapons for different tactical situations.\n军事武器库包括适用于不同战术情况的各种武器。",
+    "example": "The arsenal contains various weapons that are maintained for defense and military operations by the armed forces.\n军火库包含由武装部队维护用于防御和军事行动的各种武器。\nThe arsenal of skills possessed by the expert enables him to handle complex challenges in his field effectively.\n专家拥有的技能库使他能够有效处理其领域的复杂挑战。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12205,7 +12205,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arsenic/",
     "frequency": "低频",
-    "example": "Arsenic is a toxic chemical element that can cause serious health problems.\n砷是一种有毒的化学元素，可导致严重的健康问题。\nContamination of drinking water with arsenic poses a significant public health risk.\n饮用水中砷污染构成重大公共卫生风险。",
+    "example": "Arsenic is a chemical element that can be toxic and harmful to human health in large amounts.\n砷是一种化学元素，大量时可能对人类健康有毒和有害。\nThe arsenic contamination in the water supply was identified and addressed by environmental authorities.\n供水中的砷污染被环境当局识别和处理。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12226,7 +12226,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arson/",
     "frequency": "高频",
-    "example": "The arson investigation revealed that the fire was deliberately set by someone.\n纵火调查表明火灾是有人故意纵火的。\nArson is a serious crime that can result in significant property damage and loss of life.\n纵火是一项严重的罪行，可能导致重大财产损失和生命损失。",
+    "example": "The arson investigation determined that the fire was intentionally set by someone with malicious intent deliberately.\n纵火调查确定火灾是由某人故意恶意意图故意引发的。\nThe arson attack caused significant damage to the building and resulted in criminal charges against the perpetrator.\n纵火攻击对建筑造成重大损害并导致对肇事者的刑事指控。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12247,7 +12247,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/art/",
     "frequency": "高频",
-    "example": "Art has the power to inspire emotions and provoke thoughtful reflection in viewers.\n艺术有能力激发观众的情感并引发深思。\nShe studied art history at university and now works at a prestigious museum.\n她在大学学习艺术史，现在在一家著名博物馆工作。",
+    "example": "The art exhibition displayed works from famous painters that attracted many visitors to the gallery downtown recently.\n艺术展览展示了著名画家的作品，最近吸引了众多游客到市中心画廊。\nThe art of painting requires practice and dedication to develop skills and creative expression for artists professionally.\n绘画艺术需要练习和奉献来为艺术家专业发展技能和创意表达。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12268,7 +12268,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arterial/",
     "frequency": "低频",
-    "example": "The arterial road connects the city center to the surrounding suburbs efficiently.\n动脉道路有效地连接市中心和周边郊区。\nArterial bleeding requires immediate medical attention to prevent severe blood loss.\n动脉出血需要立即就医以防止严重失血。",
+    "example": "The arterial roads connect major cities and facilitate transportation of goods and passengers between regions efficiently.\n动脉道路连接主要城市并高效促进地区间货物和乘客的运输。\nThe arterial blood carries oxygen from the heart to various organs throughout the human body for survival.\n动脉血将氧气从心脏输送到人体各个器官以供生存。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12289,7 +12289,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artery/",
     "frequency": "高频",
-    "example": "The main artery in the city experiences heavy traffic during rush hour every day.\n这座城市的主干道每天高峰期都会严重交通拥堵。\nA healthy diet and regular exercise can help keep your arteries clear of blockages.\n健康的饮食和定期运动可以帮助保持动脉畅通。",
+    "example": "The artery was blocked by plaque buildup that required medical intervention to clear it for patient health.\n动脉被斑块堆积堵塞，需要医疗干预为患者健康清除它。\nThe main artery supplies blood to the brain and is essential for proper neurological function in the body.\n主要动脉向大脑供血，对身体的适当神经功能至关重要。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12310,7 +12310,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artful/",
     "frequency": "中频",
-    "example": "The artful negotiator was able to secure a favorable deal for her company.\n这位精明的谈判者为她的公司争取到了一笔有利可图的交易。\nThe artful design of the garden attracted many visitors from around the world.\n花园的巧妙设计吸引了来自世界各地的许多游客。",
+    "example": "The artful design of the building combines functionality with aesthetic appeal for visitors and residents alike.\n建筑的巧妙设计将功能性与其对游客和居民的美学吸引力结合起来。\nThe artful negotiation strategy achieved favorable outcomes for all parties involved in the business deal successfully.\n巧妙的谈判策略为商业交易中涉及的所有各方成功取得了有利结果。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12331,7 +12331,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arthritic/",
     "frequency": "低频",
-    "example": "The elderly woman suffered from arthritic pain in her hands and knees.\n这位老妇人手部和膝盖患有关节炎疼痛。\nArthritic conditions can be managed with proper medication and physical therapy.\n关节炎症状可以通过适当的药物和物理治疗来控制。",
+    "example": "The arthritic condition causes pain and stiffness in the joints of elderly patients regularly and consistently.\n关节炎状况定期持续导致老年患者关节疼痛和僵硬。\nThe arthritic symptoms were managed through medication and physical therapy treatments prescribed by doctors carefully.\n关节炎症状通过医生仔细处方药物和物理治疗得到管理。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12352,7 +12352,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arthropod/",
     "frequency": "高频",
-    "example": "Insects and spiders are the most common types of arthropods found in nature.\n昆虫和蜘蛛是自然界中最常见的节肢动物类型。\nThe arthropod has an exoskeleton that provides protection and structural support.\n节肢动物有外骨骼，提供保护和结构支撑。",
+    "example": "The arthropod species includes insects, crustaceans, and other animals with jointed legs and segmented bodies naturally.\n节肢动物物种自然包括昆虫、甲壳类动物和其他有节腿和分节身体的动物。\nScientists study arthropod diversity to understand evolutionary patterns in animal kingdom development and adaptation globally.\n科学家研究节肢动物多样性以了解全球动物王国发展和适应的进化模式。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12373,7 +12373,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artichoke/",
     "frequency": "中频",
-    "example": "Artichoke is a nutritious vegetable that can be prepared in various delicious ways.\n洋蓟是一种营养丰富的蔬菜，可以用多种美味的方式烹制。\nFresh artichokes are available at the farmers market during the spring season.\n新鲜洋蓟在春季可以在农贸市场买到。",
+    "example": "The artichoke is a vegetable that is commonly used in Mediterranean cuisine and dishes for culinary preparation.\n洋蓟是一种蔬菜，常用于地中海菜肴和食品烹饪准备。\nThe artichoke hearts are considered a delicacy and are prepared in various culinary styles by chefs worldwide globally.\n洋蓟心被认为是美味佳肴，由全球厨师以各种烹饪风格准备。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12394,7 +12394,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːtɪkl/",
     "frequency": "高频",
-    "example": "She wrote an informative article about the benefits of renewable energy sources.\n她写了一篇关于可再生能源益处的信息丰富的文章。\nThe newspaper article highlighted the challenges facing the local education system.\n这篇报纸文章强调了当地教育系统面临的挑战。",
+    "example": "The article in the newspaper reported on recent developments in the political situation locally and nationally thoroughly.\n报纸上的文章彻底报道了当地和国家政治局势的最新发展。\nThe article provides detailed information about the topic that readers found informative and helpful for understanding.\n文章提供了读者认为有信息和帮助理解主题的详细信息。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12415,7 +12415,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/articulate/",
     "frequency": "高频",
-    "example": "The professor is highly articulate when explaining complex scientific concepts.\n这位教授在解释复杂的科学概念时非常善于表达。\nLearning to articulate your thoughts clearly is essential for effective communication.\n学会清晰地表达你的想法对于有效沟通至关重要。",
+    "example": "The speaker articulated his ideas clearly during the presentation to the audience members attending the event.\n演讲者在向参加活动的观众成员演讲期间清晰地表达了他的想法。\nThe articulate response impressed the interviewers who appreciated his communication skills and professional demeanor.\n清晰表达的回答给欣赏他沟通技巧和专业态度的面试官留下了深刻印象。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12436,7 +12436,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artifact/",
     "frequency": "中频",
-    "example": "The museum displays ancient artifacts from various civilizations around the world.\n博物馆展示来自世界各地各种文明的古代文物。\nArchaeologists carefully excavate and preserve artifacts for historical study.\n考古学家仔细挖掘和保存文物用于历史研究。",
+    "example": "The artifact discovered at the site provides evidence about ancient civilizations and their practices for historical research.\n在遗址发现的文物为历史研究提供了关于古代文明及其实践的证据。\nThe artifact was carefully preserved in the museum for future generations to study and appreciate historically and culturally.\n文物在博物馆中被精心保存，供后代历史和文化研究和欣赏。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12457,7 +12457,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌɑːtɪˈfɪʃl/",
     "frequency": "中频",
-    "example": "Artificial intelligence has revolutionized many industries including healthcare and transportation.\n人工智能革新了许多行业，包括医疗保健和交通运输。\nThe artificial flowers look so realistic that visitors often mistake them for real ones.\n这些人造花看起来如此逼真，游客经常误以为是真花。",
+    "example": "The artificial lighting in the room creates a bright environment for work and activities throughout the day.\n房间中的人工照明为全天工作和活动创造了明亮的环境。\nThe artificial intelligence system processes data efficiently to support decision-making processes in business operations.\n人工智能系统高效处理数据以支持商业运营中的决策过程。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12478,7 +12478,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artisan/",
     "frequency": "高频",
-    "example": "The skilled artisan crafted beautiful jewelry using traditional techniques passed down generations.\n这位技艺精湛的工匠使用代代相传的传统技术制作精美珠宝。\nLocal artisans sell their handmade products at the weekly craft market in the town square.\n当地工匠在城镇广场的每周工艺市场上出售他们的手工产品。",
+    "example": "The artisan crafted beautiful handmade products that were sold at local markets and shops to customers regularly.\n工匠制作了美丽的手工产品，定期在当地市场和商店向顾客出售。\nThe artisan tradition has been passed down through generations in the community for centuries preserving cultural heritage.\n工匠传统在社区中通过世代传承了几个世纪，保留了文化遗产。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12499,7 +12499,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈɑːtɪst/",
     "frequency": "高频",
-    "example": "The talented artist painted a stunning portrait that captured the subjects personality perfectly.\n这位才华横溢的艺术家画了一幅令人惊叹的肖像画，完美地捕捉了主题的个性。\nBecoming a successful artist requires dedication creativity and continuous practice.\n成为一名成功的艺术家需要奉献精神、创造力和不断练习。",
+    "example": "The artist created stunning paintings that were exhibited in galleries around the world attracting many visitors globally.\n艺术家创作了令人惊叹的画作，在全球各地的画廊展出吸引众多游客。\nThe artist dedicated years to developing his unique style and technique in visual arts for professional recognition.\n艺术家致力于发展他在视觉艺术中的独特风格和技术以获得专业认可。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12520,7 +12520,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ɑːˈtɪstɪk/",
     "frequency": "中频",
-    "example": "She has a natural artistic talent that was evident from a very young age.\n她从小就表现出天生的艺术才能。\nThe city is known for its vibrant artistic community and numerous galleries.\n这座城市以其充满活力的艺术社区和众多画廊而闻名。",
+    "example": "The artistic talent of the student was recognized by teachers who encouraged further development and training.\n学生的艺术天赋被鼓励进一步发展和培训的老师认可。\nThe artistic expression in the work reflects the creators personal experiences and emotions through creative representation.\n作品中的艺术表达通过创意表现反映了创作者的个人经历和情感。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12541,7 +12541,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artistry/",
     "frequency": "高频",
-    "example": "The craftsmanship and artistry of the furniture maker were evident in every piece.\n家具制造商的工艺和艺术性在每件作品中都很明显。\nThe dancers performed with such artistry that the audience was left speechless.\n舞者们的表演如此精湛，观众们惊叹得说不出话来。",
+    "example": "The artistry displayed in the performance captivated audiences who appreciated the skill and creativity involved thoroughly.\n表演中展示的艺术性彻底吸引了欣赏其中技巧和创造力的观众。\nThe artistry of the design combines traditional techniques with modern innovation and creativity for aesthetic appeal.\n设计的艺术性将传统技术与现代创新和创造力结合起来以获得美学吸引力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12562,7 +12562,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artless/",
     "frequency": "中频",
-    "example": "Her artless manner made her popular among colleagues who appreciated her honesty.\n她朴实的态度使她在欣赏她诚实的同事中很受欢迎。\nThe artless beauty of the countryside landscape took our breath away.\n乡村风景的朴素之美让我们惊叹不已。",
+    "example": "The artless approach to the problem resulted in a simple and effective solution for everyone involved in the situation.\n对问题的朴素方法为情况中涉及的每个人带来了简单有效的解决方案。\nHer artless manner made her approachable and trustworthy to colleagues in the workplace environment professionally.\n她朴素的态度使她在工作场所环境中对同事来说易于接近和值得信赖。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12583,7 +12583,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/artwork/",
     "frequency": "低频",
-    "example": "The museum commissioned new artwork from contemporary artists for its latest exhibition.\n博物馆委托当代艺术家为最新展览创作新艺术品。\nProfessional artwork requires careful planning and attention to detail in every aspect.\n专业艺术品创作需要仔细规划和关注每个细节。",
+    "example": "The artwork in the collection represents various periods and styles of artistic expression from different eras historically.\n收藏中的艺术品代表了历史上不同时期和风格的艺术表达。\nThe artwork was carefully restored to preserve its original beauty and historical significance for future generations.\n艺术品被精心修复以保留其原始美和历史意义供后代。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12604,7 +12604,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/arum/",
     "frequency": "高频",
-    "example": "The arum lily is a beautiful flowering plant commonly found in gardens.\n马蹄莲是一种常见的花园观赏植物，以其美丽的花朵而闻名。\nArum species grow well in wetland areas with adequate moisture throughout the year.\n马蹄莲属植物在全年水分充足的湿地地区生长良好。",
+    "example": "The arum plant produces distinctive flowers that are popular in ornamental gardening and landscaping designs globally.\n海芋植物产生独特的花朵，在全球观赏园艺和景观设计中很受欢迎。\nThe arum species includes various plants that are cultivated for their attractive foliage and blooms by gardeners worldwide.\n海芋物种包括全球园丁因其吸引人的叶子和花朵而栽培的各种植物。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12646,7 +12646,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/asbestos/",
     "frequency": "低频",
-    "example": "Asbestos was commonly used in construction materials until its health hazards were discovered.\n石棉在发现其健康危害之前常用于建筑材料。\nInhaling asbestos fibers can cause serious respiratory diseases including cancer.\n吸入石棉纤维可导致严重的呼吸系统疾病，包括癌症。",
+    "example": "Asbestos was used in construction materials before its health risks were discovered and documented by scientists thoroughly.\n石棉在科学家彻底发现和记录其健康风险之前用于建筑材料。\nThe asbestos removal process requires specialized equipment and trained professionals for safety and proper handling.\n石棉清除过程需要专门设备和受过培训的专业人员以确保安全和适当处理。",
     "prefix": "a-",
     "prefixMeaning": "不；无",
     "prefixMeaningEn": "not; without",
@@ -12667,7 +12667,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascend/",
     "frequency": "高频",
-    "example": "The hikers will ascend the mountain early tomorrow morning to catch the sunrise.\n徒步旅行者明天一大早将登山观看日出。\nThe balloon slowly ascended into the sky providing a beautiful view of the landscape below.\n气球缓缓升上天空，提供了下方景观的美丽景色。",
+    "example": "The climbers ascended the mountain peak after days of challenging trekking and preparation for the expedition successfully.\n登山者在数天的挑战性徒步和探险准备后成功登上了山顶。\nThe company ascended to market leadership through strategic planning and innovative products for competitive advantage.\n公司通过战略规划和创新产品升至市场领导地位以获得竞争优势。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12688,7 +12688,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascendant/",
     "frequency": "中频",
-    "example": "The political party is currently in the ascendant gaining support across the country.\n该政党目前正在上升，在全国各地获得支持。\nHer career was in the ascendant after she published her bestselling novel.\n在她出版了畅销小说后，她的事业蒸蒸日上。",
+    "example": "The ascendant political party gained more support from voters in the recent elections held in the region locally.\n上升的政党在最近在该地区举行的选举中获得了选民更多的支持。\nThe ascendant trend in the market indicates growing consumer interest in the product category for business growth.\n市场中的上升趋势表明消费者对该产品类别的兴趣增长促进业务增长。",
     "prefix": "a-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12709,7 +12709,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascertain/",
     "frequency": "低频",
-    "example": "Scientists are working to ascertain the exact cause of the environmental changes.\n科学家们正在努力查明环境变化的确切原因。\nPlease ascertain the facts before making any conclusions about the situation.\n请在对该情况做出任何结论之前查明事实。",
+    "example": "The investigator ascertained the facts through careful examination of all available evidence in the case thoroughly.\n调查员通过彻底仔细检查案件中所有可用证据确定了事实。\nThe scientist ascertained the cause of the phenomenon after conducting extensive experiments and analysis systematically.\n科学家在进行系统广泛实验和分析后确定了现象的原因。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
@@ -12730,7 +12730,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascetic/",
     "frequency": "高频",
-    "example": "The monk lived an ascetic life in the mountains away from worldly distractions.\n僧侣在山中过著简朴的生活，远离世俗干扰。\nAn ascetic approach to life can help develop discipline and inner peace.\n简朴的生活方式有助于培养纪律和内心平静。",
+    "example": "The ascetic lifestyle involves simple living and avoidance of material pleasures and luxuries for spiritual discipline.\n苦行生活方式涉及简单生活，避免物质享乐和奢侈以实现精神自律。\nThe ascetic practices are followed by individuals who seek spiritual enlightenment and discipline through dedication.\n苦行实践被寻求通过奉献获得精神启迪和自律的个人遵循。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -12751,7 +12751,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ascribe/",
     "frequency": "中频",
-    "example": "The author ascribes the success of the book to the readers who supported her.\n作者将这本书的成功归功于支持她的读者。\nSome people ascribe their achievements to luck rather than hard work and dedication.\n有些人把成就归因于运气而不是努力和奉献。",
+    "example": "The historian ascribed the victory to strategic planning and effective leadership in battle historically and accurately.\n历史学家历史准确地将胜利归因于战略规划和战斗中的有效领导。\nThe scientist ascribed the phenomenon to natural causes rather than supernatural explanations for scientific understanding.\n科学家将现象归因于自然原因而非超自然解释以获得科学理解。",
     "prefix": "as-",
     "prefixMeaning": "加强语气",
     "prefixMeaningEn": "intensive prefix",
