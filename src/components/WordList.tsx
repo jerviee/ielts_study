@@ -147,19 +147,19 @@ export default function WordList() {
     window.speechSynthesis.speak(utterance);
   };
 
-  const handleSpeakExample = (example: string) => {
-    const englishPart = example.split('\n')[0];
-    if (englishPart) {
-      const utterance = new SpeechSynthesisUtterance(englishPart);
+  const handleSpeakExample = (text: string) => {
+    if (text && text.trim()) {
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = 'en-US';
       utterance.rate = 1.25;
       utterance.pitch = 1.25;
-      
+
       // 选择年轻女性美式英语发音
       const voices = window.speechSynthesis.getVoices();
-      const femaleVoice = voices.find(voice => 
-        voice.lang === 'en-US' && 
-        (voice.name.toLowerCase().includes('female') || 
+      const femaleVoice = voices.find(voice =>
+        voice.lang === 'en-US' &&
+        (voice.name.toLowerCase().includes('female') ||
          voice.name.toLowerCase().includes('samantha') ||
          voice.name.toLowerCase().includes('karen') ||
          voice.name.toLowerCase().includes('moira') ||
@@ -174,7 +174,37 @@ export default function WordList() {
       if (femaleVoice) {
         utterance.voice = femaleVoice;
       }
-      
+
+      window.speechSynthesis.speak(utterance);
+    }
+  };
+
+  const handleSpeakExampleMale = (text: string) => {
+    if (text && text.trim()) {
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = 'en-US';
+      utterance.rate = 1.25;
+      utterance.pitch = 0.9;
+
+      // 选择男性美式英语发音
+      const voices = window.speechSynthesis.getVoices();
+      const maleVoice = voices.find(voice =>
+        voice.lang === 'en-US' &&
+        (voice.name.toLowerCase().includes('male') ||
+         voice.name.toLowerCase().includes('david') ||
+         voice.name.toLowerCase().includes('daniel') ||
+         voice.name.toLowerCase().includes('james') ||
+         voice.name.toLowerCase().includes('mark') ||
+         voice.name.toLowerCase().includes('tom') ||
+         voice.name.toLowerCase().includes('guy') ||
+         voice.name.toLowerCase().includes('alex') ||
+         voice.name.toLowerCase().includes('fred'))
+      ) || voices.find(voice => voice.lang.startsWith('en-US'));
+      if (maleVoice) {
+        utterance.voice = maleVoice;
+      }
+
       window.speechSynthesis.speak(utterance);
     }
   };
@@ -448,7 +478,7 @@ export default function WordList() {
                                                       <div className="flex items-center justify-between mb-1">
                                                         <p className="text-xs text-blue-200">例句 1</p>
                                                         <button
-                                                          onClick={(e) => { e.stopPropagation(); handleSpeakExample(word.example); }}
+                                                          onClick={(e) => { e.stopPropagation(); handleSpeakExample(word.example.split('\n')[0]); }}
                                                           className="p-1 hover:bg-white/20 rounded transition-colors"
                                                           title="朗读例句"
                                                         >
@@ -461,9 +491,9 @@ export default function WordList() {
                                                         <div className="flex items-center justify-between mb-1">
                                                           <p className="text-xs text-blue-200">例句 2</p>
                                                           <button
-                                                            onClick={(e) => { e.stopPropagation(); handleSpeakExample(word.example.split('\n')[2]); }}
+                                                            onClick={(e) => { e.stopPropagation(); handleSpeakExampleMale(word.example.split('\n')[2]); }}
                                                             className="p-1 hover:bg-white/20 rounded transition-colors"
-                                                            title="朗读例句2"
+                                                            title="朗读例句2（男声）"
                                                           >
                                                             <Volume2 size={14} className="text-blue-200" />
                                                           </button>
