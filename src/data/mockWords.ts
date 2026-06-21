@@ -35878,7 +35878,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeɪn/",
     "frequency": "高频",
-    "example": "A long chain of mountains stretches across the northern border.\n一长串山脉横跨北部边境。\nThe bicycle chain broke while he was riding up the steep hill.\n他骑上陡峭的山坡时自行车链条断了。",
+    "example": "The mountain climbers secured themselves with a strong chain to prevent falls during their ascent carefully and safely.\n登山者用坚固的链条固定自己，在攀登过程中小心和安全地防止坠落。\nThe food chain in the ecosystem illustrates how energy flows from producers to consumers systematically and naturally.\n生态系统中的食物链系统和自然地说明了能量如何从生产者流向消费者。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35899,7 +35899,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeə/",
     "frequency": "高频",
-    "example": "She pulled up a chair to sit next to her friend at the table.\n她拉过一把椅子坐在桌子旁她朋友旁边。\nThe antique wooden chair was passed down through generations.\n古董木椅代代相传。",
+    "example": "The comfortable chair provided a relaxing spot for reading books and enjoying quiet moments peacefully and comfortably.\n舒适的椅子提供了一个放松的地方，和平和舒适地阅读书籍和享受安静时光。\nShe pulled up a chair to join the conversation with her colleagues during the lunch break casually and naturally.\n她在午休时间随意和自然地拉过一把椅子加入同事们的谈话。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35920,7 +35920,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chairman/",
     "frequency": "中频",
-    "example": "The chairman of the board presided over the annual meeting.\n董事会主席主持了年度会议。\nHe served as chairman of the organization for over a decade.\n他担任该组织主席超过十年。",
+    "example": "The chairman of the board presided over the meeting discussing important corporate decisions confidently and authoritatively.\n董事会主席自信和权威地主持会议，讨论重要的企业决策。\nAs the chairman of the organization, he worked tirelessly to promote its mission and values passionately and effectively.\n作为该组织的主席，他不知疲倦地热情和有效地致力于推广其使命和价值观。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35941,7 +35941,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chalk/",
     "frequency": "低频",
-    "example": "The teacher wrote on the blackboard with a piece of white chalk.\n老师用一支白粉笔在黑板上写字。\nChildren drew pictures on the sidewalk with colorful chalk.\n孩子们用彩色粉笔在人行道上画画。",
+    "example": "The teacher wrote on the blackboard with white chalk to explain mathematical concepts clearly and effectively.\n老师用白色粉笔在黑板上书写，清晰和有效地解释数学概念。\nChildren drew colorful pictures on the sidewalk using colored chalk during the sunny afternoon happily and creatively.\n孩子们在阳光明媚的下午快乐和创造性地用彩色粉笔在人行道上画画。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35962,7 +35962,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃælɪndʒ/",
     "frequency": "高频",
-    "example": "Completing the marathon was a major challenge for the athlete.\n完成马拉松对运动员来说是一项重大挑战。\nShe accepted the challenge to climb the highest mountain in the region.\n她接受了攀登该地区最高山峰的挑战。",
+    "example": "The difficult challenge required extensive teamwork and unwavering perseverance to overcome successfully and triumphantly in the end.\n这个困难的挑战需要广泛的团队合作和坚定的毅力才能最终成功和胜利地克服。\nAccepting new challenges helps individuals grow and develop their skills continuously and meaningfully over time.\n接受新挑战有助于个人随着时间持续和有意义地成长和发展他们的技能。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -35983,7 +35983,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃeɪmbə/",
     "frequency": "中频",
-    "example": "The musicians performed in the royal chamber of the palace.\n音乐家们在宫殿的皇家大厅里表演。\nThe chamber of commerce promotes business development in the city.\n商会促进城市的商业发展。",
+    "example": "The legislative chamber was filled with representatives passionately debating important national issues intensely and thoughtfully for hours.\n立法会议厅挤满了代表，热情和深思地辩论重要的国家问题长达数小时。\nThe music chamber performance showcased exceptionally talented musicians playing beautiful classical pieces together beautifully and elegantly.\n音乐厅表演展示了才华横溢的音乐家一起美丽和优雅地演奏优美的古典乐曲。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36004,7 +36004,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃæmpiən/",
     "frequency": "高频",
-    "example": "He became the champion of the tennis tournament after defeating the top seed.\n他击败头号种子选手后成为网球锦标赛冠军。\nShe is a champion for environmental protection and sustainability.\n她是环境保护和可持续发展的倡导者。",
+    "example": "The determined athlete trained rigorously to become a champion in his chosen sport discipline dedicatedly and persistently.\n这位坚定的运动员刻苦训练，专注和坚持不懈地在他选择的体育项目中成为冠军。\nThe environmental champion worked tirelessly to protect natural habitats and promote sustainable practices actively and effectively.\n这位环保倡导者不知疲倦地积极和有效地致力于保护自然栖息地和促进可持续实践。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36025,7 +36025,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/championship/",
     "frequency": "高频",
-    "example": "The team won the national championship after a thrilling final game.\n球队在激动人心的决赛后赢得了全国冠军。\nThe championship trophy was displayed in the school trophy case.\n冠军奖杯陈列在学校的奖杯柜里。",
+    "example": "The annual sports championship attracted teams from across the country to compete for the prestigious trophy eagerly and competitively.\n年度体育锦标赛吸引了来自全国各地的球队热切和竞争地争夺这个享有盛誉的奖杯。\nPreparing for the championship required months of intensive training and strategic planning systematically and thoroughly.\n为锦标赛做准备需要系统和彻底地进行数月的强化训练和战略规划。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36046,7 +36046,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːns/",
     "frequency": "高频",
-    "example": "This is a once-in-a-lifetime chance to travel around the world.\n这是一次千载难逢的环游世界的机会。\nBy chance, I met my old teacher at the grocery store.\n偶然间，我在杂货店遇到了我的老老师。",
+    "example": "She took a chance and applied for the job opportunity, hoping to advance her career significantly and positively.\n她抓住机会申请了这个工作机会，希望显著和积极地推进她的事业。\nThere is a good chance that the project will be completed ahead of schedule with everyone's dedicated efforts collaboratively and efficiently.\n在每个人的共同努力下，项目很有可能协同和高效地提前完成。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36067,7 +36067,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeɪndʒ/",
     "frequency": "高频",
-    "example": "The weather can change quickly in the mountains, so be prepared.\n山区的天气变化很快，所以要做好准备。\nShe decided to change her career path and pursue her passion.\n她决定改变职业道路，追求自己的热情。",
+    "example": "Embracing change can be challenging but often leads to new opportunities and personal growth ultimately and positively.\n拥抱变化可能具有挑战性，但最终和积极地往往会带来新的机会和个人成长。\nThe weather change from sunny to rainy forced outdoor event organizers to adjust their plans quickly and flexibly.\n天气从晴天变为雨天迫使户外活动组织者迅速和灵活地调整他们的计划。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36088,7 +36088,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃænl/",
     "frequency": "高频",
-    "example": "The television channel broadcasts news and entertainment programs.\n电视频道播放新闻和娱乐节目。\nWater flows through the channel to irrigate the fields.\n水流经渠道灌溉农田。",
+    "example": "The television channel broadcasted live coverage of the international sports event to millions of viewers worldwide extensively and comprehensively.\n电视频道广泛和全面地向全球数百万观众直播国际体育赛事。\nNavigating through the marketing channel requires understanding consumer behavior and market trends deeply and strategically.\n在营销渠道中导航需要深入和战略性地了解消费者行为和市场趋势。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36109,7 +36109,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chaos/",
     "frequency": "中频",
-    "example": "After the power outage, chaos erupted in the crowded shopping mall.\n停电后，拥挤的购物中心爆发了混乱。\nThe sudden change in plans caused chaos among the team members.\n计划的突然改变在团队成员中造成了混乱。",
+    "example": "The sudden power outage caused chaos in the busy city center, disrupting daily activities significantly and unexpectedly.\n突然停电在繁忙的市中心造成混乱，显著和意外地扰乱了日常活动。\nManaging chaos effectively requires calm leadership and quick decision-making skills critically and efficiently.\n有效管理混乱需要关键和高效地运用冷静的领导能力和快速决策技巧。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36130,7 +36130,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chapel/",
     "frequency": "低频",
-    "example": "The wedding ceremony was held in a small chapel in the countryside.\n婚礼仪式在乡村的一个小教堂举行。\nShe visited the historic chapel to admire its beautiful stained glass.\n她参观了历史悠久的教堂欣赏其美丽的彩色玻璃。",
+    "example": "The small chapel provided a peaceful sanctuary for prayer and reflection away from the busy world serenely and quietly.\n小教堂提供了一个宁静和安静的祈祷和反思圣地，远离繁忙的世界。\nThe wedding ceremony was held in the historic chapel surrounded by beautiful stained glass windows elegantly and memorably.\n婚礼在历史悠久的教堂举行，周围环绕着美丽的彩色玻璃窗，优雅和难忘。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36151,7 +36151,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃæptə/",
     "frequency": "高频",
-    "example": "She read the first chapter of the book and couldn't put it down.\n她读了这本书的第一章，爱不释手。\nThe organization formed a new chapter in the city to support local members.\n该组织在该市成立了一个新分会来支持当地成员。",
+    "example": "The final chapter of the novel revealed surprising plot twists that kept readers engaged until the very end thrillingly and unexpectedly.\n小说的最后一章揭示了令人惊讶的情节转折，让读者激动和意外地一直读到最后。\nEach chapter of the textbook covered essential concepts and provided practical examples comprehensively and systematically.\n教科书的每一章都全面和系统地涵盖了基本概念并提供了实际例子。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36172,7 +36172,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkærəktər/",
     "frequency": "高频",
-    "example": "The main character in the novel goes through many challenges.\n小说中的主角经历了许多挑战。\nBuilding good character takes time and consistent effort.\n培养良好品格需要时间和持续的努力。",
+    "example": "The main character in the story demonstrated remarkable courage and integrity throughout the challenging journey inspiringly and admirably.\n故事中的主角在充满挑战的旅程中表现出非凡的勇气和正直，鼓舞人心和令人钦佩。\nBuilding a strong character requires consistent effort, self-discipline, and moral values development continuously and intentionally.\n培养坚强的品格需要持续和有意地付出努力、自律和道德价值观的发展。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36193,7 +36193,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌkærəktəˈrɪstɪk/",
     "frequency": "高频",
-    "example": "One characteristic of successful leaders is their ability to inspire others.\n成功领导者的一个特点是他们激励他人的能力。\nThe region has many characteristic features that attract tourists.\n该地区有许多吸引游客的特色。",
+    "example": "One key characteristic of successful entrepreneurs is their ability to adapt to changing market conditions quickly and effectively.\n成功企业家的一个关键特征是他们能够快速和有效地适应不断变化的市场条件。\nThe unique characteristic of this plant species is its ability to survive in extreme environmental conditions remarkably and resiliently.\n这种植物物种的独特特征是它能够显著和有弹性地在极端环境条件下生存。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36214,7 +36214,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/characterize/",
     "frequency": "高频",
-    "example": "The novel is characterized by its vivid descriptions and complex plot.\n这部小说以其生动的描述和复杂的情节为特点。\nScientists characterized the new species based on its unique traits.\n科学家根据其独特特征描述了新物种。",
+    "example": "The scientist used various methods to characterize the new chemical compound thoroughly and accurately in the laboratory.\n科学家在实验室中使用各种方法彻底和准确地描述新化合物的特征。\nThe report characterizes the current economic situation as stable with potential for future growth cautiously and optimistically.\n报告谨慎和乐观地将当前经济形势描述为稳定，具有未来增长潜力。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36235,7 +36235,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːdʒ/",
     "frequency": "高频",
-    "example": "The battery needs to be connected to a charger to charge.\n电池需要连接到充电器进行充电。\nShe was in charge of organizing the company's annual conference.\n她负责组织公司的年度会议。",
+    "example": "The electric vehicle battery can charge completely in just a few hours using the rapid charging technology conveniently and efficiently.\n电动汽车电池使用快速充电技术可以方便和高效地在短短几个小时内完全充电。\nThe police officer decided not to press charges against the suspect due to insufficient evidence carefully and legally.\n由于证据不足，警察仔细和合法地决定不对嫌疑人提出指控。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36256,7 +36256,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃærəti/",
     "frequency": "中频",
-    "example": "They donated money to a charity that helps homeless children.\n他们向一个帮助无家可归儿童的慈善机构捐款。\nThe charity event raised thousands of dollars for medical research.\n慈善活动为医学研究筹集了数千美元。",
+    "example": "The charity organization provided essential support to families affected by natural disasters compassionately and generously.\n慈善组织富有同情心和慷慨地向受自然灾害影响的家庭提供必要的支持。\nDonating to charity not only helps those in need but also brings personal fulfillment and satisfaction meaningfully and positively.\n向慈善机构捐款不仅帮助需要帮助的人，而且有意义和积极地带来个人成就感和满足感。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36277,7 +36277,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːm/",
     "frequency": "中频",
-    "example": "Her charm and wit made her popular at social gatherings.\n她的魅力和机智使她在社交聚会上很受欢迎。\nThe old town has a certain charm that attracts tourists from all over.\n这座老城有某种魅力，吸引着来自各地的游客。",
+    "example": "The old town's charm attracted tourists from around the world with its historic architecture and cozy atmosphere delightfully and irresistibly.\n古镇的魅力以其历史建筑和温馨氛围令人愉快和不可抗拒地吸引着来自世界各地的游客。\nHer natural charm and warm personality made her popular among colleagues and friends genuinely and effortlessly.\n她天生的魅力和温暖的个性真诚和毫不费力地使她在同事和朋友中受欢迎。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36298,7 +36298,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/charming/",
     "frequency": "中频",
-    "example": "The charming little café serves the best coffee in town.\n这家迷人的小咖啡馆供应镇上最好的咖啡。\nHe gave a charming speech that captivated the entire audience.\n他发表了一篇迷人的演讲，吸引了全场观众。",
+    "example": "The charming little cottage in the countryside offered a peaceful retreat from city life invitingly and beautifully.\n乡村里迷人的小屋诱人而美丽地提供了一个远离城市生活的宁静避难所。\nHer charming smile and friendly demeanor made everyone feel welcome in her presence warmly and genuinely.\n她迷人的微笑和友好的举止使每个人在她面前都感到温暖和真诚的欢迎。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36319,7 +36319,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɑːt/",
     "frequency": "高频",
-    "example": "The chart shows the company's sales growth over the past year.\n图表显示了公司过去一年的销售增长情况。\nShe used a flow chart to explain the process to the team.\n她用流程图向团队解释这个过程。",
+    "example": "The financial analyst created a detailed chart to visualize quarterly sales data clearly and comprehensively for presentation.\n财务分析师创建了一个详细的图表，清晰和全面地展示季度销售数据用于演示。\nUsing a flow chart helps organize complex processes and significantly improve workflow efficiency practically and effectively.\n使用流程图有助于组织复杂流程并显著和实际有效地提高工作流程效率。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36340,7 +36340,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃeɪs/",
     "frequency": "中频",
-    "example": "The dog likes to chase squirrels in the park.\n狗喜欢在公园里追松鼠。\nThe police chased the suspect through the busy streets of the city.\n警察在繁忙的城市街道上追捕嫌疑人。",
+    "example": "The police officer chased the suspect through the busy streets until apprehending him successfully and safely.\n警察在繁忙的街道上追捕嫌疑人，直到成功和安全地逮捕他。\nChildren love to chase each other around the playground during recess joyfully and energetically.\n孩子们喜欢在课间休息时快乐和精力充沛地在操场上互相追逐。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36361,7 +36361,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chat/",
     "frequency": "中频",
-    "example": "They sat down for a friendly chat over a cup of coffee.\n他们坐下来喝杯咖啡友好地聊天。\nShe enjoys chatting with her friends on social media every evening.\n她喜欢每天晚上在社交媒体上和朋友聊天。",
+    "example": "Friends gathered at the café to chat about their weekend plans and share interesting stories casually and enjoyably.\n朋友们聚集在咖啡馆随意和愉快地聊天，谈论他们的周末计划并分享有趣的故事。\nOnline chat platforms allow people to communicate instantly with friends and family across distances conveniently and effectively.\n在线聊天平台方便和有效地让人们与远方的朋友和家人即时交流。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36382,7 +36382,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːp/",
     "frequency": "高频",
-    "example": "The store sells cheap but good quality clothing for budget shoppers.\n这家商店为预算有限的购物者出售便宜但质量好的衣服。\nHe found a cheap flight ticket to his favorite vacation destination.\n他找到了一张去他最喜欢的度假目的地的便宜机票。",
+    "example": "Finding cheap yet quality products requires careful comparison shopping and smart consumer choices wisely and practically.\n找到便宜但质量好的产品需要明智和实际地进行仔细比较购物和明智的消费者选择。\nThe budget traveler looked for cheap accommodation options while maintaining comfort and safety standards reasonably and sensibly.\n预算旅行者在保持舒适和安全标准的同时寻找合理和明智的廉价住宿选择。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36403,7 +36403,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːt/",
     "frequency": "高频",
-    "example": "It is wrong to cheat on exams because it undermines learning.\n考试作弊是错误的，因为它破坏了学习。\nHe felt guilty after he tried to cheat during the game.\n他在比赛中试图作弊后感到内疚。",
+    "example": "Students who cheat on exams risk severe consequences including academic penalties and damage to their reputation seriously and permanently.\n考试作弊的学生面临严重后果，包括学术处罚和对其声誉的严重和永久损害。\nThe company was accused of trying to cheat customers by misrepresenting product features unethically and deceptively.\n该公司被指控通过不道德和欺骗性地歪曲产品特性来欺骗客户。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36424,7 +36424,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃek/",
     "frequency": "高频",
-    "example": "Please check your email for the important document I sent.\n请查看您的电子邮件获取我发送的重要文件。\nThe security guard will check your identification before entering.\n保安在进入前会检查您的身份证件。",
+    "example": "Before submitting the report, she carefully proofread and double-check all data for accuracy thoroughly and meticulously.\n在提交报告之前，她彻底和仔细地仔细校对并双重检查所有数据的准确性。\nThe security guard asked everyone to check their bags before entering the building for safety reasons strictly and systematically.\n出于安全原因，保安严格和系统地要求每个人在进入建筑物前检查他们的包。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36445,7 +36445,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cheek/",
     "frequency": "低频",
-    "example": "The little boy had a smudge of chocolate on his cheek.\n小男孩的脸颊上有一块巧克力污渍。\nShe playfully kissed her baby on the cheek before leaving.\n她离开前开玩笑地吻了吻婴儿的脸颊。",
+    "example": "The little boy kissed his grandmother on the cheek, showing affection and love sweetly and tenderly.\n小男孩亲吻了他祖母的脸颊，甜蜜和温柔地表达爱意和关爱。\nShe playfully poked her friend in the cheek during their friendly conversation lightheartedly and affectionately.\n在友好交谈中，她轻松和深情地开玩笑地戳了戳朋友的脸颊。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36466,7 +36466,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪə/",
     "frequency": "高频",
-    "example": "The crowd began to cheer loudly when the team scored a goal.\n球队进球时，人群开始大声欢呼。\nShe tried to cheer up her friend who was feeling sad.\n她试图让感到难过的朋友振作起来。",
+    "example": "The crowd began to cheer loudly as their favorite team scored the winning goal excitedly and enthusiastically.\n当他们最喜欢的球队踢进制胜一球时，人群兴奋和热情地开始大声欢呼。\nFriends gathered to cheer on the marathon runners, providing encouragement and support wholeheartedly and warmly.\n朋友们聚集在一起为马拉松选手加油，全心全意和热情地提供鼓励和支持。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36487,7 +36487,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cheerful/",
     "frequency": "中频",
-    "example": "She has a cheerful personality that brightens up any room.\n她性格开朗，能让任何房间变得明亮。\nThe cheerful music made everyone want to dance at the party.\n欢快的音乐让每个人都想在派对上跳舞。",
+    "example": "Her cheerful personality brightened every room she entered, spreading positivity and happiness contagiously and genuinely everywhere.\n她开朗的性格照亮了她进入的每个房间，具有感染力和真诚地在各处传播积极性和快乐。\nMaintaining a cheerful attitude even during difficult times helps overcome challenges more effectively and resiliently day by day.\n即使在困难时期保持开朗的态度有助于每天更有效和有弹性地克服挑战。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36508,7 +36508,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːz/",
     "frequency": "高频",
-    "example": "She melted cheese on top of the pizza before baking it.\n她在烤披萨前在上面融化了奶酪。\nThe gourmet cheese shop offers a wide variety of artisanal cheeses.\n美食奶酪店提供各种手工奶酪。",
+    "example": "The artisan cheese maker carefully crafted each batch using traditional methods passed down through generations skillfully and patiently.\n工匠奶酪制造商使用代代相传的传统方法熟练和耐心地精心制作每一批奶酪。\nAdding a sprinkle of grated cheese to pasta dishes enhances flavor and adds a delicious finishing touch delightfully and tastily.\n在意大利面食上撒上碎奶酪可以增强风味，并令人愉快和美味地增添美味的收尾。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36529,7 +36529,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chef/",
     "frequency": "高频",
-    "example": "The world-renowned chef prepared a magnificent seven-course meal.\n世界著名厨师准备了一顿华丽的七道菜餐。\nShe trained for years to become a professional chef in a fine restaurant.\n她训练多年，成为一家高级餐厅的专业厨师。",
+    "example": "The renowned chef prepared a gourmet meal using fresh, locally sourced ingredients creatively and expertly.\n这位著名厨师使用新鲜的当地食材创造性和专业地准备了一顿美食。\nWorking as a chef in a busy restaurant requires excellent time management and culinary skills consistently and demanding.\n在繁忙的餐厅担任厨师需要始终如一和高要求的出色时间管理和烹饪技能。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36550,7 +36550,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkemɪkl/",
     "frequency": "高频",
-    "example": "The chemical reaction produced a bright blue color in the test tube.\n化学反应在试管中产生了明亮的蓝色。\nWorkers must wear protective gear when handling dangerous chemicals.\n工人处理危险化学品时必须穿戴防护装备。",
+    "example": "Scientists conducted extensive research to develop a new chemical compound with potential medical applications innovatively and rigorously.\n科学家进行了广泛的研究，以创新和严格地开发一种具有潜在医学应用的新化合物。\nUnderstanding chemical reactions is essential for advancements in fields such as medicine, engineering, and environmental science fundamentally and critically.\n理解化学反应对于医学、工程和环境科学等领域的进步至关重要和基础性。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36571,7 +36571,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkemɪst/",
     "frequency": "中频",
-    "example": "The chemist spent years researching new pharmaceutical compounds.\n化学家花了多年时间研究新的药物化合物。\nShe consulted a chemist to understand the composition of the material.\n她咨询了一位化学家来了解材料的成分。",
+    "example": "The chemist analyzed the unknown substance using sophisticated laboratory equipment accurately and methodically.\n化学家使用精密的实验室设备准确和有条不紊地分析未知物质。\nWorking as a research chemist requires advanced knowledge of chemistry and attention to detail precisely and systematically.\n担任研究化学家需要精确和系统地掌握先进的化学知识和对细节的关注。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36592,7 +36592,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkemɪstri/",
     "frequency": "高频",
-    "example": "He studied chemistry at university and now works in a research lab.\n他在大学学习化学，现在在研究实验室工作。\nThe chemistry between the two characters made the movie very romantic.\n两个角色之间的化学反应使电影非常浪漫。",
+    "example": "Studying chemistry helps students understand the composition and behavior of matter systematically and scientifically.\n学习化学有助于学生系统和科学地理解物质的组成和行为。\nThe chemistry between the two lead actors created an unforgettable on-screen chemistry that captivated audiences profoundly and memorably.\n两位主演之间的化学反应创造了令人难忘的银幕化学反应，深刻和难忘地吸引了观众。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36613,7 +36613,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃek/",
     "frequency": "高频",
-    "example": "He wrote a cheque to pay for the expensive antique furniture.\n他写了一张支票来支付昂贵的古董家具。\nThe bank processed the cheque and deposited the funds into her account.\n银行处理了支票并将资金存入她的账户。",
+    "example": "He wrote a cheque to pay for the antique furniture he had purchased from the local shop formally and securely.\n他写了一张支票来支付从当地商店购买的古董家具，正式和安全地。\nThe bank processed the cheque quickly, ensuring the funds were transferred to the recipient's account efficiently and reliably.\n银行快速处理了支票，确保资金有效和可靠地转入收款人的账户。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36634,7 +36634,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cherry/",
     "frequency": "中频",
-    "example": "The cherry tree in the backyard is full of ripe fruit in summer.\n后院的樱桃树夏天结满了成熟的果实。\nShe made a delicious cherry pie using fresh cherries from the orchard.\n她用果园里新鲜的樱桃做了一个美味的樱桃派。",
+    "example": "The cherry tree in the backyard blossomed beautifully in spring, covering the branches with delicate pink flowers stunningly and temporarily.\n后院的樱桃树在春天美丽地开花，令人惊叹和暂时地用娇嫩的粉红色花朵覆盖树枝。\nShe baked a delicious cherry pie using fresh cherries from the orchard, creating a sweet and tangy dessert delightfully and skillfully.\n她用果园里的新鲜樱桃烤了一个美味的樱桃派，令人愉快和熟练地制作了一道甜美可口的甜点。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36655,7 +36655,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chess/",
     "frequency": "低频",
-    "example": "The two grandmasters played an intense game of chess for hours.\n两位特级大师下了几个小时激烈的国际象棋。\nHe taught his young son how to play chess on rainy afternoons.\n他在下雨的下午教他的小儿子下国际象棋。",
+    "example": "The grandmaster played a brilliant game of chess, outmaneuvering his opponent with strategic moves cleverly and decisively.\n这位国际象棋大师下了一场精彩的比赛，巧妙和果断地用战略动作击败对手。\nLearning to play chess improves critical thinking, problem-solving, and foresight skills significantly and beneficially.\n学习下棋显著和有益地提高批判性思维、问题解决和远见技能。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36676,7 +36676,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃest/",
     "frequency": "高频",
-    "example": "The old wooden chest contained family heirlooms and photographs.\n旧木箱里装着家族传家宝和照片。\nHe felt a tightness in his chest after running the marathon.\n跑完马拉松后，他感到胸闷。",
+    "example": "The old wooden chest contained valuable family heirlooms and treasures passed down through generations carefully and securely.\n旧木箱里装着珍贵的家族传家宝和代代相传的珍宝，仔细和安全地保存着。\nHe felt a tightness in his chest as he anxiously waited for the important test results nervously and apprehensively.\n当他紧张和担忧地焦急等待重要的考试结果时，他感到胸口发紧。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36697,7 +36697,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chew/",
     "frequency": "中频",
-    "example": "Please chew your food slowly to aid digestion.\n请慢慢咀嚼食物以帮助消化。\nThe puppy loves to chew on bones and toys throughout the day.\n小狗喜欢整天啃骨头和玩具。",
+    "example": "Dentists recommend chewing sugar-free gum after meals to promote oral health and freshen breath effectively and naturally.\n牙医建议饭后嚼无糖口香糖，以有效和自然地促进口腔健康和清新口气。\nBabies often chew on teething toys to relieve discomfort during the teething process soothingly and instinctively.\n婴儿在长牙过程中经常咀嚼牙胶玩具，以舒缓和本能地缓解不适。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36718,7 +36718,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃɪkɪn/",
     "frequency": "高频",
-    "example": "She roasted a whole chicken for Sunday dinner with her family.\n她为周日家庭晚餐烤了一只整鸡。\nThe little girl chased the chicken around the farmyard.\n小女孩在农场院子里追着鸡跑。",
+    "example": "The farmer raised chickens in the backyard coop, providing fresh eggs daily for the family consistently and reliably.\n农夫在后院鸡舍养鸡，持续和可靠地为家庭每天提供新鲜鸡蛋。\nChildren love to feed the chickens at the farm, watching them peck at grains happily and curiously.\n孩子们喜欢在农场喂鸡，快乐和好奇地看着它们啄食谷物。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36739,7 +36739,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃiːf/",
     "frequency": "高频",
-    "example": "The chief executive officer announced the company's new strategic plan.\n首席执行官宣布了公司的新战略计划。\nThe police chief held a press conference about the recent crime wave.\n警察局长就最近的犯罪浪潮举行了新闻发布会。",
+    "example": "The chief executive officer outlined the company's strategic goals for the upcoming fiscal year clearly and confidently.\n首席执行官清晰和自信地概述了公司下一财政年度的战略目标。\nAs the chief of police, he implemented new community safety initiatives to reduce crime effectively and proactively.\n作为警察局长，他有效和主动地实施了新的社区安全举措来减少犯罪。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36760,7 +36760,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃaɪld/",
     "frequency": "高频",
-    "example": "The little child played happily with toys in the playroom.\n小孩子在游戏室里快乐地玩玩具。\nShe has three children who are all attending university.\n她有三个孩子，都在上大学。",
+    "example": "The young child explored the world with wide-eyed curiosity, asking endless questions about everything around them incessantly and innocently.\n年幼的孩子睁大眼睛好奇地探索世界，不断和天真地问关于周围一切的无尽问题。\nProviding a nurturing environment helps a child develop emotionally, socially, and intellectually healthily and holistically.\n提供一个培育环境有助于孩子健康和全面地在情感、社交和智力上发展。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36781,7 +36781,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃaɪldhʊd/",
     "frequency": "高频",
-    "example": "She has many happy memories of her childhood spent on the farm.\n她有许多在农场度过的童年美好回忆。\nChildhood experiences can shape a person's personality and values.\n童年经历可以塑造一个人的性格和价值观。",
+    "example": "Memories of childhood often evoke feelings of nostalgia and warmth, reminding us of simpler times fondly and vividly.\n童年的回忆常常唤起怀旧和温暖的感觉，深情和生动地提醒我们简单的时光。\nA happy and supportive childhood lays the foundation for future success and well-being fundamentally and significantly.\n快乐和支持性的童年从根本上和显著地为未来的成功和幸福奠定基础。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36802,7 +36802,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪl/",
     "frequency": "中频",
-    "example": "A sudden chill swept through the room as the window opened.\n窗户打开时，一阵寒意席卷房间。\nShe put on a sweater to ward off the chill in the air.\n她穿上毛衣抵御空气中的寒意。",
+    "example": "The cold winter wind sent a chill down her spine as she walked through the snow-covered streets briskly and cautiously.\n当她轻快和谨慎地走过白雪覆盖的街道时，寒冷的冬风使她脊背发凉。\nAdding a chill to drinks like lemonade makes them more refreshing during hot summer days delightfully and refreshingly.\n在柠檬水等饮料中加冰使其在炎热的夏日更加清爽，令人愉快和清新。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36823,7 +36823,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃɪmni/",
     "frequency": "中频",
-    "example": "Smoke curled up from the chimney into the cold winter sky.\n烟雾从烟囱袅袅升起，飘入寒冷的冬日天空。\nThe old house had a brick chimney that needed repairs.\n这栋老房子有一个需要维修的砖砌烟囱。",
+    "example": "The old brick chimney rose high above the roof, releasing smoke from the fireplace into the cold winter air steadily and reliably.\n旧砖烟囱高耸于屋顶之上，稳定和可靠地将壁炉的烟雾释放到寒冷的冬季空气中。\nCleaning the chimney regularly prevents dangerous buildup of creosote and ensures safe operation critically and routinely.\n定期清洁烟囱可防止危险的木焦油积聚并关键和例行地确保安全运行。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36844,7 +36844,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪn/",
     "frequency": "高频",
-    "example": "He rested his chin on his hand while deep in thought.\n他陷入沉思时，下巴放在手上。\nThe baby had a dimple on his chin that made him look adorable.\n婴儿下巴上有一个酒窝，让他看起来很可爱。",
+    "example": "She rested her chin on her hand, thoughtfully considering the important decision before her carefully and deliberately.\n她把手托着下巴，仔细和深思熟虑地考虑着面前的重要决定。\nThe little girl pointed to her chin proudly, showing off the small scar from her childhood adventure proudly and playfully.\n小女孩骄傲地指着她的下巴，骄傲和顽皮地展示着童年冒险留下的小伤疤。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36865,7 +36865,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃaɪnə/",
     "frequency": "高频",
-    "example": "China is a vast country with a rich history and culture.\n中国是一个有着丰富历史和文化的大国。\nShe collected delicate china teacups from around the world.\n她收集来自世界各地的精致瓷茶杯。",
+    "example": "The delicate china tea set was passed down through generations, valued for its intricate designs and historical significance cherishedly and respectfully.\n精致的瓷器茶具代代相传，因其复杂的设计和历史意义而被珍视和尊重。\nImporting fine china from reputable manufacturers ensures quality and authenticity reliably and discerningly.\n从信誉良好的制造商进口优质瓷器可靠和有眼光地确保质量和真实性。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36886,7 +36886,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɪp/",
     "frequency": "高频",
-    "example": "She ate crispy potato chips while watching the movie.\n她看电影时吃脆薯片。\nThe computer chip is the heart of modern electronic devices.\n计算机芯片是现代电子设备的核心。",
+    "example": "The carpenter used a chisel to chip away at the wood, shaping it into a beautiful sculpture carefully and artfully.\n木匠用凿子削木头，仔细和艺术性地将其塑造成美丽的雕塑。\nPotato chips are a popular snack enjoyed by people of all ages, available in various flavors deliciously and conveniently.\n薯片是各年龄段人群都喜欢的流行零食，有各种口味可供选择，美味和方便。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36907,7 +36907,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chlorine/",
     "frequency": "高频",
-    "example": "Chlorine is commonly used to disinfect swimming pool water.\n氯常用于消毒游泳池水。\nWorkers must handle chlorine carefully due to its corrosive nature.\n由于氯的腐蚀性，工人必须小心处理。",
+    "example": "Chlorine is commonly used to disinfect swimming pools, killing harmful bacteria and ensuring water safety effectively and reliably.\n氯通常用于消毒游泳池，有效和可靠地杀死有害细菌并确保水安全。\nChemists carefully handle chlorine due to its corrosive properties, following strict safety protocols meticulously and cautiously.\n由于氯的腐蚀性，化学家严格和谨慎地遵循安全协议小心处理。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36928,7 +36928,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈtʃɒklət/",
     "frequency": "高频",
-    "example": "She received a box of premium chocolate for her birthday.\n她生日收到了一盒优质巧克力。\nThe chocolate factory produces over a million bars each day.\n这家巧克力工厂每天生产超过一百万根巧克力棒。",
+    "example": "The artisanal chocolate maker crafted delicious truffles using premium cocoa beans from around the world skillfully and passionately.\n手工巧克力制造商使用来自世界各地的优质可可豆熟练和热情地制作美味的松露巧克力。\nSharing a box of chocolate with loved ones creates moments of joy and connection sweetly and meaningfully.\n与亲人分享一盒巧克力甜蜜和有意义地创造快乐和联系的时刻。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36949,7 +36949,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɔɪs/",
     "frequency": "高频",
-    "example": "Making the right choice can have a significant impact on your future.\n做出正确的选择会对你的未来产生重大影响。\nShe had to make a difficult choice between two job offers.\n她不得不在两份工作机会之间做出艰难的选择。",
+    "example": "Making the right choice requires careful consideration of all available options and potential consequences thoughtfully and wisely.\n做出正确的选择需要深思和明智地仔细考虑所有可用的选项和潜在后果。\nThe restaurant offered a wide choice of dishes, satisfying diverse tastes and dietary preferences comprehensively and accommodatingly.\n餐厅提供多种菜肴选择，全面和包容地满足不同的口味和饮食偏好。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36970,7 +36970,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cholesterol/",
     "frequency": "高频",
-    "example": "High cholesterol levels can increase the risk of heart disease.\n高胆固醇水平会增加心脏病的风险。\nShe changed her diet to reduce her cholesterol intake.\n她改变饮食以减少胆固醇摄入。",
+    "example": "Maintaining healthy cholesterol levels through diet and exercise reduces the risk of heart disease significantly and proactively.\n通过饮食和运动维持健康的胆固醇水平显著和主动地降低心脏病风险。\nDoctors regularly monitor cholesterol levels during routine check-ups to assess cardiovascular health carefully and systematically.\n医生在例行检查期间定期监测胆固醇水平，仔细和系统地评估心血管健康。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -36991,7 +36991,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃuːz/",
     "frequency": "高频",
-    "example": "You must choose between these two options before the deadline.\n你必须在截止日期前在这两个选项之间做出选择。\nShe chose to study abroad to broaden her educational experience.\n她选择出国留学以拓宽她的教育经历。",
+    "example": "When faced with multiple options, it is important to choose based on your values and long-term goals deliberately and purposefully.\n面对多种选择时，重要的是刻意和有目的地根据你的价值观和长期目标做出选择。\nShe decided to choose the career path that aligned with her passions and provided personal fulfillment meaningfully and authentically.\n她决定选择与她的热情相符并提供有意义和真实的个人成就感的职业道路。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37012,7 +37012,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɒp/",
     "frequency": "中频",
-    "example": "He used a sharp knife to chop vegetables for the soup.\n他用一把锋利的刀切碎蔬菜做汤。\nThe chef demonstrated how to chop onions quickly and safely.\n厨师演示了如何快速安全地切洋葱。",
+    "example": "The chef used a sharp knife to chop vegetables quickly and efficiently, preparing them for the stir-fry skillfully and precisely.\n厨师用锋利的刀快速和高效地切蔬菜，熟练和精确地准备炒菜。\nWoodcutters chop down trees carefully, following sustainable forestry practices responsibly and conscientiously.\n伐木工人负责任和认真地按照可持续林业做法小心地砍伐树木。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37033,7 +37033,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kɔːd/",
     "frequency": "中频",
-    "example": "The musician played a beautiful chord on the piano.\n音乐家在钢琴上弹奏了一个优美的和弦。\nThe guitar player strummed a chord that filled the room with music.\n吉他手弹奏了一个和弦，房间里充满了音乐。",
+    "example": "The musician played a beautiful chord on the piano, filling the room with harmonious sounds melodiously and emotionally.\n音乐家在钢琴上弹奏了一个美丽的和弦，旋律优美和情感丰富地充满房间。\nUnderstanding how to play different chords is essential for creating diverse musical compositions fundamentally and creatively.\n理解如何演奏不同的和弦对于从根本上和创造性地创作多样化的音乐作品至关重要。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37054,7 +37054,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chore/",
     "frequency": "中频",
-    "example": "Doing household chores is an important responsibility for everyone.\n做家务是每个人的重要责任。\nShe divided the weekly chores among family members.\n她把每周的家务分给家庭成员。",
+    "example": "Children learn responsibility by helping with household chores like cleaning, cooking, and organizing regularly and consistently.\n孩子们通过定期和持续地帮助做家务如清洁、烹饪和整理来学习责任感。\nDividing chores among family members ensures fair distribution of work and fosters teamwork effectively and equitably.\n家庭成员之间分配家务确保工作公平分配并有效和公平地培养团队合作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37075,7 +37075,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkɔːrəs/",
     "frequency": "中频",
-    "example": "The chorus sang a harmonious melody at the concert.\n合唱团在音乐会上演唱了一首和谐的旋律。\nThe audience joined in the chorus during the final song.\n观众在最后一首歌时加入了合唱。",
+    "example": "The choir sang the chorus with beautiful harmonies, creating a powerful and moving performance collectively and passionately.\n合唱团用优美的和声演唱副歌，集体和热情地创造了一场有力和动人的表演。\nThe audience joined in singing the familiar chorus, creating a sense of unity and shared experience joyfully and inclusively.\n观众一起唱熟悉的副歌，快乐和包容地创造团结和共享体验的感觉。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37096,7 +37096,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chose/",
     "frequency": "高频",
-    "example": "She chose the red dress for the special occasion.\n她为这个特殊场合选择了红色连衣裙。\nAfter careful consideration, he chose to accept the job offer.\n经过仔细考虑，他选择接受这份工作。",
+    "example": "After careful consideration, she chose to pursue higher education at a prestigious university enthusiastically and confidently.\n经过仔细考虑，她热情和自信地选择在一所著名大学接受高等教育。\nHe chose the red car over the blue one because it offered better fuel efficiency and safety features practically and wisely.\n他选择红色汽车而不是蓝色汽车，因为它在实际和明智上提供更好的燃油效率和安全功能。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37117,7 +37117,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chosen/",
     "frequency": "中频",
-    "example": "The chosen few were invited to attend the exclusive event.\n被选中的少数人被邀请参加这个独家活动。\nShe felt honored to be the chosen representative for her class.\n她感到荣幸成为她班级的当选代表。",
+    "example": "The chosen few were selected based on their exceptional skills and qualifications for the prestigious award honorably and deservedly.\n被选中的少数人因其卓越的技能和资格而光荣和当之无愧地被选为享有盛誉的奖项。\nThe chosen path led her to new opportunities and personal growth, fulfilling her dreams meaningfully and successfully.\n选择的道路带领她走向新的机会和个人成长，有意义和成功地实现她的梦想。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37138,7 +37138,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kraɪst/",
     "frequency": "高频",
-    "example": "Christ is the central figure in the Christian religion.\n基督是基督教的中心人物。\nMany people celebrate Christmas to honor the birth of Christ.\n许多人庆祝圣诞节以纪念基督的诞生。",
+    "example": "Christ is central to the Christian faith, representing the savior and redeemer for believers worldwide profoundly and spiritually.\n基督是基督教信仰的核心，深刻和精神上地代表全世界信徒的救世主和救赎者。\nThe Christmas story recounts the birth of Christ, celebrated by Christians around the world joyfully and reverently.\n圣诞故事讲述基督的诞生，被全世界的基督徒快乐和虔诚地庆祝。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37159,7 +37159,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkrɪstʃən/",
     "frequency": "高频",
-    "example": "She attends a Christian church every Sunday with her family.\n她每周日和家人一起去基督教教堂。\nThe Christian community organized a charity event for the homeless.\n基督教社区为无家可归者组织了一场慈善活动。",
+    "example": "The Christian community gathered for worship services, strengthening their faith through prayer and scripture study regularly and devotionally.\n基督教社区聚集参加礼拜仪式，通过定期和虔诚地祈祷和研读经文来加强他们的信仰。\nChristian values such as love, compassion, and forgiveness guide many people in their daily lives meaningfully and positively.\n基督教价值观如爱、同情和宽恕有意义和积极地指导许多人的日常生活。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37180,7 +37180,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkrɪsməs/",
     "frequency": "高频",
-    "example": "Christmas is a time for family gatherings and gift exchanges.\n圣诞节是家庭聚会和礼物交换的时刻。\nShe decorated the Christmas tree with colorful lights and ornaments.\n她用彩色灯和装饰品装饰圣诞树。",
+    "example": "Christmas is a joyous holiday celebrated with family gatherings, gift exchanges, and festive decorations warmly and cheerfully.\n圣诞节是一个欢乐的节日，通过家庭聚会、礼物交换和节日装饰温暖和愉快地庆祝。\nPreparing for Christmas involves decorating homes, baking special treats, and planning holiday events carefully and joyfully.\n为圣诞节做准备包括仔细和快乐地装饰家园、烘焙特别点心和计划节日活动。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37201,7 +37201,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chronic/",
     "frequency": "低频",
-    "example": "The patient suffers from chronic pain that requires ongoing treatment.\n患者患有慢性疼痛，需要持续治疗。\nChronic stress can have negative effects on both physical and mental health.\n慢性压力会对身心健康产生负面影响。",
+    "example": "Chronic illnesses require ongoing medical management and lifestyle adjustments to maintain quality of life effectively and proactively.\n慢性疾病需要持续的医疗管理和生活方式调整，以有效和主动地维持生活质量。\nDoctors work closely with patients to develop personalized treatment plans for chronic conditions comprehensively and compassionately.\n医生与患者密切合作，全面和富有同情心地制定慢性疾病的个性化治疗计划。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37222,7 +37222,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chuckle/",
     "frequency": "低频",
-    "example": "He couldn't help but chuckle at the funny joke his friend told.\n他忍不住对朋友讲的有趣笑话咯咯笑。\nThe children began to chuckle when they saw the silly clown.\n孩子们看到愚蠢的小丑时开始咯咯笑。",
+    "example": "She couldn't help but chuckle at the funny story her friend told, finding it amusing and lighthearted genuinely and spontaneously.\n她忍不住对朋友讲的有趣故事咯咯笑起来，真诚和自发地觉得它有趣和轻松。\nThe old man chuckled softly as he remembered the mischievous pranks he played as a child fondly and nostalgically.\n老人温柔地咯咯笑着，深情和怀旧地回忆起他小时候玩的恶作剧。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37243,7 +37243,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/chunk/",
     "frequency": "高频",
-    "example": "She cut a large chunk of bread to make sandwiches for lunch.\n她切了一大块面包做午餐三明治。\nA chunk of ice fell from the roof during the winter storm.\n冬季风暴期间，一大块冰从屋顶掉落。",
+    "example": "The chef cut the meat into large chunks before slow-cooking it with vegetables and aromatic spices carefully and skillfully.\n厨师在将肉与蔬菜和芳香香料一起慢炖之前，仔细和熟练地将肉切成大块。\nHe spent a chunk of his weekend working on the garden, planting flowers and trimming hedges diligently and happily.\n他花了周末的一大块时间在花园里工作，勤奋和快乐地种花和修剪树篱。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37264,7 +37264,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/tʃɜːtʃ/",
     "frequency": "高频",
-    "example": "The old stone church has stood in the village for centuries.\n这座古老的石教堂已经在村庄矗立了几个世纪。\nPeople gathered at the church to celebrate the religious holiday.\n人们聚集在教堂庆祝宗教节日。",
+    "example": "The historic church stood at the center of the town, serving as a place of worship and community gathering for centuries traditionally and reverently.\n历史悠久的教堂矗立在镇中心，传统和虔诚地作为几个世纪以来的礼拜和社区聚会场所。\nMany people attend church services on Sundays to connect with their faith and community regularly and meaningfully.\n许多人在周日参加教堂礼拜，定期和有意义地与他们的信仰和社区联系。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37285,7 +37285,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/churchyard/",
     "frequency": "高频",
-    "example": "The churchyard contains gravestones dating back hundreds of years.\n教堂墓地包含可追溯到数百年前的墓碑。\nShe visited her grandmother's grave in the peaceful churchyard.\n她在宁静的教堂墓地参观了祖母的坟墓。",
+    "example": "The peaceful churchyard contained ancient gravestones and beautiful flowers, providing a serene resting place for the deceased respectfully and tranquilly.\n宁静的教堂墓地包含古老的墓碑和美丽的花朵，恭敬和平静地为逝者提供一个宁静的安息之所。\nVisitors walked through the churchyard, admiring the historical monuments and reflecting on the past thoughtfully and quietly.\n游客穿过教堂墓地，欣赏历史古迹，深思和安静地反思过去。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37306,7 +37306,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌsɪɡəˈret/",
     "frequency": "高频",
-    "example": "Smoking a cigarette is harmful to both smokers and those around them.\n吸烟对吸烟者和周围的人都有害。\nHe decided to quit smoking and threw his last cigarette away.\n他决定戒烟，扔掉了最后一支香烟。",
+    "example": "Smoking a cigarette poses serious health risks, including lung cancer and cardiovascular disease, which are well-documented medically and scientifically.\n吸烟会带来严重的健康风险，包括肺癌和心血管疾病，这些在医学和科学上都有充分记录。\nPublic health campaigns aim to reduce cigarette consumption through education and policy measures effectively and proactively.\n公共卫生运动旨在通过教育和政策措施有效和主动地减少香烟消费。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37327,7 +37327,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪnəmə/",
     "frequency": "高频",
-    "example": "They went to the cinema to watch the latest blockbuster movie.\n他们去电影院看最新的大片。\nThe old cinema in town has been renovated into a modern theater.\n镇上的老电影院已被改造成现代化剧院。",
+    "example": "The modern cinema offered state-of-the-art facilities, providing audiences with immersive viewing experiences impressively and enjoyably.\n现代电影院提供最先进的设施，令人印象深刻和愉快地为观众提供沉浸式观影体验。\nGoing to the cinema with friends is a popular social activity, enjoyed by people of all ages regularly and entertainingly.\n和朋友去看电影是一项受欢迎的社交活动，各年龄段的人定期和娱乐性地享受。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37348,7 +37348,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkl/",
     "frequency": "高频",
-    "example": "The children sat in a circle to play a game together.\n孩子们围成一圈一起玩游戏。\nShe drew a perfect circle using a compass and pencil.\n她用圆规和铅笔画了一个完美的圆。",
+    "example": "Children sat in a circle to play games and share stories, fostering friendship and cooperation joyfully and inclusively.\n孩子们围成一圈玩游戏和分享故事，快乐和包容地培养友谊和合作。\nThe dancers moved in a graceful circle, creating beautiful patterns with their synchronized movements elegantly and harmoniously.\n舞者优雅和谐地围成一个优美的圆圈，用他们同步的动作创造美丽的图案。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37369,7 +37369,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkɪt/",
     "frequency": "中频",
-    "example": "The electrician installed a new circuit to power the additional lights.\n电工安装了新电路为额外的灯供电。\nThe race car driver completed another lap around the circuit.\n赛车手在赛道上完成了另一圈。",
+    "example": "The electrical engineer designed a complex circuit to control the power distribution system efficiently and reliably.\n电气工程师设计了一个复杂的电路，以高效和可靠地控制配电系统。\nRacing car drivers navigate the circuit at high speeds, demonstrating exceptional skill and precision thrillingly and impressively.\n赛车手以高速在赛道上行驶，令人激动和印象深刻地展示卓越的技能和精度。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37390,7 +37390,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkjələ/",
     "frequency": "中频",
-    "example": "The circular table in the dining room seats eight people comfortably.\n餐厅里的圆桌舒适地坐八个人。\nShe received a circular letter inviting her to the company event.\n她收到一封邀请她参加公司活动的通函。",
+    "example": "The architect created a circular building design that maximized natural light and provided panoramic views beautifully and innovatively.\n建筑师创造了一个圆形建筑设计，美丽和创新地最大化自然光并提供全景视野。\nDistributing circular notices ensures that important information reaches all members of the organization systematically and comprehensively.\n分发圆形通知确保重要信息系统和全面地传达给组织的所有成员。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37411,7 +37411,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɜːkəmstəns/",
     "frequency": "高频",
-    "example": "Under the circumstances, we have no choice but to postpone the event.\n在这种情况下，我们别无选择，只能推迟活动。\nHe found himself in difficult circumstances after losing his job.\n失业后，他发现自己处境困难。",
+    "example": "Under the current circumstances, it is necessary to adapt our plans to accommodate changing conditions flexibly and pragmatically.\n在当前情况下，有必要灵活和务实地调整我们的计划以适应不断变化的条件。\nUnderstanding the circumstances surrounding an event helps provide context and perspective insightfully and comprehensively.\n了解事件周围的情况有助于有洞察力和全面地提供背景和视角。",
     "prefix": "circum-",
     "prefixMeaning": "周围",
     "prefixMeaningEn": "around",
@@ -37432,7 +37432,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/circus/",
     "frequency": "中频",
-    "example": "The circus came to town with acrobats, clowns, and exotic animals.\n马戏团带着杂技演员、小丑和异国动物来到镇上。\nChildren were thrilled by the circus performance at the fairground.\n孩子们对游乐场的马戏团表演感到兴奋。",
+    "example": "The circus entertained audiences with thrilling acrobatic performances, colorful costumes, and trained animals spectacularly and delightfully.\n马戏团用激动人心的杂技表演、色彩缤纷的服装和训练有素的动物壮观和愉快地娱乐观众。\nChildren marveled at the circus acts, wide-eyed with wonder and excitement joyfully and enthusiastically.\n孩子们惊叹于马戏团的表演，睁大眼睛充满惊奇和兴奋，快乐和热情地。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37453,7 +37453,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/citation/",
     "frequency": "低频",
-    "example": "The professor included a citation for every source in his research paper.\n教授在他的研究论文中为每个来源都包含了引用。\nThe police officer issued a citation for the speeding violation.\n警察对超速违规发出了传票。",
+    "example": "The academic paper included proper citation of sources to acknowledge the work of other researchers appropriately and ethically.\n学术论文包含正确的来源引用，以适当和道德地承认其他研究人员的工作。\nReceiving a citation for outstanding achievement is a significant honor, recognizing exceptional contributions deservedly and publicly.\n因杰出成就获得表彰是一项重大荣誉，当之无愧和公开地认可非凡贡献。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37474,7 +37474,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/saɪt/",
     "frequency": "中频",
-    "example": "The author decided to cite several experts in her academic paper.\n作者决定在她的学术论文中引用几位专家。\nPlease cite your sources when writing academic assignments.\n撰写学术作业时请引用你的来源。",
+    "example": "When writing academic papers, it is essential to cite relevant sources to support arguments and give credit appropriately and accurately.\n写学术论文时，必须引用相关来源来支持论点并适当和准确地给予学分。\nThe speaker chose to cite several experts to strengthen her presentation, adding credibility and authority effectively and persuasively.\n演讲者选择引用几位专家来加强她的演讲，有效和有说服力地增加可信度和权威性。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37495,7 +37495,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪtɪzn/",
     "frequency": "高频",
-    "example": "Every citizen has the right to vote in democratic elections.\n每个公民都有权在民主选举中投票。\nShe became a citizen of the country after living there for five years.\n在那里居住五年后，她成为该国公民。",
+    "example": "As a responsible citizen, it is important to participate in community activities and contribute to societal improvement actively and meaningfully.\n作为负责任的公民，重要的是积极和有意义地参与社区活动并为社会改善做出贡献。\nCitizens have rights and responsibilities that help maintain a functioning and democratic society fundamentally and collectively.\n公民拥有有助于从根本上和集体地维持一个运转良好的民主社会的权利和责任。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37516,7 +37516,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪti/",
     "frequency": "高频",
-    "example": "The bustling city never sleeps with people working and playing around the clock.\n繁华的城市从不沉睡，人们日夜工作和娱乐。\nShe moved to the city to pursue her career in the arts.\n她搬到城市追求艺术事业。",
+    "example": "The bustling city offered diverse cultural attractions, vibrant nightlife, and endless opportunities for exploration excitingly and dynamically.\n繁华的城市令人兴奋和充满活力地提供多样化的文化景点、热闹的夜生活和无尽的探索机会。\nUrban planners work to create sustainable and livable cities that meet the needs of residents effectively and thoughtfully.\n城市规划者努力创建可持续和宜居的城市，有效和深思熟虑地满足居民的需求。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37537,7 +37537,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈsɪvl/",
     "frequency": "高频",
-    "example": "The civil rights movement fought for equality and justice for all.\n民权运动为所有人的平等和正义而斗争。\nCivil engineers design and build infrastructure for communities.\n土木工程师为社区设计和建造基础设施。",
+    "example": "Maintaining civil discourse is essential for healthy democratic societies, encouraging respectful dialogue and understanding constructively and peacefully.\n保持文明话语对于健康的民主社会至关重要，建设性和和平地鼓励尊重性对话和理解。\nCivil engineers design and build infrastructure that supports modern societies, including roads, bridges, and water systems critically and innovatively.\n土木工程师设计和建造支持现代社会的基础设施，包括道路、桥梁和供水系统，关键和创新地。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37558,7 +37558,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/civilian/",
     "frequency": "高频",
-    "example": "During the conflict, many civilians were displaced from their homes.\n冲突期间，许多平民流离失所。\nThe army worked to protect civilians in the war-torn region.\n军队努力保护饱受战争蹂躏地区的平民。",
+    "example": "During times of conflict, protecting civilian populations is a fundamental priority for humanitarian organizations globally and compassionately.\n在冲突时期，保护平民是人道主义组织全球和富有同情心地的基本优先事项。\nThe civilian population faced numerous challenges during the crisis, requiring coordinated relief efforts urgently and effectively.\n平民在危机期间面临众多挑战，需要紧急和有效地协调救援工作。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37579,7 +37579,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
     "frequency": "高频",
-    "example": "Ancient civilizations developed complex systems of writing and governance.\n古代文明发展了复杂的书写和治理系统。\nModern civilization relies heavily on technology and innovation.\n现代文明严重依赖技术和创新。",
+    "example": "Ancient civilizations developed sophisticated systems of governance, art, and technology that continue to influence modern societies significantly and enduringly.\n古代文明发展了复杂的治理、艺术和技术体系，持续和持久地影响现代社会。\nUnderstanding different civilizations helps foster cultural appreciation and global awareness meaningfully and educationally.\n了解不同文明有助于有意义和教育性地培养文化欣赏和全球意识。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37600,7 +37600,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/civilize/",
     "frequency": "低频",
-    "example": "Education helps to civilize society by promoting knowledge and understanding.\n教育通过促进知识和理解来帮助文明社会。\nThe goal is to civilize rather than to punish those who have made mistakes.\n目标是教化而不是惩罚那些犯了错误的人。",
+    "example": "Education and exposure to diverse cultures help civilize societies by promoting understanding, tolerance, and mutual respect progressively and positively.\n教育和接触多元文化通过逐步和积极地促进理解、宽容和相互尊重来帮助教化社会。\nEfforts to civilize communities often involve promoting literacy, healthcare, and social justice comprehensively and compassionately.\n教化社区的努力通常包括全面和富有同情心地促进识字、医疗保健和社会正义。",
     "prefix": "",
     "prefixMeaning": "",
     "prefixMeaningEn": "",
@@ -37621,7 +37621,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kleɪm/",
     "frequency": "高频",
-    "example": "The company decided to claim compensation for the damaged goods.\n公司决定对损坏的货物索赔。\nShe was the first to claim responsibility for the successful project.\n她是第一个对成功项目承担责任的人。"
+    "example": "The insurance company processed the claim promptly, providing financial compensation to the policyholder fairly and efficiently.\n保险公司及时处理索赔，公平和高效地向投保人提供经济赔偿。\nShe decided to claim her prize after winning the competition, feeling proud and excited joyfully and deservedly.\n她在赢得比赛后决定领取奖品，快乐和当之无愧地感到自豪和兴奋。"
   },
   {
     "id": "word_1835",
@@ -37636,7 +37636,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clam/",
     "frequency": "中频",
-    "example": "The beach was covered with clams that children enjoyed digging up.\n海滩上布满了孩子们喜欢挖的蛤蜊。\nShe prepared a delicious clam chowder using fresh seafood.\n她用新鲜海鲜准备了美味的蛤蜊浓汤。"
+    "example": "The fishermen harvested fresh clams from the coastal waters, preparing them for market sale carefully and sustainably.\n渔民从沿海水域收获新鲜蛤蜊，仔细和可持续地准备出售到市场。\nChildren enjoyed digging for clams on the beach during low tide, discovering marine life curiously and happily.\n孩子们喜欢在低潮时在海滩上挖蛤蜊，好奇和快乐地发现海洋生物。"
   },
   {
     "id": "word_1836",
@@ -37651,7 +37651,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clamp/",
     "frequency": "低频",
-    "example": "The mechanic used a clamp to hold the pieces together while repairing.\n机械师用夹具在修理时将零件固定在一起。\nShe used a clamp to secure the fabric while sewing the dress.\n她用夹子在缝制连衣裙时固定布料。"
+    "example": "The mechanic used a clamp to secure the metal pieces together while welding them firmly and precisely.\n机械师用夹具将金属件固定在一起，牢固和精确地焊接它们。\nAuthorities decided to clamp down on illegal activities in the area, enforcing regulations strictly and decisively.\n当局决定严厉打击该地区的非法活动，严格和果断地执行法规。"
   },
   {
     "id": "word_1837",
@@ -37666,7 +37666,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clan/",
     "frequency": "高频",
-    "example": "Members of the Scottish clan gathered for their annual reunion.\n苏格兰氏族成员聚集参加年度团聚。\nThe clan leader made important decisions for the entire community.\n氏族首领为整个社区做出重要决定。"
+    "example": "The ancient clan maintained strong traditions and values that bound its members together closely and loyally.\n古老的氏族保持着强烈的传统和价值观，紧密和忠诚地将其成员联系在一起。\nMembers of the clan gathered annually to celebrate their heritage and strengthen family bonds meaningfully and joyfully.\n氏族成员每年聚集庆祝他们的遗产，并富有意义和快乐地加强家庭纽带。"
   },
   {
     "id": "word_1838",
@@ -37681,7 +37681,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klæp/",
     "frequency": "中频",
-    "example": "The audience began to clap loudly after the amazing performance.\n精彩表演结束后，观众开始大声鼓掌。\nShe gave her friend a friendly clap on the shoulder to show support.\n她友好地拍了拍朋友的肩膀表示支持。"
+    "example": "The audience began to clap enthusiastically as the performer finished the magnificent concert applaudingly and appreciatively.\n当表演者完成精彩音乐会时，观众开始热情鼓掌，赞赏和感激地。\nChildren learned to clap their hands in rhythm during music class, developing coordination and musical sense joyfully and musically.\n孩子们在音乐课上学会有节奏地拍手，快乐和音乐性地发展协调性和音乐感。"
   },
   {
     "id": "word_1839",
@@ -37696,7 +37696,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklærɪfaɪ/",
     "frequency": "高频",
-    "example": "The speaker took time to clarify any misunderstandings about the proposal.\n演讲者花时间澄清关于提案的任何误解。\nCould you clarify your position on this important issue?\n你能澄清你在这个重要问题上的立场吗？"
+    "example": "The teacher took extra time to clarify the complex concept, ensuring all students understood it thoroughly and clearly.\n老师花额外时间澄清复杂概念，确保所有学生彻底和清晰地理解它。\nIt is important to clarify misunderstandings promptly to maintain healthy relationships effectively and constructively.\n及时澄清误解对于有效和建设性地维持健康关系非常重要。"
   },
   {
     "id": "word_1840",
@@ -37711,7 +37711,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clash/",
     "frequency": "低频",
-    "example": "The two teams clashed during the championship game last night.\n两支球队在昨晚的冠军赛中发生冲突。\nThe bright colors in the painting clash with the neutral decor.\n画中的鲜艳色彩与中性装饰冲突。"
+    "example": "The opposing teams clashed fiercely during the championship game, displaying intense competition and determination dramatically and thrillingly.\n对立球队在冠军赛中激烈冲突，戏剧性和激动人心地展示激烈的竞争和决心。\nCultural differences sometimes cause clashes, requiring patience and understanding to resolve peacefully and respectfully.\n文化差异有时会引起冲突，需要耐心和理解来和平和尊重地解决。"
   },
   {
     "id": "word_1841",
@@ -37726,7 +37726,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clasp/",
     "frequency": "高频",
-    "example": "She fastened the clasp on her necklace before leaving the house.\n她离开家前扣上项链的扣子。\nHe gave her hand a gentle clasp to show his affection.\n他轻轻握住她的手表示爱意。"
+    "example": "She clasped her hands together in prayer, seeking comfort and guidance during the difficult time reverently and sincerely.\n她双手合十祈祷，在困难时期虔诚和真诚地寻求安慰和指引。\nThe jeweler designed an elegant clasp for the necklace, ensuring it would secure properly and beautifully.\n珠宝商为项链设计了一个优雅的搭扣，确保它能正确和美丽地固定。"
   },
   {
     "id": "word_1842",
@@ -37741,7 +37741,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɑːs/",
     "frequency": "高频",
-    "example": "The teacher divided the students into groups for the class activity.\n老师将学生分成小组进行课堂活动。\nShe attended a yoga class every Saturday morning.\n她每周六早上参加瑜伽课。"
+    "example": "The students prepared diligently for their final class presentation, aiming to demonstrate their knowledge thoroughly and impressively.\n学生们为期末课堂展示勤奋准备，旨在彻底和令人印象深刻地展示他们的知识。\nAttending a yoga class regularly helps improve flexibility, strength, and mental well-being holistically and beneficially.\n定期参加瑜伽课有助于全面和有益地提高柔韧性、力量和心理健康。"
   },
   {
     "id": "word_1843",
@@ -37756,7 +37756,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklæsɪk/",
     "frequency": "高频",
-    "example": "The classic novel has been read by generations of students.\n这部经典小说被几代学生阅读。\nShe wore a classic black dress to the formal event.\n她穿了一件经典的黑色连衣裙参加正式活动。"
+    "example": "The classic novel continues to captivate readers generations later with its timeless themes and memorable characters enduringly and universally.\n这部经典小说以其永恒的主题和难忘的人物持续和普遍地吸引着几代读者。\nWearing classic clothing styles ensures a timeless and sophisticated appearance elegantly and stylishly.\n穿着经典服装风格确保优雅和时尚地呈现永恒和精致的外观。"
   },
   {
     "id": "word_1844",
@@ -37771,7 +37771,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklæsɪkl/",
     "frequency": "高频",
-    "example": "The orchestra performed classical music by Beethoven and Mozart.\n管弦乐队演奏贝多芬和莫扎特的古典音乐。\nShe studied classical literature at university.\n她在大学学习古典文学。"
+    "example": "The orchestra performed a beautiful classical composition, showcasing the richness and complexity of traditional music beautifully and masterfully.\n管弦乐队演奏了一首优美的古典乐曲，美丽和精湛地展示传统音乐的丰富性和复杂性。\nStudying classical literature provides insight into historical contexts and human experiences profoundly and intellectually.\n研究古典文学深刻和智力上地提供对历史背景和人类经验的洞察。"
   },
   {
     "id": "word_1845",
@@ -37786,7 +37786,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/classification/",
     "frequency": "中频",
-    "example": "The classification of plants helps scientists understand their relationships.\n植物的分类有助于科学家理解它们的关系。\nThe library uses a classification system to organize books.\n图书馆使用分类系统来组织书籍。"
+    "example": "Scientists use sophisticated classification systems to organize and categorize living organisms systematically and scientifically.\n科学家使用复杂的分类系统系统和科学地组织和分类生物。\nThe classification of books in the library helps readers find materials efficiently and conveniently whenever needed.\n图书馆中的图书分类有助于读者在需要时高效和方便地查找资料。"
   },
   {
     "id": "word_1846",
@@ -37801,7 +37801,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklæsɪfaɪ/",
     "frequency": "高频",
-    "example": "Scientists classify animals based on their characteristics and behaviors.\n科学家根据动物的特征和行为对它们进行分类。\nThe documents were classified according to their importance.\n文件根据其重要性进行分类。"
+    "example": "Biologists classify species based on shared characteristics to understand evolutionary relationships accurately and systematically.\n生物学家根据共同特征对物种进行分类，以准确和系统地理解进化关系。\nIt is essential to classify data properly to ensure effective analysis and decision-making practically and logically.\n正确分类数据对于实际和逻辑地确保有效分析和决策至关重要。"
   },
   {
     "id": "word_1847",
@@ -37816,7 +37816,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklɑːsruːm/",
     "frequency": "高频",
-    "example": "The classroom was filled with students eager to learn new things.\n教室里坐满了渴望学习新事物的学生。\nShe decorated the classroom with colorful posters and plants.\n她用彩色海报和植物装饰教室。"
+    "example": "The bright and spacious classroom provided an ideal learning environment for students to engage actively and productively.\n明亮宽敞的教室为学生提供了一个理想的学习环境，让他们积极和高效地参与。\nTeachers decorate classrooms with educational posters and colorful displays to inspire learning creatively and engagingly.\n教师用教育海报和彩色展示装饰教室，创造性和引人入胜地激发学习兴趣。"
   },
   {
     "id": "word_1848",
@@ -37831,7 +37831,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɔːz/",
     "frequency": "中频",
-    "example": "The contract included a clause about payment terms and conditions.\n合同包含有关付款条款和条件的条款。\nThe lawyer explained each clause of the legal agreement.\n律师解释了法律协议的每个条款。"
+    "example": "The legal document included a specific clause outlining the terms and conditions of the agreement clearly and precisely.\n法律文件包含一个具体条款，清晰和精确地概述协议的条款和条件。\nUnderstanding grammatical clauses helps improve writing skills by ensuring proper sentence structure effectively and grammatically.\n理解语法从句通过有效和语法上地确保正确的句子结构有助于提高写作技巧。"
   },
   {
     "id": "word_1849",
@@ -37846,7 +37846,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/claw/",
     "frequency": "中频",
-    "example": "The cat extended its sharp claws when it felt threatened.\n猫感到威胁时伸出锋利的爪子。\nThe eagle used its powerful claws to catch the fish from the water.\n鹰用它有力的爪子从水中抓鱼。"
+    "example": "The eagle extended its sharp claws to grasp the prey firmly and securely during the hunt instinctively and powerfully.\n鹰在狩猎时本能和有力地伸出锋利的爪子，牢固和安全地抓住猎物。\nThe cat sharpened its claws on the scratching post, maintaining their strength and sharpness naturally and regularly.\n猫在抓板上磨爪子，自然和定期地保持它们的力量和锋利度。"
   },
   {
     "id": "word_1850",
@@ -37861,7 +37861,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clay/",
     "frequency": "低频",
-    "example": "The potter shaped the clay into a beautiful vase on the wheel.\n陶工在轮子上把粘土塑造成一个漂亮的花瓶。\nChildren enjoyed playing with clay and making various shapes.\n孩子们喜欢玩粘土并制作各种形状。"
+    "example": "The potter skillfully shaped the clay into beautiful pottery, creating functional and decorative pieces artfully and creatively.\n陶艺家巧妙地将粘土塑造成美丽的陶器，艺术性和创造性地制作功能性和装饰性作品。\nChildren enjoyed playing with clay, molding it into various shapes and figures imaginatively and joyfully.\n孩子们喜欢玩粘土，富有想象力和快乐地将其塑造成各种形状和人物。"
   },
   {
     "id": "word_1851",
@@ -37876,7 +37876,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kliːn/",
     "frequency": "高频",
-    "example": "She spent the morning cleaning the entire house from top to bottom.\n她花了一上午从上到下打扫整个房子。\nPlease keep your room clean and tidy at all times.\n请始终保持房间干净整洁。"
+    "example": "She spent the morning cleaning the house thoroughly, ensuring every room was spotless and organized neatly and efficiently.\n她花了一上午彻底打扫房子，确保每个房间都干净整洁、井井有条，整洁和高效地。\nUsing eco-friendly cleaning products helps protect the environment while maintaining a healthy living space responsibly and sustainably.\n使用环保清洁产品有助于保护环境，同时负责任和可持续地维持健康的生活空间。"
   },
   {
     "id": "word_1852",
@@ -37891,7 +37891,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɪə/",
     "frequency": "高频",
-    "example": "The instructions were clear and easy to understand for everyone.\n说明清晰易懂，每个人都能理解。\nAfter the storm, the sky became clear and blue again.\n暴风雨过后，天空又变得晴朗湛蓝。"
+    "example": "The clear blue sky provided perfect weather for the outdoor picnic, making the day enjoyable and memorable delightfully and beautifully.\n晴朗的蓝天为户外野餐提供了完美的天气，使这一天愉快和难忘，令人愉快和美丽地。\nIt is important to clear misunderstandings quickly to maintain positive relationships effectively and constructively.\n迅速澄清误解对于有效和建设性地维持积极关系非常重要。"
   },
   {
     "id": "word_1853",
@@ -37906,7 +37906,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clearly/",
     "frequency": "低频",
-    "example": "The instructions were clearly written and easy to follow.\n说明写得很清楚，容易遵循。\nShe clearly explained the reasons behind her decision to everyone.\n她清楚地向每个人解释了她做出决定的原因。"
+    "example": "The instructions were clearly written, making it easy for everyone to understand the process step by step comprehensively and straightforwardly.\n说明写得很清楚，使每个人都能全面和直接地一步一步理解流程。\nShe clearly expressed her opinions during the meeting, contributing valuable insights thoughtfully and articulately.\n她在会议期间清楚地表达了她的观点，深思和清晰地贡献了宝贵的见解。"
   },
   {
     "id": "word_1854",
@@ -37921,7 +37921,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɑːk/",
     "frequency": "中频",
-    "example": "The clerk helped the customer find the right product in the store.\n店员帮助顾客在商店找到合适的产品。\nShe worked as a clerk at the local library during college.\n她大学期间在当地图书馆担任职员。"
+    "example": "The bank clerk assisted customers with their transactions efficiently, providing friendly and professional service consistently and reliably.\n银行职员高效地协助客户办理交易，始终和可靠地提供友好和专业的服务。\nWorking as a clerk requires attention to detail and excellent organizational skills systematically and carefully.\n担任职员需要系统和仔细地注重细节和出色的组织能力。"
   },
   {
     "id": "word_1855",
@@ -37936,7 +37936,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklevə/",
     "frequency": "高频",
-    "example": "The clever student found a creative solution to the problem.\n聪明的学生找到了解决问题的创造性方法。\nShe came up with a clever idea to improve the workflow.\n她想出了一个聪明的主意来改进工作流程。"
+    "example": "The clever student solved the complex math problem quickly, demonstrating exceptional problem-solving skills impressively and intelligently.\n聪明的学生迅速解决了复杂的数学问题，令人印象深刻和聪明地展示了卓越的解决问题能力。\nHer clever idea helped the team overcome the challenge creatively and effectively.\n她聪明的想法帮助团队创造性和有效地克服了挑战。"
   },
   {
     "id": "word_1856",
@@ -37951,7 +37951,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/click/",
     "frequency": "低频",
-    "example": "Please click the button to submit your application.\n请点击按钮提交您的申请。\nThe mouse click opened a new window on the computer screen.\n鼠标点击在电脑屏幕上打开了一个新窗口。"
+    "example": "With a simple click of the mouse, she opened the document and began editing it quickly and conveniently.\n只需简单点击鼠标，她就打开了文档并开始快速和方便地编辑它。\nThe door made a loud click as it closed behind her, signaling the end of the meeting clearly and audibly.\n门在她身后关上时发出一声响亮的咔嗒声，清晰和可听地标志着会议结束。"
   },
   {
     "id": "word_1857",
@@ -37966,7 +37966,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/client/",
     "frequency": "高频",
-    "example": "The company provides excellent service to all its clients.\n公司为所有客户提供优质服务。\nShe met with her client to discuss the project requirements.\n她与客户会面讨论项目要求。"
+    "example": "The lawyer met with her client to discuss the legal strategy, ensuring they understood all options thoroughly and comprehensively.\n律师与她的客户会面讨论法律策略，确保他们彻底和全面地理解所有选择。\nBuilding strong client relationships requires trust, communication, and exceptional service consistently and reliably.\n建立强大的客户关系需要始终和可靠地信任、沟通和卓越服务。"
   },
   {
     "id": "word_1858",
@@ -37981,7 +37981,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɪf/",
     "frequency": "中频",
-    "example": "The hiker stood at the edge of the cliff overlooking the ocean.\n徒步旅行者站在悬崖边缘俯瞰海洋。\nThe cliff face was covered with colorful wildflowers in spring.\n春天悬崖表面覆盖着五颜六色的野花。"
+    "example": "The hikers stood at the edge of the cliff, admiring the breathtaking view of the valley below awe-inspiringly and spectacularly.\n徒步旅行者站在悬崖边缘，令人敬畏和壮观地欣赏下方山谷的壮丽景色。\nBuilding a safety fence along the cliff prevents accidents and ensures visitor protection critically and effectively.\n沿着悬崖建造安全围栏可防止事故并关键和有效地确保游客安全。"
   },
   {
     "id": "word_1859",
@@ -37996,7 +37996,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklaɪmət/",
     "frequency": "高频",
-    "example": "The changing climate has caused extreme weather events worldwide.\n气候变化在全球范围内造成了极端天气事件。\nShe moved to a warmer climate to improve her health.\n她搬到气候较温暖的地方改善健康。"
+    "example": "Scientists study climate patterns to understand long-term weather trends and predict environmental changes systematically and scientifically.\n科学家研究气候模式，以系统和科学地理解长期天气趋势并预测环境变化。\nAdapting to changing climate conditions requires innovative solutions and global cooperation urgently and proactively.\n适应不断变化的气候条件需要紧急和主动地采取创新解决方案和全球合作。"
   },
   {
     "id": "word_1860",
@@ -38011,7 +38011,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klaɪm/",
     "frequency": "高频",
-    "example": "They decided to climb the mountain despite the challenging terrain.\n尽管地形具有挑战性，他们还是决定爬山。\nShe learned how to climb rocks at the outdoor adventure park.\n她在户外冒险公园学会了攀岩。"
+    "example": "The experienced mountaineer began to climb the steep mountain, using specialized equipment and techniques carefully and skillfully.\n经验丰富的登山者开始攀登陡峭的山峰，仔细和熟练地使用专业设备和技术。\nChildren love to climb trees in the park, exploring nature and developing physical strength joyfully and actively.\n孩子们喜欢在公园里爬树，快乐和积极地探索自然和发展体力。"
   },
   {
     "id": "word_1861",
@@ -38026,7 +38026,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklɪnɪk/",
     "frequency": "中频",
-    "example": "The medical clinic provides affordable healthcare to the community.\n医疗诊所为社区提供负担得起的医疗服务。\nShe visited the clinic for her regular check-up this morning.\n她今天早上去诊所进行定期检查。"
+    "example": "The medical clinic provided comprehensive healthcare services to the community, treating patients with compassion and expertise consistently and care.\n医疗诊所为社区提供全面的医疗服务，始终和关怀地以同情心和专业知识治疗患者。\nVisiting the clinic regularly for check-ups helps maintain good health and detect issues early proactively and responsibly.\n定期到诊所检查有助于主动和负责任地保持健康并及早发现问题。"
   },
   {
     "id": "word_1862",
@@ -38041,7 +38041,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clinical/",
     "frequency": "低频",
-    "example": "The clinical trial tested the effectiveness of the new drug.\n临床试验测试了新药的有效性。\nShe works in a clinical research lab at the hospital.\n她在医院的临床研究实验室工作。"
+    "example": "The clinical trial tested the new medication rigorously, ensuring safety and efficacy before public release thoroughly and systematically.\n临床试验严格测试了新药物，在公开发布前彻底和系统地确保安全性和有效性。\nClinical research plays a crucial role in advancing medical knowledge and improving patient outcomes significantly and meaningfully.\n临床研究在显著和有意义地推进医学知识和改善患者结果方面发挥着至关重要的作用。"
   },
   {
     "id": "word_1863",
@@ -38056,7 +38056,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clip/",
     "frequency": "高频",
-    "example": "She used a hair clip to keep her hair out of her face.\n她用发夹把头发别在脑后。\nThe video clip showed the highlights of the sports event.\n视频片段展示了体育赛事的精彩瞬间。"
+    "example": "She used a hair clip to secure her hair neatly, creating a stylish and practical hairstyle elegantly and effortlessly.\n她用发夹整齐地固定头发，优雅和毫不费力地创造了一个时尚实用的发型。\nThe video editor added a clip of the most exciting moments to create a compelling highlight reel skillfully and creatively.\n视频编辑添加了最激动人心的片段，熟练和创造性地制作了一个引人注目的精彩片段。"
   },
   {
     "id": "word_1864",
@@ -38071,7 +38071,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cloak/",
     "frequency": "中频",
-    "example": "The wizard wore a long black cloak as part of his costume.\n巫师穿着长长的黑色斗篷作为服装的一部分。\nShe wrapped a warm cloak around herself to stay warm.\n她裹上一件温暖的斗篷保暖。"
+    "example": "The mysterious figure wore a dark cloak that concealed their identity completely, adding an air of intrigue mysteriously and dramatically.\n神秘人物穿着一件深色斗篷，完全隐藏了他们的身份，神秘和戏剧性地增添了一种神秘气氛。\nShe wrapped herself in a warm cloak to protect against the cold winter wind snugly and comfortably.\n她用温暖的斗篷裹住自己，舒适和暖和地抵御寒冷的冬风。"
   },
   {
     "id": "word_1865",
@@ -38086,7 +38086,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɒk/",
     "frequency": "高频",
-    "example": "The antique clock on the wall chimed every hour.\n墙上的古董钟每小时敲响一次。\nShe checked the clock to see if she was running late.\n她看了看钟，看看是否迟到了。"
+    "example": "The antique clock on the mantelpiece chimed loudly, marking the passing of time with its melodic sound nostalgically and reliably.\n壁炉台上的古董钟大声敲响，用其旋律优美的声音怀旧和可靠地标记时间的流逝。\nSetting the clock correctly ensures punctuality and helps manage daily schedules effectively and practically.\n正确设置时钟确保准时，并有效和实际地帮助管理日常日程。"
   },
   {
     "id": "word_1866",
@@ -38101,7 +38101,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clone/",
     "frequency": "高频",
-    "example": "Scientists successfully cloned a sheep named Dolly in 1996.\n科学家在1996年成功克隆了一只名叫多莉的羊。\nThe technology can clone plants to produce identical copies.\n这项技术可以克隆植物以生产相同的副本。"
+    "example": "Scientists successfully created a clone of the sheep, demonstrating significant advancements in genetic engineering remarkably and innovatively.\n科学家成功克隆了绵羊，显著和创新地展示了基因工程的重大进展。\nThe company plans to clone popular products to meet increasing consumer demand efficiently and strategically.\n该公司计划克隆受欢迎的产品，以高效和战略性地满足日益增长的消费者需求。"
   },
   {
     "id": "word_1867",
@@ -38116,7 +38116,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kləʊz/",
     "frequency": "高频",
-    "example": "Please close the door when you leave the room.\n离开房间时请关门。\nShe lives close to the office so she can walk to work.\n她住得离办公室很近，所以可以步行上班。"
+    "example": "Please close the windows and doors before leaving to ensure security and energy efficiency responsibly and practically at all times.\n离开前请关闭门窗，始终负责任和实际地确保安全和能源效率。\nMaintaining close relationships with family and friends provides emotional support and happiness meaningfully and continuously throughout life.\n与家人和朋友保持密切关系在整个生命中有意义和持续地提供情感支持和快乐。"
   },
   {
     "id": "word_1868",
@@ -38131,7 +38131,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/closed/",
     "frequency": "低频",
-    "example": "The store is closed on Sundays and public holidays.\n商店在周日和公共假期关门。\nShe kept her eyes closed to relax and meditate.\n她闭上眼睛放松和冥想。"
+    "example": "The store remained closed during the holiday, allowing employees to spend time with their families thoughtfully and considerately.\n商店在假期期间保持关闭，体贴和周到地让员工与家人共度时光。\nAccess to the restricted area was closed to unauthorized personnel for security reasons strictly and systematically.\n出于安全原因，未经授权的人员严格和系统地禁止进入禁区。"
   },
   {
     "id": "word_1869",
@@ -38146,7 +38146,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkləʊzli/",
     "frequency": "高频",
-    "example": "The detective examined the evidence closely for clues.\n侦探仔细检查证据寻找线索。\nShe followed the instructions closely to complete the task.\n她严格按照指示完成任务。"
+    "example": "The detective examined the evidence closely, searching for clues that would solve the mysterious case meticulously and thoroughly.\n侦探仔细检查证据，仔细和彻底地寻找能解决神秘案件的线索。\nWorking closely with colleagues fosters collaboration and improves team performance significantly and positively.\n与同事密切合作促进协作，并显著和积极地提高团队绩效。"
   },
   {
     "id": "word_1870",
@@ -38161,7 +38161,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/closet/",
     "frequency": "中频",
-    "example": "She organized her clothes neatly in the bedroom closet.\n她把衣服整齐地整理在卧室衣柜里。\nThe old house had a secret closet behind the bookshelf.\n老房子在书架后面有一个秘密壁橱。"
+    "example": "She organized her closet systematically, arranging clothes by season and type for easy access conveniently and practically.\n她系统地整理衣柜，按季节和类型整理衣物，方便和实际地便于取用。\nThe walk-in closet provided ample storage space for all her belongings, keeping the bedroom tidy and organized beautifully and functionally.\n步入式衣帽间为她所有物品提供了充足的存储空间，美丽和功能上地保持卧室整洁有序。"
   },
   {
     "id": "word_1871",
@@ -38176,7 +38176,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klɒθ/",
     "frequency": "高频",
-    "example": "She used a soft cloth to clean the delicate glassware.\n她用一块软布清洁精致的玻璃器皿。\nThe tailor cut the cloth carefully to make the dress.\n裁缝仔细裁剪布料制作连衣裙。"
+    "example": "She used a soft cloth to clean the delicate glassware carefully, preventing scratches and damage gently and effectively.\n她用一块软布仔细清洁精致的玻璃器皿，轻柔和有效地防止刮擦和损坏。\nThe tailor measured the cloth precisely before cutting it for the custom-made suit accurately and skillfully.\n裁缝在为定制西装裁剪布料之前精确测量，准确和熟练地。"
   },
   {
     "id": "word_1872",
@@ -38191,7 +38191,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/kləʊðz/",
     "frequency": "高频",
-    "example": "She packed her summer clothes for the vacation trip.\n她为假期旅行打包了夏装。\nThe children changed into their swimming clothes for the pool.\n孩子们换上游泳衣去游泳池。"
+    "example": "She carefully folded her clothes and placed them in the suitcase, preparing for her weekend trip neatly and efficiently.\n她仔细折叠衣服并把它们放在行李箱里，整齐和高效地准备周末旅行。\nChoosing appropriate clothes for different occasions shows respect and understanding of social norms thoughtfully and appropriately.\n为不同场合选择合适的衣服显示出对社会规范的尊重和理解，深思和适当地。"
   },
   {
     "id": "word_1873",
@@ -38206,7 +38206,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈkləʊðɪŋ/",
     "frequency": "高频",
-    "example": "The store sells a wide variety of clothing for men and women.\n这家商店出售各种各样的男女服装。\nShe donated old clothing to the charity organization.\n她把旧衣服捐赠给慈善组织。"
+    "example": "The clothing store offered a wide selection of fashionable and affordable garments for customers of all ages attractively and reasonably.\n服装店为各年龄段的顾客提供广泛的时尚和实惠服装选择，吸引人且合理地。\nProper clothing is essential for protection against the elements and for expressing personal style functionally and stylishly.\n合适的服装对于抵御恶劣天气和功能性、时尚地表达个人风格至关重要。"
   },
   {
     "id": "word_1874",
@@ -38221,7 +38221,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klaʊd/",
     "frequency": "高频",
-    "example": "A fluffy white cloud floated across the blue sky.\n一朵蓬松的白云飘过蓝天。\nThe dark cloud signaled that a storm was approaching.\n乌云预示着暴风雨即将来临。"
+    "example": "The fluffy white cloud drifted lazily across the sky, creating beautiful patterns against the blue backdrop peacefully and serenely.\n蓬松的白云懒洋洋地飘过天空，在蓝色背景上和平和宁静地创造美丽的图案。\nDark clouds gathered on the horizon, signaling an approaching storm that would bring much-needed rain soon and inevitably.\n乌云在地平线上聚集，预示着一场即将到来的暴风雨，很快和不可避免地带来急需的雨水。"
   },
   {
     "id": "word_1875",
@@ -38236,7 +38236,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/ˈklaʊdi/",
     "frequency": "高频",
-    "example": "The weather forecast predicts a cloudy day with occasional rain.\n天气预报预测阴天，偶尔有雨。\nShe prefers sunny days over cloudy ones for outdoor activities.\n她更喜欢晴天而不是阴天进行户外活动。"
+    "example": "The weather forecast predicted a cloudy day with occasional showers, prompting people to carry umbrellas just in case prudently and preparedly.\n天气预报预测阴天有零星阵雨，促使人们谨慎和有准备地随身携带雨伞以防万一。\nA cloudy sky can create a calm and peaceful atmosphere, perfect for reading or relaxing indoors comfortably and cozily.\n多云的天空可以创造平静和宁静的氛围，非常适合舒适和温馨地在室内阅读或放松。"
   },
   {
     "id": "word_1876",
@@ -38251,7 +38251,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clown/",
     "frequency": "中频",
-    "example": "The clown entertained children with funny tricks at the circus.\n小丑在马戏团用有趣的把戏逗孩子们开心。\nHe dressed up as a clown for the Halloween party.\n他在万圣节派对上打扮成小丑。"
+    "example": "The colorful clown entertained children at the birthday party with funny jokes and playful antics joyfully and amusingly.\n色彩缤纷的小丑在生日派对上用有趣的笑话和顽皮的滑稽动作快乐和有趣地逗孩子们开心。\nBehind the clown's cheerful mask often lies a skilled performer who brings laughter and joy to audiences everywhere professionally and entertainingly.\n小丑欢快的面具背后通常是一位熟练的表演者，专业和娱乐性地为各地观众带来欢笑和快乐。"
   },
   {
     "id": "word_1877",
@@ -38266,7 +38266,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/klʌb/",
     "frequency": "高频",
-    "example": "She joined the book club to discuss literature with friends.\n她加入读书俱乐部与朋友讨论文学。\nThe sports club offers various activities for members.\n体育俱乐部为会员提供各种活动。"
+    "example": "The members of the book club gathered monthly to discuss their latest reads and share insights thoughtfully and engagingly.\n读书俱乐部的成员每月聚集讨论他们最新阅读的书籍并深思和引人入胜地分享见解。\nJoining a club is a great way to meet new people with similar interests and expand one's social circle effectively and enjoyably.\n加入俱乐部是结识志同道合的新朋友并有效和愉快地扩大社交圈的好方法。"
   },
   {
     "id": "word_1878",
@@ -38281,7 +38281,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clue/",
     "frequency": "高频",
-    "example": "The detective found an important clue that solved the mystery.\n侦探发现了一个重要线索，解开了谜团。\nCan you give me a clue about the answer to this puzzle?\n你能给我一个关于这个谜题答案的线索吗？"
+    "example": "The detective carefully analyzed each clue at the crime scene, piecing together the puzzle to solve the mystery systematically and methodically.\n侦探仔细分析犯罪现场的每个线索，系统和有条不紊地拼凑谜题以解决谜团。\nFinding the first clue often leads to discovering more evidence, bringing investigators closer to the truth progressively and revealingly.\n找到第一条线索往往会发现更多证据，逐步和揭示性地使调查人员更接近真相。"
   },
   {
     "id": "word_1879",
@@ -38296,7 +38296,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clumsy/",
     "frequency": "中频",
-    "example": "The clumsy waiter spilled water on the customer's table.\n笨拙的服务员把水洒在顾客的桌子上。\nShe felt clumsy when she tried to learn how to dance.\n她学跳舞时觉得自己很笨拙。"
+    "example": "The clumsy waiter accidentally spilled the tray of drinks, causing a commotion in the busy restaurant unexpectedly and embarrassingly.\n笨拙的服务员不小心打翻了托盘里的饮料，意外和尴尬地在繁忙的餐厅引起了骚动。\nBeing clumsy can lead to accidents, but practicing mindfulness and coordination can help improve grace and precision gradually and effectively.\n笨拙可能导致意外，但练习正念和协调可以逐渐和有效地帮助提高优雅和精准度。"
   },
   {
     "id": "word_1880",
@@ -38311,7 +38311,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/cluster/",
     "frequency": "低频",
-    "example": "A cluster of stars formed a beautiful constellation in the sky.\n一簇星星在天空中形成了美丽的星座。\nThe flowers grew in a cluster near the garden fence.\n花在花园篱笆附近成簇生长。"
+    "example": "A cluster of stars formed a beautiful constellation in the night sky, captivating stargazers with its celestial beauty stunningly and awe-inspiringly.\n一群星星在夜空中形成了一个美丽的星座，令人惊叹和敬畏地以其天体之美吸引着观星者。\nThe cluster of trees provided shade and shelter for wildlife, creating a thriving ecosystem naturally and harmoniously.\n树丛为野生动物提供阴凉和庇护，自然和和谐地创造一个繁荣的生态系统。"
   },
   {
     "id": "word_1881",
@@ -38326,7 +38326,7 @@ export const mockWords: IELTSWord[] = [
     "relatedWords": [],
     "phonetic": "/clutch/",
     "frequency": "高频",
-    "example": "She released the clutch and the car began to move forward.\n她松开离合器，汽车开始向前移动。\nThe mother gave her child a tight clutch before saying goodbye.\n母亲在告别前紧紧抱住孩子。"
+    "example": "She clutched her purse tightly as she walked through the crowded marketplace, protecting her valuables securely and cautiously.\n她穿过拥挤的市场时紧紧抓住钱包，安全和谨慎地保护她的贵重物品。\nThe driver had to clutch the steering wheel firmly to maintain control of the vehicle during the sudden skid quickly and skillfully.\n在突然打滑时，司机不得不快速和熟练地紧紧抓住方向盘以保持车辆控制。"
   },
   {
     "id": "word_1882",
