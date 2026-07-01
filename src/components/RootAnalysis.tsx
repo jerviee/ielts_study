@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { BookOpen, ArrowRight, Search, Lightbulb, Globe } from 'lucide-react';
+import { useState, useMemo } from 'react';
+import { BookOpen, ArrowRight, Search, Lightbulb, Globe, ChevronDown, ChevronUp } from 'lucide-react';
 import { rootGroups, prefixGroups, suffixGroups } from '@/data/mockWriting';
 import { ieltsWords } from '@/data/words';
 
