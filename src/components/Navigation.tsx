@@ -73,7 +73,7 @@ export default function Navigation({ activeTab, onTabChange }: NavigationProps) 
             </div>
           </div>
           <div className="text-xs text-gray-500">
-            v3.1.0
+            v26.10.1.10
           </div>
         </div>
       </div>

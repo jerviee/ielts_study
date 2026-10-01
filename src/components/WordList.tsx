@@ -121,7 +121,7 @@ export default function WordList() {
   const handleSpeak = (word: string) => {
     const utterance = new SpeechSynthesisUtterance(word);
     utterance.lang = 'en-US';
-    utterance.rate = 1.25;
+    utterance.rate = 1;
     utterance.pitch = 1.25;
     
     // 选择年轻女性美式英语发音
@@ -152,7 +152,7 @@ export default function WordList() {
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = 'en-US';
-      utterance.rate = 1.25;
+      utterance.rate = 1;
       utterance.pitch = 1.25;
 
       // 选择年轻女性美式英语发音
@@ -184,7 +184,7 @@ export default function WordList() {
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = 'en-US';
-      utterance.rate = 1.25;
+      utterance.rate = 1;
       utterance.pitch = 0.9;
 
       // 选择男性美式英语发音

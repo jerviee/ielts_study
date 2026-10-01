@@ -69,7 +69,7 @@ export default function ReadingPassages() {
       
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = 'en-US';
-      utterance.rate = 1.25;
+      utterance.rate = 1;
       utterance.pitch = 1.25;
       
       const voices = window.speechSynthesis.getVoices();

@@ -64,7 +64,7 @@ export default function ListeningPractice() {
   const handleSpeak = (text: string) => {
     const utterance = new SpeechSynthesisUtterance(text);
     utterance.lang = 'en-US';
-    utterance.rate = 1.25;
+    utterance.rate = 1;
     window.speechSynthesis.speak(utterance);
   };
 
