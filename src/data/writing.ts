@@ -2936,37 +2936,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Air pollution is a serious problem in many cities. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Air pollution has become one of the most urgent urban challenges. This essay will examine its main causes, namely [cause1] and [cause2], and propose solutions including [solution1] and [solution2].",
+      body1: "The problem stems primarily from [cause1]. For example, [example]. In addition, [cause2] also contributes significantly, as [explanation].",
+      body2: "To tackle this issue, governments should [solution1]. This would [effect]. Moreover, [solution2] can also help by [mechanism].",
+      conclusion: "In conclusion, although air pollution results from [causes summary], a combination of [solutions summary] can substantially improve urban air quality."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "空气污染已成为最紧迫的城市挑战之一。本文将审视其主要原因，即[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的对策。",
+      body1: "该问题主要源于[原因1]。例如，[例子]。此外，[原因2]也有重要贡献，因为[解释]。",
+      body2: "为解决这一问题，政府应当[解决方案1]。这将[效果]。此外，[解决方案2]也能通过[机制]发挥作用。",
+      conclusion: "总之，尽管空气污染源于[原因总结]，但通过[解决方案总结]的组合可以显著改善城市空气质量。"
     },
     fullParagraphs: {
-      introduction: "Air pollution is a serious problem in many cities. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, air pollution is a serious problem in many cities. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Air pollution has become one of the most urgent urban challenges. The World Health Organization estimates that outdoor air pollution causes over four million premature deaths annually, and in cities like Delhi winter smog regularly pushes particulate levels to twenty times the safe limit. This essay will examine its main causes, namely vehicle emissions and coal-based industry, and propose solutions including clean public transport and stricter industrial regulation.",
+      body1: "The problem stems primarily from the explosive growth of private vehicles powered by fossil fuels. For example, Beijing's car fleet grew from under two million in 2000 to over six million today, and traffic exhaust accounts for roughly a third of the city's PM2.5 on windless days. In addition, coal-fired power plants and heavy industry contribute significantly: in northern China and in India's industrial belt, winter heating and factory output release sulphur dioxide and fine particles that drift across entire regions, meaning even cities with clean local policies suffer imported smog.",
+      body2: "To tackle this issue, governments should invest massively in clean public transport while restricting private car use. London's Ultra Low Emission Zone, which charges the dirtiest vehicles, cut roadside nitrogen dioxide by almost half within four years, and Shenzhen has electrified its entire fleet of 16,000 buses. Moreover, stricter industrial regulation can help by forcing factories to install scrubbers and by accelerating the shift from coal to renewables, as China's cap-and-trade programme and plant closures demonstrate. Congestion pricing, cycling infrastructure and green building standards reinforce these gains.",
+      conclusion: "In conclusion, although air pollution results from vehicle emissions and coal-based industry, a combination of clean public transport and enforced industrial standards can substantially improve urban air quality. The experience of London, Shenzhen and Beijing shows that determined policy produces measurable results within years rather than decades."
     },
     fullParagraphsCN: {
-      introduction: "空气污染是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，空气污染是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "空气污染已成为最紧迫的城市挑战之一。世界卫生组织估计，室外空气污染每年导致超过四百万人过早死亡；在德里这样的城市，冬季雾霾经常使颗粒物浓度达到安全上限的二十倍。本文将审视其主要原因，即机动车排放和煤炭工业，并提出包括清洁公共交通和更严格工业监管在内的对策。",
+      body1: "该问题主要源于以化石燃料为动力的私家车的爆炸式增长。例如，北京的机动车保有量从2000年的不足两百万辆增长到今天的六百多万辆，在无风天气里，交通尾气约占全市PM2.5的三分之一。此外，燃煤电厂和重工业也有重要贡献：在中国北方和印度工业带，冬季供暖和工厂生产释放的二氧化硫和细颗粒物会跨区域漂移，这意味着即使是本地政策清洁的城市也会遭受输入性雾霾。",
+      body2: "为解决这一问题，政府应当大力投资清洁公共交通，同时限制私家车使用。伦敦的超低排放区对污染最严重的车辆收费，四年内使路边二氧化氮减少了近一半；深圳已将其全部1.6万辆公交车电动化。此外，更严格的工业监管也能发挥作用，例如强制工厂安装脱硫设备，并加速从煤炭向可再生能源转型，中国的碳交易试点和关停高污染工厂就是证明。拥堵收费、自行车基础设施和绿色建筑标准则能巩固这些成效。",
+      conclusion: "总之，尽管空气污染源于机动车排放和煤炭工业，但通过清洁公共交通与严格工业标准的组合可以显著改善城市空气质量。伦敦、深圳和北京的经验表明，坚定的政策能在数年而非数十年内产生可量化的成果。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "particulate matter",
+      "vehicle emissions",
+      "coal-fired power",
+      "congestion pricing",
+      "ultra low emission zone",
+      "scrubber",
+      "premature deaths",
+      "smog",
+      "electrify",
+      "cap-and-trade"
     ]
   },
   {
@@ -2975,37 +2978,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Traffic congestion is a major problem in many urban areas. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Traffic congestion wastes billions of hours in cities worldwide. This essay will identify its root causes, including [cause1] and [cause2], and suggest remedies such as [solution1] and [solution2].",
+      body1: "The first major cause is [cause1]. For instance, [example]. Secondly, [cause2] worsens the situation because [explanation].",
+      body2: "Several measures can alleviate congestion. The most effective is [solution1], which [effect]. Another useful approach is [solution2], which works by [mechanism].",
+      conclusion: "In conclusion, congestion arises from [causes summary], but cities that adopt [solutions summary] have shown that gridlock is not inevitable."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "交通拥堵在全球城市浪费了数十亿小时。本文将找出其根本原因，包括[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等补救措施。",
+      body1: "第一个主要原因是[原因1]。例如，[例子]。其次，[原因2]使情况恶化，因为[解释]。",
+      body2: "一些措施可以缓解拥堵。最有效的是[解决方案1]，它[效果]。另一个有用的方法是[解决方案2]，它通过[机制]发挥作用。",
+      conclusion: "总之，拥堵源于[原因总结]，但采取[解决方案总结]的城市已经证明，交通瘫痪并非不可避免。"
     },
     fullParagraphs: {
-      introduction: "Traffic congestion is a major problem in many urban areas. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, traffic congestion is a major problem in many urban areas. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Traffic congestion wastes billions of hours in cities worldwide. Drivers in Istanbul and Mexico City lose over 100 hours per year in traffic according to the INRIX Global Traffic Scorecard, time that could be spent working or with family. This essay will identify its root causes, including car-dependent urban design and underpriced road use, and suggest remedies such as congestion charging and investment in public transport.",
+      body1: "The first major cause is urban planning that forces people to drive. For instance, many Chinese and American cities were built or rebuilt around wide arterial roads and single-use zoning, so homes, offices and shops sit far apart and every journey requires a car; as incomes rise, car ownership explodes to fill that design. Secondly, roads are effectively free at the point of use, which encourages overuse. Each driver considers only their own time, ignoring the delay they impose on everyone else — economists call this an unpriced externality, and it explains why new lanes fill up within months, a phenomenon known as induced demand.",
+      body2: "Several measures can alleviate congestion. The most effective is charging drivers for scarce road space: Singapore's Electronic Road Pricing has kept traffic flowing since 1975, and London's congestion charge reduced vehicles entering the centre by around a third. Another useful approach is investing in attractive alternatives — metros, bus rapid transit and protected cycle lanes — which works by giving commuters a genuinely faster option; Bogotá's TransMilenio buses move more passengers per hour than a twelve-lane motorway. Flexible working hours and remote work policies also spread peak demand.",
+      conclusion: "In conclusion, congestion arises from car-dependent design and free road access, but cities that adopt pricing and serious public transport investment have shown that gridlock is not inevitable. The lesson from Singapore, London and Bogotá is that managing demand works better than endlessly building supply."
     },
     fullParagraphsCN: {
-      introduction: "交通拥堵是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，交通拥堵是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "交通拥堵在全球城市浪费了数十亿小时。根据INRIX全球交通记分卡，伊斯坦布尔和墨西哥城的司机每年在拥堵中损失超过100小时，这些时间本可用于工作或陪伴家人。本文将找出其根本原因，包括依赖汽车的城市设计和道路使用定价过低，并提出拥堵收费和公共交通投资等补救措施。",
+      body1: "第一个主要原因是迫使人们开车的城市规划。例如，许多中国和美国城市围绕宽阔的干道和单一用途分区建成或改建，住宅、办公室和商店相距遥远，每次出行都需要汽车；随着收入增长，汽车保有量爆炸式地填满这种设计。其次，道路在使用环节实际上是免费的，这鼓励了过度使用。每个司机只考虑自己的时间，忽视了强加给其他所有人的延误——经济学家称之为未定价的外部性，这也解释了为何新车道几个月内就会再次被填满，即「诱导需求」现象。",
+      body2: "一些措施可以缓解拥堵。最有效的是对稀缺的道路空间收费：新加坡的电子道路收费系统自1975年以来保持了交通畅通，伦敦的拥堵费使进入市中心的车辆减少了约三分之一。另一个有用的方法是投资有吸引力的替代方式——地铁、快速公交和受保护的自行车道——通过为通勤者提供真正更快的选择来发挥作用；波哥大的TransMilenio公交每小时运送的乘客超过一条十二车道高速公路。弹性工作制和远程办公政策也能削平高峰需求。",
+      conclusion: "总之，拥堵源于依赖汽车的设计和免费的道路使用，但采取定价和认真投资公共交通的城市已经证明，交通瘫痪并非不可避免。新加坡、伦敦和波哥大的经验是，管理需求比无休止地扩大供给更有效。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "gridlock",
+      "induced demand",
+      "congestion charge",
+      "road pricing",
+      "bus rapid transit",
+      "single-use zoning",
+      "externality",
+      "car ownership",
+      "peak demand",
+      "cycle lane"
     ]
   },
   {
@@ -3014,37 +3020,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Many young people are experiencing high levels of stress. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Stress among young people has reached alarming levels. This essay will explore the key drivers, namely [cause1] and [cause2], and propose solutions such as [solution1] and [solution2].",
+      body1: "One major cause is [cause1]. For example, [example]. Another significant factor is [cause2], since [explanation].",
+      body2: "Schools and families can address this by [solution1]. This helps because [effect]. In addition, [solution2] would reduce pressure by [mechanism].",
+      conclusion: "In conclusion, youth stress is driven by [causes summary], but through [solutions summary] we can protect the mental health of the next generation."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "年轻人的压力已达到令人担忧的水平。本文将探讨其关键驱动因素，即[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等对策。",
+      body1: "一个主要原因是[原因1]。例如，[例子]。另一个重要因素是[原因2]，因为[解释]。",
+      body2: "学校和家庭可以通过[解决方案1]来应对。这有帮助是因为[效果]。此外，[解决方案2]能通过[机制]减轻压力。",
+      conclusion: "总之，青少年压力由[原因总结]驱动，但通过[解决方案总结]，我们可以保护下一代的心理健康。"
     },
     fullParagraphs: {
-      introduction: "Many young people are experiencing high levels of stress. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, many young people are experiencing high levels of stress. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Stress among young people has reached alarming levels. Surveys by the American Psychological Association consistently show teenagers reporting stress levels higher than adults, and hospital admissions for self-harm among adolescents have risen sharply across developed countries. This essay will explore the key drivers, namely academic competition and social media comparison, and propose solutions such as school counselling reform and limits on digital exposure.",
+      body1: "One major cause is relentless academic competition. For example, in South Korea students commonly study past midnight in private academies called hagwons, and the national suicide rate among teenagers spikes around the university entrance exam; even in less extreme systems, pupils internalise the message that one test determines their entire future. Another significant factor is social media, since platforms like Instagram present a constant stream of edited perfection against which teenagers measure their ordinary lives. Research published in The Lancet links heavy social media use in early adolescence to later depression, especially among girls, and cyberbullying means there is no longer any escape from peer judgement, even at home at midnight.",
+      body2: "Schools and families can address this by embedding mental health support into daily school life. Finland trains teachers to spot distress early and provides free access to school psychologists, which helps because problems are treated before they become crises; mindfulness programmes and reasonable homework limits show similar benefits. In addition, governments should regulate the digital environment — age verification, restrictions on addictive design features and phone-free school hours, as France has implemented for pupils under fifteen — would reduce pressure by cutting exposure to comparison and harassment. Parents modelling healthy device habits matters just as much.",
+      conclusion: "In conclusion, youth stress is driven by academic pressure and the comparison economy of social media, but through school-based mental health care and sensible digital regulation we can protect the mental health of the next generation. Treating stress as a systemic issue rather than individual weakness is the essential first step."
     },
     fullParagraphsCN: {
-      introduction: "许多年轻人正经历着高水平的压力是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，许多年轻人正经历着高水平的压力是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "年轻人的压力已达到令人担忧的水平。美国心理学会的调查一直显示青少年报告的压力水平高于成年人，发达国家青少年自残的住院人数也急剧上升。本文将探讨其关键驱动因素，即学业竞争和社交媒体攀比，并提出学校心理咨询改革和限制数字接触等对策。",
+      body1: "一个主要原因是无休止的学业竞争。例如，韩国学生通常在名为「学院」的补习班学习到午夜以后，全国青少年自杀率在大学入学考试前后激增；即使在竞争不那么极端的体系里，学生也内化了「一次考试决定整个未来」的观念。另一个重要因素是社交媒体，因为Instagram等平台不断推送经过修饰的完美形象，青少年拿自己的平凡生活与之比较。发表在《柳叶刀》上的研究将青春期早期的重度社交媒体使用与后来的抑郁联系起来，女孩尤其如此；而网络欺凌意味着人们再也无法逃离同伴的评判，哪怕在午夜家中。",
+      body2: "学校和家庭可以通过把心理健康支持嵌入日常校园生活来应对。芬兰培训教师及早发现心理困扰，并提供免费的学校心理学家服务，这有帮助是因为问题在演变成危机之前就得到处理；正念课程和合理的作业量上限也显示出类似的益处。此外，政府应当监管数字环境——年龄验证、限制成瘾性设计功能、以及像法国对15岁以下学生实施的无手机校园时段——能通过减少攀比和骚扰接触来减轻压力。父母以身作则养成健康的设备使用习惯同样重要。",
+      conclusion: "总之，青少年压力由学业压力和社交媒体的攀比经济驱动，但通过校本心理健康服务和合理的数字监管，我们可以保护下一代的心理健康。把压力当作系统性问题而非个人软弱，是必不可少的第一个认知。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "academic competition",
+      "social comparison",
+      "mental health",
+      "hagwon",
+      "self-harm",
+      "cyberbullying",
+      "mindfulness",
+      "age verification",
+      "addictive design",
+      "counselling"
     ]
   },
   {
@@ -3053,37 +3062,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Water pollution is a serious environmental problem. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Clean water is becoming scarce in many regions. This essay will analyze the main sources of water pollution, particularly [cause1] and [cause2], and recommend measures including [solution1] and [solution2].",
+      body1: "The most significant cause is [cause1]. For instance, [example]. Furthermore, [cause2] also damages water supplies because [explanation].",
+      body2: "To restore water quality, authorities must [solution1]. This would [effect]. Equally important, [solution2] addresses the problem by [mechanism].",
+      conclusion: "In conclusion, water pollution caused by [causes summary] can be reversed through [solutions summary], provided governments act decisively."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "清洁水源在许多地区正变得稀缺。本文将分析水污染的主要来源，特别是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的措施。",
+      body1: "最重要的原因是[原因1]。例如，[例子]。此外，[原因2]也破坏水资源，因为[解释]。",
+      body2: "要恢复水质，当局必须[解决方案1]。这将[效果]。同样重要的是，[解决方案2]通过[机制]解决问题。",
+      conclusion: "总之，由[原因总结]造成的水污染可以通过[解决方案总结]得到扭转，前提是政府果断行动。"
     },
     fullParagraphs: {
-      introduction: "Water pollution is a serious environmental problem. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, water pollution is a serious environmental problem. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Clean water is becoming scarce in many regions. The United Nations reports that over two billion people live in countries experiencing high water stress, and contaminated water kills more people each year than all forms of violence combined. This essay will analyze the main sources of water pollution, particularly industrial discharge and agricultural runoff, and recommend measures including enforced treatment standards and precision farming.",
+      body1: "The most significant cause is untreated industrial effluent. For instance, Bangladesh's garment district around Dhaka releases dyes and heavy metals directly into rivers that communities downstream use for drinking and irrigation, and parts of the Ganges carry faecal contamination thousands of times above safe limits despite decades of cleanup plans. Furthermore, agriculture damages water supplies because fertilisers and pesticides wash off fields into waterways: nitrate runoff from the American Midwest creates a dead zone in the Gulf of Mexico the size of New Jersey every summer, where fish cannot survive. Plastic waste and ageing sewage systems that overflow during storms compound the contamination.",
+      body2: "To restore water quality, authorities must enforce mandatory treatment standards with real penalties. The European Union's Water Framework Directive, which requires member states to bring rivers to good ecological status, has visibly cleaned formerly dead rivers like the Rhine, proving that regulation works when monitoring is transparent and fines exceed the cost of compliance. Equally important, precision agriculture addresses the problem by cutting chemical use at the source: drip irrigation and sensor-guided fertiliser application, widespread in Israel, deliver nutrients only where crops need them, reducing runoff by a third or more. Constructed wetlands offer a low-cost final filter for rural communities.",
+      conclusion: "In conclusion, water pollution caused by industrial discharge and farm runoff can be reversed through enforced treatment standards and smarter agriculture, provided governments act decisively. The Rhine's recovery shows that even severely degraded rivers can return to life within a generation when polluters pay and farmers are given better tools."
     },
     fullParagraphsCN: {
-      introduction: "水资源污染是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，水资源污染是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "清洁水源在许多地区正变得稀缺。联合国报告，超过二十亿人生活在水资源高度紧张的国家，受污染的水每年造成的死亡超过所有形式的暴力总和。本文将分析水污染的主要来源，特别是工业排放和农业径流，并提出包括强制执行处理标准和精准农业在内的措施。",
+      body1: "最重要的原因是未经处理的工业废水。例如，孟加拉国达卡周边的制衣区把染料和重金属直接排入河流，下游社区却用这些水饮用和灌溉；恒河的某些河段粪便污染超出安全上限数千倍，尽管治理计划已实施数十年。此外，农业也破坏水资源，因为化肥和农药从田地冲入水道：来自美国中西部的硝酸盐径流每年夏天在墨西哥湾制造出一个面积相当于新泽西州的「死亡区」，鱼类无法生存。塑料垃圾和在暴雨中溢流的老旧污水系统进一步加剧了污染。",
+      body2: "要恢复水质，当局必须执行有真正惩罚力的强制处理标准。欧盟《水框架指令》要求成员国将河流恢复至良好生态状态，已让莱茵河这样曾经「死亡」的河流明显变清，证明只要监测透明、罚款超过合规成本，监管就能奏效。同样重要的是，精准农业从源头减少化学品使用：在以色列广泛应用的滴灌和传感器制导施肥只在作物需要的地方输送养分，使径流减少三分之一甚至更多。人工湿地则为农村社区提供了低成本的末端过滤。",
+      conclusion: "总之，由工业排放和农业径流造成的水污染可以通过强制执行处理标准和更聪明的农业得到扭转，前提是政府果断行动。莱茵河的复苏表明，当污染者付出代价、农民获得更好的工具时，即使严重退化的河流也能在一代人的时间里恢复生机。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "effluent",
+      "runoff",
+      "dead zone",
+      "heavy metals",
+      "precision agriculture",
+      "drip irrigation",
+      "sewage system",
+      "water stress",
+      "ecological status",
+      "constructed wetland"
     ]
   },
   {
@@ -3092,37 +3104,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Deforestation is a major environmental issue. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Forests are disappearing at a devastating rate. This essay will examine the principal drivers, namely [cause1] and [cause2], and propose solutions such as [solution1] and [solution2].",
+      body1: "The primary driver of deforestation is [cause1]. For example, [example]. A further cause is [cause2], which [explanation].",
+      body2: "Combating deforestation requires [solution1]. This works because [effect]. Additionally, [solution2] helps by [mechanism].",
+      conclusion: "In conclusion, although forests fall to [causes summary], a strategy combining [solutions summary] can halt and eventually reverse the destruction."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "森林正以毁灭性的速度消失。本文将审视其主要驱动因素，即[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等对策。",
+      body1: "森林砍伐的主要驱动因素是[原因1]。例如，[例子]。另一个原因是[原因2]，它[解释]。",
+      body2: "打击森林砍伐需要[解决方案1]。这有效是因为[效果]。此外，[解决方案2]通过[机制]发挥作用。",
+      conclusion: "总之，尽管森林毁于[原因总结]，但结合[解决方案总结]的战略可以阻止并最终扭转破坏。"
     },
     fullParagraphs: {
-      introduction: "Deforestation is a major environmental issue. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, deforestation is a major environmental issue. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Forests are disappearing at a devastating rate. The planet loses around ten million hectares of forest every year — an area the size of South Korea — and the Amazon has already surrendered roughly a fifth of its original cover, pushing it towards a tipping point beyond which it could dry into savannah. This essay will examine the principal drivers, namely commercial agriculture and weak land governance, and propose solutions such as supply-chain pressure and legally enforced protection.",
+      body1: "The primary driver of deforestation is the expansion of commercial agriculture. For example, cattle ranching and soy farming account for the great majority of Amazon clearing, while in Indonesia ancient peat forests are burned to make way for palm oil plantations, releasing both carbon and the haze that chokes Southeast Asia most years. A further cause is weak land governance, which allows illegal loggers and land grabbers to operate with impunity: in frontier regions roads are cut deep into intact forest, titles are forged, and enforcement agencies are underfunded or corrupt. Poverty plays a role too, since small farmers clear plots to survive when no alternative livelihood exists.",
+      body2: "Combating deforestation requires pressure through global supply chains. When the major soy traders signed the Amazon Soy Moratorium in 2006, refusing to buy from newly cleared land, deforestation linked to soy collapsed within two years — this works because it removes the profit from destruction, and similar zero-deforestation commitments now cover much of the beef and palm oil trade. Additionally, legally enforced protection helps by making standing forest more valuable than cleared land: Brazil cut Amazon deforestation by over 80 percent between 2004 and 2012 through satellite monitoring, fines and protected indigenous territories, while payment-for-ecosystem programmes in Costa Rica reversed deforestation entirely.",
+      conclusion: "In conclusion, although forests fall to agricultural expansion and lawlessness, a strategy combining supply-chain pressure with enforced protection can halt and eventually reverse the destruction. Brazil's earlier success proves the tools exist; what is required is the political will to apply them consistently."
     },
     fullParagraphsCN: {
-      introduction: "森林砍伐是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，森林砍伐是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "森林正以毁灭性的速度消失。地球每年失去约一千万公顷森林——相当于韩国的国土面积——而亚马逊已经失去了约五分之一的原始覆盖，正逼近一个临界点，越过之后雨林可能退化为草原。本文将审视其主要驱动因素，即商业农业和土地治理薄弱，并提出供应链压力和依法保护等对策。",
+      body1: "森林砍伐的主要驱动因素是商业农业的扩张。例如，养牛业和大豆种植占亚马逊砍伐的绝大部分；在印度尼西亚，古老的泥炭林被烧毁以为棕榈油种植园让路，既释放碳排放，又制造出几乎每年都笼罩东南亚的烟霾。另一个原因是土地治理薄弱，让非法伐木者和土地掠夺者逍遥法外：在边境地区，道路被开辟进原始森林深处，地契被伪造，执法机构资金不足或腐败。贫困也起了作用，因为当没有其他生计时，小农户只能靠开荒求生。",
+      body2: "打击森林砍伐需要通过全球供应链施压。2006年主要大豆贸易商签署《亚马逊大豆停购协议》，拒绝购买新开垦土地上的大豆后，与大豆相关的毁林在两年内崩溃——这有效是因为它消除了破坏的利润；类似的零毁林承诺现已覆盖大部分牛肉和棕榈油贸易。此外，依法保护通过让留存的森林比被开垦的土地更有价值来发挥作用：2004至2012年间，巴西通过卫星监测、罚款和受保护的原住民领地将亚马逊砍伐率降低了80%以上，而哥斯达黎加的生态系统服务付费项目则彻底扭转了森林砍伐。",
+      conclusion: "总之，尽管森林毁于农业扩张和法治缺失，但结合供应链压力与依法保护的战略可以阻止并最终扭转破坏。巴西此前的成功证明工具已经存在，需要的是持之以恒运用它们的政治意愿。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "deforestation",
+      "palm oil",
+      "cattle ranching",
+      "supply chain",
+      "moratorium",
+      "tipping point",
+      "land governance",
+      "indigenous territory",
+      "satellite monitoring",
+      "savannah"
     ]
   },
   {
@@ -3131,37 +3146,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Unemployment is a major economic problem in many countries. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Unemployment damages both individuals and societies. This essay will discuss its main causes, including [cause1] and [cause2], and suggest remedies such as [solution1] and [solution2].",
+      body1: "A fundamental cause of unemployment is [cause1]. For example, [example]. Another contributor is [cause2], since [explanation].",
+      body2: "Governments can reduce unemployment by [solution1]. This would [effect]. Furthermore, [solution2] addresses joblessness through [mechanism].",
+      conclusion: "In conclusion, while unemployment stems from [causes summary], targeted policies such as [solutions summary] can bring joblessness down to manageable levels."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "失业损害个人和社会。本文将讨论其主要原因，包括[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等补救措施。",
+      body1: "失业的一个根本原因是[原因1]。例如，[例子]。另一个促成因素是[原因2]，因为[解释]。",
+      body2: "政府可以通过[解决方案1]降低失业率。这将[效果]。此外，[解决方案2]通过[机制]解决失业问题。",
+      conclusion: "总之，尽管失业源于[原因总结]，但[解决方案总结]等针对性政策可以把失业率降到可控水平。"
     },
     fullParagraphs: {
-      introduction: "Unemployment is a major economic problem in many countries. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, unemployment is a major economic problem in many countries. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Unemployment damages both individuals and societies. Beyond lost income, joblessness is strongly linked to depression, family breakdown and even shortened life expectancy, while regions with chronic unemployment often fall into lasting decline. This essay will discuss its main causes, including automation and economic restructuring, and suggest remedies such as active retraining and stimulus through public investment.",
+      body1: "A fundamental cause of unemployment is technological displacement. For example, automated checkouts, robotic warehouses and now AI-powered software have eliminated millions of routine jobs that once employed people with basic qualifications; the American trucking industry alone employs three million drivers whose work faces eventual automation. Another contributor is economic restructuring, since globalisation has moved manufacturing from high-wage to low-wage countries — when a single factory closes in a small town, the shops and services around it collapse too, creating concentrated pockets of long-term joblessness like those in northern England or the American Midwest. Recessions then push cyclical unemployment on top of these structural wounds.",
+      body2: "Governments can reduce unemployment by investing in active labour market programmes rather than passive benefits. Denmark's flexicurity model combines easy hiring and firing with generous support and compulsory, high-quality retraining, keeping unemployment low because workers move quickly between jobs instead of being trapped in dying industries; Singapore's SkillsFuture credits similarly fund mid-career retraining for every adult. Furthermore, public investment addresses joblessness directly: infrastructure projects, green energy retrofits and care-sector expansion create jobs that cannot be offshored, and Germany's short-time work scheme, which subsidises reduced hours instead of layoffs during downturns, preserved millions of jobs through the 2008 and 2020 crises.",
+      conclusion: "In conclusion, while unemployment stems from automation and economic restructuring, targeted policies such as active retraining and strategic public investment can bring joblessness down to manageable levels. The countries that succeed treat unemployed workers as assets to be redeployed rather than costs to be minimised."
     },
     fullParagraphsCN: {
-      introduction: "失业问题是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，失业问题是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "失业损害个人和社会。除了收入损失，失业与抑郁、家庭破裂甚至预期寿命缩短密切相关，而长期失业的地区往往陷入持久衰退。本文将讨论其主要原因，包括自动化和经济结构调整，并提出积极再培训和公共投资刺激等补救措施。",
+      body1: "失业的一个根本原因是技术性替代。例如，自动收银、机器人仓库以及如今的AI软件已经消灭了数以百万计曾经雇用低技能劳动者的常规岗位；仅美国卡车运输业就雇有三百万司机，其工作最终面临自动化。另一个促成因素是经济结构调整，因为全球化把制造业从高工资国家转移到低工资国家——当小镇上唯一一家工厂关闭时，周边的商店和服务也随之崩溃，形成集中的长期失业区，英格兰北部和美国中西部铁锈带就是如此。经济衰退又会在这些结构性伤口上叠加周期性失业。",
+      body2: "政府可以通过投资积极的劳动力市场项目而非消极的救济来降低失业率。丹麦的「灵活保障」模式把宽松的雇用解雇制度与慷慨的支持和强制的高质量再培训结合起来，使失业率保持低位，因为工人在岗位之间快速流动，而不是被困在衰亡的行业；新加坡的「技能创前程」补贴同样为每位成年人的职业中期再培训提供资金。此外，公共投资直接创造就业：基础设施项目、绿色能源改造和护理行业扩张创造的岗位无法外包；德国的短时工作制在经济下行期补贴缩减工时而非裁员，在2008年和2020年危机中保住了数百万个岗位。",
+      conclusion: "总之，尽管失业源于自动化和经济结构调整，但积极再培训和战略性公共投资等针对性政策可以把失业率降到可控水平。成功的国家把失业工人视为需要重新部署的资产，而非需要削减的成本。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "technological displacement",
+      "retraining",
+      "flexicurity",
+      "labour market",
+      "offshore",
+      "structural unemployment",
+      "public investment",
+      "short-time work",
+      "routine jobs",
+      "economic restructuring"
     ]
   },
   {
@@ -3170,37 +3188,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Poverty is a persistent problem in many parts of the world. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Despite global prosperity, poverty remains widespread. This essay will investigate its root causes, particularly [cause1] and [cause2], and propose solutions including [solution1] and [solution2].",
+      body1: "The deepest cause of poverty is [cause1]. For example, [example]. Poverty is also perpetuated by [cause2], because [explanation].",
+      body2: "Effective solutions include [solution1]. Evidence shows [effect]. Another powerful measure is [solution2], which works by [mechanism].",
+      conclusion: "In conclusion, poverty persists because of [causes summary], but experience proves that [solutions summary] can break the cycle."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "尽管全球繁荣，贫困仍然普遍存在。本文将探究其根本原因，特别是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的对策。",
+      body1: "贫困最深的原因是[原因1]。例如，[例子]。贫困还因[原因2]而延续，因为[解释]。",
+      body2: "有效的解决方案包括[解决方案1]。证据显示[效果]。另一个有力措施是[解决方案2]，它通过[机制]发挥作用。",
+      conclusion: "总之，贫困因[原因总结]而持续存在，但经验证明[解决方案总结]可以打破这一循环。"
     },
     fullParagraphs: {
-      introduction: "Poverty is a persistent problem in many parts of the world. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, poverty is a persistent problem in many parts of the world. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Despite global prosperity, poverty remains widespread. Nearly 700 million people still live in extreme poverty on less than two dollars a day, and billions more lack secure access to food, healthcare and education. This essay will investigate its root causes, particularly the poverty trap of missing capital and opportunity, and weak institutions, and propose solutions including direct cash support and investment in education and health.",
+      body1: "The deepest cause of poverty is the poverty trap itself: without savings, credit or land, the poor cannot invest in the very things that would raise their income. For example, a farmer who cannot afford fertiliser harvests too little to save, and a family that keeps children out of school to work sacrifices their future earnings — poverty reproduces itself. Poverty is also perpetuated by weak institutions, because corrupt officials, insecure property rights and conflict destroy the foundations of economic life: South Sudan and the Democratic Republic of Congo hold enormous natural wealth, yet decades of misrule and war have left their populations among the poorest on earth, while aid arriving in such systems is often diverted before reaching the poor.",
+      body2: "Effective solutions include direct cash transfers. Evidence from Brazil's Bolsa Família and Mexico's Progresa shows that giving poor families small regular payments, conditional on school attendance and vaccinations, cuts poverty while improving children's nutrition and education at remarkably low cost; randomised trials of unconditional transfers in Kenya found similar gains with no reduction in work effort. Another powerful measure is investing in basic health and education, which works by raising the productivity of the next generation: deworming programmes in East Africa, costing pennies per child, increased adult earnings substantially, and China's mass literacy and rural health campaigns laid the groundwork for the fastest poverty reduction in history.",
+      conclusion: "In conclusion, poverty persists because of self-reinforcing scarcity and institutional failure, but experience proves that cash transfers and human-capital investment can break the cycle. The task is not discovering what works — it is delivering it honestly, at scale."
     },
     fullParagraphsCN: {
-      introduction: "贫困问题是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，贫困问题是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "尽管全球繁荣，贫困仍然普遍存在。近七亿人仍生活在每天不足两美元的极端贫困中，还有数十亿人无法稳定获得食物、医疗和教育。本文将探究其根本原因，特别是资本与机会缺失造成的贫困陷阱以及制度薄弱，并提出直接现金支持和投资教育健康等对策。",
+      body1: "贫困最深的原因是贫困陷阱本身：没有储蓄、信贷或土地，穷人无法投资那些恰恰能提高收入的东西。例如，买不起化肥的农民收成太少而无法储蓄，让孩子辍学打工的家庭牺牲了孩子未来的收入——贫困自我复制。贫困还因制度薄弱而延续，因为腐败官员、不安全的产权和冲突摧毁了经济生活的基础：南苏丹和刚果民主共和国拥有巨大的自然财富，但数十年的治理不善和战争使其人口成为地球上最贫困的群体之一；进入这类体系的援助往往在到达穷人手中之前就被截留。",
+      body2: "有效的解决方案包括直接现金转移支付。巴西「家庭补助金」和墨西哥「进步计划」的证据表明，以入学和接种疫苗为条件向贫困家庭提供小额定期付款，能以极低成本削减贫困，同时改善儿童的营养和教育；在肯尼亚对无条件转移支付的随机试验也发现了类似的收益，且工作意愿并未下降。另一个有力措施是投资基础医疗和教育，其作用机制是提高下一代的生产力：东非的驱虫项目每个儿童仅花费几美分，却显著提高了成年后的收入；中国的扫盲运动和农村医疗运动为人类历史上最快的减贫奠定了基础。",
+      conclusion: "总之，贫困因自我强化的稀缺和制度失灵而持续存在，但经验证明现金转移支付和人力资本投资可以打破这一循环。任务不在于发现什么有效——而在于诚实、大规模地将其落实。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "poverty trap",
+      "cash transfer",
+      "extreme poverty",
+      "property rights",
+      "human capital",
+      "conditional transfer",
+      "deworming",
+      "institutional failure",
+      "randomised trial",
+      "livelihood"
     ]
   },
   {
@@ -3209,37 +3230,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Waste management is a growing problem in modern society. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Modern societies produce more waste than they can handle. This essay will identify the causes, above all [cause1] and [cause2], and recommend solutions such as [solution1] and [solution2].",
+      body1: "Waste is growing mainly because of [cause1]. For example, [example]. The problem is compounded by [cause2], as [explanation].",
+      body2: "To manage waste sustainably, governments should [solution1]. This leads to [effect]. Another essential step is [solution2], which [mechanism].",
+      conclusion: "In conclusion, the waste crisis driven by [causes summary] can be overcome through [solutions summary], turning a linear economy into a circular one."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "现代社会产生的垃圾已超过其处理能力。本文将找出其原因，最重要的是[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等对策。",
+      body1: "垃圾增长主要因为[原因1]。例如，[例子]。问题还因[原因2]而加剧，因为[解释]。",
+      body2: "要可持续地管理垃圾，政府应当[解决方案1]。这带来[效果]。另一个必要步骤是[解决方案2]，它[机制]。",
+      conclusion: "总之，由[原因总结]驱动的垃圾危机可以通过[解决方案总结]克服，把线性经济转变为循环经济。"
     },
     fullParagraphs: {
-      introduction: "Waste management is a growing problem in modern society. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, waste management is a growing problem in modern society. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Modern societies produce more waste than they can handle. The World Bank projects that global municipal waste will grow from two billion tonnes today to 3.4 billion by 2050, and an estimated eight million tonnes of plastic enter the oceans every year. This essay will identify the causes, above all disposable consumer culture and the low cost of dumping, and recommend solutions such as producer responsibility laws and investment in recycling infrastructure.",
+      body1: "Waste is growing mainly because of a throwaway economy built on cheap materials. For example, fast fashion retailers like Shein release thousands of new low-priced items daily, and the average garment is now worn only a handful of times before disposal; packaging tells the same story, with roughly 40 percent of all plastic used once and discarded. The problem is compounded by the fact that dumping is artificially cheap, as landfill fees and plastic prices exclude environmental costs, so manufacturers have no financial reason to design for durability or recyclability. Developing countries suffer doubly, receiving waste exported from wealthy nations that they lack facilities to process safely.",
+      body2: "To manage waste sustainably, governments should make producers responsible for the entire life of their products. Extended Producer Responsibility laws in Germany and South Korea, which oblige manufacturers to fund collection and recycling, have pushed recycling rates above 50 percent — Germany now recycles around two-thirds of its municipal waste, the highest rate in the world. Another essential step is investing in proper infrastructure, which means safe sanitary landfills, separate collection of organic waste for composting, and deposit-return schemes that achieve over 90 percent bottle recovery in countries like Norway. Landfill taxes and plastic bag charges, as introduced across the UK, reinforce the shift by making wasteful behaviour expensive.",
+      conclusion: "In conclusion, the waste crisis driven by disposable culture and underpriced dumping can be overcome through producer responsibility and serious recycling infrastructure, turning a linear economy into a circular one. The countries that lead on this issue show that high living standards need not mean high waste."
     },
     fullParagraphsCN: {
-      introduction: "垃圾处理是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，垃圾处理是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "现代社会产生的垃圾已超过其处理能力。世界银行预测，全球城市垃圾将从今天的二十亿吨增长到2050年的三十四亿吨，每年估计有八百万吨塑料进入海洋。本文将找出其原因，最重要的是一次性消费文化和倾倒成本过低，并提出生产者责任法和回收基础设施投资等对策。",
+      body1: "垃圾增长主要因为建立在廉价材料之上的一次性经济。例如，Shein等快时尚零售商每天发布数千款低价新品，一件衣服的平均穿着次数如今只有寥寥几次就被丢弃；包装也讲述着同样的故事——约40%的塑料只使用一次就被扔掉。问题还因倾倒被人为压低成本而加剧，因为填埋费和塑料价格不包含环境成本，制造商没有经济动机为耐用性或可回收性而设计。发展中国家承受双重痛苦，接收从富裕国家出口而来、自己却没有设施安全处理的垃圾。",
+      body2: "要可持续地管理垃圾，政府应当让生产者对产品的整个生命周期负责。德国和韩国的《生产者责任延伸法》要求制造商出资回收，已将回收率推高至50%以上——德国目前的城市垃圾回收率约三分之二，居世界首位。另一个必要步骤是投资恰当的基础设施，即安全的卫生填埋场、有机垃圾分类堆肥，以及押金返还制度——挪威等国通过押金制实现了超过90%的瓶子回收率。英国推行的填埋税和塑料袋收费则通过让浪费行为变得昂贵来巩固这一转变。",
+      conclusion: "总之，由一次性文化和低成本倾倒驱动的垃圾危机可以通过生产者责任和认真的回收基础设施建设来克服，把线性经济转变为循环经济。在这一领域领先的国家证明，高生活水平并不意味着高垃圾量。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "throwaway economy",
+      "extended producer responsibility",
+      "landfill",
+      "recycling rate",
+      "deposit-return scheme",
+      "circular economy",
+      "fast fashion",
+      "composting",
+      "municipal waste",
+      "plastic pollution"
     ]
   },
   {
@@ -3248,37 +3272,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Cybercrime is becoming increasingly common. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Cybercrime now costs the global economy trillions of dollars. This essay will analyze why it is growing, focusing on [cause1] and [cause2], and propose countermeasures including [solution1] and [solution2].",
+      body1: "Cybercrime is expanding primarily because of [cause1]. For example, [example]. A second driver is [cause2], since [explanation].",
+      body2: "To fight cybercrime, authorities should [solution1]. This would [effect]. At the same time, [solution2] reduces vulnerability by [mechanism].",
+      conclusion: "In conclusion, cybercrime flourishes because of [causes summary], but a combination of [solutions summary] can make the digital world substantially safer."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "网络犯罪如今每年给全球经济造成数万亿美元的损失。本文将分析其增长原因，聚焦[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的对策。",
+      body1: "网络犯罪扩张主要因为[原因1]。例如，[例子]。第二个驱动因素是[原因2]，因为[解释]。",
+      body2: "要打击网络犯罪，当局应当[解决方案1]。这将[效果]。同时，[解决方案2]通过[机制]降低脆弱性。",
+      conclusion: "总之，网络犯罪因[原因总结]而猖獗，但[解决方案总结]的组合可以让数字世界变得安全得多。"
     },
     fullParagraphs: {
-      introduction: "Cybercrime is becoming increasingly common. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, cybercrime is becoming increasingly common. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Cybercrime now costs the global economy trillions of dollars. Estimates from cybersecurity firms put annual losses above eight trillion dollars — more than the GDP of every country except the United States and China — spanning ransomware, fraud and data theft. This essay will analyze why it is growing, focusing on the profitability of low-risk online attacks and the weakness of digital defences, and propose countermeasures including international legal cooperation and better security hygiene.",
+      body1: "Cybercrime is expanding primarily because it offers enormous rewards at minimal risk. For example, the 2021 ransomware attack on the Colonial Pipeline shut down fuel supplies to the American East Coast and earned the criminals millions in a single operation, yet attacks launched from jurisdictions without extradition agreements rarely lead to arrest; industrial-scale scam compounds in Southeast Asia run romance and investment fraud with near-total impunity. A second driver is poor security practice, since victims make attacks easy: the 2017 WannaCry worm infected hundreds of thousands of computers worldwide, including parts of Britain's National Health Service, by exploiting a vulnerability for which a patch had been available for months. Weak passwords, unpatched software and untrained staff remain the norm.",
+      body2: "To fight cybercrime, authorities should strengthen international cooperation so that no jurisdiction offers safe harbour. The Budapest Convention on Cybercrime already enables cross-border evidence sharing among dozens of countries, and joint operations by Europol and the FBI have dismantled major ransomware networks and dark-web markets — this works because it raises the risk that makes crime profitable. At the same time, mandatory security standards reduce vulnerability at the source: requiring multi-factor authentication, timely patching and staff training, as regulations like the EU's NIS2 directive now demand of essential services, has been shown to block the great majority of opportunistic attacks.",
+      conclusion: "In conclusion, cybercrime flourishes because of high rewards, low risks and weak defences, but a combination of international enforcement and compulsory security hygiene can make the digital world substantially safer. Since attackers exploit the weakest link, defence must be universal rather than optional."
     },
     fullParagraphsCN: {
-      introduction: "网络犯罪是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，网络犯罪是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "网络犯罪如今每年给全球经济造成数万亿美元的损失。网络安全公司的估计显示，年度损失超过八万亿美元——超过除美国和中国以外每个国家的GDP——涵盖勒索软件、诈骗和数据盗窃。本文将分析其增长原因，聚焦低风险网络攻击的高收益和数字防御的薄弱，并提出国际法律合作和更好的安全习惯等对策。",
+      body1: "网络犯罪扩张主要因为它以极小风险提供巨额回报。例如，2021年针对科洛尼尔管道公司的勒索软件攻击切断了美国东海岸的燃料供应，一次行动就为犯罪分子赚取数百万美元，然而从没有引渡协议的司法辖区发起的攻击很少导致逮捕；东南亚的工业化诈骗园区以几乎完全不受惩罚的方式运营着「杀猪盘」和投资诈骗。第二个驱动因素是糟糕的安全实践，因为受害者让攻击变得容易：2017年的WannaCry蠕虫利用一个补丁已发布数月的漏洞，感染了全球数十万台电脑，包括英国国民医疗服务体系的部分机构。弱密码、未打补丁的软件和未经培训的员工仍是常态。",
+      body2: "要打击网络犯罪，当局应当加强国际合作，使任何司法辖区都无法提供避风港。《布达佩斯网络犯罪公约》已使数十个国家能够跨境共享证据，欧洲刑警组织与FBI的联合行动已捣毁多个主要勒索软件网络和暗网市场——这有效是因为它提高了犯罪的风险，从而侵蚀其利润。同时，强制性安全标准从源头降低脆弱性：要求多因素认证、及时打补丁和员工培训——正如欧盟NIS2指令如今对关键服务机构的要求——已被证明能阻挡绝大多数机会主义攻击。",
+      conclusion: "总之，网络犯罪因高回报、低风险和防御薄弱而猖獗，但国际执法与强制安全规范的组合可以让数字世界变得安全得多。由于攻击者专挑最薄弱的环节，防御必须普及而非可有可无。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "ransomware",
+      "phishing",
+      "extradition",
+      "data breach",
+      "multi-factor authentication",
+      "dark web",
+      "patch",
+      "security hygiene",
+      "impunity",
+      "safe harbour"
     ]
   },
   {
@@ -3287,37 +3314,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Educational inequality is a major social issue. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Educational inequality limits social mobility and wastes talent. This essay will examine its causes, especially [cause1] and [cause2], and suggest remedies such as [solution1] and [solution2].",
+      body1: "The principal cause of educational inequality is [cause1]. For instance, [example]. It is reinforced by [cause2], because [explanation].",
+      body2: "To narrow the gap, governments should [solution1]. This helps because [effect]. A further measure is [solution2], which [mechanism].",
+      conclusion: "In conclusion, educational inequality rooted in [causes summary] can be reduced through [solutions summary], giving every child a fair start."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "教育不平等限制社会流动性并浪费人才。本文将审视其原因，尤其是[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等补救措施。",
+      body1: "教育不平等的主要原因是[原因1]。例如，[例子]。它还被[原因2]强化，因为[解释]。",
+      body2: "要缩小差距，政府应当[解决方案1]。这有帮助是因为[效果]。进一步的措施是[解决方案2]，它[机制]。",
+      conclusion: "总之，根植于[原因总结]的教育不平等可以通过[解决方案总结]来缩小，让每个孩子都有公平的起点。"
     },
     fullParagraphs: {
-      introduction: "Educational inequality is a major social issue. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, educational inequality is a major social issue. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Educational inequality limits social mobility and wastes talent. In many countries, a child's postal code predicts their exam results more accurately than their ability, and children from rich families are several times more likely to complete university than equally bright poor children. This essay will examine its causes, especially funding tied to local wealth and unequal early childhood development, and suggest remedies such as weighted school funding and universal early education.",
+      body1: "The principal cause of educational inequality is that school quality follows property wealth. For instance, in the United States schools are largely funded by local property taxes, so a wealthy suburb can spend twice as much per pupil as a poor district a few miles away, buying smaller classes, experienced teachers and advanced courses; China shows a mirror image, where elite urban schools concentrate resources while rural schools struggle to retain qualified staff. Inequality is reinforced before school even begins, because disadvantaged children hear fewer words, read fewer books and attend less preschool: studies in several countries find gaps in vocabulary and school readiness already measurable by age three, and children who start behind rarely catch up.",
+      body2: "To narrow the gap, governments should fund schools progressively, sending more money to schools with more need. England's pupil premium, which pays schools extra for each disadvantaged student, and per-pupil funding formulas used in the Netherlands show this helps because resources finally match need rather than neighbourhood wealth. A further measure is universal, high-quality early childhood education, which equalises the starting line: France's free écoles maternelles and programmes like Head Start in the United States demonstrably raise the achievement of poor children, with benefits persisting into higher graduation rates and adult earnings. Targeted tutoring and school meals, as Finland combines with its famously equal outcomes, reinforce the effect.",
+      conclusion: "In conclusion, educational inequality rooted in wealth-based funding and unequal early childhoods can be reduced through progressive funding and universal preschool, giving every child a fair start. Societies that invest early spend less later on welfare, prisons and lost potential."
     },
     fullParagraphsCN: {
-      introduction: "教育不平等是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，教育不平等是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "教育不平等限制社会流动性并浪费人才。在许多国家，一个孩子的邮编比他的能力更能预测考试成绩，富裕家庭的孩子完成大学学业的可能性是同等聪明的贫困孩子的数倍。本文将审视其原因，尤其是与地方财富挂钩的教育经费和不平等的早期儿童发展，并提出加权教育拨款和普及早期教育等补救措施。",
+      body1: "教育不平等的主要原因是学校质量随房产财富而定。例如，美国学校主要由地方房产税资助，因此富裕郊区每名学生的经费可能是几英里外贫困学区的两倍，可以购买更小的班额、经验丰富的教师和高级课程；中国则呈现镜像——优质城市学校集中资源，而农村学校难以留住合格教师。不平等在入学前就已被强化，因为弱势儿童听到的词汇更少、读的书更少、上的学前教育更少：多个国家的研究发现，词汇量和入学准备度的差距在三岁时就已可测量，起步落后的孩子很少能赶上。",
+      body2: "要缩小差距，政府应当实行累进式拨款，向需求更大的学校投入更多资金。英格兰的「学生补贴」为每名弱势学生向学校支付额外经费，荷兰的生均拨款公式也表明这有帮助，因为资源终于与需求而非社区财富相匹配。进一步的措施是普及高质量的学前教育，让起跑线平等：法国的免费公立幼儿园和美国的「开端计划」明显提高了贫困儿童的学业成就，其益处延续到更高的毕业率和成年收入。芬兰把针对性辅导和校餐结合起来，实现了著名的平等结果，进一步强化了这种效果。",
+      conclusion: "总之，根植于财富拨款和不平等童年的教育不平等，可以通过累进拨款和普及学前教育来缩小，让每个孩子都有公平的起点。在早期投资的社会，日后在福利、监狱和浪费的潜能上的支出会更少。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "social mobility",
+      "funding gap",
+      "early childhood education",
+      "pupil premium",
+      "school readiness",
+      "disadvantaged students",
+      "progressive funding",
+      "achievement gap",
+      "tutoring",
+      "equal opportunity"
     ]
   },
   {
@@ -3326,37 +3356,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "High healthcare costs are a problem in many countries. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Healthcare costs are rising faster than incomes in most nations. This essay will examine the main drivers, particularly [cause1] and [cause2], and propose solutions including [solution1] and [solution2].",
+      body1: "Costs are driven upward first by [cause1]. For example, [example]. A second driver is [cause2], because [explanation].",
+      body2: "To contain costs, governments can [solution1]. This works by [mechanism]. Another effective strategy is [solution2], which [effect].",
+      conclusion: "In conclusion, healthcare inflation caused by [causes summary] can be controlled through [solutions summary], keeping care affordable for all."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "多数国家的医疗成本上涨速度超过收入增长。本文将审视其主要驱动因素，特别是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的对策。",
+      body1: "成本首先被[原因1]推高。例如，[例子]。第二个驱动因素是[原因2]，因为[解释]。",
+      body2: "要控制成本，政府可以[解决方案1]。其机制是[机制]。另一个有效策略是[解决方案2]，它[效果]。",
+      conclusion: "总之，由[原因总结]导致的医疗成本上涨可以通过[解决方案总结]得到控制，让所有人负担得起医疗。"
     },
     fullParagraphs: {
-      introduction: "High healthcare costs are a problem in many countries. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, high healthcare costs are a problem in many countries. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Healthcare costs are rising faster than incomes in most nations. The United States spends nearly a fifth of its GDP on healthcare — roughly twice the average of other rich countries — yet still leaves millions uninsured, while even universal systems face ballooning budgets as populations age. This essay will examine the main drivers, particularly chronic lifestyle diseases and the pricing power of drug and insurance companies, and propose solutions including prevention-focused care and collective price negotiation.",
+      body1: "Costs are driven upward first by the shift toward expensive chronic diseases. For example, diabetes, heart disease and cancer — largely linked to obesity, smoking and sedentary lifestyles — now consume the majority of health budgets, and treating one diabetic American costs around 17,000 dollars a year for life. A second driver is the market power of suppliers, because fragmented buyers face concentrated sellers: pharmaceutical companies charge whatever patent protection allows, illustrated by insulin prices in the US tripling over two decades for a century-old drug, and hospital mergers let dominant hospital groups raise prices without improving care. Administrative waste in multi-insurer systems adds hundreds of billions more.",
+      body2: "To contain costs, governments can shift the system from treating sickness to preventing it. This works by attacking demand at the source: Mexico's sugar tax cut purchases of sugary drinks, and Britain's screening and smoking-cessation programmes catch disease early when treatment is cheapest, since every dollar spent on prevention saves several in treatment. Another effective strategy is collective price negotiation, which uses the state's purchasing power as a counterweight: Australia and New Zealand negotiate drug prices nationally and pay a fraction of American prices for identical medicines, while reference pricing in Germany caps what insurers will pay for equivalent treatments.",
+      conclusion: "In conclusion, healthcare inflation caused by chronic disease and supplier pricing power can be controlled through prevention and collective negotiation, keeping care affordable for all. Countries that treat health as a public good to be managed, rather than a market to be left alone, consistently achieve better outcomes for less money."
     },
     fullParagraphsCN: {
-      introduction: "医疗成本高昂是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，医疗成本高昂是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "多数国家的医疗成本上涨速度超过收入增长。美国将近五分之一的GDP用于医疗——约为其他富裕国家平均水平的两倍——却仍让数百万人没有医保，而随着人口老龄化，即便是全民医保体系也面临不断膨胀的预算。本文将审视其主要驱动因素，特别是慢性生活方式疾病和药企与保险公司的定价权，并提出以预防为主的医疗和集体价格谈判等对策。",
+      body1: "成本首先被向昂贵的慢性病转移的趋势推高。例如，糖尿病、心脏病和癌症——很大程度上与肥胖、吸烟和久坐生活方式相关——如今消耗了医疗预算的大头；治疗一名美国糖尿病患者每年花费约1.7万美元，且是终身支出。第二个驱动因素是供给方的市场力量，因为分散的买家面对的是集中的卖家：制药公司在专利保护允许的范围内随意定价，美国胰岛素价格在二十年间涨了两倍就是一个例证，而这种药已有百年历史；医院合并则让占主导地位的医院集团得以在不改善服务的情况下提价。多保险公司体系中的行政浪费又增加了数千亿美元。",
+      body2: "要控制成本，政府可以把医疗体系从治病转向防病。其机制是从源头削减需求：墨西哥的糖税减少了含糖饮料的购买，英国的筛查和戒烟项目在疾病最便宜治疗的早期就将其发现，因为在预防上花的每一美元能省下数美元的治疗费。另一个有效策略是集体价格谈判，用国家的购买力作为制衡：澳大利亚和新西兰全国统谈药价，为完全相同的药品支付的价格仅为美国的零头；德国的参考定价则为同等疗效药物设定了医保支付上限。",
+      conclusion: "总之，由慢性病和供给方定价权导致的医疗成本上涨，可以通过预防和集体谈判得到控制，让所有人负担得起医疗。把健康当作需要管理的公共产品而非放任的市场，这样的国家始终以更少的钱取得更好的结果。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "chronic disease",
+      "price negotiation",
+      "prevention",
+      "uninsured",
+      "pharmaceutical patent",
+      "administrative waste",
+      "screening",
+      "smoking cessation",
+      "universal coverage",
+      "lifestyle disease"
     ]
   },
   {
@@ -3365,37 +3398,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "An aging population is a challenge for many societies. What are the causes and what can be done to address this issue?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Societies are growing older at an unprecedented pace. This essay will examine why, focusing on [cause1] and [cause2], and propose responses such as [solution1] and [solution2].",
+      body1: "Population aging is caused first by [cause1]. For example, [example]. It is accelerated by [cause2], since [explanation].",
+      body2: "Governments can respond by [solution1]. This helps because [effect]. A complementary approach is [solution2], which [mechanism].",
+      conclusion: "In conclusion, aging driven by [causes summary] is irreversible, but through [solutions summary] societies can adapt successfully."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "社会正以前所未有的速度老龄化。本文将审视其原因，聚焦[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等应对。",
+      body1: "人口老龄化首先由[原因1]造成。例如，[例子]。它还被[原因2]加速，因为[解释]。",
+      body2: "政府可以通过[解决方案1]应对。这有帮助是因为[效果]。一个互补的方法是[解决方案2]，它[机制]。",
+      conclusion: "总之，由[原因总结]驱动的老龄化不可逆转，但通过[解决方案总结]，社会可以成功适应。"
     },
     fullParagraphs: {
-      introduction: "An aging population is a challenge for many societies. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, an aging population is a challenge for many societies. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Societies are growing older at an unprecedented pace. Japan already has nearly twice as many people over 65 as under 15, and by 2050 one in six people worldwide will be over 65, straining pension systems, health services and labour markets. This essay will examine why, focusing on falling birth rates and rising life expectancy, and propose responses such as raising retirement ages and welcoming working-age immigration alongside higher fertility support.",
+      body1: "Population aging is caused first by collapsing fertility. For example, South Korea's fertility rate has fallen below 0.8 children per woman — the lowest ever recorded — as housing costs, education pressure and women's career penalties make child-rearing unattractive, and China's population began shrinking in 2022 after decades of family planning. Aging is accelerated by remarkable longevity, since medical progress keeps people alive far longer: life expectancy has risen by more than a decade in most rich countries since 1970, meaning retirees now draw pensions for twenty years instead of ten while the working population paying for them shrinks. The arithmetic of pay-as-you-go pensions simply breaks.",
+      body2: "Governments can respond by extending working lives. Raising retirement ages in line with life expectancy, as Denmark and the Netherlands have done automatically by law, helps because it expands the contributor base while shrinking the beneficiary years; flexible partial retirement and age-friendly workplaces keep older workers productive rather than pushed out. A complementary approach is expanding the working-age population through immigration and family support: Canada's points-based immigration system deliberately recruits young skilled workers to rebalance its demographics, while France's generous childcare and parental benefits have sustained one of Europe's highest fertility rates. Investing in automation and healthcare productivity lets fewer workers support more retirees.",
+      conclusion: "In conclusion, aging driven by low fertility and rising longevity is irreversible, but through longer working lives, managed immigration and family-friendly policy societies can adapt successfully. The countries that plan early will age gracefully; those that deny the arithmetic will face fiscal crisis."
     },
     fullParagraphsCN: {
-      introduction: "人口老龄化是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，人口老龄化是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "社会正以前所未有的速度老龄化。日本65岁以上人口已几乎是15岁以下人口的两倍，到2050年全球每六人中就有一人超过65岁，养老金体系、医疗服务和劳动力市场都承受压力。本文将审视其原因，聚焦出生率下降和预期寿命延长，并提出提高退休年龄、吸纳劳动年龄移民以及生育支持等应对。",
+      body1: "人口老龄化首先由生育率崩溃造成。例如，韩国的总和生育率已跌破每位女性0.8个孩子——有记录以来全球最低——因为住房成本、教育压力和女性职业代价让生育失去吸引力；中国在数十年计划生育之后，人口已于2022年开始缩减。老龄化还被惊人的长寿加速，因为医学进步大幅延长了寿命：1970年以来多数富裕国家的预期寿命上升了十年以上，意味着退休人员如今领取养老金二十年而非十年，而供养他们的劳动人口却在缩减。现收现付养老金制度的算术逻辑已经无法成立。",
+      body2: "政府可以通过延长工作年限来应对。像丹麦和荷兰那样通过立法让退休年龄与预期寿命自动挂钩，这有帮助是因为它扩大了缴费者基础，同时缩短了领取年限；灵活的部分退休和年龄友好型工作场所让年长员工保持生产力，而不是被排挤出去。一个互补的方法是通过移民和家庭支持扩大劳动年龄人口：加拿大的积分制移民体系有意招募年轻的技术工人来重新平衡人口结构；法国慷慨的托儿和育儿福利则维持了欧洲最高的生育率之一。投资自动化和医疗生产率，能让更少的劳动者供养更多的退休者。",
+      conclusion: "总之，由低生育率和寿命延长驱动的老龄化不可逆转，但通过延长工作年限、有管理的移民和家庭友好政策，社会可以成功适应。早做规划的国家将优雅地老去；否认算术规律的国家将面临财政危机。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "fertility rate",
+      "life expectancy",
+      "pension system",
+      "retirement age",
+      "dependency ratio",
+      "immigration policy",
+      "labour shortage",
+      "demographics",
+      "pay-as-you-go",
+      "automation"
     ]
   },
   {
@@ -3404,37 +3440,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "The world is facing an energy crisis. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Energy security has become a defining concern of our time. This essay will analyze the causes of the crisis, chiefly [cause1] and [cause2], and recommend solutions including [solution1] and [solution2].",
+      body1: "The crisis originates in [cause1]. For example, [example]. It is deepened by [cause2], because [explanation].",
+      body2: "To secure energy supplies, governments must [solution1]. This would [effect]. In parallel, [solution2] helps by [mechanism].",
+      conclusion: "In conclusion, the energy crisis rooted in [causes summary] can be resolved through [solutions summary], building a more resilient system."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "能源安全已成为我们时代的决定性议题。本文将分析这场危机的原因，主要是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的对策。",
+      body1: "危机起源于[原因1]。例如，[例子]。它因[原因2]而加深，因为[解释]。",
+      body2: "要保障能源供应，政府必须[解决方案1]。这将[效果]。与此同时，[解决方案2]通过[机制]提供帮助。",
+      conclusion: "总之，根植于[原因总结]的能源危机可以通过[解决方案总结]化解，建立一个更具韧性的体系。"
     },
     fullParagraphs: {
-      introduction: "The world is facing an energy crisis. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, the world is facing an energy crisis. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Energy security has become a defining concern of our time. When Russia cut gas supplies to Europe in 2022, prices rose tenfold within months, factories closed and governments scrambled to prevent winter blackouts, exposing how fragile the global energy system had become. This essay will analyze the causes of the crisis, chiefly fossil fuel dependence on unreliable suppliers and chronic underinvestment in alternatives, and recommend solutions including accelerated renewable deployment and efficiency measures.",
+      body1: "The crisis originates in concentrated fossil fuel dependence. For example, Germany built its industrial model on cheap Russian pipeline gas, importing over half its supply from a single supplier, so when the pipelines were cut after the invasion of Ukraine, Europe's largest economy faced potential deindustrialisation within one winter. The crisis is deepened by decades of underinvestment and policy swings, because nuclear plants were closed without replacement — Germany shut its last reactors in 2023 even as it burned more coal — and renewable build-out, though fast, has not kept pace with the retirement of dispatchable capacity. Oil markets add volatility: OPEC production decisions can move prices globally overnight, and every electric vehicle transition remains incomplete while transport still runs on petroleum.",
+      body2: "To secure energy supplies, governments must accelerate domestic renewable deployment and the grids that support it. Spain and Portugal, which generate most of their electricity from wind, solar and hydro, suffered far smaller price shocks in 2022 than gas-dependent neighbours — renewables are not only clean but uninterruptible by foreign powers, and permitting reform can cut wind farm approval times from years to months. In parallel, energy efficiency helps by shrinking demand itself: building retrofits, heat pumps and industrial efficiency can reduce consumption permanently, as demonstrated when Europe cut gas demand by nearly a fifth in one year through efficiency and substitution. Strategic reserves and diversified suppliers provide insurance during the transition.",
+      conclusion: "In conclusion, the energy crisis rooted in concentrated fossil dependence and underinvestment can be resolved through rapid renewables and relentless efficiency, building a more resilient system. Every wind turbine and insulated home is, in a real sense, an act of energy security."
     },
     fullParagraphsCN: {
-      introduction: "能源危机是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，能源危机是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "能源安全已成为我们时代的决定性议题。2022年俄罗斯切断对欧天然气供应时，价格数月内上涨十倍，工厂关闭，各国政府紧急应对以避免冬季停电，暴露了全球能源体系何等脆弱。本文将分析这场危机的原因，主要是对不可靠供应国的化石燃料依赖和对替代能源的长期投资不足，并提出加速可再生能源部署和提高能效等对策。",
+      body1: "危机起源于集中的化石燃料依赖。例如，德国把自己的工业模式建立在廉价的俄罗斯管道天然气之上，一半以上的进口来自单一供应国，因此乌克兰战争后管道被切断时，这个欧洲最大经济体在一个冬天内就面临去工业化的风险。危机还因数十年的投资不足和政策摇摆而加深：核电站在没有替代的情况下被关闭——德国在燃烧更多煤炭的同时于2023年关停了最后的反应堆——可再生能源建设虽快，却跟不上可调峰容量退役的速度。石油市场更添波动：欧佩克的产量决定能在一夜之间撬动全球价格，而在交通仍依赖石油的情况下，每一次电动化转型都不完整。",
+      body2: "要保障能源供应，政府必须加速本土可再生能源部署及配套电网。西班牙和葡萄牙大部分电力来自风电、光伏和水电，2022年遭受的价格冲击远小于依赖天然气的邻国——可再生能源不仅清洁，而且无法被外国势力切断；审批改革可以把风电场的核准时间从数年缩短到数月。与此同时，提高能效通过压缩需求本身来发挥作用：建筑改造、热泵和工业节能能永久性降低消费——欧洲在一年内通过节能和替代把天然气需求削减了近五分之一就是证明。战略储备和多元化供应国则为转型期提供保险。",
+      conclusion: "总之，根植于集中化石依赖和投资不足的能源危机，可以通过快速部署可再生能源和坚持不懈的节能来化解，建立一个更具韧性的体系。每一台风力发电机和每一栋保温住宅，在真实意义上都是能源安全的行动。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "energy security",
+      "fossil fuel dependence",
+      "renewable deployment",
+      "energy efficiency",
+      "heat pump",
+      "grid infrastructure",
+      "strategic reserve",
+      "deindustrialisation",
+      "price shock",
+      "energy transition"
     ]
   },
   {
@@ -3443,37 +3482,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Cultural heritage is being lost in many parts of the world. What are the causes and what can be done to preserve it?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Cultural heritage, from languages to monuments, is vanishing. This essay will examine why, focusing on [cause1] and [cause2], and propose preservation measures such as [solution1] and [solution2].",
+      body1: "Heritage is lost primarily through [cause1]. For example, [example]. Loss is accelerated by [cause2], as [explanation].",
+      body2: "To preserve heritage, societies should [solution1]. This works by [mechanism]. Equally important is [solution2], which [effect].",
+      conclusion: "In conclusion, although heritage is threatened by [causes summary], determined action through [solutions summary] can pass it on to future generations."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "从语言到古迹，文化遗产正在消失。本文将审视其原因，聚焦[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等保护措施。",
+      body1: "遗产主要通过[原因1]流失。例如，[例子]。流失还被[原因2]加速，因为[解释]。",
+      body2: "要保护遗产，社会应当[解决方案1]。其机制是[机制]。同样重要的是[解决方案2]，它[效果]。",
+      conclusion: "总之，尽管遗产受到[原因总结]的威胁，但通过[解决方案总结]的坚定行动，可以将其传给后代。"
     },
     fullParagraphs: {
-      introduction: "Cultural heritage is being lost in many parts of the world. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, cultural heritage is being lost in many parts of the world. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Cultural heritage, from languages to monuments, is vanishing. UNESCO warns that a language dies roughly every two weeks, and historic city centres from Aleppo to Venice have been damaged or hollowed out within a single generation. This essay will examine why, focusing on modernisation and homogenising global culture, and propose preservation measures such as legal protection with funding and living transmission through education and tourism.",
+      body1: "Heritage is lost primarily through the pressure of modernisation. For example, China's rapid urbanisation demolished countless historic hutong neighbourhoods before protection laws caught up, and around the world traditional crafts disappear when factory goods undercut them and young people leave villages for city jobs, breaking chains of apprenticeship centuries old. Loss is accelerated by a homogenising global culture, as English-language media, global brands and social platforms crowd out local expression: children in indigenous communities from the Amazon to Siberia grow up speaking dominant languages, and when the last fluent elders die, entire oral literatures vanish with them. War and mass tourism compound the damage, as Palmyra's ruins and overcrowded Venice both illustrate.",
+      body2: "To preserve heritage, societies should protect it in law and pay for its survival. France funds the restoration of historic buildings through dedicated taxes and lottery proceeds, and UNESCO World Heritage status brings both money and obligation — protection works because it makes preservation a public duty rather than a private burden. Equally important is keeping heritage alive rather than frozen: New Zealand integrated Maori into school curricula and broadcasting, reviving a language once near extinction, and Japan designates master craftspeople as Living National Treasures, paying them to train apprentices. Community-based tourism, when managed locally, converts heritage into income that motivates its own preservation.",
+      conclusion: "In conclusion, although heritage is threatened by modernisation and cultural homogenisation, determined action through legal protection and living transmission can pass it on to future generations. Heritage survives only when people can live in it, speak it and earn from it."
     },
     fullParagraphsCN: {
-      introduction: "文化流失是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，文化流失是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "从语言到古迹，文化遗产正在消失。联合国教科文组织警告，大约每两周就有一种语言消亡；从阿勒颇到威尼斯，历史城区在一代人的时间内被破坏或掏空。本文将审视其原因，聚焦现代化和同化的全球文化，并提出依法保护加资金支持、通过教育和旅游实现活态传承等保护措施。",
+      body1: "遗产主要通过现代化的压力而流失。例如，中国的快速城市化在保护法律跟上之前拆除了无数历史胡同街区；在世界各地，当工厂商品以低价冲击传统手工艺、年轻人离开乡村进城工作时，传承数百年的学徒链条就断裂了。同化的全球文化加速了流失，因为英语媒体、全球品牌和社交平台挤压了本土表达：从亚马逊到西伯利亚，原住民社区的孩子在强势语言中长大，当最后一批流利的老人去世，整部口头文学也随之消失。战争和大规模旅游加剧破坏，帕尔米拉古城的废墟和过度拥挤的威尼斯都是例证。",
+      body2: "要保护遗产，社会应当将其纳入法律保护并为其存续出资。法国通过专项税收和彩票收益资助历史建筑修复，联合国教科文组织的世界遗产称号既带来资金也带来义务——保护有效是因为它让保护成为公共责任而非私人负担。同样重要的是让遗产保持活态而非凝固：新西兰把毛利语纳入学校课程和广播，复兴了一门曾濒临消亡的语言；日本把大师级匠人认定为「人间国宝」，出资让他们带徒授艺。由本地人管理的社区旅游，则能把遗产转化为激励自我保护的收入。",
+      conclusion: "总之，尽管遗产受到现代化和文化同质化的威胁，但通过依法保护和活态传承的坚定行动，可以将其传给后代。只有当人们能在遗产中生活、使用它并从中获利时，遗产才能真正存续。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "cultural heritage",
+      "language extinction",
+      "homogenisation",
+      "UNESCO",
+      "oral tradition",
+      "apprenticeship",
+      "indigenous",
+      "living transmission",
+      "restoration",
+      "overtourism"
     ]
   },
   {
@@ -3482,37 +3524,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Teenage smoking is a serious health problem. What are the causes and what can be done to reduce it?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Despite decades of anti-smoking campaigns, teenagers continue to take up smoking and vaping. This essay will examine the causes, particularly [cause1] and [cause2], and propose countermeasures including [solution1] and [solution2].",
+      body1: "Teenagers start smoking mainly because of [cause1]. For example, [example]. The problem is worsened by [cause2], since [explanation].",
+      body2: "To reduce teenage smoking, governments should [solution1]. Evidence shows [effect]. Schools and parents can also help through [solution2], which [mechanism].",
+      conclusion: "In conclusion, teenage smoking driven by [causes summary] can be cut substantially through [solutions summary], protecting a generation's health."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "尽管开展了数十年的反吸烟运动，青少年仍在吸烟和吸电子烟。本文将审视其原因，特别是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的对策。",
+      body1: "青少年开始吸烟主要因为[原因1]。例如，[例子]。问题因[原因2]而恶化，因为[解释]。",
+      body2: "要减少青少年吸烟，政府应当[解决方案1]。证据显示[效果]。学校和家长也可以通过[解决方案2]提供帮助，它[机制]。",
+      conclusion: "总之，由[原因总结]驱动的青少年吸烟可以通过[解决方案总结]大幅减少，保护一代人的健康。"
     },
     fullParagraphs: {
-      introduction: "Teenage smoking is a serious health problem. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, teenage smoking is a serious health problem. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Despite decades of anti-smoking campaigns, teenagers continue to take up smoking and vaping. While cigarette use among youth has fallen in many countries, flavoured e-cigarettes have created a new generation of nicotine addicts — in the United States, surveys found more than one in ten high school students vaping regularly. This essay will examine the causes, particularly peer pressure and industry marketing, and propose countermeasures including strict sales regulation and school-based prevention.",
+      body1: "Teenagers start smoking mainly because nicotine use is woven into their social environment. For example, adolescents whose friends smoke are several times more likely to start themselves, and smoking still functions as a badge of rebellion and belonging at precisely the age when peer approval matters most. The problem is worsened by deliberate industry targeting, since tobacco and vaping companies design products for the young: fruit and candy flavours, sleek devices that look like USB sticks, and influencer marketing on platforms teenagers use, as Juul demonstrated before regulators acted. Easy access completes the trap — despite age limits, minors routinely buy vapes from corner shops or older students, and cheap disposables cost less than a cinema ticket.",
+      body2: "To reduce teenage smoking, governments should regulate products and sales with real teeth. Evidence shows that raising the legal age to 21, banning flavours and requiring plain packaging cut youth uptake significantly: Australia's world-leading plain-packaging and tax policies drove teenage smoking down to low single digits, and New Zealand's law banning tobacco sales to anyone born after 2008 aims to create a smoke-free generation. Schools and parents can also help through honest, skill-based prevention education, which works when it teaches refusal skills and exposes industry manipulation rather than simply preaching; smoke-free norms at home matter, since children of non-smokers rarely start.",
+      conclusion: "In conclusion, teenage smoking driven by social pressure and industry targeting can be cut substantially through strict regulation and smart prevention, protecting a generation's health. The goal should not be merely reducing cigarettes but preventing nicotine addiction in any form."
     },
     fullParagraphsCN: {
-      introduction: "青少年吸烟是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，青少年吸烟是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "尽管开展了数十年的反吸烟运动，青少年仍在吸烟和吸电子烟。在许多国家，青少年吸烟率虽然下降，但调味电子烟造就了一代新的尼古丁成瘾者——美国调查发现超过十分之一的高中生经常吸电子烟。本文将审视其原因，特别是同伴压力和行业营销，并提出严格销售监管和校本预防教育等对策。",
+      body1: "青少年开始吸烟主要因为尼古丁使用已织入他们的社交环境。例如，朋友吸烟的青少年自己开始吸烟的可能性要高出数倍；在同伴认可最为重要的年纪，吸烟仍然充当着叛逆和归属的徽章。行业刻意的针对使问题恶化，因为烟草和电子烟公司就是为年轻人设计产品：水果和糖果口味、看似U盘的时尚设备，以及在青少年使用的平台上投放网红营销——Juul在监管机构出手之前就是这样做的。易得性完成了这个陷阱——尽管有年龄限制，未成年人仍能从街角商店或年长学生那里买到电子烟，廉价的一次性电子烟比一张电影票还便宜。",
+      body2: "要减少青少年吸烟，政府应当以真正的力度监管产品和销售。证据显示，把合法年龄提高到21岁、禁止调味产品、强制素面包装能显著降低青少年的尝试率：澳大利亚世界领先的素面包装和税收政策把青少年吸烟率压低到个位数；新西兰禁止向2008年后出生者售烟的法律旨在创造无烟一代。学校和家长也可以通过诚实、以技能为基础的预防教育提供帮助——教育有效的方式是教授拒绝技巧、揭露行业操纵，而非简单说教；家庭中的无烟规范很重要，因为父母不吸烟的孩子很少开始吸烟。",
+      conclusion: "总之，由同伴压力和行业针对驱动的青少年吸烟，可以通过严格监管和聪明的预防大幅减少，保护一代人的健康。目标不应只是减少卷烟，而是防止任何形式的尼古丁成瘾。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "vaping",
+      "nicotine addiction",
+      "peer pressure",
+      "plain packaging",
+      "flavoured e-cigarette",
+      "age restriction",
+      "smoke-free generation",
+      "prevention education",
+      "disposable vape",
+      "tobacco marketing"
     ]
   },
   {
@@ -3521,37 +3566,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Work-related stress is a growing problem. What are the causes and what can be done to address this issue?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Work-related stress has become endemic in modern economies. This essay will examine its causes, above all [cause1] and [cause2], and propose solutions such as [solution1] and [solution2].",
+      body1: "Stress at work stems first from [cause1]. For example, [example]. It is intensified by [cause2], because [explanation].",
+      body2: "Employers can reduce stress by [solution1]. This helps because [effect]. Governments should also [solution2], which [mechanism].",
+      conclusion: "In conclusion, workplace stress caused by [causes summary] can be alleviated through [solutions summary], benefiting workers and employers alike."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "工作压力已成为现代经济中的流行病。本文将审视其原因，最重要的是[原因1]和[原因2]，并提出[解决方案1]和[解决方案2]等对策。",
+      body1: "工作压力首先源于[原因1]。例如，[例子]。它因[原因2]而加剧，因为[解释]。",
+      body2: "雇主可以通过[解决方案1]减轻压力。这有帮助是因为[效果]。政府也应当[解决方案2]，它[机制]。",
+      conclusion: "总之，由[原因总结]造成的职场压力可以通过[解决方案总结]缓解，让劳动者和雇主共同受益。"
     },
     fullParagraphs: {
-      introduction: "Work-related stress is a growing problem. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, work-related stress is a growing problem. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Work-related stress has become endemic in modern economies. The World Health Organization officially recognised burnout as an occupational phenomenon in 2019, and surveys suggest a large share of workers in major economies feel stressed at work daily. This essay will examine its causes, above all excessive workloads with always-on technology and job insecurity, and propose solutions such as organisational redesign and legal protections for rest.",
+      body1: "Stress at work stems first from the combination of heavy demands and low control. For example, Japan's phenomenon of karoshi — death from overwork — forced national debate after cases like a 31-year-old journalist who logged 159 hours of overtime in one month, and in China the 996 schedule of nine-to-nine, six days a week produced similar tragedies and public backlash. Stress is intensified by always-on technology, because smartphones have abolished the boundary between work and home: employees answer messages at midnight and on holiday, so the nervous system never fully disengages. Job insecurity compounds everything, as gig contracts and layoff waves keep workers in permanent anxiety about their livelihood.",
+      body2: "Employers can reduce stress by redesigning work around realistic demands and genuine autonomy. Trials of the four-day week in Britain and Iceland, involving hundreds of companies, found burnout fell sharply while productivity held steady or rose — this helps because rest restores the focus that exhausted workers lose. Governments should also establish legal boundaries, which France pioneered with its 2017 right to disconnect law requiring companies to negotiate rules for after-hours email; enforcing real holidays, capping overtime and regulating gig work address insecurity at its root. Managers trained to spot overload early complete the system.",
+      conclusion: "In conclusion, workplace stress caused by overload, digital intrusion and insecurity can be alleviated through organisational redesign and legal protection of rest, benefiting workers and employers alike. Chronic exhaustion is not a badge of productivity but a failure of design."
     },
     fullParagraphsCN: {
-      introduction: "工作压力是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，工作压力是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "工作压力已成为现代经济中的流行病。世界卫生组织2019年正式把「职业倦怠」认定为一种职业现象，调查显示主要经济体中相当大比例的劳动者每天都在工作中感到压力。本文将审视其原因，最重要的是过重负荷与永远在线的科技以及工作不安全感，并提出组织再造和休息的法律保障等对策。",
+      body1: "工作压力首先源于高要求与低掌控感的组合。例如，日本的「过劳死」现象在一名31岁女记者一个月加班159小时后被迫引发全国性讨论；中国的996工作制——早九晚九、每周六天——也造成了类似的悲剧和公众反弹。永远在线的科技加剧了压力，因为智能手机废除了工作与家庭之间的界限：员工在午夜和假期仍回复消息，神经系统永远无法彻底放松。工作不安全感让一切雪上加霜，零工合同和裁员潮让劳动者对生计处于持续的焦虑之中。",
+      body2: "雇主可以通过围绕合理要求和真实自主权重新设计工作来减轻压力。英国和冰岛涉及数百家公司的四天工作制试验发现，倦怠率大幅下降而生产率保持稳定甚至上升——这有帮助是因为休息能恢复疲惫劳动者失去的专注力。政府也应当设立法律边界，法国2017年的「离线权」法律率先要求企业就下班后收发邮件的规则进行协商；落实真正的假期、限制加班、规范零工经济则从根源上解决不安全感。培训管理者及早发现过劳迹象则使整个体系完整。",
+      conclusion: "总之，由过载、数字侵入和不安全感造成的职场压力，可以通过组织再造和休息的法律保障来缓解，让劳动者和雇主共同受益。长期的精疲力竭不是生产力的勋章，而是设计的失败。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "burnout",
+      "overwork",
+      "karoshi",
+      "four-day week",
+      "right to disconnect",
+      "job insecurity",
+      "gig economy",
+      "autonomy",
+      "work-life boundary",
+      "occupational health"
     ]
   },
   {
@@ -3560,37 +3608,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Food safety is a major concern in modern society. What are the causes and what can be done to ensure food safety?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Food safety scandals regularly shake public confidence. This essay will analyze the causes, chiefly [cause1] and [cause2], and propose safeguards including [solution1] and [solution2].",
+      body1: "Food becomes unsafe primarily because of [cause1]. For example, [example]. The problem is compounded by [cause2], since [explanation].",
+      body2: "To ensure food safety, authorities must [solution1]. This works by [mechanism]. In addition, [solution2] strengthens protection through [effect].",
+      conclusion: "In conclusion, food safety threatened by [causes summary] can be guaranteed through [solutions summary], restoring public trust in what we eat."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "食品安全丑闻屡屡动摇公众信心。本文将分析其原因，主要是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的保障措施。",
+      body1: "食品变得不安全主要因为[原因1]。例如，[例子]。问题因[原因2]而加剧，因为[解释]。",
+      body2: "要确保食品安全，当局必须[解决方案1]。其机制是[机制]。此外，[解决方案2]通过[效果]加强保护。",
+      conclusion: "总之，受到[原因总结]威胁的食品安全可以通过[解决方案总结]得到保障，恢复公众对食物的信任。"
     },
     fullParagraphs: {
-      introduction: "Food safety is a major concern in modern society. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, food safety is a major concern in modern society. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Food safety scandals regularly shake public confidence. The World Health Organization estimates that contaminated food sickens 600 million people every year — nearly one in ten humans — and kills 420,000 of them. This essay will analyze the causes, chiefly profit-driven adulteration and weak inspection of long supply chains, and propose safeguards including traceability systems and severe enforcement.",
+      body1: "Food becomes unsafe primarily because fraud is profitable and detection is rare. For example, China's 2008 melamine scandal poisoned 300,000 infants when milk suppliers diluted milk and added an industrial chemical to fake protein content, because the financial incentive was strong and testing was easy to evade; Europe's 2013 horsemeat scandal similarly revealed beef products containing horse across a dozen countries. The problem is compounded by long, opaque supply chains, since a single ready meal may contain ingredients from twenty countries, each a potential point of contamination or fraud. Cost pressure on farmers also drives overuse of pesticides and antibiotics, leaving residues and breeding drug-resistant bacteria that reach consumers.",
+      body2: "To ensure food safety, authorities must build traceability from farm to fork. The European Union's system, which requires every animal and batch to be trackable, allowed rapid recalls during scandals and deterred fraud — this works because opacity is the fraudster's greatest ally, and modern tools from QR codes to blockchain make tracking cheap. In addition, severe enforcement strengthens protection: China's later reforms jailed executives in the melamine case, created a single powerful food safety agency and made punishment severe enough to change incentives. Regular unannounced inspections, laboratory testing funded by industry fees and protected whistle-blower channels, as under the US Food Safety Modernization Act, catch problems before they reach the plate.",
+      conclusion: "In conclusion, food safety threatened by profitable fraud and opaque supply chains can be guaranteed through traceability and real punishment, restoring public trust in what we eat. Safe food is not a luxury but the minimum a society owes its members."
     },
     fullParagraphsCN: {
-      introduction: "食品安全是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，食品安全是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "食品安全丑闻屡屡动摇公众信心。世界卫生组织估计，受污染的食品每年使六亿人患病——接近人类的十分之一——并导致其中四十二万人死亡。本文将分析其原因，主要是逐利驱动的掺假和对漫长供应链的检验薄弱，并提出可追溯体系和严厉执法等保障措施。",
+      body1: "食品变得不安全主要因为掺假有利可图而被发现的概率极低。例如，中国2008年的三聚氰胺事件毒害了三十万名婴儿，因为奶农稀释牛奶后添加工业化学品来伪造蛋白含量，其财务动机强烈且检测容易被规避；欧洲2013年的马肉丑闻同样揭露出十几个国家的「牛肉」制品中含马肉。漫长而不透明的供应链使问题加剧，因为一份即食餐可能包含来自二十个国家的原料，每个环节都是潜在的污染或掺假点。对农户的成本压力还驱使农药和抗生素滥用，残留物和耐药菌最终抵达消费者。",
+      body2: "要确保食品安全，当局必须建立从农田到餐桌的可追溯体系。欧盟要求每头牲畜和每个批次都可追踪的制度，在丑闻期间实现了快速召回并震慑了掺假——这有效是因为不透明是造假者最大的盟友，而从二维码到区块链的现代工具让追踪成本极低。此外，严厉执法加强保护：中国随后的改革把三聚氰胺案的高管送进监狱，成立了统一的强大食药监管机构，并让惩罚严厉到足以改变动机。定期突击检查、由行业费用资助的实验室检测、以及美国《食品安全现代化法》所保护的举报人渠道，能在问题端上餐桌之前将其拦截。",
+      conclusion: "总之，受到暴利掺假和不透明供应链威胁的食品安全，可以通过可追溯体系和真正的惩罚得到保障，恢复公众对食物的信任。安全的食品不是奢侈品，而是一个社会对其成员最起码的亏欠。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "food adulteration",
+      "traceability",
+      "supply chain",
+      "melamine scandal",
+      "contamination",
+      "pesticide residue",
+      "food recall",
+      "whistle-blower",
+      "inspection",
+      "drug-resistant bacteria"
     ]
   },
   {
@@ -3599,37 +3650,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Cyberbullying is a serious issue affecting young people. What are the causes and what can be done to prevent it?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Cyberbullying has become a defining threat to young people's wellbeing. This essay will examine its causes, particularly [cause1] and [cause2], and propose preventive measures including [solution1] and [solution2].",
+      body1: "Cyberbullying flourishes because of [cause1]. For example, [example]. It is made worse by [cause2], as [explanation].",
+      body2: "To prevent cyberbullying, schools should [solution1]. This helps by [mechanism]. At the same time, [solution2] addresses the problem through [effect].",
+      conclusion: "In conclusion, cyberbullying rooted in [causes summary] can be prevented through [solutions summary], making online spaces safe for the young."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "网络欺凌已成为对青少年福祉的决定性威胁。本文将审视其原因，特别是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的预防措施。",
+      body1: "网络欺凌猖獗是因为[原因1]。例如，[例子]。它因[原因2]而恶化，因为[解释]。",
+      body2: "要预防网络欺凌，学校应当[解决方案1]。其机制是[机制]。同时，[解决方案2]通过[效果]解决问题。",
+      conclusion: "总之，根植于[原因总结]的网络欺凌可以通过[解决方案总结]得到预防，让网络空间对年轻人更安全。"
     },
     fullParagraphs: {
-      introduction: "Cyberbullying is a serious issue affecting young people. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, cyberbullying is a serious issue affecting young people. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Cyberbullying has become a defining threat to young people's wellbeing. UNICEF reports that one in three young people in over 30 countries has experienced online bullying, and several high-profile teen suicides linked to relentless online abuse have shocked the public worldwide. This essay will examine its causes, particularly anonymity and platform design that rewards cruelty, and propose preventive measures including school programmes and platform accountability.",
+      body1: "Cyberbullying flourishes because the internet removes the restraints that govern face-to-face behaviour. For example, anonymity on apps and games lets children say things they would never dare say in a classroom, and the distance between bully and victim removes the sight of suffering that normally triggers empathy — experiments in psychology consistently show people behave more cruelly when consequences are invisible. It is made worse by the permanence and reach of digital content, as a humiliating photo or cruel comment can spread to an entire school within minutes, remain searchable for years and follow the victim home, whereas traditional bullying at least ended at the school gate. Platforms profit from engagement and are slow to remove abuse, since outrage keeps users scrolling.",
+      body2: "To prevent cyberbullying, schools should make digital citizenship part of the curriculum. Programmes like Finland's KiVa, which trains students to support victims and refuse to reward bullies with attention, reduced bullying substantially in controlled trials — this helps because bullies perform for an audience, and removing the audience removes the incentive. At the same time, platforms must be held accountable through law: the UK's Online Safety Act and Australia's eSafety Commissioner can now compel platforms to remove abusive content quickly and face fines for systematic failure, while default privacy settings, easy reporting and verified identities make cruelty harder. Parents maintaining open dialogue, so victims report rather than suffer silently, is equally essential.",
+      conclusion: "In conclusion, cyberbullying rooted in anonymity and engagement-driven platform design can be prevented through peer-focused education and legal accountability, making online spaces safe for the young. Technology created this problem; technology firms must be required to help solve it."
     },
     fullParagraphsCN: {
-      introduction: "网络欺凌是影响年轻人的一个严重问题，需要立即关注。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，网络欺凌是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "网络欺凌已成为对青少年福祉的决定性威胁。联合国儿童基金会报告，在三十多个国家中，三分之一的年轻人经历过网络欺凌；多起与持续网络暴力相关的青少年自杀事件震惊了全球公众。本文将审视其原因，特别是匿名性和奖励恶行的平台设计，并提出学校教育和平台问责等预防措施。",
+      body1: "网络欺凌猖獗是因为互联网移除了约束面对面行为的规范。例如，应用和游戏里的匿名性让孩子说出在教室里绝不敢说的话，欺凌者与受害者之间的距离消除了正常会触发同理心的痛苦画面——心理学实验一致表明，当后果不可见时，人们会表现得更残忍。数字内容的持久性和传播力让情况更糟：一张羞辱性的照片或一条刻薄的评论几分钟内就能传遍全校，多年内可被搜索，并跟着受害者回家，而传统欺凌至少在校门口就结束了。平台从用户互动中获利，对清除恶行行动迟缓，因为愤怒情绪能让用户不停刷屏。",
+      body2: "要预防网络欺凌，学校应当把数字公民素养纳入课程。芬兰的KiVa项目训练学生支持受害者、拒绝用关注奖励欺凌者，在对照试验中大幅减少了欺凌——这有效是因为欺凌者是为观众表演，移除观众就移除了动机。同时，必须通过法律让平台承担责任：英国的《在线安全法》和澳大利亚的电子安全专员现在可以强制平台迅速删除霸凌内容，并对系统性失职处以罚款；默认隐私设置、便捷的举报和实名认证让恶行更难实施。父母保持开放的沟通同样重要，这样受害者会报告而非默默忍受。",
+      conclusion: "总之，根植于匿名性和互动导向平台设计的网络欺凌，可以通过以同伴为中心的教育和法律问责得到预防，让网络空间对年轻人更安全。科技制造了这个问题，就必须要求科技公司参与解决它。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "cyberbullying",
+      "anonymity",
+      "digital citizenship",
+      "platform accountability",
+      "online harassment",
+      "engagement",
+      "empathy",
+      "privacy settings",
+      "peer support",
+      "eSafety"
     ]
   },
   {
@@ -3638,37 +3692,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Housing affordability is a problem in many cities. What are the causes and what can be done to solve this problem?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Housing has become unaffordable in most major cities. This essay will examine the causes, especially [cause1] and [cause2], and propose solutions including [solution1] and [solution2].",
+      body1: "Housing costs have soared primarily because of [cause1]. For example, [example]. The crisis is deepened by [cause2], since [explanation].",
+      body2: "To restore affordability, governments should [solution1]. This would [effect]. A further measure is [solution2], which [mechanism].",
+      conclusion: "In conclusion, the housing crisis caused by [causes summary] can be solved through [solutions summary], making decent homes attainable again."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "多数大城市的住房已变得难以负担。本文将审视其原因，尤其是[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的对策。",
+      body1: "住房成本飙升主要因为[原因1]。例如，[例子]。危机因[原因2]而加深，因为[解释]。",
+      body2: "要恢复可负担性，政府应当[解决方案1]。这将[效果]。进一步的措施是[解决方案2]，它[机制]。",
+      conclusion: "总之，由[原因总结]造成的住房危机可以通过[解决方案总结]解决，让体面的住房重新可以企及。"
     },
     fullParagraphs: {
-      introduction: "Housing affordability is a problem in many cities. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, housing affordability is a problem in many cities. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Housing has become unaffordable in most major cities. In Hong Kong, Sydney, Vancouver and London, median homes cost between twelve and twenty times median incomes, forcing young families into decades of debt or permanent renting. This essay will examine the causes, especially chronic undersupply and the treatment of housing as a financial asset, and propose solutions including supply-side reform and curbs on speculation.",
+      body1: "Housing costs have soared primarily because supply has failed to follow demand. For example, England has built fewer homes than household formation for forty years, and restrictive planning systems around job-rich cities — green belts, height limits and endless consultation — mean that even San Francisco and Tokyo-sized demand meets a trickle of new construction; economists estimate planning restrictions add hundreds of thousands of dollars to prices in the most constrained cities. The crisis is deepened by the financialisation of housing, since property became the world's favourite investment: low interest rates let investors and foreign buyers outbid residents, thousands of London and Vancouver flats sit empty as stores of value, and buy-to-let landlords convert family homes into rental assets, pushing prices beyond what wages can support.",
+      body2: "To restore affordability, governments should release land and speed up construction. Tokyo demonstrates this works: flexible zoning allows abundant building, and despite a growing economy, real house prices there stayed flat for decades because supply matched demand. A further measure is curbing speculative demand: New Zealand banned most foreign buyers, Singapore taxes additional properties heavily and uses public housing to house 80 percent of its population at stable prices, and vacancy taxes in Vancouver pushed thousands of empty units back onto the rental market. Rent regulation and social housing construction, as Vienna's century-long municipal building programme proves, can keep even a capital city broadly affordable.",
+      conclusion: "In conclusion, the housing crisis caused by undersupply and speculation can be solved through building more and restraining investors, making decent homes attainable again. Cities exist for their residents, not for capital seeking a parking place."
     },
     fullParagraphsCN: {
-      introduction: "住房负担能力是许多城市面临的问题，需要立即关注。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，住房负担能力问题是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "多数大城市的住房已变得难以负担。在香港、悉尼、温哥华和伦敦，房价中位数是收入中位数的十二到二十倍，迫使年轻家庭背负数十年债务或终身租房。本文将审视其原因，尤其是长期供给不足和住房被当作金融资产，并提出供给侧改革和遏制投机等对策。",
+      body1: "住房成本飙升主要因为供给没有跟上需求。例如，英格兰四十年来新建住房一直少于家庭形成的数量；就业机会密集城市周边的限制性规划体系——绿化带、限高和无休止的听证——意味着即使面对旧金山和东京级别的需求，新建供应也只有涓涓细流；经济学家估计，在受限最严重的城市，规划限制为房价推高了数十万美元。住房金融化加深了危机，因为房产成了全球最爱的投资品：低利率让投资者和外国买家出价压过本地居民，伦敦和温哥华数千套公寓空置着充当价值储藏工具，购房出租的房东把家庭住宅变成租赁资产，把价格推到工资无力支撑的高度。",
+      body2: "要恢复可负担性，政府应当释放土地并加快建造。东京证明这有效：灵活的用途分区允许大量建设，尽管经济在增长，其实际房价数十年保持平稳，因为供给跟上了需求。进一步的措施是抑制投机性需求：新西兰禁止了大部分外国买家，新加坡对购买多套房产课以重税、并用公共住房以稳定价格安置了80%的人口；温哥华的空置税把数千套空置单元推回了租赁市场。租金管制和社会住房建设同样有效——维也纳持续百年的市政建房计划证明，即使首都也能保持大体可负担。",
+      conclusion: "总之，由供给不足和投机造成的住房危机，可以通过增加建设和约束投资者来解决，让体面的住房重新可以企及。城市为它的居民而存在，而不是为寻找停泊之地的资本而存在。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "affordability",
+      "zoning",
+      "speculation",
+      "financialisation",
+      "public housing",
+      "vacancy tax",
+      "supply and demand",
+      "rent regulation",
+      "green belt",
+      "social housing"
     ]
   },
   {
@@ -3677,37 +3734,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "problem/solution",
     topic: "Many languages are disappearing around the world. What are the causes and what can be done to preserve them?",
     structure: {
-      introduction: "[Problem] is a pressing issue in modern society. This essay will analyze the causes of this problem and propose some solutions.",
-      body1: "There are several reasons why [problem] occurs. Firstly, [cause1]. Secondly, [cause2]. These factors contribute to [problem severity].",
-      body2: "To address this issue, several measures can be taken. One solution is [solution1]. Another approach is [solution2]. These actions would help to [expected effect].",
-      conclusion: "In conclusion, [problem] is caused by [causes] and can be solved by [solutions]. It is essential that [call to action]."
+      introduction: "Half of the world's roughly seven thousand languages are endangered. This essay will examine why languages die, focusing on [cause1] and [cause2], and propose preservation strategies including [solution1] and [solution2].",
+      body1: "Languages disappear primarily because of [cause1]. For example, [example]. The decline is accelerated by [cause2], since [explanation].",
+      body2: "To preserve endangered languages, communities should [solution1]. This works by [mechanism]. Furthermore, [solution2] helps through [effect].",
+      conclusion: "In conclusion, although languages are dying because of [causes summary], committed action through [solutions summary] can keep them alive for future generations."
     },
     structureCN: {
-      introduction: "[问题]是当今社会的紧迫问题。本文将分析这一问题的原因并提出一些解决方案。",
-      body1: "首先，[问题]的主要原因之一是[原因1]。例如，[例子1]。这表明[结论1]。",
-      body2: "其次，我们可以通过[解决方案]来解决这个问题。这将[结果]。",
-      conclusion: "总之，[总结]。我们应该采取行动来[建议]。"
+      introduction: "全球约七千种语言中有一半正濒临灭绝。本文将审视语言消亡的原因，聚焦[原因1]和[原因2]，并提出包括[解决方案1]和[解决方案2]在内的保护策略。",
+      body1: "语言消失主要因为[原因1]。例如，[例子]。衰落还因[原因2]而加速，因为[解释]。",
+      body2: "要保护濒危语言，社区应当[解决方案1]。其机制是[机制]。此外，[解决方案2]通过[效果]提供帮助。",
+      conclusion: "总之，尽管语言因[原因总结]而消亡，但通过[解决方案总结]的坚定行动，可以让它们为后代存续。"
     },
     fullParagraphs: {
-      introduction: "Many languages are disappearing around the world. is a pressing issue that requires immediate attention. This essay will analyze the main causes of this problem and propose practical solutions.",
-      body1: "There are several factors contributing to this issue. Firstly, rapid urbanization and population growth have placed significant strain on existing resources and infrastructure. Secondly, changing lifestyles and consumption patterns have exacerbated the problem. These factors have combined to create a situation that demands action.",
-      body2: "To address this issue, several strategies can be implemented. One approach is to promote awareness and education, which can encourage more sustainable behaviors. Another solution is to invest in infrastructure and technology that can mitigate the problem. These measures would help to create a more sustainable and resilient society.",
-      conclusion: "In conclusion, many languages are disappearing around the world. is caused by a combination of factors including urbanization and changing behaviors. By implementing education campaigns and investing in sustainable solutions, we can effectively address this issue and create a better future for all."
+      introduction: "Half of the world's roughly seven thousand languages are endangered. Linguists estimate that one language falls silent every two weeks, each taking with it unique knowledge of ecosystems, medicine and ways of thought that exist nowhere else. This essay will examine why languages die, focusing on the economic dominance of major languages and the interruption of transmission to children, and propose preservation strategies including immersion education and digital documentation.",
+      body1: "Languages disappear primarily because economic opportunity speaks a dominant tongue. For example, parents in Indonesia's Papua region or India's northeast raise children in Indonesian or Hindi rather than their ancestral language, reasonably believing that fluency in the national language is the price of education and employment, and each generation that switches makes the minority language weaker. The decline is accelerated by schools and media operating only in major languages, since children spend their days immersed in the dominant tongue and quickly associate their heritage language with backwardness: in the twentieth century, schools in countries from Canada to Wales actively punished children for speaking indigenous languages, and the shame created then still suppresses transmission now.",
+      body2: "To preserve endangered languages, communities should teach children through them, not just about them. Hawaii revived its language from a few hundred elderly speakers to thousands of fluent children through Punana Leo immersion schools, where all instruction happens in Hawaiian — this works because a language survives only as a living medium of daily life, not as a museum subject. Furthermore, documentation and technology help secure what cannot yet be revived: projects recording the last speakers create permanent archives, while apps, social media content and smartphone keyboards in minority languages, as used by Welsh and Maori communities, make old languages usable in modern life. Legal status matters too — Welsh television and bilingual public services in Wales proved that official recognition restores prestige.",
+      conclusion: "In conclusion, although languages are dying because of economic pressure and broken transmission, committed action through immersion education and digital revitalisation can keep them alive for future generations. Every language saved preserves a library of human knowledge that exists in no other form."
     },
     fullParagraphsCN: {
-      introduction: "世界上许多语言正在消失，这是一个需要立即关注的紧迫问题。本文将分析这一问题的主要原因并提出切实可行的解决方案。",
-      body1: "有几个因素导致了这个问题的产生。首先，快速的城市化进程和人口增长给现有资源和基础设施带来了重大压力。其次，生活方式和消费模式的改变加剧了这一问题。这些因素共同造成了一个需要采取行动的局面。",
-      body2: "为了解决这个问题，可以实施几项战略。一种方法是促进宣传和教育，这可以鼓励更可持续的行为。另一个解决方案是投资于能够缓解问题的基础设施和技术。这些措施将有助于创造一个更可持续和更具韧性的社会。",
-      conclusion: "总之，语言消失是由包括城市化和行为变化在内的多种因素造成的。通过实施教育活动和投资可持续解决方案，我们可以有效地解决这个问题，为所有人创造一个更美好的未来。"
+      introduction: "全球约七千种语言中有一半正濒临灭绝。语言学家估计，每两周就有一种语言归于沉寂，每种语言都带着别处不存在的关于生态系统、医药和思维方式的独特知识。本文将审视语言消亡的原因，聚焦主要语言的经济主导地位和向儿童传承的中断，并提出沉浸式教育和数字化记录等保护策略。",
+      body1: "语言消失主要因为经济机会说的是强势语言。例如，印度尼西亚巴布亚地区或印度东北部的父母用印尼语或印地语而非祖先语言养育孩子，他们有理由相信，流利掌握国语是获得教育和就业的代价；而每一代人的语言转换都让少数语言变得更弱。只用主要语言办学的学校和媒体加速了衰落，因为孩子们整天沉浸在强势语言中，很快把传承语言与落后联系起来：二十世纪，从加拿大到威尔士的学校曾积极惩罚说原住民语言的儿童，那时造成的羞耻感至今仍在压制语言传承。",
+      body2: "要保护濒危语言，社区应当通过传承语言来教育孩子，而不仅仅是教他们关于这种语言的知识。夏威夷通过Punana Leo沉浸式学校，把夏威夷语从几百名老年使用者复兴为数千名流利的儿童——所有教学都用夏威夷语进行——这有效是因为语言只有作为日常生活的活媒介才能存续，而不是作为博物馆展品。此外，记录和科技能为尚无法复兴的语言提供保障：记录最后使用者言语的项目创造了永久档案；威尔士语和毛利语社区所使用的应用、社交媒体内容和智能手机键盘，则让古老语言能在现代生活中使用。法律地位同样重要——威尔士语电视台和威尔士的双语公共服务证明，官方认可能够恢复语言的声望。",
+      conclusion: "总之，尽管语言因经济压力和传承中断而消亡，但通过沉浸式教育和数字化复兴的坚定行动，可以让它们为后代存续。每拯救一种语言，就保存了一座以其他任何形式都不存在的人类知识宝库。"
     },
     vocabulary: [
-      "pressing",
-      "urgent",
-      "critical",
-      "essential",
-      "effective",
-      "practical",
-      "viable"
+      "endangered language",
+      "language transmission",
+      "immersion education",
+      "linguistic diversity",
+      "indigenous language",
+      "documentation",
+      "revitalisation",
+      "dominant language",
+      "oral knowledge",
+      "bilingualism"
     ]
   },
 ];
