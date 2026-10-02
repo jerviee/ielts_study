@@ -2097,37 +2097,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of working from home.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "[Topic] has become increasingly common in recent years. While it offers clear benefits such as [advantage], it also brings drawbacks like [disadvantage]. This essay will examine both sides.",
+      body1: "The main advantage is [advantage]. For example, [example]. As a result, [benefit].",
+      body2: "However, there are significant disadvantages, chiefly [disadvantage]. For instance, [example]. This can lead to [negative outcome].",
+      conclusion: "In conclusion, while [restate advantage], the drawback of [restate disadvantage] should not be ignored. On balance, [overall judgement]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "[话题]近年来越来越普遍。虽然它带来了[优点]等明显好处，但也存在[缺点]等弊端。本文将审视正反两面。",
+      body1: "主要的优点是[优点]。例如，[例子]。因此，[好处]。",
+      body2: "然而，也存在显著缺点，主要是[缺点]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "总之，虽然[重述优点]，但[重述缺点]这一弊端不容忽视。总体而言，[总体判断]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Working from home has shifted from a rare perk to a mainstream arrangement, especially since the COVID-19 pandemic forced millions of employees online. While remote work offers clear benefits such as flexibility and time savings, it also brings drawbacks like isolation and blurred boundaries. This essay will examine both sides.",
+      body1: "The main advantage is the elimination of commuting and the flexibility it creates. For example, a 2023 survey by Stanford economist Nicholas Bloom found that remote workers saved an average of 72 minutes per day previously spent travelling, time they redirected into work, family and sleep. Employees can also structure their day around peak concentration hours, caring for children or attending appointments without requesting leave. As a result, many report higher job satisfaction and lower stress, and companies such as GitLab and Automattic have operated fully remotely for years while remaining highly productive.",
+      body2: "However, there are significant disadvantages, chiefly social isolation and the erosion of work-life boundaries. For instance, a Buffer survey of remote workers consistently identifies loneliness and difficulty unplugging as the top two struggles: when the bedroom becomes the office, many people work longer hours than before and find it harder to relax. New employees especially suffer, because casual mentoring and team culture are difficult to replicate over video calls. This can lead to weaker professional networks, slower career progression and, in some cases, burnout that goes unnoticed by distant managers.",
+      conclusion: "In conclusion, while working from home delivers valuable flexibility and time savings, the drawbacks of isolation and overwork should not be ignored. On balance, a hybrid model — two or three days in the office combined with remote days — appears to capture most of the benefits while limiting the costs, which explains why so many large employers have settled on it."
     },
     fullParagraphsCN: {
-      introduction: "远程办公近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然远程办公具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "远程办公已从罕见的福利转变为主流的工作方式，尤其自新冠疫情迫使数百万员工转为线上办公以来。虽然远程工作提供了灵活性和节省时间等明显好处，但也带来了孤独感和界限模糊等弊端。本文将审视正反两面。",
+      body1: "主要的优点是免除了通勤以及由此创造的灵活性。例如，斯坦福大学经济学家尼古拉斯·布鲁姆2023年的一项调查发现，远程工作者平均每天节省72分钟原本用于通勤的时间，并将这些时间重新投入工作、家庭和睡眠。员工还可以围绕自己注意力最集中的时段安排日程，照顾孩子或赴约而无需请假。因此，许多人报告工作满意度更高、压力更低；GitLab和Automattic等公司多年来完全远程运营，同时保持着极高的生产力。",
+      body2: "然而，也存在显著缺点，主要是社交孤立和工作与生活界限的侵蚀。例如，Buffer对远程工作者的调查一直将孤独感和难以「下线」列为前两大困扰：当卧室变成办公室，许多人的工作时间反而比以前更长，也更难放松。新员工尤其受影响，因为非正式的指导和团队文化很难通过视频通话复制。这可能导致职业人脉变弱、晋升变慢，在某些情况下还会出现被远程管理者忽视的职业倦怠。",
+      conclusion: "总之，虽然远程办公带来了宝贵的灵活性和时间节省，但孤立和过度工作的弊端不容忽视。总体而言，混合模式——每周两三天到办公室、其余时间远程——似乎能在限制成本的同时获得大部分好处，这也解释了为何如此多的大型企业最终选择了它。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "remote work",
+      "hybrid model",
+      "commute",
+      "flexibility",
+      "isolation",
+      "work-life balance",
+      "burnout",
+      "productivity",
+      "job satisfaction",
+      "perk"
     ]
   },
   {
@@ -2136,37 +2139,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of studying abroad.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Every year, millions of students choose to [topic action]. Although this experience offers [advantage], it also involves [disadvantage]. This essay will discuss both aspects.",
+      body1: "On the positive side, [advantage explained]. A good example is [example]. Consequently, [benefit].",
+      body2: "On the negative side, [disadvantage explained]. For instance, [example]. This may result in [negative outcome].",
+      conclusion: "In summary, [topic] brings both [advantage] and [disadvantage]. For most students, [overall judgement]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "每年，数百万学生选择[话题行为]。尽管这一经历带来[优点]，但也伴随着[缺点]。本文将讨论两个方面。",
+      body1: "积极的一面是[优点阐述]。一个很好的例子是[例子]。因此，[好处]。",
+      body2: "消极的一面是[缺点阐述]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "综上所述，[话题]既带来[优点]也带来[缺点]。对大多数学生而言，[总体判断]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Every year, millions of students choose to pursue their education in a foreign country. Although this experience offers academic prestige and personal growth, it also involves high costs and cultural challenges. This essay will discuss both aspects.",
+      body1: "On the positive side, studying abroad exposes students to world-class teaching, new perspectives and a second language. A good example is the experience of Chinese postgraduates at British universities: beyond earning internationally recognised degrees, they learn to debate in seminars, manage independent research and build friendships across cultures. Employers notice this too — multinational companies frequently pay a premium for graduates who have proven they can adapt to unfamiliar environments. Consequently, overseas study often accelerates both career prospects and personal maturity in ways that staying at home rarely matches.",
+      body2: "On the negative side, the financial and emotional burdens are substantial. Tuition and living costs at popular destinations routinely exceed 300,000 yuan per year, forcing many families into debt, and scholarships cover only a small minority. For instance, surveys of international students in Australia have found high rates of loneliness, with some reporting they barely interact with locals outside class because of language anxiety. Homesickness, discrimination and difficulty with foreign academic conventions can push vulnerable students toward depression. This may result in underperformance or even dropping out, wasting both money and years.",
+      conclusion: "In summary, studying abroad brings both transformative opportunities and serious costs. For most students, the experience is worthwhile when the family can afford it comfortably and the student prepares linguistically and psychologically; those who stretch finances to breaking point or go merely to escape domestic competition may find the disadvantages outweigh the gains."
     },
     fullParagraphsCN: {
-      introduction: "出国留学近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然出国留学具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "每年，数百万学生选择去外国求学。尽管这一经历带来学术声望和个人成长，但也伴随着高昂费用和文化挑战。本文将讨论两个方面。",
+      body1: "积极的一面是，出国留学让学生接触世界一流的教学、全新的视角和第二语言。一个很好的例子是中国学生在英国大学读研的经历：除了获得国际认可的学位，他们还学会在研讨课上辩论、独立开展研究并建立跨文化的友谊。雇主也注意到了这一点——跨国公司经常为证明自己能适应陌生环境的毕业生支付溢价。因此，海外求学往往以留在国内难以匹敌的方式加速职业前景和个人成熟。",
+      body2: "消极的一面是，经济和情感负担相当沉重。热门留学目的地的学费和生活费通常每年超过30万元人民币，迫使许多家庭负债，而奖学金只覆盖极少数人。例如，对在澳大利亚的国际学生的调查发现孤独感比例很高，一些学生表示由于语言焦虑，课外几乎不与当地人交流。思乡、歧视以及对国外学术规范的不适应可能把脆弱的学生推向抑郁。这可能导致学业表现不佳甚至辍学，既浪费金钱又浪费年华。",
+      conclusion: "综上所述，出国留学既带来改变人生的机遇，也带来沉重的代价。对大多数学生而言，当家庭能够轻松负担、且学生在语言和心理上做好准备时，这段经历是值得的；而那些把家庭财务逼到极限、或仅为逃避国内竞争而出国的人，可能会发现弊大于利。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "academic prestige",
+      "cultural adaptation",
+      "tuition fees",
+      "homesickness",
+      "international recognition",
+      "language anxiety",
+      "career prospects",
+      "maturity",
+      "scholarship",
+      "discrimination"
     ]
   },
   {
@@ -2175,37 +2181,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of smartphones.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Few inventions have changed daily life as much as [topic]. Despite their obvious benefits, notably [advantage], they also create problems such as [disadvantage]. This essay will assess both.",
+      body1: "The greatest advantage of [topic] is [advantage]. For instance, [example]. This means that [benefit].",
+      body2: "Nevertheless, [topic] has serious drawbacks. The most worrying is [disadvantage]. For example, [example]. Consequently, [negative outcome].",
+      conclusion: "In conclusion, [topic] is a powerful tool that offers [advantage] but also carries [disadvantage]. The key is [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "很少有发明像[话题]那样深刻地改变了日常生活。尽管它有明显的好处，尤其是[优点]，但也带来了[缺点]等问题。本文将评估两者。",
+      body1: "[话题]最大的优点是[优点]。例如，[例子]。这意味着[好处]。",
+      body2: "然而，[话题]也有严重的缺点。最令人担忧的是[缺点]。例如，[例子]。因此，[负面结果]。",
+      conclusion: "总之，[话题]是一个强大的工具，既提供[优点]，也伴随[缺点]。关键在于[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Few inventions have changed daily life as much as the smartphone. Despite their obvious benefits, notably instant access to information and services, they also create problems such as addiction and shortened attention spans. This essay will assess both.",
+      body1: "The greatest advantage of smartphones is that they put an entire world of tools into one pocket-sized device. For instance, a farmer in rural Kenya can check crop prices, receive mobile payments through M-Pesa and access weather forecasts without owning a computer, while urban users navigate cities, translate foreign signs and consult doctors remotely. During emergencies, smartphones save lives: earthquake alerts in Japan give residents precious seconds to take cover. This means that the device functions as a bank, library, office and lifeline simultaneously, narrowing the gap between rich and poor regions in access to services.",
+      body2: "Nevertheless, smartphones have serious drawbacks. The most worrying is compulsive use, particularly among teenagers. For example, research published by psychologist Jean Twenge linked the rise of smartphones after 2012 to sharp increases in adolescent depression and sleep deprivation, and average users now check their phones over 100 times a day. The constant stream of notifications fragments attention, making deep reading and sustained conversation harder. Consequently, many families report that meals pass in silence while everyone stares at separate screens, and pedestrians absorbed in phones have created a new category of traffic accidents.",
+      conclusion: "In conclusion, the smartphone is a powerful tool that offers unprecedented convenience but also carries risks of addiction and social disconnection. The key is deliberate use: disabling unnecessary notifications, keeping phones away from meals and bedrooms, and treating the device as a servant rather than a master. Used with discipline, its advantages comfortably outweigh its drawbacks."
     },
     fullParagraphsCN: {
-      introduction: "智能手机近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然智能手机具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "很少有发明像智能手机那样深刻地改变了日常生活。尽管它有明显的好处，尤其是即时获取信息和服务，但也带来了成瘾和注意力缩短等问题。本文将评估两者。",
+      body1: "智能手机最大的优点是，它把一整个世界的工具装进了一个口袋大小的设备。例如，肯尼亚农村的农民无需拥有电脑，就能查询农产品价格、通过M-Pesa接收移动支付并获取天气预报；而城市用户则用它导航城市、翻译外语标识并远程问诊。在紧急情况下，智能手机还能救命：日本的地震警报为居民争取到宝贵的避险秒数。这意味着这台设备同时充当银行、图书馆、办公室和生命线，缩小了贫富地区在获取服务上的差距。",
+      body2: "然而，智能手机也有严重的缺点。最令人担忧的是强迫性使用，尤其在青少年中。例如，心理学家珍·特文格发表的研究将2012年后智能手机的普及与青少年抑郁和睡眠不足的急剧上升联系起来；普通用户如今每天查看手机超过100次。源源不断的通知流割裂了注意力，使深度阅读和持续交谈变得更加困难。因此，许多家庭反映用餐时在沉默中度过，每个人都盯着各自的屏幕；低头看手机的行人还制造了一类新型交通事故。",
+      conclusion: "总之，智能手机是一个强大的工具，既提供前所未有的便利，也伴随成瘾和社交疏离的风险。关键在于有意识地使用：关闭不必要的通知、让手机远离餐桌和卧室、把设备当作仆人而非主人。只要自律地使用，其优点便稳稳超过缺点。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "addiction",
+      "attention span",
+      "notification",
+      "sleep deprivation",
+      "mobile payment",
+      "compulsive use",
+      "convenience",
+      "digital divide",
+      "emergency alert",
+      "discipline"
     ]
   },
   {
@@ -2214,37 +2223,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of public transportation.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "As cities grow, [topic] becomes an increasingly important issue. It offers advantages such as [advantage], yet suffers from disadvantages like [disadvantage]. This essay will explore both.",
+      body1: "The principal benefit is [advantage]. For example, [example]. As a consequence, [benefit].",
+      body2: "The main drawback, however, is [disadvantage]. In [example], [detail]. This leads to [negative outcome].",
+      conclusion: "To conclude, while [topic] clearly provides [advantage], its weakness of [disadvantage] remains. Overall, [overall judgement]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "随着城市发展，[话题]成为日益重要的议题。它提供了[优点]等好处，但也存在[缺点]等弊端。本文将探讨两者。",
+      body1: "主要的好处是[优点]。例如，[例子]。因此，[好处]。",
+      body2: "然而，主要的缺点是[缺点]。在[例子]中，[细节]。这导致[负面结果]。",
+      conclusion: "总而言之，虽然[话题]显然提供了[优点]，但其[缺点]的弱点依然存在。总体而言，[总体判断]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "As cities grow, public transportation becomes an increasingly important issue. It offers advantages such as reduced congestion and lower emissions, yet suffers from disadvantages like crowding and inflexibility. This essay will explore both.",
+      body1: "The principal benefit is efficiency at scale: a single metro train can carry over a thousand passengers, replacing hundreds of private cars. For example, Tokyo's rail network moves roughly 40 million passenger journeys daily, allowing the world's largest metropolis to function with far less traffic and pollution than car-dependent cities like Los Angeles. Public transport is also equitable, giving students, the elderly and low-income workers affordable access to jobs and services. As a consequence, cities with strong transit systems enjoy cleaner air, lower transport costs for households and more compact, walkable urban forms.",
+      body2: "The main drawback, however, is the loss of comfort and flexibility. Commuters must follow fixed routes and timetables, often endure rush-hour crowding, and may face delays beyond their control. In many cities, such as parts of the United States where buses run infrequently, travelling without a car can turn a fifteen-minute drive into an hour-long journey with transfers. Late-night service gaps and safety concerns on empty trains add to the inconvenience. This leads many middle-class families to abandon public transport as soon as they can afford a car, draining the passenger base that funds service improvements.",
+      conclusion: "To conclude, while public transportation clearly provides environmental and economic benefits at scale, its weaknesses of inflexibility and crowding remain real deterrents. Overall, the solution is not to abandon transit but to invest in frequency, cleanliness and safety so that choosing the train over the car becomes the convenient option rather than a sacrifice."
     },
     fullParagraphsCN: {
-      introduction: "公共交通近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然公共交通具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "随着城市发展，公共交通成为日益重要的议题。它提供了减少拥堵和降低排放等好处，但也存在拥挤和不灵活等弊端。本文将探讨两者。",
+      body1: "主要的好处是规模化效率：一列地铁可以载客上千人，替代数百辆私家车。例如，东京的铁路网络每天运送约4000万人次出行，使这个世界最大都市圈的运转远比洛杉矶这样依赖汽车的城市更畅通、更清洁。公共交通还很公平，让学生、老人和低收入劳动者都能负担得起通勤，获得就业和服务机会。因此，公交系统强大的城市空气更清洁、家庭交通支出更低、城市形态也更紧凑宜居。",
+      body2: "然而，主要的缺点是舒适度和灵活性的损失。通勤者必须遵循固定的线路和时刻表，常常要忍受高峰期的拥挤，还可能面临无法掌控的延误。在许多城市——比如美国部分地区公交车班次稀少——没有汽车会让十五分钟的车程变成换乘一小时的路程。深夜服务的空白和空荡车厢里的安全隐患进一步增加了不便。这导致许多中产家庭一旦买得起车就抛弃公共交通，乘客流失又削弱了改善服务的资金来源。",
+      conclusion: "总而言之，虽然公共交通显然提供规模化的环境和经济效益，但其不灵活和拥挤的弱点仍是真实的劝退因素。总体而言，解决办法不是放弃公交，而是投资于班次密度、清洁度和安全性，让选择火车而非汽车成为便利之选，而非一种牺牲。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "congestion",
+      "emissions",
+      "rush hour",
+      "timetable",
+      "equitable",
+      "commuter",
+      "car-dependent",
+      "passenger base",
+      "walkable",
+      "transit system"
     ]
   },
   {
@@ -2253,37 +2265,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of social media.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "[Topic] has rewired how billions of people communicate. Its supporters celebrate [advantage], while critics warn of [disadvantage]. This essay will consider both sides.",
+      body1: "The strongest argument in favour is [advantage]. A striking example is [example]. As a result, [benefit].",
+      body2: "The strongest argument against is [disadvantage]. For instance, [example]. This can cause [negative outcome].",
+      conclusion: "In conclusion, [topic] delivers [advantage] but at the cost of [disadvantage]. Whether it is a net positive depends on [factor]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "[话题]重塑了数十亿人的交流方式。支持者赞美[优点]，批评者则警告[缺点]。本文将考量双方。",
+      body1: "最有力的支持论据是[优点]。一个突出的例子是[例子]。因此，[好处]。",
+      body2: "最有力的反对论据是[缺点]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "总之，[话题]带来了[优点]，但代价是[缺点]。它是否利大于弊取决于[因素]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Social media has rewired how billions of people communicate. Its supporters celebrate unprecedented connection and free expression, while critics warn of misinformation and declining mental health. This essay will consider both sides.",
+      body1: "The strongest argument in favour is that social platforms democratise voice and community. A striking example is how movements such as #MeToo spread globally within days, giving survivors of harassment a collective voice that traditional media had ignored for decades; similarly, diaspora families maintain daily contact across continents through WeChat and WhatsApp at zero cost. Small businesses benefit enormously too: an artisan in Yunnan can sell crafts to customers in Europe through a single viral video. As a result, social media has lowered the barriers to publishing, organising and entrepreneurship to levels unimaginable twenty years ago.",
+      body2: "The strongest argument against is the damage to attention and truth. Platforms are engineered to maximise engagement, which rewards outrage and sensationalism over accuracy. For instance, MIT researchers found that false news stories on Twitter spread six times faster than true ones, and during elections and pandemics such misinformation has had deadly real-world consequences. Heavy use also correlates with anxiety and body-image problems among teenagers, as endless comparison with curated highlight reels erodes self-esteem. This can cause a distracted, polarised public that struggles to agree on basic facts.",
+      conclusion: "In conclusion, social media delivers connection and opportunity but at the cost of attention, truth and mental wellbeing. Whether it is a net positive depends largely on how consciously it is used: curated feeds, time limits and source-checking allow users to harvest the benefits, while passive, endless scrolling invites the harms. Regulation of algorithms, alongside better digital literacy education, would tilt the balance further toward good."
     },
     fullParagraphsCN: {
-      introduction: "社交媒体近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然社交媒体具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "社交媒体重塑了数十亿人的交流方式。支持者赞美前所未有的连接和表达自由，批评者则警告虚假信息和心理健康下滑。本文将考量双方。",
+      body1: "最有力的支持论据是，社交平台让发声和社群实现了民主化。一个突出的例子是#MeToo等运动如何在几天内传遍全球，让传统媒体几十年来忽视的性骚扰幸存者拥有了集体发声的渠道；同样，海外侨胞家庭通过微信和WhatsApp零成本地跨洲保持日常联系。小企业也获益巨大：云南的手工艺人仅凭一条爆款视频就能把工艺品卖给欧洲客户。因此，社交媒体把出版、组织和创业的门槛降到了二十年前难以想象的高度。",
+      body2: "最有力的反对论据是对注意力和真相的损害。平台的设计目标是最大化用户参与度，这会奖励愤怒和耸动而非准确。例如，麻省理工学院的研究者发现，Twitter上的假新闻传播速度是真新闻的六倍；在选举和疫情期间，这类虚假信息造成了致命的现实后果。重度使用还与青少年的焦虑和体像问题相关——与精心修饰的高光时刻无休止地比较会侵蚀自尊。这可能导致公众注意力涣散、两极分化，连基本事实都难以达成共识。",
+      conclusion: "总之，社交媒体带来了连接和机遇，但代价是注意力、真相和心理健康。它是利是弊很大程度上取决于使用方式是否有意识：精心管理的关注列表、时间限制和核实信源能让用户收获好处，而被动地无尽刷屏则会招致伤害。对算法的监管加上更好的数字素养教育，会让天平进一步向好的一方倾斜。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "misinformation",
+      "engagement",
+      "viral",
+      "polarisation",
+      "self-esteem",
+      "digital literacy",
+      "democratise",
+      "algorithm",
+      "highlight reel",
+      "curated feed"
     ]
   },
   {
@@ -2292,37 +2307,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of globalization.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "[Topic] has reshaped the world economy over the past half-century. Its defenders point to [advantage], while its critics highlight [disadvantage]. This essay will weigh both.",
+      body1: "The clearest advantage is [advantage]. For example, [example]. This has led to [benefit].",
+      body2: "The most serious disadvantage is [disadvantage]. For instance, [example]. As a result, [negative outcome].",
+      conclusion: "In conclusion, [topic] brings [advantage] alongside [disadvantage]. The challenge for policymakers is [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "[话题]在过去半个世纪重塑了世界经济。捍卫者指出[优点]，批评者则强调[缺点]。本文将权衡两者。",
+      body1: "最明显的优点是[优点]。例如，[例子]。这带来了[好处]。",
+      body2: "最严重的缺点是[缺点]。例如，[例子]。因此，[负面结果]。",
+      conclusion: "总之，[话题]在带来[优点]的同时也伴随着[缺点]。政策制定者面临的挑战是[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Globalization has reshaped the world economy over the past half-century. Its defenders point to falling poverty and cheaper goods, while its critics highlight job losses and cultural homogenisation. This essay will weigh both.",
+      body1: "The clearest advantage is unprecedented economic growth, especially in developing nations. For example, after China joined the World Trade Organization in 2001, hundreds of millions of its citizens were lifted out of extreme poverty as the country became the world's manufacturing hub; consumers worldwide simultaneously enjoyed cheaper electronics, clothing and furniture. Global supply chains also spread technology and management expertise to regions that previously lacked both. This has led to the fastest reduction in global poverty in human history and a convergence of living standards between rich and poor countries.",
+      body2: "The most serious disadvantage is the destruction of industries and identities at home. For instance, manufacturing towns in the American Rust Belt and northern England lost hundreds of thousands of stable jobs when factories moved offshore, fuelling political anger that reshaped elections in both countries. Meanwhile, global brands displace local businesses: identical Starbucks outlets and fast-fashion stores now dominate high streets from Bangkok to Berlin. As a result, many communities feel that globalization delivered cheaper goods at the price of stable livelihoods and distinctive local culture.",
+      conclusion: "In conclusion, globalization brings prosperity and efficiency alongside dislocation and cultural flattening. The challenge for policymakers is to keep trade open while protecting the losers — through retraining programmes, regional investment and support for local culture — so that the enormous gains are shared rather than concentrated. Managed wisely, its benefits can outweigh its costs; unmanaged, the backlash can reverse them entirely."
     },
     fullParagraphsCN: {
-      introduction: "全球化近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然全球化具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "全球化在过去半个世纪重塑了世界经济。捍卫者指出贫困减少和商品降价，批评者则强调就业岗位流失和文化同质化。本文将权衡两者。",
+      body1: "最明显的优点是前所未有的经济增长，尤其在发展中国家。例如，中国2001年加入世界贸易组织后，随着国家成为世界制造业中心，数以亿计的公民摆脱了极端贫困；与此同时，全球消费者享受到了更便宜的电子产品、服装和家具。全球供应链还把技术和管理经验传播到了此前两者皆缺的地区。这带来了人类历史上最快的全球减贫速度，以及贫富国家之间生活水平的趋同。",
+      body2: "最严重的缺点是本土产业与身份的瓦解。例如，当工厂迁往海外，美国铁锈带和英格兰北部的制造业城镇失去了数十万个稳定岗位，由此激发的政治愤怒重塑了两国的选举格局。与此同时，全球品牌挤压本地商户：从曼谷到柏林，千篇一律的星巴克门店和快时尚商店如今主宰着商业大街。因此，许多社区感到，全球化以更便宜的商品为代价，换走了稳定的生计和独特的地方文化。",
+      conclusion: "总之，全球化在带来繁荣与效率的同时，也伴随着动荡与文化扁平化。政策制定者面临的挑战是保持贸易开放，同时通过再培训计划、区域投资和对本土文化的扶持来保护受损者，让巨大的收益得到分享而非集中。管理得当，其利大于弊；放任不管，反弹可能让成果全部逆转。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "supply chain",
+      "poverty reduction",
+      "homogenisation",
+      "manufacturing hub",
+      "job displacement",
+      "trade liberalisation",
+      "living standards",
+      "backlash",
+      "retraining"
     ]
   },
   {
@@ -2331,37 +2348,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of urbanization.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "More than half of humanity now lives in cities, and the trend of [topic] continues to accelerate. It delivers [advantage], but also creates [disadvantage]. This essay will examine both effects.",
+      body1: "The major advantage is [advantage]. For instance, [example]. Consequently, [benefit].",
+      body2: "The major disadvantage is [disadvantage]. In [example], [detail]. This results in [negative outcome].",
+      conclusion: "To sum up, [topic] offers [advantage] while producing [disadvantage]. Whether it improves lives depends on [factor]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "如今超过半数的人类居住在城市，[话题]的趋势还在加速。它带来了[优点]，但也产生了[缺点]。本文将审视两种影响。",
+      body1: "主要的优点是[优点]。例如，[例子]。因此，[好处]。",
+      body2: "主要的缺点是[缺点]。在[例子]中，[细节]。这导致[负面结果]。",
+      conclusion: "综上所述，[话题]在提供[优点]的同时也产生了[缺点]。它能否改善生活取决于[因素]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "More than half of humanity now lives in cities, and urbanization continues to accelerate. It delivers economic opportunity and better services, but also creates overcrowding and inequality. This essay will examine both effects.",
+      body1: "The major advantage is that cities concentrate opportunity. For instance, a migrant arriving in Shenzhen from rural Hunan can find factory or service work paying several times the agricultural wage, while gaining access to hospitals, schools and cultural facilities that villages cannot support. Dense cities are also efficient: public transport, district heating and shared infrastructure lower the cost per person of essential services, and the clustering of firms and talent drives innovation. Consequently, urbanization has historically been the single most powerful engine of income growth, and countries with higher urbanisation rates are almost invariably richer.",
+      body2: "The major disadvantage is that unplanned growth produces slums, congestion and social strain. In megacities such as Mumbai and Lagos, millions live in informal settlements without clean water or sanitation, and commuters lose hours daily in gridlock. Housing costs spiral beyond ordinary salaries — young professionals in Beijing and London commonly spend half their income on rent — while the elderly and poor are pushed to the margins. This results in cities that are engines of wealth for some and daily hardship for others, with air pollution and mental stress affecting nearly everyone.",
+      conclusion: "To sum up, urbanization offers prosperity and services while producing inequality and congestion. Whether it improves lives depends on governance: cities that invest early in affordable housing, transit and sanitation, like Singapore and Vienna, turn density into livability, whereas those that let markets run unchecked turn it into misery. The trend itself is irreversible, so planning is everything."
     },
     fullParagraphsCN: {
-      introduction: "城市化近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然城市化具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "如今超过半数的人类居住在城市，城市化趋势还在加速。它带来了经济机会和更好的服务，但也造成了拥挤和不平等。本文将审视两种影响。",
+      body1: "主要的优点是城市汇聚了机会。例如，从湖南农村来到深圳的农民工可以找到比务农收入高数倍的工厂或服务行业工作，同时获得乡村无法支撑的医院、学校和文化设施。高密度城市还很高效：公共交通、集中供暖和共享基础设施降低了人均公共服务成本，企业和人才的聚集则驱动创新。因此，城市化历来是收入增长最强大的引擎，城市化率越高的国家几乎无一例外地更富裕。",
+      body2: "主要的缺点是无序增长会制造贫民窟、拥堵和社会压力。在孟买和拉各斯这样的超大城市，数百万人生活在缺乏清洁水和卫生设施的非正式定居点，通勤者每天在交通瘫痪中耗费数小时。房价飙升至普通薪资难以承受的水平——北京和伦敦的年轻专业人士普遍把一半收入花在房租上——老人和穷人被挤向边缘。这导致城市对一部分人是财富的引擎，对另一部分人则是日常的艰辛，空气污染和精神压力几乎影响着每一个人。",
+      conclusion: "综上所述，城市化在提供繁荣与服务的同时，也制造了不平等和拥堵。它能否改善生活取决于治理：像新加坡和维也纳这样及早投资于保障性住房、公共交通和卫生设施的城市，把高密度转化成了宜居性；而放任市场失控的城市则把高密度变成了苦难。这一趋势本身不可逆转，因此规划就是一切。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "urbanization",
+      "megacity",
+      "slum",
+      "congestion",
+      "infrastructure",
+      "affordable housing",
+      "inequality",
+      "migrant worker",
+      "livability",
+      "gridlock"
     ]
   },
   {
@@ -2370,37 +2390,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of artificial intelligence.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "[Topic] is advancing faster than almost any technology in history. It promises [advantage], yet it also threatens [disadvantage]. This essay will evaluate both sides.",
+      body1: "The chief advantage lies in [advantage]. For example, [example]. This enables [benefit].",
+      body2: "The chief danger lies in [disadvantage]. For instance, [example]. If unchecked, this could lead to [negative outcome].",
+      conclusion: "In conclusion, [topic] offers [advantage] but risks [disadvantage]. The priority now is [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "[话题]的发展速度超过历史上几乎任何技术。它有望带来[优点]，但也威胁着[缺点]。本文将评估双方。",
+      body1: "主要的优点在于[优点]。例如，[例子]。这使得[好处]。",
+      body2: "主要的危险在于[缺点]。例如，[例子]。如果任其发展，可能导致[负面结果]。",
+      conclusion: "总之，[话题]提供了[优点]，但也有[缺点]的风险。眼下的当务之急是[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Artificial intelligence is advancing faster than almost any technology in history. It promises breakthroughs in medicine and productivity, yet it also threatens jobs and human control. This essay will evaluate both sides.",
+      body1: "The chief advantage lies in AI's ability to solve problems at superhuman speed and scale. For example, DeepMind's AlphaFold predicted the structures of over 200 million proteins — work that would have taken biologists centuries — accelerating drug discovery for diseases from malaria to cancer. In everyday life, AI already translates languages instantly, detects tumours in scans earlier than radiologists, and optimises power grids to cut energy waste. This enables humanity to attack challenges that were previously beyond computational reach, potentially adding trillions of dollars to the global economy while extending healthy lifespans.",
+      body2: "The chief danger lies in displacement and loss of control. For instance, the World Economic Forum estimates that automation could displace tens of millions of jobs this decade — not only factory workers but paralegals, translators and junior programmers — while new roles emerge more slowly than old ones vanish. Deepfake technology already undermines trust in evidence and elections, and autonomous weapons raise the prospect of machines making life-and-death decisions. If unchecked, this could lead to mass unemployment, manipulation at scale and power concentrated in the hands of a few companies that own the most capable systems.",
+      conclusion: "In conclusion, artificial intelligence offers extraordinary benefits but risks serious social disruption. The priority now is governance that keeps pace with capability: retraining displaced workers, labelling synthetic media, and requiring human oversight of high-stakes decisions. With deliberate stewardship, AI can amplify human potential; without it, the same power could erode employment, truth and ultimately human agency."
     },
     fullParagraphsCN: {
-      introduction: "人工智能近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然人工智能具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "人工智能的发展速度超过历史上几乎任何技术。它有望在医学和生产力上实现突破，但也威胁着就业和人类的主导权。本文将评估双方。",
+      body1: "主要的优点在于人工智能以超越人类的速度和规模解决问题的能力。例如，DeepMind的AlphaFold预测了超过2亿个蛋白质的结构——这项工作原本需要生物学家数个世纪——加速了从疟疾到癌症等疾病的药物研发。在日常生活中，人工智能已经可以即时翻译语言、比放射科医生更早地在扫描影像中发现肿瘤，还能优化电网以减少能源浪费。这使人类得以攻克此前算力无法企及的挑战，可能为全球经济增加数万亿美元产值，同时延长健康寿命。",
+      body2: "主要的危险在于岗位替代和失控。例如，世界经济论坛估计，自动化在本十年内可能取代数千万个工作岗位——不仅是工厂工人，还有律师助理、翻译和初级程序员——而新岗位的出现速度慢于旧岗位的消失。深度伪造技术已经在侵蚀人们对证据和选举的信任，自主武器更让人担忧机器做出生死决定的前景。如果任其发展，可能导致大规模失业、规模化的操纵，以及权力集中于少数掌握最强系统的公司之手。",
+      conclusion: "总之，人工智能带来非凡的好处，但也有严重社会动荡的风险。眼下的当务之急是让治理跟上能力的发展：再培训被替代的劳动者、标注合成媒体、要求高风险的决策必须有人类监督。通过审慎的引导，人工智能可以放大人类的潜能；缺乏引导，同样的力量可能侵蚀就业、真相，最终侵蚀人类的主体性。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "artificial intelligence",
+      "automation",
+      "job displacement",
+      "deepfake",
+      "drug discovery",
+      "algorithm",
+      "human oversight",
+      "breakthrough",
+      "superhuman",
+      "governance"
     ]
   },
   {
@@ -2409,37 +2432,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of tourism.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "[Topic] is one of the world's largest industries. It generates [advantage], but it can also cause [disadvantage]. This essay will discuss both impacts.",
+      body1: "The principal advantage is [advantage]. For example, [example]. This means that [benefit].",
+      body2: "The principal disadvantage is [disadvantage]. In [example], [detail]. Consequently, [negative outcome].",
+      conclusion: "In conclusion, while [topic] brings [advantage], it risks [disadvantage]. The answer lies in [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "[话题]是全球最大的产业之一。它能带来[优点]，但也可能造成[缺点]。本文将讨论两方面影响。",
+      body1: "主要的优点是[优点]。例如，[例子]。这意味着[好处]。",
+      body2: "主要的缺点是[缺点]。在[例子]中，[细节]。因此，[负面结果]。",
+      conclusion: "总之，虽然[话题]带来[优点]，但也有[缺点]的风险。答案在于[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Tourism is one of the world's largest industries, accounting for roughly one in ten jobs globally before the pandemic. It generates income and cultural exchange, but it can also cause environmental damage and cultural erosion. This essay will discuss both impacts.",
+      body1: "The principal advantage is economic: tourism channels money directly into local communities. For example, in Thailand the industry supported around a fifth of GDP, funding hotels, restaurants, guides and craft producers, while in Rwanda, permits to visit mountain gorillas finance both conservation and village schools. Beyond money, travel broadens minds: visitors return home with first-hand understanding of other cultures, and host communities gain pride and incentives to preserve traditions that tourists come to see. This means that tourism can simultaneously raise incomes, protect heritage and build international goodwill.",
+      body2: "The principal disadvantage is that mass tourism often destroys what it celebrates. In Venice, thirty million annual visitors have driven out residents, turning a living city into a theme park where locals can no longer afford to live; in Maya Bay in Thailand, the beach from the film The Beach had to be closed for years to let its ecosystem recover from thousands of daily visitors. Aviation emissions accelerate climate change, cruise ships pollute harbours, and souvenir economies can reduce sacred ceremonies to staged performances. Consequently, destinations risk exchanging their authentic character and environment for short-term cash.",
+      conclusion: "In conclusion, while tourism brings vital income and intercultural understanding, it risks degrading the very places and cultures it depends on. The answer lies in sustainable management: visitor caps, environmental taxes, and promotion of lesser-known destinations. Handled responsibly, tourism remains one of the few industries that can enrich both the visitor and the visited."
     },
     fullParagraphsCN: {
-      introduction: "旅游业近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然旅游业具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "旅游业是全球最大的产业之一，疫情前约占全球就业岗位的十分之一。它带来收入和文化交流，但也可能造成环境破坏和文化侵蚀。本文将讨论两方面影响。",
+      body1: "主要的优点是经济性的：旅游业把钱直接导入当地社区。例如，在泰国，该产业支撑了约五分之一的GDP，养活了酒店、餐厅、导游和手工艺生产者；在卢旺达，观赏山地大猩猩的许可费同时资助了生态保护和乡村学校。金钱之外，旅行还开阔眼界：游客带着对其他文化的第一手理解回国，东道主社区也因游客慕名而来的传统而获得自豪感和保护传统的动力。这意味着旅游业可以同时提高收入、保护遗产并建立国际友好关系。",
+      body2: "主要的缺点是大规模旅游往往毁掉它所赞美的事物。在威尼斯，每年三千万游客逼走了本地居民，把一座活着的城市变成了本地人再也住不起的主题公园；在泰国玛雅湾，因电影《海滩》闻名的沙滩不得不关闭数年，让生态系统从每天数千名游客的压力下恢复。航空排放加剧气候变化，邮轮污染港口，纪念品经济还可能把神圣的仪式降格为表演。因此，旅游目的地面临着用真实性和环境换取短期现金的风险。",
+      conclusion: "总之，虽然旅游业带来至关重要的收入和跨文化理解，但也有损害其所依赖的地方与文化的风险。答案在于可持续管理：游客数量上限、环境税，以及推广知名度较低的目的地。只要负责任地经营，旅游业仍是少数能让游客与东道主双赢的产业之一。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "mass tourism",
+      "sustainable tourism",
+      "cultural exchange",
+      "conservation",
+      "heritage",
+      "ecosystem",
+      "visitor cap",
+      "authentic",
+      "aviation emissions",
+      "local community"
     ]
   },
   {
@@ -2448,76 +2474,82 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of owning a car.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "For many families, [topic] is both a dream purchase and a major expense. It offers [advantage], yet it burdens owners with [disadvantage]. This essay will look at both sides.",
+      body1: "The clearest advantage is [advantage]. For instance, [example]. This gives owners [benefit].",
+      body2: "The clearest disadvantage is [disadvantage]. For example, [example]. As a result, [negative outcome].",
+      conclusion: "In summary, [topic] provides [advantage] at the cost of [disadvantage]. Whether it is worthwhile depends on [factor]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "对许多家庭来说，[话题]既是梦想中的大件消费，也是一笔重大开支。它提供了[优点]，但也让车主背负[缺点]。本文将审视双方。",
+      body1: "最明显的优点是[优点]。例如，[例子]。这让车主获得[好处]。",
+      body2: "最明显的缺点是[缺点]。例如，[例子]。因此，[负面结果]。",
+      conclusion: "综上所述，[话题]以[缺点]为代价提供了[优点]。是否值得取决于[因素]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "For many families, owning a car is both a dream purchase and a major expense. It offers freedom and convenience, yet it burdens owners with high costs and environmental guilt. This essay will look at both sides.",
+      body1: "The clearest advantage is personal freedom. For instance, a family with a car can visit elderly relatives in the countryside on a whim, transport groceries and children without juggling bus timetables, and reach workplaces badly served by transit. In emergencies the difference can be critical: driving a sick child to hospital at midnight takes minutes rather than waiting for an ambulance or night bus. Cars also expand employment options, since many jobs — from sales to trades — effectively require one. This gives owners control over their schedules and access to opportunities that non-drivers simply cannot reach.",
+      body2: "The clearest disadvantage is the cumulative cost, financial and environmental. For example, analyses by the American Automobile Association put the true annual cost of owning a new car — including depreciation, insurance, fuel, parking and repairs — at over ten thousand dollars, often the second-largest household expense after housing. Cars sit unused roughly 95 percent of the time while occupying valuable urban space, and transport remains one of the largest sources of urban air pollution and carbon emissions. As a result, the convenience of driving is subsidised by traffic jams, climate damage and household debt that owners rarely calculate in full.",
+      conclusion: "In summary, car ownership provides unmatched flexibility at the cost of heavy ongoing expense and environmental harm. Whether it is worthwhile depends chiefly on location: in rural areas and sprawling cities it remains close to a necessity, while in dense cities with good transit, ride-hailing and car-sharing, many households find that occasional rental beats permanent ownership."
     },
     fullParagraphsCN: {
-      introduction: "拥有汽车近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然拥有汽车具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "对许多家庭来说，拥有汽车既是梦想中的大件消费，也是一笔重大开支。它提供了自由与便利，但也让车主背负高昂的成本和环境上的愧疚。本文将审视双方。",
+      body1: "最明显的优点是个人的自由。例如，有车的家庭可以说走就走地探望乡下的长辈，采购食品杂货、接送孩子无需迁就公交时刻表，还能去公共交通难以覆盖的地方上班。紧急情况下差别可能至关重要：午夜开车送生病的孩子去医院只需几分钟，而不是等待救护车或夜班公交。汽车还拓宽了就业选择，因为许多工作——从销售到技工——实际上都要求有车。这让车主能掌控自己的日程，获得无车者难以触及的机会。",
+      body2: "最明显的缺点是累积的成本，包括金钱和环境两方面。例如，美国汽车协会的分析显示，拥有一辆新车的真实年度成本——包括折旧、保险、油费、停车和维修——超过一万美元，通常是仅次于住房的家庭第二大开支。汽车约95%的时间处于闲置，却占着宝贵的城市空间；交通运输也仍是城市空气污染和碳排放的最大来源之一。因此，开车的便利实际上由堵车、气候破坏和家庭债务在补贴，而车主很少把这些成本算全。",
+      conclusion: "综上所述，拥有汽车以沉重的持续开支和环境损害为代价，提供了无可比拟的灵活性。是否值得主要取决于居住地：在农村和摊大饼式的城市里，它仍近乎必需品；而在公共交通发达、有网约车和共享汽车的密集城市，许多家庭发现偶尔租车胜过长期拥有。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "depreciation",
+      "carbon emissions",
+      "household expense",
+      "flexibility",
+      "ride-hailing",
+      "car-sharing",
+      "air pollution",
+      "insurance",
+      "urban space",
+      "necessity"
     ]
   },
   {
     id: 56,
     title: "优缺点类 - 互联网",
     type: "advantages/disadvantages",
-    topic: "Discuss the advantages and disadvantages of the Internet.",
+    topic: "Discuss the advantages and disadvantages of the internet.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "The internet has transformed almost every aspect of modern life. While it delivers [advantage], it also creates [disadvantage]. This essay will explore both dimensions.",
+      body1: "The most valuable advantage of the internet is [advantage]. A clear example is [example]. Consequently, [benefit].",
+      body2: "On the other hand, the internet poses serious risks, particularly [disadvantage]. For instance, [example]. This can result in [negative outcome].",
+      conclusion: "In conclusion, the internet is both [positive summary] and [negative summary]. Ultimately, its value depends on [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "互联网改变了现代生活的几乎每一个方面。它既带来[优点]，也产生了[缺点]。本文将探讨两个维度。",
+      body1: "互联网最宝贵的优点是[优点]。一个明显的例子是[例子]。因此，[好处]。",
+      body2: "另一方面，互联网带来严重风险，尤其是[缺点]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "总之，互联网既是[正面总结]，也是[负面总结]。归根结底，其价值取决于[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "The internet has transformed almost every aspect of modern life. While it delivers instant access to knowledge and unprecedented connectivity, it also creates information chaos and privacy risks. This essay will explore both dimensions.",
+      body1: "The most valuable advantage of the internet is the democratisation of information and opportunity. A clear example is online education: platforms such as Coursera and Khan Academy allow a student in rural India to take computer science courses from Stanford professors at no cost, something unimaginable thirty years ago. Small businesses benefit equally — a craftsman in Morocco can sell directly to customers in Europe through Etsy or Alibaba without intermediaries. Telemedicine, remote legal advice and free access to scientific papers have similarly levelled fields that were once restricted by geography and wealth. Consequently, the internet has narrowed opportunity gaps and empowered individuals who were previously excluded from knowledge and markets.",
+      body2: "On the other hand, the internet poses serious risks, particularly misinformation and the erosion of privacy. For instance, during the COVID-19 pandemic, false cures and vaccine conspiracy theories spread faster on social media than corrections from health authorities, and the World Health Organization coined the term infodemic to describe the damage. Meanwhile, platforms harvest users' behaviour to sell advertising: the 2018 Cambridge Analytica scandal revealed that data from 87 million Facebook profiles had been exploited for political targeting without meaningful consent. This can result in manipulated elections, polarised societies and citizens who no longer know which sources to trust, while children face additional dangers from cyberbullying and online predators.",
+      conclusion: "In conclusion, the internet is both the greatest library and marketplace ever built and a channel for manipulation and surveillance. Ultimately, its value depends on how wisely societies govern it — through media literacy education, enforceable privacy laws and responsible platform design — and on whether users approach it critically rather than passively."
     },
     fullParagraphsCN: {
-      introduction: "互联网近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然互联网具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "互联网改变了现代生活的几乎每一个方面。它既带来即时获取知识和前所未有的连接，也产生了信息混乱和隐私风险。本文将探讨两个维度。",
+      body1: "互联网最宝贵的优点是信息与机会的民主化。一个明显的例子是在线教育：Coursera和可汗学院等平台让印度农村的学生可以免费学习斯坦福大学教授的计算机课程，这在三十年前是不可想象的。小企业同样受益——摩洛哥的工匠可以通过Etsy或阿里巴巴直接向欧洲客户销售，无需中间商。远程医疗、在线法律咨询和科学论文的免费开放同样拉平了曾经受地理与财富限制的领域。因此，互联网缩小了机会差距，赋能了曾被排除在知识和市场之外的个人。",
+      body2: "另一方面，互联网带来严重风险，尤其是虚假信息和隐私的侵蚀。例如，新冠疫情期间，虚假疗法和疫苗阴谋论在社交媒体上的传播速度快于卫生机构的辟谣，世界卫生组织甚至创造了「信息疫情」一词来描述其危害。与此同时，各平台收集用户行为用于广告变现：2018年剑桥分析丑闻曝光，8700万脸书用户的数据在未经有效同意的情况下被用于政治定向投放。这可能导致选举被操纵、社会两极化、公民不知该信任哪些信息源，而儿童还面临网络欺凌和网络捕食者的额外危险。",
+      conclusion: "总之，互联网既是有史以来最伟大的图书馆和市场，也是操纵与监控的渠道。归根结底，其价值取决于社会如何明智地治理它——通过媒介素养教育、可执行的隐私法律和负责任的平台设计——以及用户能否以批判而非被动的方式使用它。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "democratisation",
+      "misinformation",
+      "privacy",
+      "connectivity",
+      "infodemic",
+      "surveillance",
+      "cyberbullying",
+      "media literacy",
+      "data harvesting",
+      "opportunity gap"
     ]
   },
   {
@@ -2526,37 +2558,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of television.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Since its invention, television has dominated home entertainment. Supporters value it for [advantage], while critics blame it for [disadvantage]. This essay will consider both views.",
+      body1: "Television's main strength is [advantage]. For example, [example]. This enables [benefit].",
+      body2: "However, television also causes harm, most notably [disadvantage]. Studies show that [evidence]. This leads to [negative outcome].",
+      conclusion: "In conclusion, television offers [positive summary] but risks [negative summary]. The answer lies in [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "自发明以来，电视一直主导着家庭娱乐。支持者看重它[优点]，批评者则指责它[缺点]。本文将考虑两种观点。",
+      body1: "电视的主要优点在于[优点]。例如，[例子]。这使得[好处]。",
+      body2: "然而，电视也带来危害，最明显的是[缺点]。研究表明，[证据]。这导致[负面结果]。",
+      conclusion: "总之，电视提供[正面总结]，但有[负面总结]的风险。答案在于[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Since its invention, television has dominated home entertainment. Supporters value it for education and shared cultural experience, while critics blame it for passive consumption and health damage. This essay will consider both views.",
+      body1: "Television's main strength is its unmatched ability to inform and unite large audiences. For example, nature documentaries such as the BBC's Planet Earth series have brought remote ecosystems into living rooms worldwide, inspiring a generation of conservation awareness that contributed to real policy changes, including plastic bag bans after footage of polluted oceans shocked viewers. Major broadcasts also create shared national moments — an estimated 600 million people watched the 1969 Moon landing together, and events like the Olympics or royal weddings still bind societies in collective experience. Educational channels and news programmes, moreover, remain the most accessible source of information for elderly people and those with limited literacy. This enables television to function as a genuine public service rather than mere amusement.",
+      body2: "However, television also causes harm, most notably through sedentary habits and distorted worldviews. Studies show that children who watch more than three hours daily are significantly more likely to be obese and to perform worse academically; the American Academy of Pediatrics links excessive screen time to sleep problems and attention difficulties. Advertising compounds the problem by promoting junk food directly to young audiences. For adults, constant exposure to crime coverage cultivates what researchers call mean world syndrome — a belief that society is far more dangerous than statistics justify. This leads to declining physical health, reduced family conversation and, in heavy viewers, anxiety and misperception of social reality.",
+      conclusion: "In conclusion, television offers education and cultural cohesion but risks passivity, obesity and distorted perception. The answer lies in selective, limited viewing: households that treat it as an occasional shared activity rather than a constant background presence can keep its benefits while avoiding most of its documented harms."
     },
     fullParagraphsCN: {
-      introduction: "电视近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然电视具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "自发明以来，电视一直主导着家庭娱乐。支持者看重它的教育和共同文化体验价值，批评者则指责它造成被动消费和健康损害。本文将考虑两种观点。",
+      body1: "电视的主要优点在于其无与伦比的信息传播和凝聚大众的能力。例如，BBC《地球脉动》系列等自然纪录片把偏远生态系统带进全球客厅，唤醒了一代人的环保意识，推动了真实的政策变革——海洋污染画面震撼观众后，多国出台了塑料袋禁令。重大直播还创造了全民共同时刻——估计有6亿人共同观看了1969年登月，奥运会、王室婚礼等活动至今仍在凝聚社会的集体体验。此外，教育频道和新闻节目仍是老年人和识字有限者最容易获得的信息来源。这使得电视能够发挥真正的公共服务功能，而不仅仅是娱乐。",
+      body2: "然而，电视也带来危害，最明显的是久坐习惯和扭曲的世界观。研究表明，每天看电视超过三小时的儿童肥胖概率显著更高，学业表现也更差；美国儿科学会将过度的屏幕时间与睡眠问题和注意力困难联系起来。广告直接向年轻观众推销垃圾食品，使问题雪上加霜。对成年人而言，持续接触犯罪报道会催生研究者所称的「冷酷世界综合征」——即认为社会远比统计数据显示的更加危险。这导致身体健康下降、家庭交流减少，重度观众还会出现焦虑和对社会现实的错误认知。",
+      conclusion: "总之，电视提供教育和文化凝聚力，但有被动、肥胖和认知扭曲的风险。答案在于有选择、有限度地观看：把电视当作偶尔的共享活动而非持续背景音的家庭，能够保留它的好处，同时避开大部分已被证实的危害。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "sedentary",
+      "passive consumption",
+      "documentary",
+      "shared experience",
+      "obesity",
+      "mean world syndrome",
+      "public service broadcasting",
+      "screen time",
+      "worldview",
+      "advertising"
     ]
   },
   {
@@ -2565,37 +2600,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of fast food.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Fast food has become a global phenomenon, valued for [advantage] but criticised for [disadvantage]. This essay will examine both sides of the issue.",
+      body1: "The primary advantage of fast food is [advantage]. For instance, [example]. Therefore, [benefit].",
+      body2: "The most serious disadvantage is [disadvantage]. Research indicates that [evidence]. As a consequence, [negative outcome].",
+      conclusion: "In conclusion, fast food provides [positive summary] at the cost of [negative summary]. A sensible approach is [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "快餐已成为全球现象，因[优点]而受到欢迎，也因[缺点]而受到批评。本文将审视这一问题的两面。",
+      body1: "快餐的主要优点是[优点]。例如，[例子]。因此，[好处]。",
+      body2: "最严重的缺点是[缺点]。研究表明，[证据]。因此，[负面结果]。",
+      conclusion: "总之，快餐以[负面总结]为代价提供了[正面总结]。明智的做法是[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Fast food has become a global phenomenon, valued for convenience and affordability but criticised for its health consequences. This essay will examine both sides of the issue.",
+      body1: "The primary advantage of fast food is that it delivers cheap, predictable meals almost instantly. For instance, a single parent working two jobs can feed children a hot meal for a few dollars without an hour of cooking and washing up, which explains why drive-through windows cluster in low-income and time-poor neighbourhoods. The industry also provides mass employment: McDonald's alone employs roughly two million people worldwide, often giving teenagers their first work experience and flexible hours that fit around study. Standardised kitchens, moreover, guarantee hygiene and consistent quality in countries where street food safety is unreliable. Therefore, fast food fills a genuine economic and logistical niche that traditional restaurants cannot always serve.",
+      body2: "The most serious disadvantage is the damage fast food inflicts on public health. Research indicates that a typical burger meal contains more than half of an adult's recommended daily calories, saturated fat and salt; the Global Burden of Disease study attributes millions of premature deaths annually to diets heavy in processed food. Countries that adopt Western fast food see obesity rates climb accordingly — Mexico's adult obesity rate approached 40 percent within a generation of the industry's rapid expansion there. Marketing targets children with toys and cartoon mascots, building habits that persist into adulthood. As a consequence, societies face epidemics of diabetes and heart disease, and healthcare systems bear costs that far exceed the savings at the till.",
+      conclusion: "In conclusion, fast food provides unmatched convenience and affordability at the cost of long-term health damage. A sensible approach is moderation combined with smarter policy: occasional consumption harms nobody, while clearer calorie labelling, restrictions on child-targeted advertising and reformulated recipes can keep the industry's genuine benefits without letting it quietly tax public health."
     },
     fullParagraphsCN: {
-      introduction: "快餐近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然快餐具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "快餐已成为全球现象，因便利和实惠而受到欢迎，也因健康后果而受到批评。本文将审视这一问题的两面。",
+      body1: "快餐的主要优点是它几乎能瞬间提供便宜且品质可预期的餐食。例如，一位打两份工的单亲家长花几美元就能让孩子吃上热饭，省去一小时的做饭和洗碗，这解释了为何免下车窗口集中在低收入和时间紧张的社区。该行业还提供了大量就业：仅麦当劳在全球就雇有约200万人，常给青少年提供第一份工作经历和可配合学业的灵活工时。此外，标准化的厨房在街头食品卫生不可靠的国家保证了清洁与稳定品质。因此，快餐填补了一个传统餐馆难以覆盖的真实的经济与后勤空缺。",
+      body2: "最严重的缺点是快餐对公共健康造成的损害。研究表明，一份典型的汉堡套餐所含热量、饱和脂肪和盐分超过成人每日建议摄入量的一半；《全球疾病负担》研究将每年数百万例过早死亡归因于高度依赖加工食品的饮食。接纳西式快餐的国家肥胖率随之攀升——在快餐业迅速扩张的一代人时间里，墨西哥成人肥胖率逼近40%。商家用玩具和卡通吉祥物向儿童营销，培养出延续到成年的饮食习惯。因此，各国面临糖尿病和心脏病的流行，医疗系统承担的成本远超收银台前省下的钱。",
+      conclusion: "总之，快餐以长期健康损害为代价提供了无与伦比的便利和实惠。明智的做法是适度消费配合更明智的政策：偶尔吃一次无伤大雅，而更清晰的热量标注、限制针对儿童的广告以及改良配方，可以在保住行业真实好处的同时，不让它悄悄向公共健康征税。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "affordability",
+      "obesity",
+      "saturated fat",
+      "processed food",
+      "drive-through",
+      "calorie labelling",
+      "public health",
+      "epidemic",
+      "standardisation",
+      "moderation"
     ]
   },
   {
@@ -2604,271 +2642,292 @@ export const essayTemplates: EssayTemplate[] = [
     type: "advantages/disadvantages",
     topic: "Discuss the advantages and disadvantages of advertising.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Advertising surrounds us on every screen and street. Its advocates argue that it [advantage], whereas its opponents complain that it [disadvantage]. This essay will evaluate both claims.",
+      body1: "The strongest argument in favour of advertising is [advantage]. A good example is [example]. This means [benefit].",
+      body2: "The most common criticism is that advertising [disadvantage]. For example, [example]. Consequently, [negative outcome].",
+      conclusion: "In conclusion, advertising plays a useful role in [positive summary] but also [negative summary]. The balance depends on [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "广告围绕着我们生活的每一块屏幕和每一条街道。支持者认为它[优点]，反对者则抱怨它[缺点]。本文将评估两种主张。",
+      body1: "支持广告最有力的理由是[优点]。一个很好的例子是[例子]。这意味着[好处]。",
+      body2: "最常见的批评是广告[缺点]。例如，[例子]。因此，[负面结果]。",
+      conclusion: "总之，广告在[正面总结]方面发挥着有益作用，但也[负面总结]。平衡取决于[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Advertising surrounds us on every screen and street. Its advocates argue that it informs consumers and funds free services, whereas its opponents complain that it manufactures artificial desires. This essay will evaluate both claims.",
+      body1: "The strongest argument in favour of advertising is that it transmits useful information and finances much of the modern media. A good example is public awareness: campaigns about drink-driving, smoking and vaccination have measurably changed behaviour, and commercial advertising performs a similar service by telling consumers that cheaper or better products exist, forcing companies to compete on quality and price. Equally important, advertising pays for the services people enjoy free of charge — Google, YouTube, independent news sites and radio stations would all require subscriptions without it. Small businesses especially depend on targeted ads to find customers they could never reach otherwise. This means advertising lubricates the economy and sustains a diverse, accessible media landscape.",
+      body2: "The most common criticism is that advertising manipulates emotions and creates unnecessary wants. For example, luxury brands sell watches and handbags not on function but on manufactured status anxiety, while beauty advertising profits from insecurity by presenting digitally altered bodies as normal. Children are especially vulnerable: research shows most cannot distinguish adverts from content until around age eight, yet they are exposed to thousands of marketing messages yearly, fuelling pester power and materialism. Online, behavioural targeting follows users across websites in ways few understand or consent to. Consequently, advertising contributes to overconsumption, debt, body image disorders and a culture that equates happiness with purchasing.",
+      conclusion: "In conclusion, advertising plays a useful role in informing consumers and funding free media, but it also manipulates insecurities and drives overconsumption. The balance depends on regulation and literacy: banning advertising to young children, requiring honest labelling of edited images and teaching critical media skills would preserve its economic benefits while curbing its psychological harms."
     },
     fullParagraphsCN: {
-      introduction: "广告近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然广告具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "广告围绕着我们生活的每一块屏幕和每一条街道。支持者认为它为消费者提供信息并资助免费服务，反对者则抱怨它制造虚假欲望。本文将评估两种主张。",
+      body1: "支持广告最有力的理由是它传递有用信息，并资助了大部分现代媒体。一个很好的例子是公众宣传：关于酒驾、吸烟和疫苗接种的广告活动已可量化地改变了行为，商业广告也提供类似服务——告诉消费者存在更便宜或更好的产品，迫使企业在质量和价格上竞争。同样重要的是，广告为人们免费享用的服务买单——没有它，谷歌、YouTube、独立新闻网站和广播电台都需要订阅付费。小企业尤其依赖精准广告触达它们原本无法触及的客户。这意味着广告润滑了经济，并维持了一个多元、可及的媒体生态。",
+      body2: "最常见的批评是广告操纵情感并制造不必要的需求。例如，奢侈品牌推销手表和手袋靠的不是功能，而是人为制造的地位焦虑；美妆广告则通过把数字修图后的身体呈现为常态，利用人们的不安全感牟利。儿童尤其脆弱：研究显示大多数儿童约八岁前无法区分广告与内容，然而他们每年接触数千条营销信息，助长了「纠缠力」和物质主义。在线上，行为定向广告以少数人理解或同意的方式跨网站追踪用户。因此，广告助长了过度消费、负债、身体形象障碍，以及一种把幸福等同于购物的文化。",
+      conclusion: "总之，广告在为消费者提供信息和资助免费媒体方面发挥着有益作用，但它也操纵不安全感并驱动过度消费。平衡取决于监管与素养：禁止面向幼儿的广告、要求修图广告如实标注、教授批判性媒介技能，这些都能在保留其经济利益的同时遏制其心理危害。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "consumerism",
+      "targeted advertising",
+      "status anxiety",
+      "manipulation",
+      "public awareness campaign",
+      "materialism",
+      "overconsumption",
+      "behavioural targeting",
+      "media literacy",
+      "pester power"
     ]
   },
   {
     id: 60,
     title: "优缺点类 - 移民",
     type: "advantages/disadvantages",
-    topic: "Discuss the advantages and disadvantages of immigration.",
+    topic: "Discuss the advantages and disadvantages of immigration for both the host country and the immigrants' home countries.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Immigration is one of the defining phenomena of our era. It brings [advantage], yet it also raises concerns about [disadvantage]. This essay will discuss both aspects.",
+      body1: "For host countries, the clearest benefit is [advantage]. For example, [example]. This results in [benefit].",
+      body2: "However, immigration also creates difficulties, including [disadvantage]. For instance, [example]. This may lead to [negative outcome].",
+      conclusion: "In conclusion, immigration offers [positive summary] but poses [negative summary]. Successful outcomes require [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "移民是我们这个时代最具定义性的现象之一。它带来[优点]，但也引发对[缺点]的担忧。本文将讨论两个方面。",
+      body1: "对接收国而言，最明显的好处是[优点]。例如，[例子]。这带来[好处]。",
+      body2: "然而，移民也造成困难，包括[缺点]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "总之，移民提供[正面总结]，但带来[负面总结]。成功的结果需要[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Immigration is one of the defining phenomena of our era. It brings economic dynamism and cultural enrichment, yet it also raises concerns about integration and brain drain. This essay will discuss both aspects.",
+      body1: "For host countries, the clearest benefit is that immigrants fill labour shortages and drive innovation. For example, the United States' technology sector was built substantially by immigrants — Sergey Brin co-founded Google after emigrating from Russia, and studies show immigrants or their children founded more than 40 percent of Fortune 500 companies. Ageing societies gain even more: Germany and Canada actively recruit foreign nurses and care workers because domestic workforces cannot support growing elderly populations. Immigrants also pay taxes, start businesses at higher rates than natives and revitalise declining neighbourhoods. For migrants' home countries, remittances matter enormously — the World Bank estimates they exceeded 600 billion dollars in 2022, dwarfing foreign aid and directly funding education and housing in countries like Nepal and the Philippines.",
+      body2: "However, immigration also creates difficulties, including pressure on public services and integration challenges. For instance, rapid arrivals can strain housing, schools and hospitals faster than governments expand them, as Sweden discovered after accepting large numbers of refugees in 2015, when waiting lists lengthened and public support for immigration fell sharply. Language barriers and discrimination can confine newcomers to low-paid work despite their qualifications, breeding frustration on both sides. Meanwhile, home countries suffer brain drain: sub-Saharan Africa loses thousands of desperately needed doctors and nurses to wealthy health systems each year. This may lead to social tension in destination countries and hollowed-out public services in origin countries.",
+      conclusion: "In conclusion, immigration offers economic vitality and cross-cultural exchange but poses integration pressures and brain drain. Successful outcomes require active policy: language training, credential recognition, housing investment and circular migration programmes that let skills flow back home. Managed well, it enriches both societies; managed passively, it strains both."
     },
     fullParagraphsCN: {
-      introduction: "移民近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然移民具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "移民是我们这个时代最具定义性的现象之一。它带来经济活力和文化丰富性，但也引发对融合问题和人才外流的担忧。本文将讨论两个方面。",
+      body1: "对接收国而言，最明显的好处是移民填补劳动力短缺并驱动创新。例如，美国科技行业在很大程度上由移民建立——谢尔盖·布林从俄罗斯移民后联合创立了谷歌，研究显示财富500强企业中超过40%由移民或其后代创办。老龄化社会受益更多：德国和加拿大积极招募外国护士和护工，因为本国劳动力无法支撑不断增长的老年人口。移民还纳税、以高于本地人的比例创业，并让衰落的社区重获生机。对移民输出国而言，侨汇意义重大——世界银行估计2022年侨汇超过6000亿美元，远超外国援助，直接资助了尼泊尔、菲律宾等国的教育和住房。",
+      body2: "然而，移民也造成困难，包括公共服务压力和融合挑战。例如，移民的快速涌入可能使住房、学校和医院的紧张速度快于政府的扩张速度——瑞典在2015年接收大量难民后就深有体会，当时轮候名单变长，公众对移民的支持率急剧下降。语言障碍和歧视可能使拥有资质的新移民困于低薪工作，在双方心中都滋生挫败感。与此同时，输出国遭受人才流失：撒哈拉以南非洲每年流失数千名急需的医生和护士，流向富裕国家的医疗体系。这可能导致目的地国的社会紧张和来源国公共服务的空心化。",
+      conclusion: "总之，移民提供经济活力和跨文化交流，但也带来融合压力和人才流失。成功的结果需要积极的政策：语言培训、学历资历认证、住房投资以及让技能回流祖国的循环移民计划。管理得当，移民能丰富两个社会；消极放任，则会让双方都承受压力。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "brain drain",
+      "remittance",
+      "integration",
+      "labour shortage",
+      "cultural enrichment",
+      "credential recognition",
+      "Fortune 500",
+      "circular migration",
+      "public services",
+      "diaspora"
     ]
   },
   {
     id: 61,
     title: "优缺点类 - 教育科技",
     type: "advantages/disadvantages",
-    topic: "Discuss the advantages and disadvantages of educational technology.",
+    topic: "Discuss the advantages and disadvantages of using technology in education.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Technology has entered classrooms at every level, bringing [advantage] but also raising concerns about [disadvantage]. This essay will examine both effects.",
+      body1: "The greatest educational benefit of technology is [advantage]. For example, [example]. As a result, [benefit].",
+      body2: "Nevertheless, technology in education has drawbacks, above all [disadvantage]. For instance, [example]. This can cause [negative outcome].",
+      conclusion: "In conclusion, educational technology offers [positive summary] but threatens [negative summary]. The best approach is [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "科技已进入各级课堂，带来[优点]，但也引发对[缺点]的担忧。本文将审视两种影响。",
+      body1: "科技在教育中最大的好处是[优点]。例如，[例子]。因此，[好处]。",
+      body2: "然而，教育科技也有缺点，最重要的是[缺点]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "总之，教育科技提供[正面总结]，但威胁[负面总结]。最佳做法是[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Technology has entered classrooms at every level, bringing personalised learning and global access but also raising concerns about distraction and inequality. This essay will examine both effects.",
+      body1: "The greatest educational benefit of technology is that it adapts teaching to each student and demolishes geographical barriers. For example, adaptive platforms such as Khan Academy analyse which exercises a pupil gets wrong and automatically adjust difficulty, so a struggling learner receives extra practice while an advanced one races ahead — something no teacher facing forty students can replicate. During the COVID-19 lockdowns, video conferencing kept schooling alive for over a billion children, and recorded lectures let students in remote villages access the same instruction as those in capital cities. As a result, well-designed educational technology can narrow learning gaps, support disabled students with text-to-speech tools and free teachers to focus on mentoring rather than lecturing.",
+      body2: "Nevertheless, technology in education has drawbacks, above all distraction and the digital divide. For instance, studies by the OECD found that students who used computers intensively at school performed worse in reading than moderate users, partly because devices invite multitasking — a pupil ostensibly taking notes may actually be messaging friends. Screen-based learning also weakens handwriting and deep reading habits that underpin sustained concentration. Most seriously, expensive devices and fast connections are not universal: during the pandemic, pupils without laptops or stable internet simply disappeared from virtual classrooms, and UNESCO estimates hundreds of millions lacked any access to remote learning. This can cause existing achievement gaps between rich and poor students to widen dramatically.",
+      conclusion: "In conclusion, educational technology offers personalisation and access but threatens concentration and equality. The best approach is purposeful integration: devices should serve clear pedagogical goals, screen time should be balanced with books and discussion, and governments must guarantee baseline connectivity for all families. Used as a disciplined tool rather than a substitute teacher, technology amplifies good education; used carelessly, it undermines it."
     },
     fullParagraphsCN: {
-      introduction: "教育科技近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然教育科技具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "科技已进入各级课堂，带来个性化学习和全球可及性，但也引发对注意力分散和不平等的担忧。本文将审视两种影响。",
+      body1: "科技在教育中最大的好处是它能让教学适应每个学生，并拆除地理壁垒。例如，可汗学院等自适应平台会分析学生做错的题目并自动调整难度，让跟不上的学生获得额外练习，让学得快的学生加速前进——这是面对四十名学生的老师无法复制的。新冠封控期间，视频会议让超过十亿儿童的学业得以延续，录播课程让偏远村庄的学生获得与首都学生相同的教学内容。因此，设计良好的教育科技可以缩小学习差距，用语音转文字工具支持残障学生，并把教师从照本宣科中解放出来专注于辅导。",
+      body2: "然而，教育科技也有缺点，最重要的是注意力分散和数字鸿沟。例如，经合组织的研究发现，在校高强度使用电脑的学生阅读成绩反而不如适度使用者，部分原因是设备诱发多任务——一个看似在记笔记的学生可能实际在给朋友发消息。基于屏幕的学习还会削弱手写和深度阅读习惯，而这些习惯是持续专注力的基础。最严重的是，昂贵的设备和快速的网络并非人人可得：疫情期间，没有笔记本电脑或稳定网络的学生干脆从虚拟课堂消失，联合国教科文组织估计数以亿计的学生完全无法获得远程学习。这可能导致贫富学生之间既有的成绩差距急剧扩大。",
+      conclusion: "总之，教育科技提供个性化与可及性，但威胁专注力与公平。最佳做法是有目的的整合：设备应服务于明确的教学目标，屏幕时间应与书本和讨论平衡，政府必须保障所有家庭的基础网络连接。把科技当作有纪律的工具而非替代教师，它能放大优质教育；用得草率，它就会侵蚀教育。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "adaptive learning",
+      "digital divide",
+      "personalised learning",
+      "multitasking",
+      "educational equity",
+      "remote learning",
+      "pedagogical",
+      "text-to-speech",
+      "achievement gap",
+      "screen-based learning"
     ]
   },
   {
     id: 62,
     title: "优缺点类 - 可再生能源",
     type: "advantages/disadvantages",
-    topic: "Discuss the advantages and disadvantages of renewable energy.",
+    topic: "Discuss the advantages and disadvantages of renewable energy sources such as solar and wind power.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "As climate concerns intensify, renewable energy is replacing fossil fuels worldwide. While renewables offer [advantage], they also present [disadvantage]. This essay will assess both.",
+      body1: "The principal advantage of renewable energy is [advantage]. For example, [example]. This leads to [benefit].",
+      body2: "The main disadvantage is [disadvantage]. For instance, [example]. Consequently, [negative outcome].",
+      conclusion: "In conclusion, renewables deliver [positive summary] despite [negative summary]. The sensible path is [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "随着气候担忧加剧，可再生能源正在全球范围内取代化石燃料。尽管可再生能源提供[优点]，但也存在[缺点]。本文将评估两者。",
+      body1: "可再生能源的主要优点是[优点]。例如，[例子]。这带来[好处]。",
+      body2: "主要缺点是[缺点]。例如，[例子]。因此，[负面结果]。",
+      conclusion: "总之，尽管有[负面总结]，可再生能源仍带来[正面总结]。明智的路径是[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "As climate concerns intensify, renewable energy is replacing fossil fuels worldwide. While renewables offer clean power and falling costs, they also present intermittency and land-use challenges. This essay will assess both.",
+      body1: "The principal advantage of renewable energy is that it generates electricity without fuel costs or carbon emissions, and its price keeps falling. For example, the cost of solar power dropped by roughly 90 percent between 2010 and 2023, making it the cheapest source of new electricity in most of the world according to the International Energy Agency. Denmark already generates more than half of its electricity from wind, and Uruguay shifted nearly its entire grid to renewables within a decade, cutting both emissions and import bills. Renewable installations also create manufacturing and maintenance jobs that cannot be outsourced, and rooftop solar gives households independence from volatile energy markets. This leads to cleaner air, greater energy security and protection from the geopolitical shocks that fossil fuel dependence invites.",
+      body2: "The main disadvantage is intermittency: the sun does not always shine and the wind does not always blow. For instance, during calm winter evenings, Germany's massive wind fleet sometimes produces almost nothing, forcing the country to restart coal plants or import nuclear power from France, while South Australia suffered blackouts in 2016 when storms damaged transmission infrastructure. Storing energy at scale remains expensive — batteries cover hours, not weeks — and vast solar farms and wind turbines consume land and can harm bird populations and landscapes. Mining lithium, cobalt and rare earths for batteries and turbines also creates pollution and human rights concerns in producer countries. Consequently, a renewables-only grid still requires backup capacity and storage that add hidden costs.",
+      conclusion: "In conclusion, renewables deliver clean, increasingly cheap energy despite intermittency and material demands. The sensible path is a managed transition: invest in grid-scale storage and interconnectors, keep diverse backup sources available, and recycle battery materials, so that the clear environmental benefits are captured without gambling on reliability."
     },
     fullParagraphsCN: {
-      introduction: "可再生能源近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然可再生能源具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "随着气候担忧加剧，可再生能源正在全球范围内取代化石燃料。尽管可再生能源提供清洁电力和不断下降的成本，但也存在间歇性和土地利用方面的挑战。本文将评估两者。",
+      body1: "可再生能源的主要优点是发电无需燃料成本也不产生碳排放，且价格持续下降。例如，2010年至2023年间太阳能发电成本下降约90%，据国际能源署称，它已成为世界大部分地区新建电力中最便宜的来源。丹麦一半以上的电力已来自风电，乌拉圭在十年内几乎把全国电网转为可再生能源，同时降低了排放和能源进口账单。可再生能源设施还创造了无法外包的制造和维护岗位，屋顶光伏让家庭摆脱波动的能源市场。这带来更清洁的空气、更强的能源安全，以及免受化石燃料依赖所招致的地缘政治冲击。",
+      body2: "主要缺点是间歇性：太阳不总是照耀，风不总是吹。例如，在平静的冬夜，德国庞大的风电装机有时几乎不发电，迫使该国重启煤电厂或从法国进口核电；南澳大利亚州2016年因风暴损毁输电设施而发生大停电。大规模储能仍然昂贵——电池只能支撑数小时而非数周——而庞大的太阳能电场和风力发电机占用土地，可能危害鸟类种群和自然景观。为电池和涡轮机开采锂、钴和稀土也在生产国造成污染和人权问题。因此，纯可再生能源电网仍需要备用容量和储能，这些都增加了隐性成本。",
+      conclusion: "总之，尽管存在间歇性和材料需求问题，可再生能源仍带来清洁且日益便宜的能源。明智的路径是有管理的转型：投资电网级储能和跨区域联网，保留多元备用电源，并回收电池材料，从而在不为可靠性冒险的前提下获得明确的环境效益。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "intermittency",
+      "grid-scale storage",
+      "carbon emissions",
+      "energy security",
+      "rare earths",
+      "fossil fuel dependence",
+      "transmission infrastructure",
+      "rooftop solar",
+      "backup capacity",
+      "energy transition"
     ]
   },
   {
     id: 63,
-    title: "优缺点类 - 全球化食品",
+    title: "优缺点类 - 全球食品贸易",
     type: "advantages/disadvantages",
-    topic: "Discuss the advantages and disadvantages of global food trade.",
+    topic: "Discuss the advantages and disadvantages of the global food trade, where food is transported thousands of miles before it is eaten.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Modern supermarkets stock food from every corner of the planet. This global food trade provides [advantage], yet it also creates [disadvantage]. This essay will discuss both.",
+      body1: "The chief benefit of the global food trade is [advantage]. A clear example is [example]. This allows [benefit].",
+      body2: "Its most serious drawback is [disadvantage]. For instance, [example]. This results in [negative outcome].",
+      conclusion: "In conclusion, global food trade gives [positive summary] but costs [negative summary]. A balanced policy would [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "现代超市的货架上摆满来自地球每个角落的食品。这种全球食品贸易提供了[优点]，但也产生了[缺点]。本文将讨论两者。",
+      body1: "全球食品贸易的主要好处是[优点]。一个明显的例子是[例子]。这使得[好处]。",
+      body2: "它最严重的缺点是[缺点]。例如，[例子]。这导致[负面结果]。",
+      conclusion: "总之，全球食品贸易带来[正面总结]，但付出了[负面总结]的代价。平衡的政策应当[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Modern supermarkets stock food from every corner of the planet. This global food trade provides variety, low prices and food security, yet it also creates emissions and fragile supply chains. This essay will discuss both.",
+      body1: "The chief benefit of the global food trade is that it feeds people regardless of season or local conditions. A clear example is Northern Europe, where fresh vegetables would vanish for half the year without imports: British consumers eat Spanish tomatoes in January, while Middle Eastern countries with almost no farmland, such as the United Arab Emirates, feed entire populations through trade. Specialisation also lowers prices — regions grow what suits their climate best, from New Zealand lamb to Thai rice, and global competition keeps costs down. Crucially, trade provides insurance: when drought or flood destroys a national harvest, imports prevent famine. This allows diets to be more varied, nutritious and affordable than any single country could manage alone.",
+      body2: "Its most serious drawback is environmental cost and systemic fragility. For instance, air-freighted asparagus and perishable berries generate dozens of times more emissions per kilogram than local seasonal produce, and the food system as a whole accounts for roughly a third of global greenhouse gases. Long supply chains also break: when Russia invaded Ukraine in 2022, wheat exports collapsed and bread prices spiked from Egypt to Bangladesh, showing how dependent nations are on a few exporters. Small farmers in developing countries, meanwhile, compete against subsidised industrial agriculture and volatile world prices, and many abandon their land. This results in unnecessary emissions, vulnerability to distant shocks and the hollowing out of local food cultures.",
+      conclusion: "In conclusion, global food trade gives us variety, affordability and famine insurance but costs the climate and creates dependency. A balanced policy would favour regional supply for staples and seasonal produce, reserve long-distance trade for genuinely scarce goods, and invest in storage and diverse sourcing, so that efficiency never overrides resilience."
     },
     fullParagraphsCN: {
-      introduction: "全球食品贸易近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然全球食品贸易具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "现代超市的货架上摆满来自地球每个角落的食品。这种全球食品贸易提供了多样性、低价格和粮食安全，但也产生了排放和脆弱的供应链。本文将讨论两者。",
+      body1: "全球食品贸易的主要好处是它让人们不受季节和本地条件限制地获得食物。一个明显的例子是北欧：没有进口，那里半年没有新鲜蔬菜——英国消费者在一月吃到西班牙番茄，而阿联酋这样几乎没有耕地的中东国家靠贸易养活全部人口。专业化还降低了价格——各地区种植最适合其气候的作物，从新西兰羊肉到泰国大米，全球竞争压低了成本。至关重要的是，贸易提供了保险：当干旱或洪水摧毁一国收成时，进口能防止饥荒。这使得饮食比任何单一国家所能做到的更加多样、有营养且实惠。",
+      body2: "它最严重的缺点是环境成本和系统脆弱性。例如，空运芦笋和易腐浆果每公斤产生的排放是本地应季农产品的数十倍，而整个食品系统约占全球温室气体排放的三分之一。漫长的供应链也会断裂：2022年俄罗斯入侵乌克兰时，小麦出口骤减，从埃及到孟加拉国面包价格飙升，显示出各国对少数出口国的依赖程度。与此同时，发展中国家的小农户要与享受补贴的工业化农业和波动的世界价格竞争，许多人被迫放弃土地。这导致不必要的排放、对遥远冲击的脆弱性，以及本地饮食文化的空心化。",
+      conclusion: "总之，全球食品贸易带来多样性、实惠和饥荒保险，但付出了气候代价并制造了依赖。平衡的政策应当主粮和应季农产品优先区域供应，长途贸易留给真正稀缺的商品，并投资仓储和多元化采购，使效率永远不应凌驾于韧性之上。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "food miles",
+      "supply chain fragility",
+      "seasonal produce",
+      "food security",
+      "air-freighted",
+      "specialisation",
+      "greenhouse gas emissions",
+      "staples",
+      "food sovereignty",
+      "resilience"
     ]
   },
   {
     id: 64,
     title: "优缺点类 - 外包",
     type: "advantages/disadvantages",
-    topic: "Discuss the advantages and disadvantages of outsourcing.",
+    topic: "Discuss the advantages and disadvantages of companies outsourcing work to other countries.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Outsourcing has become a standard business strategy. Companies pursue it for [advantage], but it is criticised for [disadvantage]. This essay will examine both sides.",
+      body1: "The primary advantage of outsourcing is [advantage]. For example, [example]. This enables [benefit].",
+      body2: "The most significant disadvantage is [disadvantage]. For instance, [example]. This can lead to [negative outcome].",
+      conclusion: "In conclusion, outsourcing offers [positive summary] at the risk of [negative summary]. Companies should [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "外包已成为标准的商业战略。企业追求它以获得[优点]，但它也因[缺点]而受到批评。本文将审视两面。",
+      body1: "外包的主要优点是[优点]。例如，[例子]。这使得[好处]。",
+      body2: "最显著的缺点是[缺点]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "总之，外包提供[正面总结]，但有[负面总结]的风险。企业应当[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Outsourcing has become a standard business strategy. Companies pursue it for cost savings and global talent, but it is criticised for domestic job losses and quality risks. This essay will examine both sides.",
+      body1: "The primary advantage of outsourcing is dramatic cost reduction combined with access to scarce skills. For example, when a British bank moves its customer service centre to the Philippines or its software development to Poland, labour costs can fall by half or more, savings that fund lower prices, higher profits or further investment. India's technology sector illustrates the upside for receiving countries: firms like Infosys and TCS employ hundreds of thousands of well-paid engineers serving clients worldwide, and the industry transformed cities such as Bangalore into global hubs. Time zones can even become an asset — a project handed from London to Sydney at day's end keeps moving overnight. This enables companies to compete internationally while channelling income into developing economies.",
+      body2: "The most significant disadvantage is the destruction of domestic jobs and the loss of control over quality. For instance, when American manufacturers shifted production to Mexico and China, entire towns in states like Ohio and Michigan lost their economic foundations; research by economist David Autor links this China shock to lasting unemployment and social decline in affected regions. Service outsourcing carries its own risks: customers struggle with call centres staffed by agents reading scripts, and several airlines and banks have brought operations back home after quality complaints damaged their brands. Data security is another concern, since sensitive information crosses borders into jurisdictions with different privacy rules. This can lead to hollowed-out communities at home, frustrated customers abroad and political backlash against trade itself.",
+      conclusion: "In conclusion, outsourcing offers efficiency and shared prosperity at the risk of domestic dislocation and quality erosion. Companies should outsource selectively — keeping core expertise and customer-critical functions in-house — while governments invest in retraining so that displaced workers move into the higher-value jobs a globalised economy still creates."
     },
     fullParagraphsCN: {
-      introduction: "外包近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然外包具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "外包已成为标准的商业战略。企业追求它以降低成本、获取全球人才，但它也因国内岗位流失和质量风险而受到批评。本文将审视两面。",
+      body1: "外包的主要优点是大幅降低成本，同时获得稀缺技能。例如，当一家英国银行把客服中心迁往菲律宾、把软件开发迁往波兰时，人力成本可下降一半甚至更多，这些节省可用于降价、提高利润或进一步投资。印度科技行业展示了对接收国的好处：印孚瑟斯和塔塔咨询等公司雇用数十万高薪工程师服务全球客户，该行业把班加罗尔等城市变成了全球枢纽。时区甚至可以成为资产——伦敦下班时交给悉尼的项目整夜持续推进。这使企业能够在国际上竞争，同时把收入导入发展中经济体。",
+      body2: "最显著的缺点是国内岗位的流失和对质量控制的削弱。例如，当美国制造商把生产转移到墨西哥和中国时，俄亥俄、密歇根等州的整个城镇失去了经济基础；经济学家戴维·奥特的研究把这种「中国冲击」与受影响地区持续的失业和社会衰退联系起来。服务外包也有自身风险：客户苦于应对照本宣科的呼叫中心客服，多家航空公司和银行在质量投诉损害品牌后已把业务迁回国内。数据安全是另一个担忧，因为敏感信息跨越边境进入隐私法规不同的司法辖区。这可能导致国内社区空心化、国外客户失望，以及针对贸易本身的政治反弹。",
+      conclusion: "总之，外包提供效率和共享繁荣，但有国内动荡和质量滑坡的风险。企业应当有选择地外包——把核心专业能力和对客户至关重要的职能留在内部——同时政府投资再培训，让失业工人转入全球化经济仍在创造的高价值岗位。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "cost reduction",
+      "job displacement",
+      "call centre",
+      "offshoring",
+      "China shock",
+      "retraining",
+      "data security",
+      "labour costs",
+      "core expertise",
+      "political backlash"
     ]
   },
   {
     id: 65,
     title: "优缺点类 - 社交媒体营销",
     type: "advantages/disadvantages",
-    topic: "Discuss the advantages and disadvantages of social media marketing.",
+    topic: "Discuss the advantages and disadvantages of using social media for marketing.",
     structure: {
-      introduction: "[Topic] has become increasingly popular in recent years. This essay will examine the advantages and disadvantages of this trend.",
-      body1: "One of the main advantages of [topic] is [advantage1]. For example, [example1]. This contributes to [benefit1].",
-      body2: "However, there are also some disadvantages. One major drawback is [disadvantage1]. Additionally, [disadvantage2]. These issues can lead to [negative effect].",
-      conclusion: "Overall, while [topic] has clear benefits such as [advantage], it also has drawbacks like [disadvantage]. Proper management is essential to maximize the benefits."
+      introduction: "Social media has become an essential marketing channel. It promises [advantage], but it also entails [disadvantage]. This essay will evaluate both.",
+      body1: "The greatest marketing advantage of social media is [advantage]. A good example is [example]. This means [benefit].",
+      body2: "Its most dangerous disadvantage is [disadvantage]. For example, [example]. This can result in [negative outcome].",
+      conclusion: "In conclusion, social media marketing delivers [positive summary] but demands [negative summary]. Success requires [recommendation]."
     },
     structureCN: {
-      introduction: "[话题]既有优点也有缺点。我们需要平衡考虑。",
-      body1: "一方面，[优点]。例如，[例子1]。这表明[结论1]。",
-      body2: "另一方面，也有缺点，如[缺点]。研究表明[证据]。",
-      conclusion: "总之，[总结]。我们需要权衡利弊。"
+      introduction: "社交媒体已成为必不可少的营销渠道。它承诺[优点]，但也伴随着[缺点]。本文将评估两者。",
+      body1: "社交媒体营销最大的优点是[优点]。一个很好的例子是[例子]。这意味着[好处]。",
+      body2: "它最危险的缺点是[缺点]。例如，[例子]。这可能导致[负面结果]。",
+      conclusion: "总之，社交媒体营销带来[正面总结]，但需要面对[负面总结]。成功需要[建议]。"
     },
     fullParagraphs: {
-      introduction: " has become a significant trend in recent years, with both positive and negative implications. This essay will examine the advantages and disadvantages of this development.",
-      body1: "One of the main advantages is the convenience it offers. For example, many people now enjoy greater flexibility in their daily lives, which has improved work-life balance for countless individuals. This contributes to higher levels of satisfaction and well-being.",
-      body2: "However, there are also some notable disadvantages. One major concern is the potential for increased dependency, which can reduce self-reliance and resilience. Additionally, there may be unintended consequences that are not immediately apparent. These issues require careful consideration and proactive management.",
-      conclusion: "Overall, while  offers clear benefits such as convenience and efficiency, it also presents challenges like dependency and unforeseen consequences. Proper planning and mindful use are essential to maximize the advantages while minimizing the drawbacks."
+      introduction: "Social media has become an essential marketing channel. It promises precise targeting and direct customer relationships, but it also entails reputational volatility and dependence on algorithms. This essay will evaluate both.",
+      body1: "The greatest marketing advantage of social media is that it lets even tiny businesses reach exactly the right customers at minimal cost. A good example is the rise of direct-to-consumer brands: companies like Gymshark grew from a garage operation to a billion-pound business almost entirely through Instagram influencers and community content, without ever buying a television advertisement. Platforms' targeting tools allow a neighbourhood bakery to advertise only to users within five kilometres who follow baking accounts, something no billboard or newspaper could offer. Social channels also create two-way relationships — customers comment, share and defend brands they love, generating authentic word-of-mouth at scale. This means marketing budgets stretch further and customer loyalty deepens when the conversation feels genuine.",
+      body2: "Its most dangerous disadvantage is that brands lose control of their own narrative and become hostages to platform rules. For example, a single critical video can go viral and erase years of brand building overnight, as United Airlines discovered in 2017 when footage of a passenger being dragged from a flight was viewed hundreds of millions of times and its market value briefly fell by nearly a billion dollars. Meanwhile, organic reach has steadily collapsed — Facebook pages that once reached most followers now reach a few percent unless the company pays — so supposed free marketing becomes an escalating advertising bill. Algorithm changes can destroy a business model overnight, and influencer partnerships risk association with personal scandals. This can result in fragile visibility, unpredictable costs and reputational crises beyond any marketing team's control.",
+      conclusion: "In conclusion, social media marketing delivers unmatched targeting and engagement but demands constant vigilance against volatility. Success requires treating it as one channel among several: brands should build owned audiences through email lists and websites, monitor sentiment continuously, and never let a rented platform become their only home."
     },
     fullParagraphsCN: {
-      introduction: "社交媒体营销近年来已成为一个重要趋势，产生了积极和消极两方面的影响。本文将审视这一发展的优缺点。",
-      body1: "主要优点之一是它带来的便利。例如，许多人现在在日常生活中享受到了更大的灵活性，这改善了无数人的生活与工作的平衡。这有助于提高满意度和幸福感。",
-      body2: "然而，也存在一些显著的缺点。一个主要问题是可能导致依赖性增加，这会降低自主性和韧性。此外，可能存在一些并非立即显现的意外后果。这些问题需要仔细考虑和主动管理。",
-      conclusion: "总的来说，虽然社交媒体营销具有便利和效率等明显优势，但也带来了依赖性和不可预见后果等挑战。合理的规划和使用对于最大化优势同时最小化劣势至关重要。"
+      introduction: "社交媒体已成为必不可少的营销渠道。它承诺精准定向和直接的客户关系，但也伴随着声誉波动和对算法的依赖。本文将评估两者。",
+      body1: "社交媒体营销最大的优点是，它让哪怕极小的企业也能以极低成本触达恰好正确的客户。一个很好的例子是直接面向消费者品牌的崛起：Gymshark等公司从车库创业成长为十亿英镑企业，几乎完全依靠Instagram网红和社区内容，从未买过电视广告。各平台的定向工具允许一家社区面包房只向五公里内关注烘焙账号的用户投放广告，这是任何广告牌或报纸都做不到的。社交渠道还创造双向关系——客户评论、分享并捍卫他们喜爱的品牌，规模化地产生真实的口碑。这意味着当对话显得真诚时，营销预算花得更值，客户忠诚度也更深。",
+      body2: "它最危险的缺点是品牌失去对自身叙事的控制，并沦为平台规则的人质。例如，一条批评视频可能一夜之间疯传，抹掉多年的品牌建设——美联航2017年就深有体会，当时一名乘客被拖下航班的画面被观看了数亿次，其市值一度蒸发近十亿美元。与此同时，自然触达持续崩塌——曾经能触达大多数粉丝的脸书主页，如今不付费只能触达百分之几——所谓的免费营销变成了不断攀升的广告账单。算法变更可以一夜之间摧毁一种商业模式，网红合作则可能因对方个人丑闻而受牵连。这可能导致脆弱的可见度、不可预测的成本，以及超出任何营销团队控制的声誉危机。",
+      conclusion: "总之，社交媒体营销带来无与伦比的定向和互动，但需要时刻警惕波动。成功需要把它当作众多渠道之一：品牌应通过邮件列表和官网建立自己的受众，持续监测舆情，永远不让租来的平台成为唯一的家。"
     },
     vocabulary: [
-      "beneficial",
-      "detrimental",
-      "significant",
-      "substantial",
-      "considerable",
-      "potential",
-      "major"
+      "targeting",
+      "influencer",
+      "organic reach",
+      "brand loyalty",
+      "viral",
+      "reputational crisis",
+      "word-of-mouth",
+      "algorithm",
+      "direct-to-consumer",
+      "engagement"
     ]
   },
   {
