@@ -1274,37 +1274,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer traditional education, while others prefer modern methods such as online learning. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Opinions are divided over [topic]. While some people favour [view1], others believe that [view2]. This essay will discuss both standpoints and explain why I support [my position].",
+      body1: "On the one hand, proponents of [view1] point to [main reason]. For example, [specific example]. This demonstrates that [implication].",
+      body2: "On the other hand, supporters of [view2] argue that [main reason]. A good illustration is [specific example], which shows [implication].",
+      conclusion: "In my view, [my opinion]. Although [concession], I believe that [justification]. Overall, [closing thought]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "关于[话题]人们意见不一。一些人支持[观点1]，另一些人认为[观点2]。本文将讨论两种立场，并说明我为什么支持[我的立场]。",
+      body1: "一方面，[观点1]的支持者指出[主要原因]。例如，[具体例子]。这表明[推论]。",
+      body2: "另一方面，[观点2]的支持者认为[主要原因]。一个很好的例证是[具体例子]，这说明[推论]。",
+      conclusion: "在我看来，[我的观点]。尽管[让步]，但我认为[理由]。总的来说，[收尾思考]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer traditional education, while others prefer modern methods such as online learning.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "The rapid expansion of digital technology has divided opinion on how education should be delivered. While some people remain loyal to traditional classroom teaching, others argue that online learning represents the future. This essay will examine both sides of the argument before explaining why I believe a blended model is the most effective.",
+      body1: "On the one hand, supporters of traditional education highlight the irreplaceable value of face-to-face interaction. In a physical classroom, teachers can read students' expressions, adjust their pace instantly and provide immediate feedback, which is difficult to replicate through a screen. Moreover, schools cultivate discipline and social skills, because children learn to cooperate, resolve conflicts and follow routines. A 2022 OECD study on collaborative problem-solving, for example, found that students who regularly took part in in-person group work outperformed their peers in teamwork assessments. For young learners especially, the structured environment of a real classroom provides a stability that self-directed online study often lacks.",
+      body2: "On the other hand, advocates of modern methods emphasise flexibility and access. Online platforms allow learners to study at their own pace, revisit recorded lectures and choose courses offered by top universities at a fraction of the traditional cost. This is particularly transformative for people in remote regions: a student in rural Yunnan, for instance, can now attend live classes from Tsinghua University without leaving home. During the COVID-19 pandemic, platforms such as Zoom and DingTalk enabled hundreds of millions of students worldwide to continue their education uninterrupted, proving that digital delivery can be scaled rapidly when needed.",
+      conclusion: "In my opinion, neither extreme is ideal; a blended approach that combines classroom interaction with digital resources offers the best of both worlds. Traditional schooling remains essential for developing social and emotional skills, while online tools personalise revision and widen access to knowledge. Overall, the future of education lies not in choosing one method over the other, but in integrating them intelligently."
     },
     fullParagraphsCN: {
-      introduction: "关于传统教育与现代教育方法存在持续争论。一些人认为传统教育更优，而另一些人认为在线学习等现代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "数字技术的迅速扩张使人们对教育应如何开展产生了分歧。一些人仍然忠于传统课堂教学，另一些人则认为在线学习代表着未来。本文将探讨争论的双方，然后解释为什么我认为混合式模式最为有效。",
+      body1: "一方面，传统教育的支持者强调面对面互动不可替代的价值。在实体课堂中，教师可以观察学生的表情、即时调整节奏并提供即时反馈，这很难通过屏幕复制。此外，学校培养纪律性和社交技能，因为孩子们学会合作、解决冲突并遵守常规。例如，经合组织2022年一项关于协作解决问题的研究发现，经常参加线下小组活动的学生在团队合作评估中表现优于同龄人。尤其对年幼学习者而言，真实课堂的结构化环境提供了自主在线学习往往缺乏的稳定性。",
+      body2: "另一方面，现代方法的倡导者强调灵活性和可及性。在线平台允许学习者按自己的节奏学习、重温录播课程，并以远低于传统成本的价格选修顶尖大学的课程。这对偏远地区的人们尤其具有变革意义：例如，云南农村的学生现在足不出户就能参加清华大学的直播课。新冠疫情期间，Zoom和钉钉等平台使全球数亿学生得以不间断地继续学业，证明数字化教学在需要时可以迅速规模化。",
+      conclusion: "在我看来，两个极端都不理想；将课堂互动与数字资源相结合的混合方式能兼顾两者之长。传统学校教育对培养社交和情感技能仍然必不可少，而在线工具则能实现个性化复习并拓宽获取知识的渠道。总的来说，教育的未来不在于二选一，而在于明智地将两者整合。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "blended learning",
+      "face-to-face interaction",
+      "immediate feedback",
+      "self-paced",
+      "accessibility",
+      "digital platform",
+      "structured environment",
+      "collaborative skills",
+      "recorded lectures",
+      "personalise"
     ]
   },
   {
@@ -1313,37 +1316,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer to live in cities, while others prefer rural areas. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Few decisions shape daily life as much as [topic]. Some people thrive in [view1 setting], whereas others feel at home in [view2 setting]. This essay will explore both preferences and argue that [my opinion].",
+      body1: "Supporters of [view1] typically cite [reason]. Take [example] as an example: [detail]. Clearly, [implication].",
+      body2: "Those who prefer [view2], however, value [reason]. For instance, [example]. This suggests that [implication].",
+      conclusion: "Personally, I believe [my opinion], because [reason]. Ultimately, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "很少有决定像[话题]那样深刻地影响日常生活。一些人在[观点1的环境]中如鱼得水，而另一些人则在[观点2的环境]中感到自在。本文将探讨两种偏好，并论证[我的观点]。",
+      body1: "[观点1]的支持者通常提到[原因]。以[例子]为例：[细节]。显然，[推论]。",
+      body2: "然而，偏爱[观点2]的人看重[原因]。例如，[例子]。这表明[推论]。",
+      conclusion: "我个人认为[我的观点]，因为[原因]。归根结底，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer to live in cities, while others prefer rural areas.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Where people choose to live has a profound impact on their quality of life. Some are drawn to the excitement and opportunity of big cities, whereas others prefer the tranquillity of the countryside. This essay will consider the appeal of each lifestyle and argue that the best choice depends largely on one's stage of life.",
+      body1: "Those who favour urban living usually point to career prospects and public services. Large cities concentrate jobs in finance, technology and the creative industries, offering salaries and promotion paths that small towns simply cannot match. In addition, residents enjoy first-class hospitals, universities and cultural venues within a short commute. Shanghai illustrates this well: its metro system, international schools and specialist hospitals attract ambitious professionals from across China, and surveys repeatedly show that young graduates rate big cities higher for personal development and networking.",
+      body2: "Those who prefer rural areas, however, value benefits that money cannot easily buy. Housing is far cheaper, the air is cleaner, and tight-knit communities provide a strong sense of belonging that anonymous city blocks rarely offer. The slower pace of life reduces stress and leaves more time for family. Since the pandemic, remote working has made this option realistic for many: in the United Kingdom, for instance, thousands of employees relocated to villages in Wales and Scotland, reporting higher life satisfaction despite lower pay. Such moves also help revive local economies that had been declining for decades.",
+      conclusion: "In my opinion, city life suits people in the early and middle stages of their careers, while the countryside is ideal for raising children or enjoying retirement. The two environments serve different needs rather than competing absolutely. Ultimately, modern technology increasingly allows individuals to combine urban opportunity with rural peace, and that flexibility should be welcomed."
     },
     fullParagraphsCN: {
-      introduction: "关于传统教育与现代教育方法存在持续争论。一些人认为传统教育更优，而另一些人认为在线学习等现代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "人们选择住在哪里对生活质量有深远影响。一些人被大城市的活力与机遇所吸引，而另一些人更喜欢乡村的宁静。本文将考量两种生活方式各自的吸引力，并论证最佳选择很大程度上取决于人生阶段。",
+      body1: "赞成城市生活的人通常指出职业前景和公共服务。大城市集中了金融、科技和创意产业的工作岗位，提供小城镇根本无法匹敌的薪资和晋升通道。此外，居民短途通勤即可享受一流的医院、大学和文化场所。上海很好地说明了这一点：其地铁系统、国际学校和专科医院吸引了全国雄心勃勃的专业人才，多项调查一再显示，年轻毕业生认为大城市更有利于个人发展和人脉积累。",
+      body2: "然而，偏爱乡村地区的人看重金钱难以买到的好处。住房便宜得多，空气更清新，紧密的社区提供了城市匿名街区很少能给予的归属感。较慢的生活节奏减轻压力，留出更多陪伴家人的时间。疫情以来，远程办公使这一选择变得切实可行：例如在英国，数千名员工迁居威尔士和苏格兰的村庄，尽管薪资降低，生活满意度却更高。这类迁移还帮助振兴了数十年来持续衰落的地方经济。",
+      conclusion: "在我看来，城市生活适合处于职业生涯早期和中期的人，而乡村则是养育子女或安享退休生活的理想之地。两种环境满足不同需求，而非绝对对立。归根结底，现代技术正日益让人们兼得城市机遇与乡村宁静，这种灵活性值得欢迎。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "career prospects",
+      "public services",
+      "tranquillity",
+      "tight-knit community",
+      "pace of life",
+      "remote working",
+      "life satisfaction",
+      "quality of life",
+      "commute",
+      "networking"
     ]
   },
   {
@@ -1352,37 +1358,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think face-to-face communication is better than online communication, while others disagree. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "The rise of [technology/topic] has sparked debate about [issue]. Some claim that [view1], while others maintain that [view2]. This essay will assess both claims before presenting my own view.",
+      body1: "On the one hand, it is argued that [view1] because [reason]. Evidence for this can be seen in [example], where [detail].",
+      body2: "On the other hand, there are strong grounds for [view2]. In particular, [reason], as illustrated by [example].",
+      conclusion: "Having considered both sides, I would argue that [my opinion]. This is because [reason]. In conclusion, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "[技术/话题]的兴起引发了关于[问题]的争论。一些人声称[观点1]，而另一些人坚持认为[观点2]。本文将评估两种说法，然后提出我自己的观点。",
+      body1: "一方面，有人认为[观点1]，因为[原因]。[例子]可以证明这一点，其中[细节]。",
+      body2: "另一方面，[观点2]也有充分依据。特别是[原因]，正如[例子]所示。",
+      conclusion: "权衡双方之后，我认为[我的观点]。这是因为[原因]。总之，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think face-to-face communication is better than online communication, while others disagree.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Communication technology has transformed the way people interact, prompting debate about whether meeting in person still matters. Some claim that face-to-face contact is inherently superior, while others maintain that online communication is the more practical choice. This essay will assess both claims before presenting my own view.",
+      body1: "On the one hand, it is argued that face-to-face communication is better because non-verbal signals carry a large share of meaning. Facial expressions, gestures and tone of voice reveal emotions that are easily lost or distorted on a screen, and meeting in the flesh builds trust far more quickly. Evidence for this can be seen in high-stakes negotiations and medical consultations, which still tend to happen in person: research frequently cited from UCLA psychology suggests that body language accounts for a substantial portion of how a message is received, so physical presence clearly deepens mutual understanding.",
+      body2: "On the other hand, there are strong grounds for preferring online channels in many situations. Video calls connect colleagues across continents in seconds, eliminating travel costs and saving enormous amounts of time. During the pandemic, platforms such as Zoom and Tencent Meeting allowed businesses, schools and even court hearings to function despite lockdowns, proving the resilience of digital interaction. Moreover, online messages create automatic written records, which improves accountability in workplaces. For routine updates and long-distance relationships, logging on is simply more efficient than travelling.",
+      conclusion: "Having considered both sides, I would argue that the context should determine the channel: sensitive conversations, first meetings and conflict resolution deserve face-to-face contact, whereas routine coordination is best handled online. This is because each medium compensates for the other's weaknesses. In conclusion, technology should complement rather than replace genuine human presence, and using each tool wisely produces the strongest relationships."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为面对面沟通比在线沟通更好，而另一些人则不同意这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "通信技术改变了人们的互动方式，引发了关于当面交流是否仍然重要的争论。一些人声称面对面交流本质上更优越，而另一些人坚持认为线上沟通是更务实的选择。本文将评估两种说法，然后提出我自己的观点。",
+      body1: "一方面，有人认为面对面沟通更好，因为非语言信号承载了大部分意义。面部表情、手势和语调所传达的情绪在屏幕上很容易丢失或失真，而亲身见面能更快建立信任。高风险的谈判和医疗问诊可以证明这一点，它们至今仍倾向于当面进行：加州大学洛杉矶分校心理学中经常被引用的研究表明，肢体语言在信息接收中占相当大比例，因此身体在场显然能加深相互理解。",
+      body2: "另一方面，在许多情况下偏爱线上渠道也有充分依据。视频通话能在几秒钟内连接跨大洲的同事，省去差旅费用并节省大量时间。疫情期间，Zoom和腾讯会议等平台使企业、学校甚至法庭听证在封锁中仍能运转，证明了数字互动的韧性。此外，线上信息会自动留下书面记录，提高了工作场所的问责性。对于日常汇报和异地联络，上线显然比奔波更高效。",
+      conclusion: "权衡双方之后，我认为应由情境决定渠道：敏感谈话、初次见面和冲突解决值得当面进行，而日常协调最好在线处理。这是因为每种媒介恰好弥补对方的弱点。总之，技术应补充而非取代真实的人际在场，明智地运用每种工具才能建立最牢固的关系。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "non-verbal cues",
+      "build trust",
+      "video conferencing",
+      "accountability",
+      "physical presence",
+      "conflict resolution",
+      "travel costs",
+      "digital channel",
+      "mutual understanding"
     ]
   },
   {
@@ -1391,37 +1399,40 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people believe self-study is more effective, while others think classroom learning is better. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "[Topic] divides learners into two camps: those who champion [view1] and those who defend [view2]. This essay will look at both sides and explain why I believe [my opinion].",
+      body1: "On the one hand, [view1] offers clear advantages, chiefly [reason]. A striking example is [example], which proves that [implication].",
+      body2: "On the other hand, [view2] provides benefits that [view1] cannot match, above all [reason]. For example, [example] demonstrates [implication].",
+      conclusion: "In my view, [my opinion]. While [concession], the evidence suggests [justification]. Overall, [closing]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "[话题]将学习者分为两大阵营：拥护[观点1]的人和捍卫[观点2]的人。本文将审视双方，并解释为什么我认为[我的观点]。",
+      body1: "一方面，[观点1]有明显优势，主要是[原因]。一个突出的例子是[例子]，它证明[推论]。",
+      body2: "另一方面，[观点2]提供了[观点1]无法比拟的好处，最重要的是[原因]。例如，[例子]表明[推论]。",
+      conclusion: "在我看来，[我的观点]。虽然[让步]，但证据表明[理由]。总的来说，[收尾]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people believe self-study is more effective, while others think classroom learning is better.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Education is no longer confined to the classroom, and learners increasingly ask whether studying alone is as effective as formal lessons. Some champion the freedom of self-study, while others defend the structure of classroom teaching. This essay will look at both sides and explain why I believe the two methods work best in sequence.",
+      body1: "On the one hand, self-study offers clear advantages, chiefly complete control over pace and content. Motivated individuals can skip material they already know, linger on difficult concepts and choose resources that suit their learning style. A striking example is the software industry, where countless developers have built successful careers by teaching themselves through online documentation and open-source projects, without any formal computer science training. Free platforms such as Khan Academy and Coursera have made high-quality material available to anyone with an internet connection, dramatically lowering the barrier to independent learning.",
+      body2: "On the other hand, classroom learning provides benefits that self-study cannot match, above all expert feedback and social motivation. A skilled teacher identifies misconceptions immediately and adjusts explanations accordingly, while classmates create healthy competition and emotional support. Language learning demonstrates this clearly: students who attend regular speaking classes typically achieve fluency faster than those studying alone, because teachers correct pronunciation errors that learners cannot hear themselves. Moreover, fixed schedules and deadlines combat procrastination, which defeats many independent learners before they reach their goals.",
+      conclusion: "In my view, the two approaches are complementary rather than rivals. Classroom instruction is indispensable for building solid foundations, particularly in the early stages, while self-study becomes increasingly valuable as learners mature and specialise. While freedom motivates some students, the evidence suggests that most people need guidance first. Overall, the most successful learners combine structured lessons with disciplined independent practice, drawing strength from both traditions."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为自学更有效，而另一些人认为课堂学习更好这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "教育已不再局限于课堂，学习者越来越多地问：独自学习是否与正规课程同样有效。一些人拥护自学的自由，另一些人则捍卫课堂教学的结构。本文将审视双方，并解释为什么我认为两种方法按先后顺序结合效果最佳。",
+      body1: "一方面，自学有明显优势，主要是能完全掌控进度和内容。有动力的人可以跳过已掌握的内容，在难点上多花功夫，并选择适合自己学习风格的资源。一个突出的例子是软件行业，无数开发者通过在线文档和开源项目自学成才，在没有任何正规计算机科班训练的情况下建立了成功的职业生涯。可汗学院和Coursera等免费平台让任何能上网的人都能获得高质量学习材料，大幅降低了独立学习的门槛。",
+      body2: "另一方面，课堂学习提供了自学无法比拟的好处，最重要的是专家反馈和社交动力。优秀的教师能立即发现学生的误解并相应调整讲解，而同学之间则形成良性竞争和情感支持。语言学习清楚地证明了这一点：定期上口语课的学生通常比独自学习者更快达到流利，因为老师会纠正学习者自己听不出的发音错误。此外，固定的时间表和截止日期能对抗拖延，而拖延正是许多独立学习者在达成目标前失败的原因。",
+      conclusion: "在我看来，两种方式相辅相成而非相互对立。课堂教学对打下坚实基础不可或缺，尤其在早期阶段；而自学则随着学习者的成熟和专业化变得越来越有价值。虽然自由能激励部分学生，但证据表明大多数人需要先获得引导。总的来说，最成功的学习者将结构化课程与自律的独立练习相结合，从两种传统中汲取力量。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "self-directed",
+      "autonomy",
+      "structured curriculum",
+      "expert feedback",
+      "procrastination",
+      "open-source",
+      "fluency",
+      "misconception",
+      "complementary",
+      "learning style"
     ]
   },
   {
@@ -1430,37 +1441,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer to save money, while others enjoy spending it. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "People differ sharply over [topic]. For some, [view1] is the only sensible course, whereas others insist that [view2]. This essay will discuss both philosophies before concluding that [my opinion].",
+      body1: "Those who advocate [view1] do so mainly because [reason]. The experience of [example] shows that [implication].",
+      body2: "Conversely, supporters of [view2] contend that [reason]. Consider [example]: [detail]. This highlights [implication].",
+      conclusion: "On balance, I side with the view that [my opinion], since [reason]. Ultimately, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "人们在[话题]上分歧很大。对一些人来说，[观点1]是唯一明智的做法，而另一些人坚持认为[观点2]。本文将讨论两种观念，最后得出[我的观点]的结论。",
+      body1: "倡导[观点1]的人主要因为[原因]。[例子]的经历表明[推论]。",
+      body2: "相反，[观点2]的支持者主张[原因]。以[例子]为例：[细节]。这凸显了[推论]。",
+      conclusion: "权衡之下，我支持[我的观点]，因为[原因]。归根结底，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer to save money, while others enjoy spending it.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Money management divides people into savers and spenders, each convinced their philosophy is wiser. For some, saving every spare penny is the only sensible course, whereas others insist that money is meant to be enjoyed in the present. This essay will discuss both philosophies before concluding that a deliberate balance is the soundest approach.",
+      body1: "Those who advocate saving do so mainly because it guarantees security and long-term freedom. An emergency fund cushions families against job losses, medical bills and other shocks, while steady saving enables major goals such as buying a home or funding a child's education. The experience of the COVID-19 pandemic shows that households with savings weathered lockdowns far better than those living from pay cheque to pay cheque, and countries with high household savings rates, such as Singapore, recovered with less social pain. Saving also buys independence, allowing people to change careers or retire earlier without fear.",
+      body2: "Conversely, supporters of spending contend that money is a tool for living well now, not a trophy to be hoarded. Travel, hobbies and shared experiences create memories and personal growth that no bank balance can provide, and pleasures postponed indefinitely may never return. Consider the wider economy as well: household consumption accounts for the majority of GDP in most developed nations, so excessive caution during downturns can actually deepen recessions. This highlights the fact that someone who saves obsessively but never invests in health, education or relationships may end up wealthy in money yet poor in life.",
+      conclusion: "On balance, I side with the view that extreme positions in either direction are unwise. A sensible rule is to save a fixed proportion of income first, then spend the remainder without guilt on things that genuinely improve life. Ultimately, financial wellbeing comes from balancing future security against present happiness rather than sacrificing one for the other."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人更喜欢存钱，而另一些人喜欢花钱这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "理财方式把人分为储蓄派和消费派，双方都坚信自己的观念更明智。对一些人来说，省下每一分闲钱是唯一明智的做法，而另一些人坚持认为钱就是用来当下享受的。本文将讨论两种观念，最后得出审慎平衡才是最稳妥之道的结论。",
+      body1: "倡导储蓄的人主要因为储蓄能保障安全和长期自由。应急基金能缓冲失业、医疗账单等意外冲击，而持续储蓄能实现购房或资助子女教育等重大目标。新冠疫情的经历表明，有储蓄的家庭比月光家庭更能安然度过封锁期；像新加坡这样家庭储蓄率高的国家，经济复苏时社会阵痛也更小。储蓄还能换来独立自主，让人无惧地转换职业或提前退休。",
+      body2: "相反，消费派主张钱是过好当下生活的工具，而非囤积的奖杯。旅行、爱好和共同体验创造了任何银行余额都无法提供的回忆和个人成长，无限期推迟的享受可能永远不会再来。再从整体经济来看：家庭消费在多数发达国家占GDP的大头，因此经济下行期过度节俭反而可能加深衰退。这凸显了一个事实：一个拼命储蓄却从不在健康、教育或人际关系上投入的人，最终可能金钱上富有、生活上贫穷。",
+      conclusion: "权衡之下，我支持任何极端都不可取的观点。明智的法则是先把收入的固定比例存起来，再无愧疚地把余下的钱花在真正改善生活的事情上。归根结底，财务健康来自未来保障与当下幸福之间的平衡，而非牺牲一方成全另一方。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "emergency fund",
+      "household savings rate",
+      "consumption",
+      "financial security",
+      "pay cheque to pay cheque",
+      "long-term goals",
+      "recession",
+      "mindful spending",
+      "independence"
     ]
   },
   {
@@ -1469,37 +1482,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer public healthcare, while others choose private healthcare. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Healthcare systems around the world reflect a fundamental disagreement: [view1] versus [view2]. This essay will examine both models and argue that [my opinion].",
+      body1: "Advocates of [view1] emphasise [reason]. For example, [example], where [detail]. This proves that [implication].",
+      body2: "Supporters of [view2], by contrast, stress [reason]. In [example], [detail], which demonstrates [implication].",
+      conclusion: "In my opinion, [my opinion]. The ideal system would [suggestion]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "世界各国的医疗体系反映了一个根本分歧：[观点1]与[观点2]之争。本文将审视两种模式，并论证[我的观点]。",
+      body1: "[观点1]的倡导者强调[原因]。例如，在[例子]，[细节]。这证明[推论]。",
+      body2: "相比之下，[观点2]的支持者强调[原因]。在[例子]，[细节]，这表明[推论]。",
+      conclusion: "在我看来，[我的观点]。理想的体系应当[建议]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer public healthcare, while others choose private healthcare.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Healthcare systems around the world reflect a fundamental disagreement: should medical care be a universal public service or a privately purchased product? Supporters of each model defend it passionately. This essay will examine both approaches and argue that a strong public foundation, supplemented by private options, serves society best.",
+      body1: "Advocates of public healthcare emphasise equality and social solidarity. When treatment is funded through taxation, nobody is denied care because of poverty, and preventive services keep the whole population healthier. For example, in the United Kingdom's National Health Service, patients receive treatment free at the point of use, which means a cleaner and a company director are treated according to medical need rather than wealth. This proves that public systems protect the vulnerable and reduce the fear of medical bankruptcy that haunts millions in countries without universal coverage.",
+      body2: "Supporters of private healthcare, by contrast, stress efficiency and choice. Competition between providers drives shorter waiting times, newer equipment and more personalised service. In Singapore's hybrid system, for instance, citizens can top up public provision with private insurance, and the country consistently achieves world-leading health outcomes while spending a smaller share of GDP than most Western nations. This demonstrates that market incentives, when regulated properly, can raise standards without abandoning universal protection.",
+      conclusion: "In my opinion, healthcare is too important to be left entirely to the market, yet pure state monopoly often breeds inefficiency. The ideal system would guarantee comprehensive public coverage for essential treatment while allowing private providers to offer faster or more comfortable alternatives. Overall, the goal should be a safety net that no one falls through, combined with the innovation that healthy competition encourages."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人更喜欢公共医疗，而另一些人选择私人医疗这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "世界各国的医疗体系反映了一个根本分歧：医疗应当是普惠的公共服务，还是私人购买的商品？两种模式的支持者都极力为其辩护。本文将审视两种方式，并论证以坚实的公共医疗为基础、辅以私人选择最能造福社会。",
+      body1: "公共医疗的倡导者强调平等与社会团结。当医疗费用由税收承担时，没有人会因贫困而被拒诊，预防性服务也让全体人口更健康。例如，在英国国家医疗服务体系（NHS）中，患者在就诊时免费获得治疗，这意味着清洁工和公司董事都按医疗需要而非财富多寡得到救治。这证明公共体系保护弱势群体，并让数百万人免于在没有全民医保的国家里挥之不去的医疗破产恐惧。",
+      body2: "相比之下，私人医疗的支持者强调效率和选择权。医疗机构之间的竞争推动更短的候诊时间、更新的设备和更个性化的服务。例如，在新加坡的混合体系中，公民可以用私人保险补充公共保障，该国以低于多数西方国家的GDP占比持续取得世界领先的健康成果。这表明，只要监管得当，市场激励可以在不放弃全民保障的前提下提高标准。",
+      conclusion: "在我看来，医疗太重要，不能完全交给市场，但纯粹的国家垄断又往往滋生低效。理想的体系应为基本治疗提供全面的公共保障，同时允许私人机构提供更快捷或更舒适的选择。总的来说，目标应当是既有无人会跌穿的安全网，又有良性竞争所激励的创新。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "universal coverage",
+      "medical bankruptcy",
+      "preventive care",
+      "waiting times",
+      "hybrid system",
+      "market incentives",
+      "safety net",
+      "social solidarity",
+      "taxation-funded"
     ]
   },
   {
@@ -1508,37 +1523,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer working in teams, while others prefer working alone. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Whether it is better to [view1] or [view2] is a question that divides opinion in workplaces and classrooms alike. This essay will consider both sides and argue that [my opinion].",
+      body1: "On the one hand, [view1] offers [advantage]. For instance, [example]. Therefore, [implication].",
+      body2: "On the other hand, [view2] brings [advantage]. A clear example is [example], where [detail]. Hence, [implication].",
+      conclusion: "In my view, [my opinion] because [reason]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "[观点1]好还是[观点2]好，这一问题在职场和课堂中都引发分歧。本文将考量双方，并论证[我的观点]。",
+      body1: "一方面，[观点1]带来[优势]。例如，[例子]。因此，[推论]。",
+      body2: "另一方面，[观点2]带来[优势]。一个明显的例子是[例子]，其中[细节]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]，因为[原因]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer working in teams, while others prefer working alone.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Whether it is better to work in a team or to work alone is a question that divides opinion in workplaces and classrooms alike. Each style has devoted followers. This essay will consider both sides and argue that the nature of the task should determine the approach.",
+      body1: "On the one hand, teamwork offers the power of combined expertise. Complex projects such as designing an aircraft or developing a smartphone application require engineers, designers, marketers and testers to coordinate, because no individual possesses all the necessary skills. For instance, the success of the Apollo space programme depended on the collaboration of around 400,000 people, and modern research shows that diverse groups consistently outperform lone individuals on complex problem-solving tasks. Therefore, for ambitious multi-disciplinary goals, working together is not optional but essential.",
+      body2: "On the other hand, working alone brings focus and personal accountability. A clear example is writing: novelists, researchers and programmers frequently produce their best work in solitude, free from meetings and interruptions. Deep, concentrated effort allows ideas to mature without compromise, and individuals receive full credit or blame for the results, which sharpens responsibility. Studies on productivity also find that open-plan offices, designed for collaboration, often reduce output because of constant distraction. Hence, for tasks demanding sustained concentration, solitude remains superior.",
+      conclusion: "In my view, neither mode is universally better because different tasks reward different structures: brainstorming and execution benefit from teamwork, while analysis and creative drafting flourish in solitude. Overall, the most effective professionals move fluidly between the two, collaborating to set direction and then withdrawing to do deep work. Employers should design environments that allow both."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人更喜欢团队合作，而另一些人更喜欢独自工作这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "团队工作好还是独自工作好，这一问题在职场和课堂中都引发分歧。两种风格都有忠实的追随者。本文将考量双方，并论证应由任务的性质决定采用哪种方式。",
+      body1: "一方面，团队合作汇聚了综合专业知识的力量。设计飞机或开发智能手机应用等复杂项目需要工程师、设计师、营销人员和测试人员的协作，因为没有任何个人掌握全部必要技能。例如，阿波罗登月计划的成功依靠约40万人的协作；现代研究也表明，多元化团队在处理复杂问题时始终优于单打独斗的个人。因此，对于雄心勃勃的跨学科目标，合作不是可选项，而是必需品。",
+      body2: "另一方面，独自工作带来专注和个人责任感。一个明显的例子是写作：小说家、研究者和程序员往往在独处时产出最佳作品，远离会议和干扰。深度专注让想法不经妥协地成熟，个人对结果承担全部功过，这强化了责任心。关于生产力的研究还发现，为协作设计的开放式办公室往往因持续干扰而降低产出。因此，对于需要持续专注的任务，独处仍然更胜一筹。",
+      conclusion: "在我看来，没有哪种模式普遍更优，因为不同任务需要不同结构：头脑风暴和执行受益于团队协作，而分析和创意草拟则在独处中蓬勃发展。总的来说，最高效的专业人士在两种模式间灵活切换——协作确定方向，然后退隐进行深度工作。雇主应当设计允许两者并存的环境。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "collaboration",
+      "combined expertise",
+      "deep work",
+      "accountability",
+      "brainstorming",
+      "open-plan office",
+      "productivity",
+      "multi-disciplinary",
+      "solitude"
     ]
   },
   {
@@ -1547,37 +1564,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think reading is more beneficial than watching television, while others disagree. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "In an age of screens, the old-fashioned habit of [view1 activity] competes with [view2 activity] for our attention. Some insist [view1], whereas others argue [view2]. This essay will weigh both sides and give my opinion.",
+      body1: "Proponents of [view1] argue that [reason]. Research shows that [evidence]. Moreover, [additional point].",
+      body2: "However, defenders of [view2] counter that [reason]. For example, [example]. This means [implication].",
+      conclusion: "In my opinion, [my opinion]. [Justification]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "在屏幕时代，[观点1的活动]这一老派习惯与[观点2的活动]争夺着我们的注意力。一些人坚持[观点1]，另一些人则认为[观点2]。本文将权衡双方并给出我的看法。",
+      body1: "[观点1]的支持者认为[原因]。研究表明[证据]。此外，[补充论点]。",
+      body2: "然而，[观点2]的捍卫者反驳说[原因]。例如，[例子]。这意味着[推论]。",
+      conclusion: "在我看来，[我的观点]。[理由]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think reading is more beneficial than watching television, while others disagree.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "In an age of screens, the old-fashioned habit of reading competes with television for our attention. Some insist that books develop the mind in ways screens never can, whereas others argue that television is an equally valuable window on the world. This essay will weigh both sides and give my opinion.",
+      body1: "Proponents of reading argue that it actively engages the brain rather than merely entertaining it. Decoding text forces readers to imagine characters, follow complex arguments and build vocabulary, which strengthens concentration and critical thinking. Research shows that children who read for pleasure score significantly higher not only in literacy but also in mathematics, according to long-term studies by the Institute of Education in London. Moreover, deep reading has been linked to greater empathy, because inhabiting a fictional character's mind trains us to understand real people.",
+      body2: "However, defenders of television counter that visual media can educate powerfully and accessibly. For example, documentaries such as the BBC's Planet Earth series bring science and nature to millions who would never open a textbook, combining expert narration with footage that took years to capture. Television also unites societies around shared events, from moon landings to World Cup finals, creating common cultural reference points. This means the medium's value depends on content quality rather than the technology itself, and dismissing all television ignores its genuine educational reach.",
+      conclusion: "In my opinion, reading remains the superior habit for developing imagination, language and sustained attention, though high-quality documentaries deserve a place in a balanced media diet. The passive nature of most television makes it easy to consume without thinking, whereas books demand active participation. Overall, choosing to read daily while watching selectively offers the richest intellectual life."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为阅读比看电视更有益，而另一些人则不同意这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "在屏幕时代，阅读这一老派习惯与电视争夺着我们的注意力。一些人坚持认为书籍以屏幕永远无法企及的方式开发心智，而另一些人则认为电视同样是观察世界的宝贵窗口。本文将权衡双方并给出我的看法。",
+      body1: "阅读的支持者认为，阅读主动调动大脑而非仅仅娱乐大脑。解码文字迫使读者想象人物、跟随复杂论证并积累词汇，从而增强专注力和批判性思维。研究表明，以阅读为乐的孩子不仅在读写能力上，在数学上的得分也显著更高——这是伦敦教育学院长期追踪研究的结论。此外，深度阅读与更强的同理心相关，因为沉浸于虚构人物的内心能训练我们理解现实中的人。",
+      body2: "然而，电视的捍卫者反驳说，视觉媒体能够强有力且无障碍地发挥教育作用。例如，BBC的《地球脉动》系列纪录片把科学与自然带给数百万永远不会翻开教科书的观众，将专家解说与耗时数年拍摄的影像结合在一起。电视还围绕共同事件凝聚社会——从登月到世界杯决赛——创造了共同的文化参照点。这意味着媒介的价值取决于内容质量而非技术本身，一概否定电视忽视了它真实的教育影响力。",
+      conclusion: "在我看来，对于培养想象力、语言能力和持续注意力，阅读仍是更优的习惯，不过高质量纪录片在均衡的媒介饮食中也应有一席之地。大多数电视节目的被动性质使人不费思考就能消费，而书籍则要求主动参与。总的来说，坚持每日阅读、有选择地观看电视，能带来最丰富的精神生活。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "critical thinking",
+      "empathy",
+      "documentary",
+      "passive consumption",
+      "literacy",
+      "sustained attention",
+      "imagination",
+      "educational content",
+      "media diet"
     ]
   },
   {
@@ -1586,37 +1605,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer package tours, while others prefer independent travel. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "When planning a trip, travellers face a basic choice: [view1] or [view2]. This essay will discuss the appeal of each option before arguing that [my opinion].",
+      body1: "Fans of [view1] point to [reason]. Take [example]: [detail]. As a result, [implication].",
+      body2: "Independent-minded travellers, by contrast, argue that [reason]. For instance, [example]. Consequently, [implication].",
+      conclusion: "In my view, [my opinion]. [Reason]. Ultimately, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "规划旅行时，旅行者面临一个基本选择：[观点1]还是[观点2]。本文将讨论两种选择各自的吸引力，然后论证[我的观点]。",
+      body1: "[观点1]的爱好者指出[原因]。以[例子]为例：[细节]。因此，[推论]。",
+      body2: "相比之下，崇尚独立的旅行者认为[原因]。例如，[例子]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[原因]。归根结底，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer package tours, while others prefer independent travel.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "When planning a trip, travellers face a basic choice: join a package tour or travel independently. Both styles attract millions of loyal followers every year. This essay will discuss the appeal of each option before arguing that the right choice depends on the traveller's experience and destination.",
+      body1: "Fans of package tours point to convenience and security. Everything from flights and hotels to museum tickets is arranged in advance, which removes the stress of planning and the risk of costly mistakes in unfamiliar countries. Take elderly Chinese tourists visiting Europe: language barriers and complex rail systems make independent travel daunting, so organised groups with Mandarin-speaking guides allow them to see the Louvre and the Swiss Alps comfortably and safely. As a result, package tours open the world to people who would otherwise never leave home, and bulk booking keeps prices surprisingly low.",
+      body2: "Independent travellers, by contrast, argue that freedom is the essence of travel. Without a fixed itinerary, they can linger in a Lisbon café, accept a local's dinner invitation or change plans when they discover a hidden village. For instance, backpackers through Southeast Asia routinely report that their most memorable experiences — a festival stumbled upon in Chiang Mai, a family homestay in Vietnam — happened precisely because no schedule forced them onward. Consequently, independent travel fosters genuine cultural exchange and personal growth that a forty-minute coach stop cannot replicate.",
+      conclusion: "In my view, both styles have their place: first-time visitors to challenging destinations gain confidence from organised tours, while experienced travellers thrive on spontaneity. Many people now blend the two, booking transport and hotels but exploring freely each day. Ultimately, the goal of travel is meaningful experience, and whichever style delivers it for a given person is the right one."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人更喜欢跟团游，而另一些人更喜欢自助游这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "规划旅行时，旅行者面临一个基本选择：参加跟团游还是自由行。两种方式每年都吸引数百万忠实拥趸。本文将讨论两种选择各自的吸引力，然后论证正确的选择取决于旅行者的经验和目的地。",
+      body1: "跟团游的爱好者指出其便利与安心。从机票、酒店到景点门票，一切都预先安排妥当，免去了规划的压力和在陌生国家犯下昂贵错误的风险。以赴欧的中国老年游客为例：语言障碍和复杂的铁路系统令自由行令人生畏，因此配备中文导游的旅行团让他们能舒适安全地游览卢浮宫和瑞士阿尔卑斯山。因此，跟团游为本可能终身不敢远行的人打开了世界，而且批量预订使价格出奇地低廉。",
+      body2: "相比之下，自由行旅行者认为自由才是旅行的本质。没有固定行程，他们可以在里斯本的咖啡馆里消磨一下午，接受当地人的晚餐邀请，或在发现隐秘村落时改变计划。例如，东南亚的背包客常说，他们最难忘的经历——在清迈偶遇的节日、在越南的民宿家庭——恰恰是因为没有行程催着他们赶路才得以发生。因此，自由行培养了真正的大巴车四十分钟停靠无法复制的文化交流和个人成长。",
+      conclusion: "在我看来，两种方式各有其适用场景：首次前往有挑战性目的地的游客能从旅行团中获得信心，而经验丰富的旅行者则在随性发挥中如鱼得水。如今许多人将两者结合——预订交通和酒店，但每天自由探索。归根结底，旅行的目标是获得有意义的体验，哪种方式能为特定的人实现它，哪种就是正确的选择。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "itinerary",
+      "package tour",
+      "backpacker",
+      "cultural exchange",
+      "spontaneity",
+      "language barrier",
+      "hidden gem",
+      "bulk booking",
+      "homestay"
     ]
   },
   {
@@ -1625,37 +1646,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think we should preserve traditional culture, while others think we should embrace modern culture. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Globalisation has sharpened an old dilemma: [view1] or [view2]? This essay will examine both positions and explain why I believe [my opinion].",
+      body1: "Those who defend [view1] warn that [reason]. When [example], [detail]. Therefore, [implication].",
+      body2: "Those who welcome [view2] reply that [reason]. In [example], for instance, [detail]. Hence, [implication].",
+      conclusion: "In my opinion, [my opinion]. [Explanation]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "全球化使一个古老的困境更加尖锐：[观点1]还是[观点2]？本文将审视两种立场，并解释为什么我认为[我的观点]。",
+      body1: "捍卫[观点1]的人警告说[原因]。当[例子]时，[细节]。因此，[推论]。",
+      body2: "欢迎[观点2]的人回应说[原因]。例如，在[例子]，[细节]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[解释]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think we should preserve traditional culture, while others think we should embrace modern culture.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Globalisation has sharpened an old dilemma: should societies preserve their traditional culture or embrace modern culture? The debate touches everything from language and food to architecture and values. This essay will examine both positions and explain why I believe preservation and renewal must go hand in hand.",
+      body1: "Those who defend tradition warn that losing cultural heritage means losing identity itself. Languages, festivals and crafts carry the accumulated wisdom of generations, and once extinct they cannot be recreated. When the last fluent speaker of an indigenous language dies, as happens roughly every two weeks somewhere in the world, an entire way of understanding nature and community vanishes with them. Japan offers a positive counter-example: its careful preservation of tea ceremonies, temples and kimono-making alongside hypermodern cities gives citizens a rootedness that purely futuristic societies lack. Therefore, safeguarding tradition anchors people in a disorienting age.",
+      body2: "Those who welcome modern culture reply that traditions are living things that must evolve or become museum pieces. Clinging to the past can entrench harmful customs, from gender inequality to resistance to scientific progress. In South Korea, for instance, the deliberate fusion of traditional music with pop production created K-pop, a global industry worth billions that spreads Korean culture further than preservation alone ever could. Hence, embracing modernity does not erase identity but translates it into forms new generations actually want to inherit.",
+      conclusion: "In my opinion, the choice is falsely framed. Cultures thrive when they preserve their core values while adapting their expression to contemporary life, as both Japan and Korea demonstrate. Societies should fund museums, language programmes and traditional crafts while also encouraging creative reinterpretation. Overall, a culture that only looks backwards becomes a relic, while one that only looks forwards becomes rootless; the healthiest societies manage to do both."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为我们应该保护传统文化，而另一些人认为我们应该拥抱现代文化这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "全球化使一个古老的困境更加尖锐：社会应当守护传统文化，还是拥抱现代文化？这场辩论涉及从语言、饮食到建筑和价值观的方方面面。本文将审视两种立场，并解释为什么我认为守护与更新必须并行。",
+      body1: "捍卫传统的人警告说，失去文化遗产就是失去身份本身。语言、节日和手工艺承载着世代积累的智慧，一旦消亡便无法再造。当世界上最后一位能流利使用某种原住民语言的人去世时——这大约每两周就在某地发生一次——一整套理解自然与社群的方式也随之消逝。日本提供了正面的反例：它在摩天都市之外精心守护茶道、寺庙和和服制作，赋予公民一种纯粹未来主义社会所缺乏的扎根感。因此，守护传统能让人在令人迷惘的时代有所依傍。",
+      body2: "欢迎现代文化的人回应说，传统是活的事物，必须演化，否则就会沦为博物馆展品。固守过去可能固化有害习俗——从性别不平等到抵制科学进步。例如在韩国，传统音乐与流行制作的刻意融合催生了K-pop，这个价值数十亿美元的全球性产业把韩国文化传播得比单纯保护所能及的范围更远。因此，拥抱现代性并非抹去身份，而是将其转译为新一代真正愿意继承的形式。",
+      conclusion: "在我看来，这种非此即彼的框定是错误的。正如日本和韩国所展示的，文化在守护核心价值的同时让表现形式适应当代生活时才会繁荣。社会应当资助博物馆、语言项目和传统工艺，同时鼓励创造性的重新诠释。总的来说，只向后看的文化会成为遗物，只向前看的文化会失去根基；最健康的社会两者兼顾。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "cultural heritage",
+      "identity",
+      "indigenous language",
+      "fusion",
+      "reinterpretation",
+      "rootedness",
+      "globalisation",
+      "living tradition",
+      "museum piece"
     ]
   },
   {
@@ -1664,37 +1687,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think governments should invest in arts, while others think they should invest in infrastructure. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Government budgets face a constant tug-of-war between [view1] and [view2]. This essay will examine both priorities and explain why I believe [my opinion].",
+      body1: "Advocates of [view1] argue that [reason]. Consider [example], where [detail]. This demonstrates [implication].",
+      body2: "Conversely, champions of [view2] point out that [reason]. In [example], for instance, [detail]. As a result, [implication].",
+      conclusion: "In my view, [my opinion]. [Justification]. Ultimately, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "政府预算在[观点1]和[观点2]之间不断拉锯。本文将审视两种优先事项，并解释为什么我认为[我的观点]。",
+      body1: "[观点1]的倡导者认为[原因]。以[例子]为例，其中[细节]。这表明[推论]。",
+      body2: "相反，[观点2]的拥护者指出[原因]。例如，在[例子]，[细节]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[理由]。归根结底，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think governments should invest in arts, while others think they should invest in infrastructure.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Government budgets face a constant tug-of-war between investment in the arts and investment in infrastructure such as roads, hospitals and schools. Each side claims its priority delivers greater public benefit. This essay will examine both positions and explain why I believe infrastructure must come first.",
+      body1: "Advocates of arts funding argue that culture enriches society beyond simple economic returns. Museums, theatres and music festivals enhance citizens' quality of life, attract tourism and preserve national identity. Consider the Bilbao Guggenheim Museum in Spain: when it opened in 1997, the building's daring architecture by Frank Gehry transformed a declining industrial city into a major cultural destination, increasing hotel bookings and local employment. This demonstrates that strategic arts investment can regenerate entire regions and give communities pride.",
+      body2: "Conversely, champions of infrastructure point out that basic services are prerequisites for any civilised life. Roads and public transport determine whether people can reach work, hospitals save lives, and clean water prevents disease. In many developing countries, for instance, millions of schoolchildren still walk for hours each day on unsafe paths, limiting attendance and academic progress; building even modest rural roads would transform educational and economic outcomes. As a result, infrastructure spending benefits the greatest number of people in the most direct way, and its absence traps communities in poverty.",
+      conclusion: "In my view, a government with limited funds should prioritise essential infrastructure, because health, safety and education are the foundations upon which cultural life later thrives. Arts funding is desirable once those foundations are secure, but not before. Ultimately, the most responsible policy is to ensure that every citizen has reliable roads and clean water, then to enrich life with the arts that those improvements make possible."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为政府应该投资艺术，而另一些人认为他们应该投资基础设施这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "政府预算在艺术投资和基础设施（如道路、医院和学校）投资之间不断拉锯。双方都声称自己的优先事项能带来更大的公共利益。本文将审视两种立场，并解释为什么我认为基础设施必须优先。",
+      body1: "艺术资金的倡导者认为，文化以超越简单经济回报的方式丰富社会。博物馆、剧院和音乐节提升公民生活质量、吸引旅游并维护国家认同。以西班牙毕尔巴鄂古根海姆博物馆为例：1997年开放时，弗兰克·盖里设计的前卫建筑将一座衰落的工业城市转变为重要的文化旅游目的地，酒店预订和本地就业随之增长。这表明战略性艺术投资能够振兴整个地区，并赋予社区自豪感。",
+      body2: "相反，基础设施的拥护者指出，基本服务是文明生活的先决条件。道路和公共交通决定人们能否上班，医院挽救生命，清洁水源预防疾病。例如，在许多发展中国家，数百万学童每天仍需在不安全的道路跋涉数小时，限制了出勤率和学业进步；哪怕修建简易的乡村公路，也能改变教育和经济成果。因此，基础设施支出以最直接的方式惠及最多的人，而缺乏基础设施会让社区陷入贫困。",
+      conclusion: "在我看来，资金有限的政府应优先保障基本基础设施，因为健康、安全和教育是文化生活日后繁荣的基础。一旦这些基础稳固，艺术投资才是可取的，但在此之前不宜优先。归根结底，最负责任的政策是确保每位公民都有可靠的道路和清洁的水源，然后再用那些改善所创造的条件来丰富生活。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "regenerate",
+      "prerequisite",
+      "tourism revenue",
+      "national identity",
+      "infrastructure",
+      "public benefit",
+      "transform",
+      "declining",
+      "foundation"
     ]
   },
   {
@@ -1703,37 +1728,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think family education is more important, while others think school education is more important. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "The question of whether [view1] or [view2] is more important has occupied thinkers for centuries. This essay will explore both perspectives before explaining why I believe [my opinion].",
+      body1: "On the one hand, those who emphasise [view1] note that [reason]. A clear example is [example], where [detail]. This suggests [implication].",
+      body2: "On the other hand, defenders of [view2] argue that [reason]. Take [example], for instance: [detail]. Hence, [implication].",
+      conclusion: "In my opinion, [my opinion]. While [concession], [justification]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "[观点1]和[观点2]哪个更重要的问题已困扰思想家数百年。本文将探讨两种视角，然后解释为什么我认为[我的观点]。",
+      body1: "一方面，强调[观点1]的人指出[原因]。一个明显的例子是[例子]，其中[细节]。这表明[推论]。",
+      body2: "另一方面，捍卫[观点2]的人认为[原因]。例如，以[例子]为例：[细节]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。虽然[让步]，但[理由]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think family education is more important, while others think school education is more important.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "The question of whether family education or school education is more important has occupied thinkers for centuries. Each environment shapes young minds differently. This essay will explore both perspectives before explaining why I believe the family lays the foundation, while the school builds the structure.",
+      body1: "On the one hand, those who emphasise family education note that values, habits and emotional security take root long before a child enters a classroom. A clear example is early language acquisition: children learn vocabulary, pronunciation and social rules mainly from parents and siblings during their first three years. Moreover, families transmit cultural identity and moral standards, from respect for elders to attitudes toward honesty. This suggests that without a supportive home environment, even the best school can achieve little, because children who arrive hungry, anxious or neglected cannot concentrate on lessons.",
+      body2: "On the other hand, defenders of school education argue that formal institutions introduce children to specialised knowledge, diverse perspectives and democratic interaction. Take Finland's education system, for instance: teachers there are highly trained, curricula emphasise critical thinking over rote memorisation, and students consistently rank among the world's top performers in mathematics and reading. Hence, schools offer resources, expert guidance and peer networks that most families cannot replicate at home, and they expose children to worldviews wider than their own neighbourhood.",
+      conclusion: "In my opinion, neither sphere can replace the other. Family education instils the love of learning, character and self-esteem that make formal schooling possible, while schools then teach the academic skills and social maturity needed for adult life. While some parents are exceptionally gifted educators, most children benefit enormously from professional teachers and diverse classmates. Overall, the greatest educational success comes when families and schools work in partnership, each reinforcing what the other provides."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为家庭教育更重要，而另一些人认为学校教育更重要这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "家庭教育和学校教育哪个更重要的问题已困扰思想家数百年。每种环境以不同方式塑造年轻的心智。本文将探讨两种视角，然后解释为什么我认为家庭奠定基础，学校构筑大厦。",
+      body1: "一方面，强调家庭教育的人指出，价值观、习惯和情感安全感在孩子进教室之前很久就已扎根。早期语言习得是一个明显的例子：儿童在头三年主要从父母和兄弟姐妹那里学习词汇、发音和社交规则。此外，家庭传递文化认同和道德标准——从尊敬长辈到对诚实的态度。这表明，如果没有支持性的家庭环境，即便最好的学校也收效甚微，因为饥饿、焦虑或被忽视的孩子无法专注于功课。",
+      body2: "另一方面，学校教育的捍卫者认为，正规机构让孩子接触专业知识、多元视角和民主互动。以芬兰的教育体系为例：那里的教师训练有素，课程强调批判性思维而非死记硬背，学生在数学和阅读上始终位列世界前茅。因此，学校提供大多数家庭无法在家中复制的资源、专业指导和同伴网络，并让孩子接触到比自家社区更宽广的世界观。",
+      conclusion: "在我看来，两者不可替代。家庭教育培养了对学习的热爱、品格和自尊，使正规学校教育成为可能；而学校则教授成人生活所需的学术技能和社交成熟度。虽然一些父母天生是卓越的教育者，但大多数孩子从专业教师和多元化同学中获益匪浅。总的来说，当家庭和学校携手合作、互相强化时，教育才能取得最大的成功。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "acquisition",
+      "transmit",
+      "rote memorisation",
+      "critical thinking",
+      "curriculum",
+      "self-esteem",
+      "values",
+      "moral standards",
+      "partnership"
     ]
   },
   {
@@ -1742,37 +1769,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer stable jobs, while others prefer starting their own business. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "At some point in life, almost everyone must choose between [view1] and [view2]. This essay will evaluate both paths before concluding that [my opinion].",
+      body1: "The appeal of [view1] is obvious: [reason]. In [example], [detail], which illustrates [implication].",
+      body2: "Nevertheless, those who take [view2] argue that [reason]. Consider [example]: [detail]. This means [implication].",
+      conclusion: "In my view, [my opinion]. [Reason]. Ultimately, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "几乎每个人在人生的某个时刻都必须在[观点1]和[观点2]之间做出选择。本文将评估两条路，然后得出[我的观点]的结论。",
+      body1: "[观点1]的吸引力显而易见：[原因]。在[例子]中，[细节]，这说明了[推论]。",
+      body2: "然而，选择[观点2]的人认为[原因]。以[例子]为例：[细节]。这意味着[推论]。",
+      conclusion: "在我看来，[我的观点]。[原因]。归根结底，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer stable jobs, while others prefer starting their own business.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "At some point in life, almost everyone must choose between the security of a stable job and the risks and rewards of starting their own business. Each path attracts different temperaments and circumstances. This essay will evaluate both paths before concluding that the right choice depends on personal circumstances and goals.",
+      body1: "The appeal of stable employment is obvious: a predictable salary, paid leave, pension contributions and legal protections. In countries such as Japan and Germany, large corporations have offered lifetime employment and generous benefits for decades, which gave workers the confidence to buy homes, raise families and plan long-term. During economic downturns, as seen in the 2008 financial crisis, employees of established firms were far less likely to lose everything than small business owners whose shops and restaurants folded overnight. This illustrates that stable jobs provide a social safety net that entrepreneurship simply cannot match.",
+      body2: "Nevertheless, those who choose entrepreneurship argue that independence, unlimited earning potential and the chance to build something meaningful outweigh the risks. Consider the story of the Chinese technology company ByteDance: founded by Zhang Yiming in 2012 with a small team, it grew into a global giant valued at hundreds of billions of dollars, creating tens of thousands of jobs worldwide. Moreover, even failed ventures teach resilience, adaptability and market insight that employees in rigid hierarchies rarely develop. This means that while most start-ups do not succeed, the experience itself is valuable, and the few that do transform industries.",
+      conclusion: "In my view, stable jobs suit people with family responsibilities, health concerns or limited savings, while entrepreneurship fits those with passion, resources and tolerance for failure. The question is not which path is superior in general, but which matches the individual's situation and ambitions. Ultimately, both employment and enterprise are vital to a thriving economy, and a healthy society supports both choices."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人更喜欢稳定的工作，而另一些人更喜欢创业这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "几乎每个人在人生的某个时刻都必须在稳定工作的安全感和创业的风险与回报之间做出选择。每条路吸引不同性格和处境的人。本文将评估两条路，然后得出正确的选择取决于个人情况和目标的结论。",
+      body1: "稳定就业的吸引力显而易见：可预测的工资、带薪假期、养老金缴纳和法律保护。在日本和德国等国家，大型企业几十年来提供终身雇佣和优厚福利，让员工有信心买房、养家和长期规划。在经济下行期间，正如2008年金融危机所示，老牌企业的员工远比小企业主安全——那些店主和餐馆老板一夜之间关门大吉。这说明稳定工作提供了一种创业根本无法匹敌的社会安全网。",
+      body2: "然而，选择创业的人认为，独立、无限的收入潜力和创造有意义事物的机会超过了风险。以字节跳动的故事为例：2012年张一鸣带着小团队创立，它成长为估值数千亿美元的全球巨头，在全球创造了数万个工作岗位。此外，即便失败的创业也教会了韧性、适应性和市场洞察力，这些是僵化层级中的员工很少能培养出来的。这意味着，虽然大多数初创企业不会成功，但经历本身就有价值，而少数成功的企业则能改变整个行业。",
+      conclusion: "在我看来，稳定工作适合有家庭责任、健康顾虑或积蓄有限的人，而创业则适合有热情、资源和承受失败能力的人。问题不在于哪条路普遍更优，而在于哪条符合个人的处境和抱负。归根结底，就业和创业对繁荣的经济都至关重要，健康的社会应当支持两种选择。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "predictable income",
+      "pension",
+      "entrepreneurship",
+      "resilience",
+      "adaptability",
+      "start-up",
+      "market insight",
+      "risk tolerance",
+      "economic downturn"
     ]
   },
   {
@@ -1781,37 +1810,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people prefer traditional shopping, while others prefer online shopping. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "The way people buy goods has changed dramatically, splitting consumers into [view1] and [view2]. This essay will compare the two approaches and argue that [my opinion].",
+      body1: "Supporters of [view1] highlight [reason]. For example, [example]. Consequently, [implication].",
+      body2: "Conversely, advocates of [view2] claim [reason]. Take [example]: [detail]. Thus, [implication].",
+      conclusion: "In my opinion, [my opinion]. [Reason]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "人们的购物方式发生了巨大变化，消费者分成了[观点1]派和[观点2]派。本文将比较两种方式，并论证[我的观点]。",
+      body1: "[观点1]的支持者强调[原因]。例如，[例子]。因此，[推论]。",
+      body2: "相反，[观点2]的倡导者声称[原因]。以[例子]为例：[细节]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[原因]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people prefer traditional shopping, while others prefer online shopping.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "The way people buy goods has changed dramatically, splitting consumers into those who prefer traditional shopping and those who shop online. Each method has clear advantages. This essay will compare the two approaches and argue that the best strategy depends on the product and the shopper's priorities.",
+      body1: "Supporters of traditional shopping highlight the sensory experience and immediacy that online stores cannot replicate. Shoppers can touch fabrics, test electronics and judge freshness with their own eyes before paying, which eliminates the disappointment of receiving something that looks different on a screen. For example, the luxury department store Harrods in London has thrived for over a century partly because it offers personal styling consultations and the chance to examine goods in person. Consequently, for items where quality, fit or taste matter, many consumers still trust their own judgement far more than website descriptions and reviews.",
+      body2: "Conversely, advocates of online shopping claim that convenience, selection and price transparency give it the edge. Take the annual Singles' Day sale on Chinese e-commerce platforms: in 2023, consumers bought over one trillion yuan of goods in a single twenty-four-hour period, thanks to deep discounts and one-click ordering that no physical mall could match. Moreover, user reviews and comparison tools help buyers make informed decisions without travelling between shops, and home delivery saves hours of commuting and queuing. Thus, for standardised products such as books, electronics and household staples, buying online is faster, cheaper and often more reliable.",
+      conclusion: "In my opinion, neither method will disappear, because they serve different needs. For everyday essentials and repeat purchases, online shopping is clearly superior, but for major decisions such as buying a sofa or a winter coat, physical inspection still matters. Overall, the smartest consumers use both: researching online, then visiting a store if the item demands careful evaluation."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人更喜欢传统购物，而另一些人更喜欢网上购物这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "人们的购物方式发生了巨大变化，消费者分成了偏爱传统购物和网上购物两派。每种方式都有明显优势。本文将比较两种方式，并论证最佳策略取决于商品和购物者的优先事项。",
+      body1: "传统购物的支持者强调线上商店无法复制的感官体验和即时性。购物者可以在付款前亲手触摸面料、测试电子产品、用眼睛判断新鲜度，这避免了收到与屏幕所见不同商品时的失望。例如，伦敦的哈罗德奢侈品百货已繁荣了一个多世纪，部分原因就在于它提供私人造型咨询和亲自检查商品的机会。因此，对于质量、合身度或口味至关重要的商品，许多消费者仍然远比网站描述和评论更相信自己的判断。",
+      body2: "相反，网购的倡导者声称，便利性、选择范围和价格透明度使其占据优势。以中国电商平台的双十一为例：2023年，消费者在24小时内购买了超过万亿元的商品，这要归功于深度折扣和一键下单——这是任何实体商场都无法匹敌的。此外，用户评价和比较工具帮助买家无需奔波于各店之间就能做出知情决策，送货上门则节省了通勤和排队的时间。因此，对于书籍、电子产品和家庭日用品等标准化商品，网购更快、更便宜，而且通常更可靠。",
+      conclusion: "在我看来，两种方式都不会消失，因为它们满足不同需求。对于日常必需品和重复购买，网购显然更胜一筹；但对于购买沙发或冬装等重大决策，实地检查仍然重要。总的来说，最聪明的消费者两者兼顾：先在线研究，如果商品需要仔细评估，再去实体店看看。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "sensory experience",
+      "price transparency",
+      "immediacy",
+      "one-click ordering",
+      "informed decision",
+      "standardised product",
+      "personal styling",
+      "comparison tools",
+      "home delivery"
     ]
   },
   {
@@ -1820,37 +1851,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think we should protect all animals, while others think we can use animals for human benefit. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "The relationship between humans and animals is one of the most contentious ethical questions today: [view1] or [view2]? This essay will discuss both positions and explain why I believe [my opinion].",
+      body1: "Those who advocate [view1] argue that [reason]. In [example], [detail]. This implies that [implication].",
+      body2: "On the other hand, supporters of [view2] maintain that [reason]. For instance, [example]. Therefore, [implication].",
+      conclusion: "In my opinion, [my opinion]. [Explanation]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "人与动物的关系是当今最具争议的伦理问题之一：[观点1]还是[观点2]？本文将讨论两种立场，并解释为什么我认为[我的观点]。",
+      body1: "倡导[观点1]的人认为[原因]。在[例子]中，[细节]。这意味着[推论]。",
+      body2: "另一方面，[观点2]的支持者坚持认为[原因]。例如，[例子]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[解释]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think we should protect all animals, while others think we can use animals for human benefit.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "The relationship between humans and animals is one of the most contentious ethical questions today: should all animals be protected from human use, or can they legitimately serve our needs? The debate affects diet, medicine and industry. This essay will discuss both positions and explain why I believe that protection and responsible use are compatible.",
+      body1: "Those who advocate complete protection argue that sentient beings deserve moral consideration regardless of species. They point to the suffering inflicted in factory farms, where animals are crowded in unsanitary conditions and slaughtered on an industrial scale. In 2019, for example, undercover investigations in several countries revealed that pigs and chickens were kept in spaces too small to turn around, with injuries untreated. This implies that if we recognise cruelty to dogs and cats as wrong, we should extend that principle to farm animals and laboratory subjects rather than drawing arbitrary lines based on human convenience.",
+      body2: "On the other hand, supporters of responsible use maintain that humans have always depended on animals for food, clothing and medical research, and that complete abolition is neither practical nor morally necessary. For instance, insulin for diabetes was first extracted from pigs, and even today many life-saving vaccines are tested on animals before human trials. Therefore, they argue, the ethical standard should be minimising suffering through strict welfare regulations rather than ending all use. Many indigenous communities also rely on hunting for both nutrition and cultural identity, and banning these practices would destroy livelihoods and traditions.",
+      conclusion: "In my opinion, the two extremes are unnecessary. We should protect animals from cruelty and habitat destruction while recognising that some human uses, such as necessary medical research and sustainable harvesting, can be justified when welfare standards are rigorous. Exploitation without compassion is indefensible, but so is a moral absolutism that ignores human needs. Overall, the goal should be a world in which animals live free from unnecessary suffering, and humans meet their needs responsibly."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为我们应该保护所有动物，而另一些人认为我们可以利用动物为人类造福这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "人与动物的关系是当今最具争议的伦理问题之一：是否应保护所有动物免受人类利用，还是它们可以正当地服务于我们的需求？这场辩论涉及饮食、医药和工业。本文将讨论两种立场，并解释为什么我认为保护与负责任的使用可以兼容。",
+      body1: "倡导完全保护的人认为，有感知能力的生命不论物种都应得到道德考量。他们指出工厂化养殖造成的痛苦：动物被拥挤在肮脏的环境中，以工业规模被屠宰。例如，2019年，多个国家的卧底调查揭示，猪和鸡被关在狭小得无法转身的空间里，伤口得不到治疗。这意味着，如果我们认为虐待猫狗是错误的，就应将这一原则延伸到农场动物和实验动物身上，而非仅仅根据人类的便利画一条武断的界线。",
+      body2: "另一方面，支持负责任使用的人坚持认为，人类历来依赖动物获取食物、衣物和医学研究，完全废除既不现实，在道德上也不必要。例如，糖尿病用的胰岛素最初从猪身上提取，时至今日，许多救命的疫苗仍需在动物身上测试后才能进行人体试验。因此，他们认为伦理标准应是通过严格的福利法规将痛苦降至最低，而非终止一切使用。许多原住民社区也依赖狩猎获取营养和文化认同，禁止这些做法将摧毁生计和传统。",
+      conclusion: "在我看来，两种极端都不必要。我们应保护动物免受虐待和栖息地破坏，同时认识到某些人类用途——如必要的医学研究和可持续采集——在福利标准严格时可以正当化。没有怜悯的利用是不可辩护的，但忽视人类需求的道德绝对主义也同样不可取。总的来说，目标应是建立一个动物免受不必要痛苦、人类负责任地满足自身需求的世界。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "sentient",
+      "factory farming",
+      "moral consideration",
+      "animal welfare",
+      "undercover investigation",
+      "habitat destruction",
+      "indigenous community",
+      "insulin",
+      "vaccine"
     ]
   },
   {
@@ -1859,37 +1892,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think public schools are better, while others prefer private schools. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Choosing between [view1] and [view2] is a dilemma many parents face. This essay will examine both sides and explain why I believe [my opinion].",
+      body1: "Those who favour [view1] argue that [reason]. For example, [example]. This shows that [implication].",
+      body2: "Meanwhile, supporters of [view2] claim that [reason]. In [example], [detail], proving that [implication].",
+      conclusion: "In my opinion, [my opinion]. [Justification]. Ultimately, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "在[观点1]和[观点2]之间做选择是许多家长面临的难题。本文将审视双方，并解释为什么我认为[我的观点]。",
+      body1: "支持[观点1]的人认为[原因]。例如，[例子]。这表明[推论]。",
+      body2: "与此同时，[观点2]的支持者声称[原因]。在[例子]中，[细节]，证明[推论]。",
+      conclusion: "在我看来，[我的观点]。[理由]。归根结底，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think public schools are better, while others prefer private schools.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Choosing between public and private schooling is a dilemma many parents face. Some believe state-funded schools are fairer and more socially cohesive, while others argue that fee-paying institutions deliver superior results. This essay will examine both sides and explain why I believe well-funded public schools should remain the backbone of education.",
+      body1: "Those who favour public schools argue that they promote equality and social integration. Children from different economic backgrounds study side by side, which reduces class segregation and builds empathy across society. For example, in Finland, where private schools are extremely rare, the public system consistently ranks among the world's best in international assessments such as PISA, proving that state education can be both excellent and inclusive. This shows that when governments invest properly in teacher training and facilities, public schools can rival or exceed private ones without creating an elite class.",
+      body2: "Meanwhile, supporters of private schools claim that smaller classes, better facilities and greater autonomy produce stronger academic outcomes. In the United Kingdom, institutions such as Eton College offer teacher-to-student ratios that state schools cannot match, along with extensive music, sport and leadership programmes. Parents paying fees also gain influence over school policy, which encourages responsiveness. However, this advantage often reflects wealth rather than pedagogy: private schools select motivated students whose parents can afford tutors and enrichment, so their higher grades may simply mirror the advantages their pupils already enjoy at home.",
+      conclusion: "In my opinion, the success of private schools owes more to selective intake and parental wealth than to superior teaching, whereas strong public systems benefit entire societies. Rather than funding two parallel tracks, governments should raise the quality of state schools so that no parent feels forced to pay for a decent education. Ultimately, education should be a ladder for every child, not a privilege reserved for those who can afford it."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为公立学校更好，而另一些人更喜欢私立学校这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "在公立学校和私立学校之间做选择是许多家长面临的难题。一些人认为公办学校更公平、更能促进社会融合，另一些人则认为收费学校能带来更优异的成果。本文将审视双方，并解释为什么我认为资金充足的公立学校应当始终是教育的支柱。",
+      body1: "支持公立学校的人认为，它们促进平等和社会融合。来自不同经济背景的孩子并肩学习，减少了阶层隔离，在整个社会中培养了同理心。例如，在私立学校极为罕见的芬兰，公立体系在PISA等国际评估中始终位居世界前列，证明国家教育可以既卓越又包容。这表明，只要政府在教师培训和设施上投入得当，公立学校就能与私立学校媲美甚至超越，同时不制造精英阶层。",
+      body2: "与此同时，私立学校的支持者声称，更小的班级、更好的设施和更大的自主权限能带来更强的学业成果。在英国，伊顿公学等机构提供公立学校无法企及的师生比，以及丰富的音乐、体育和领导力项目。付费的家长还能对校政策施加影响，这促使学校更积极回应需求。然而，这种优势往往反映的是财富而非教学法：私立学校挑选的是积极上进的学生，其家长本就有能力聘请家教和提供课外拓展，因此更高的分数可能只是镜像了学生在家中已享有的优势。",
+      conclusion: "在我看来，私立学校的成功更多归功于选择性生源和家长财富，而非更优的教学；而强大的公立体系惠及整个社会。政府不应资助两条平行轨道，而应提升公办学校的质量，让任何家长都不必为了体面的教育而被迫付费。归根结底，教育应当是每个孩子的阶梯，而非只属于付得起钱的人的特权。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "social cohesion",
+      "segregation",
+      "teacher-to-student ratio",
+      "autonomy",
+      "selective intake",
+      "pedagogy",
+      "inclusive",
+      "elite",
+      "state-funded"
     ]
   },
   {
@@ -1898,37 +1933,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people focus on short-term goals, while others prioritize long-term goals. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "When planning for the future, people fall into two camps: those who chase [view1] and those who invest in [view2]. This essay will discuss both approaches and argue that [my opinion].",
+      body1: "Advocates of [view1] note that [reason]. Take [example]: [detail]. This means that [implication].",
+      body2: "Conversely, defenders of [view2] believe that [reason]. For example, [example]. Consequently, [implication].",
+      conclusion: "In my view, [my opinion]. [Reason]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "规划未来时，人们分为两大阵营：追逐[观点1]的人和投资[观点2]的人。本文将讨论两种方式，并论证[我的观点]。",
+      body1: "[观点1]的倡导者指出[原因]。以[例子]为例：[细节]。这意味着[推论]。",
+      body2: "相反，[观点2]的捍卫者相信[原因]。例如，[例子]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[原因]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people focus on short-term goals, while others prioritize long-term goals.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "When planning for the future, people fall into two camps: those who chase short-term goals and those who invest in long-term ambitions. Each strategy has passionate defenders. This essay will discuss both approaches and argue that long-term vision, broken into short-term steps, delivers the greatest success.",
+      body1: "Advocates of short-term goals note that immediate results build motivation and momentum. Completing small, achievable tasks releases a sense of progress that sustains effort, and quick wins provide valuable feedback about what works. Take a young entrepreneur who sets a goal of acquiring ten customers this month: reaching it generates cash flow, confidence and practical lessons, whereas a vague dream of becoming an industry leader offers no clear first step. This means that short-term targets are essential for turning abstract ambition into daily action, especially when circumstances change rapidly.",
+      body2: "Conversely, defenders of long-term goals believe that only a distant vision gives life direction. For example, the Japanese concept of ikigai encourages people to identify their deepest purpose and organise decades of work around it; similarly, Amazon's founder Jeff Bezos famously ran the company with a seven-year horizon, investing in projects like cloud computing that lost money for years before dominating their markets. Consequently, without long-term thinking, people and organisations drift from one urgent task to another, never building anything lasting. Short-termism in business, such as cutting research budgets to boost quarterly profits, often destroys companies within a decade.",
+      conclusion: "In my view, the debate presents a false choice. Long-term goals provide the compass, but short-term goals are the steps on the path; neither functions without the other. The wisest approach is to define a clear destination, then break it into monthly and yearly milestones that keep motivation alive. Overall, those who combine a bold vision with disciplined short-term execution achieve far more than devotees of either extreme."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人专注于短期目标，而另一些人优先考虑长期目标这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "规划未来时，人们分为两大阵营：追逐短期目标的人和投资长期抱负的人。每种策略都有热情的捍卫者。本文将讨论两种方式，并论证以长期愿景为纲、分解为短期步骤的做法能带来最大的成功。",
+      body1: "短期目标的倡导者指出，即时的成果能建立动力和势头。完成小而可实现的任务会释放进步感，支撑持续的努力，而速胜还能提供关于何种方法有效的宝贵反馈。以一位设定本月获取十个客户目标的年轻创业者为例：达成它能带来现金流、信心和实战经验，而'成为行业领袖'这样模糊的梦想却给不出明确的第一步。这意味着短期目标对于把抽象抱负转化为日常行动必不可少，尤其在环境快速变化时。",
+      body2: "相反，长期目标的捍卫者相信，只有远方的愿景才能赋予人生方向。例如，日本的'ikigai'（生之意义）理念鼓励人们找到最深层的使命，并围绕它规划数十年的工作；同样，亚马逊创始人杰夫·贝索斯以七年为期经营公司闻名，投资于云计算等亏损多年才称霸市场的项目。因此，没有长期思考，人和组织就会从一个紧急任务漂向另一个，永远建立不起持久的事业。商业中的短视行为——如削减研发预算来美化季度利润——往往在十年内毁掉公司。",
+      conclusion: "在我看来，这场辩论呈现的是一个假选择。长期目标提供指南针，短期目标则是路上的脚步；缺了任何一方，另一方都无法运转。最明智的做法是先定义清晰的目的地，再将其分解为保持动力的月度与年度里程碑。总的来说，将大胆愿景与自律的短期执行相结合的人，远比任一极端的信徒成就更大。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "momentum",
+      "quick win",
+      "long-term vision",
+      "short-termism",
+      "milestone",
+      "ambition",
+      "feedback loop",
+      "quarterly profit",
+      "execution"
     ]
   },
   {
@@ -1937,37 +1974,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think work experience is more important, while others believe academic qualifications matter more. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Employers and students endlessly debate whether [view1] or [view2] matters more. This essay will consider both sides before arguing that [my opinion].",
+      body1: "Those who value [view1] argue that [reason]. For instance, [example]. This suggests [implication].",
+      body2: "Those who prize [view2] counter that [reason]. In [example], [detail]. Hence, [implication].",
+      conclusion: "In my opinion, [my opinion]. [Explanation]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "雇主和学生无休止地争论[观点1]和[观点2]哪个更重要。本文将考量双方，然后论证[我的观点]。",
+      body1: "看重[观点1]的人认为[原因]。例如，[例子]。这表明[推论]。",
+      body2: "珍视[观点2]的人反驳说[原因]。在[例子]中，[细节]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[解释]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think work experience is more important, while others believe academic qualifications matter more.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Employers and students endlessly debate whether work experience or academic qualifications matter more in building a career. This essay will consider both sides before arguing that their relative importance depends on the profession.",
+      body1: "Those who value work experience argue that practical skills can only be learned on the job. Classrooms teach theory, but workplaces demand judgement, communication and problem-solving under real pressure. For instance, in the technology industry, companies such as Google and Apple dropped degree requirements years ago, hiring coders based on portfolios and interviews instead; many of their best engineers are self-taught. This suggests that for fast-moving practical fields, a track record of real projects says more about a candidate than any certificate.",
+      body2: "Those who prize academic qualifications counter that formal education provides foundations that experience cannot easily replace. In medicine, for example, no country allows doctors to practise without years of accredited training, because mistakes cost lives; similarly, engineers who design bridges must master mathematics that few learn outside university. Hence, in professions where errors are catastrophic or knowledge is highly theoretical, degrees act as essential quality control. Qualifications also signal discipline and learning ability to employers screening thousands of applicants.",
+      conclusion: "In my opinion, the answer varies by field. For trades, sales, design and much of technology, demonstrable experience should outweigh paper credentials, while for medicine, law, academia and engineering, rigorous qualifications remain indispensable. The wisest students combine both: earning a solid degree while seeking internships that prove they can apply their knowledge. Overall, rather than asking which matters more, we should ask which matters more for a particular career, and plan accordingly."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为工作经验更重要，而另一些人认为学历更重要这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "雇主和学生无休止地争论：在职业发展中，工作经验和学历哪个更重要。本文将考量双方，然后论证两者的相对重要性取决于具体职业。",
+      body1: "看重工作经验的人认为，实践技能只能在岗位上学到。课堂传授理论，而职场要求在真实压力下的判断力、沟通力和解决问题的能力。例如，在科技行业，谷歌和苹果等公司多年前就取消了学位要求，改为依据作品集和面试招聘程序员；他们最优秀的工程师中许多都是自学成才。这表明，在快速变化的实践领域，真实项目的履历比任何证书都更能说明候选人的能力。",
+      body2: "珍视学历的人反驳说，正规教育提供了经验难以替代的基础。以医学为例，任何国家都不允许医生未经数年认证培训就执业，因为失误会以生命为代价；同样，设计桥梁的工程师必须掌握大学里才能系统学到的数学。因此，在错误代价惨重或知识高度理论化的职业中，学位是必不可少的质量把关。学历还向需要从数千份申请中筛选的雇主传递纪律性和学习能力的信号。",
+      conclusion: "在我看来，答案因领域而异。对于技工、销售、设计和大部分科技行业，可证明的经验应高于一纸文凭；而对于医学、法律、学术和工程，严格的学历仍然不可或缺。最明智的学生两者兼顾：既取得扎实的学位，又寻找实习机会来证明自己能学以致用。总的来说，与其问哪个更重要，不如问对某个特定职业哪个更重要，并据此规划。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "track record",
+      "portfolio",
+      "accredited training",
+      "quality control",
+      "internship",
+      "self-taught",
+      "screening",
+      "credentials",
+      "practical skills"
     ]
   },
   {
@@ -1976,37 +2015,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people value individualism, while others emphasize collectivism. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Societies differ profoundly in whether they prize [view1] or [view2]. This essay will explore both value systems and argue that [my opinion].",
+      body1: "Champions of [view1] claim that [reason]. For example, [example]. This illustrates that [implication].",
+      body2: "Proponents of [view2] respond that [reason]. In [example], [detail], which shows that [implication].",
+      conclusion: "In my view, [my opinion]. [Reason]. Ultimately, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "不同社会在崇尚[观点1]还是[观点2]上存在深刻差异。本文将探讨两种价值体系，并论证[我的观点]。",
+      body1: "[观点1]的拥护者声称[原因]。例如，[例子]。这说明[推论]。",
+      body2: "[观点2]的支持者回应说[原因]。在[例子]中，[细节]，这表明[推论]。",
+      conclusion: "在我看来，[我的观点]。[原因]。归根结底，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people value individualism, while others emphasize collectivism.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Societies differ profoundly in whether they prize individualism or collectivism. This essay will explore both value systems and argue that a healthy community needs a balance of the two.",
+      body1: "Champions of individualism claim that personal freedom drives creativity and progress. When people are encouraged to think independently, question authority and pursue their own dreams, societies produce innovators and entrepreneurs. For example, the culture of Silicon Valley celebrates mavericks who defy convention, and this attitude has produced companies from Apple to Tesla that reshaped entire industries. Psychological research also links individual autonomy to motivation and life satisfaction, illustrating that people flourish when they control their own choices rather than conforming to group expectations.",
+      body2: "Proponents of collectivism respond that humans are social creatures whose wellbeing depends on strong communities. In Japan, the emphasis on group harmony and shared responsibility contributed to the country's remarkably orderly response to the 2011 earthquake and tsunami, when citizens queued calmly for supplies and voluntarily conserved electricity for months. This shows that collective discipline achieves what isolated individuals cannot: disaster recovery, public health and social trust. Moreover, collectivist cultures report lower loneliness among the elderly, because family and community obligations ensure that no one is abandoned.",
+      conclusion: "In my view, both extremes carry risks. Pure individualism can produce loneliness and inequality, while unchecked collectivism can suppress dissent and personal fulfilment. The most successful societies protect individual rights and reward initiative while fostering solidarity through shared institutions and mutual obligation. Ultimately, individuals and communities are interdependent: people thrive as unique persons precisely when they belong to groups that support them."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人重视个人主义，而另一些人强调集体主义这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "不同社会在崇尚个人主义还是集体主义上存在深刻差异。本文将探讨两种价值体系，并论证健康的社群需要两者的平衡。",
+      body1: "个人主义的拥护者声称，个人自由驱动创造力和进步。当人们被鼓励独立思考、质疑权威、追逐自己的梦想时，社会就会孕育出创新者和企业家。例如，硅谷的文化颂扬打破常规的特立独行者，这种态度催生了从苹果到特斯拉等重塑整个行业的企业。心理学研究也把个人自主权与动机和生活满意度联系起来，说明人们在掌控自己的选择而非屈从于群体期望时更能蓬勃发展。",
+      body2: "集体主义的支持者回应说，人类是社会性生物，幸福依赖于强大的共同体。在日本，对群体和谐与共同责任的重视促成了该国对2011年地震和海啸极为有序的应对——市民平静地排队领取物资，并自愿节电数月。这表明集体纪律能实现孤立个体无法做到的事：灾后重建、公共卫生和社会信任。此外，集体主义文化中老年人的孤独感更低，因为家庭和社群义务确保无人被抛弃。",
+      conclusion: "在我看来，两个极端都有风险。纯粹的个人主义会滋生孤独和不平等，而不受约束的集体主义会压制异议和个人成就。最成功的社会在保护个人权利、奖励主动精神的同时，通过共同的制度和相互的义务来培养团结。归根结底，个人与共同体相互依存：人恰恰在属于支持自己的群体时，才能作为独特的个体而绽放。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "individualism",
+      "collectivism",
+      "autonomy",
+      "conform",
+      "group harmony",
+      "social trust",
+      "solidarity",
+      "dissent",
+      "interdependent"
     ]
   },
   {
@@ -2015,37 +2056,39 @@ export const essayTemplates: EssayTemplate[] = [
     type: "discuss both views",
     topic: "Some people think competition is essential, while others believe cooperation is more important. Discuss both views and give your opinion.",
     structure: {
-      introduction: "There is a debate about [topic]. Some people argue [view1], while others believe [view2]. This essay will discuss both perspectives before giving my opinion.",
-      body1: "On the one hand, [view1] has some merit. Supporters argue that [reason1]. For instance, [example1]. This means that [benefit1].",
-      body2: "On the other hand, [view2] also has valid points. Advocates point out that [reason2]. They argue that [evidence]. As a result, [benefit2].",
-      conclusion: "In my opinion, [my opinion]. This is because [reason]. Overall, [summary]."
+      introduction: "Few debates are as old as whether [view1] or [view2] matters more. This essay will examine both claims and explain why I believe [my opinion].",
+      body1: "Defenders of [view1] argue that [reason]. The example of [example] proves this: [detail]. Therefore, [implication].",
+      body2: "Advocates of [view2] insist that [reason]. Consider [example], where [detail]. Hence, [implication].",
+      conclusion: "In my opinion, [my opinion]. [Justification]. Overall, [summary]."
     },
     structureCN: {
-      introduction: "关于[话题]存在争议。一些人认为[观点1]，而另一些人认为[观点2]。本文将讨论这两种观点，然后给出我的看法。",
-      body1: "一方面，[观点1]有一些优点。支持者认为[原因1]。例如，[例子1]。这意味着[好处1]。",
-      body2: "另一方面，[观点2]也有合理之处。倡导者指出[原因2]。他们认为[证据]。因此，[好处2]。",
-      conclusion: "在我看来，[我的观点]。这是因为[原因]。总的来说，[总结]。"
+      introduction: "很少有辩论像[观点1]和[观点2]哪个更重要这样古老。本文将审视两种主张，并解释为什么我认为[我的观点]。",
+      body1: "[观点1]的捍卫者认为[原因]。[例子]证明了这一点：[细节]。因此，[推论]。",
+      body2: "[观点2]的倡导者坚持认为[原因]。以[例子]为例，其中[细节]。因此，[推论]。",
+      conclusion: "在我看来，[我的观点]。[理由]。总的来说，[总结]。"
     },
     fullParagraphs: {
-      introduction: "There is an ongoing debate about Some people think competition is essential, while others believe cooperation is more important.. Some people argue that one approach is superior, while others believe the alternative is better. This essay will explore both perspectives before presenting my own view.",
-      body1: "On the one hand, those who support the first view argue that it offers significant benefits. For instance, traditional methods often provide a more stable and reliable foundation, which can be particularly important in certain contexts. This means that many people feel more comfortable with established approaches.",
-      body2: "On the other hand, advocates of the alternative view point out that change brings new opportunities. They argue that embracing modern methods can lead to greater efficiency and innovation. As a result, many organizations are now adopting more contemporary approaches to stay competitive.",
-      conclusion: "In my opinion, a balanced approach that combines the best elements of both perspectives is ideal. This is because no single approach is perfect, and by integrating different methods, we can achieve better outcomes. Overall, flexibility and open-mindedness are key to addressing this issue effectively."
+      introduction: "Few debates are as old as whether competition or cooperation matters more for human progress. This essay will examine both claims and explain why I believe the two forces are most powerful in combination.",
+      body1: "Defenders of competition argue that rivalry pushes individuals and organisations beyond their limits. Athletes train harder when a rival is closing in, and businesses innovate when market share is at stake. The example of the 1960s space race proves this: the intense contest between the United States and the Soviet Union produced, within a single decade, the first satellite, the first human in orbit and the Moon landing — achievements that peacetime budgets alone would have taken generations to fund. Therefore, competition concentrates effort, accelerates innovation and rewards excellence.",
+      body2: "Advocates of cooperation insist that humanity's greatest achievements are collective. Consider the Human Genome Project, where scientists from twenty countries shared data openly to map human DNA by 2003, years ahead of schedule and at a fraction of the projected cost; the same spirit enabled dozens of nations to build the International Space Station, something no single country could afford alone. Hence, when problems are vast — climate change, pandemics, poverty — cooperation multiplies resources and expertise in ways rivalry cannot. Excessive competition, by contrast, encourages secrecy, duplication and even sabotage.",
+      conclusion: "In my opinion, neither force should dominate. Competition without cooperation becomes destructive, while cooperation without competition can become stagnant; the healthiest systems harness both. Companies compete in the market yet cooperate on shared standards, and scientists publish openly while racing to be first. Overall, progress happens fastest when we compete to contribute the most, turning rivalry into a form of collaboration that benefits everyone."
     },
     fullParagraphsCN: {
-      introduction: "关于有些人认为竞争至关重要，而另一些人认为合作更重要这一观点存在持续争论。一些人认为一种方法更优，而另一些人认为替代方法更好。本文将探讨两种观点，然后提出我自己的看法。",
-      body1: "一方面，支持第一种观点的人认为它提供了显著的好处。例如，传统方法通常提供更稳定可靠的基础，这在某些情况下尤为重要。这意味着许多人觉得既有的方法更令人安心。",
-      body2: "另一方面，另一种观点的倡导者指出，变化带来新的机遇。他们认为接受现代方法可以带来更高的效率和创新。因此，许多组织现在采用更现代的方法以保持竞争力。",
-      conclusion: "在我看来，结合两种观点的平衡方法是理想的。这是因为没有单一方法是完美的，通过整合不同的方法，我们可以取得更好的结果。总的来说，灵活性和开放的心态是有效解决这一问题的关键。"
+      introduction: "很少有辩论像竞争与合作哪个对人类进步更重要这样古老。本文将审视两种主张，并解释为什么我认为两种力量结合时最为强大。",
+      body1: "竞争的捍卫者认为，较量推动个人和组织超越极限。对手逼近时运动员训练更刻苦，市场份额攸关时企业更会创新。20世纪60年代的太空竞赛证明了这一点：美苏之间的激烈角逐在短短十年内催生了第一颗卫星、第一次载人轨道飞行和登月——仅靠和平时期的预算，这些成就需要几代人的投入才能实现。因此，竞争凝聚努力、加速创新并奖励卓越。",
+      body2: "合作的倡导者坚持认为，人类最伟大的成就都是集体完成的。以人类基因组计划为例：来自二十个国家的科学家公开共享数据，于2003年提前数年、以远低于预算的成本完成了人类DNA图谱；同样的精神让数十个国家建成了国际空间站——这是任何一国都无力独自承担的。因此，当问题足够宏大——气候变化、疫情、贫困——合作能以竞争无法企及的方式汇聚资源和专长。相比之下，过度竞争会助长保密、重复建设甚至暗中破坏。",
+      conclusion: "在我看来，任何一方都不应占主导。没有合作的竞争会变得破坏性十足，而没有竞争的合作可能陷入停滞；最健康的体系驾驭两者。企业在市场上竞争，却在共同标准上合作；科学家公开发表成果，又竞相争先。总的来说，当我们竞相做出最大贡献时，进步最快——这能把竞争转化为一种惠及所有人的协作形式。"
     },
     vocabulary: [
-      "perspective",
-      "viewpoint",
-      "argument",
-      "counterargument",
-      "valid",
-      "merit",
-      "compelling"
+      "rivalry",
+      "innovation",
+      "space race",
+      "collective achievement",
+      "open data",
+      "sabotage",
+      "stagnant",
+      "harness",
+      "accelerate"
     ]
   },
   {

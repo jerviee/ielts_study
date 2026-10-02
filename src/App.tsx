@@ -108,7 +108,7 @@ function App() {
       </main>
       <footer className="bg-white/80 backdrop-blur-sm border-t border-gray-100 mt-12">
         <div className="max-w-6xl mx-auto px-4 py-6 text-center text-gray-400 text-sm">
-          <p>雅思学习工具 v26.10.02.25 - 专业级备考助手 | 全真模考 | 覆盖8000+词汇 | 80篇听力真题</p>
+          <p>雅思学习工具 v26.10.02.45 - 专业级备考助手 | 全真模考 | 覆盖8000+词汇 | 80篇听力真题</p>
         </div>
       </footer>
     </div>
