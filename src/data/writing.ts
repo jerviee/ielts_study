@@ -237,11 +237,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Furthermore, online platforms allow people who are geographically isolated to form meaningful relationships. Teenagers in remote villages, people with disabilities and individuals from sexual minorities, for instance, frequently find peer support online that simply does not exist in their immediate neighbourhoods. Admittedly, passive scrolling through social media can occasionally replace face-to-face gatherings, and heavy users may feel lonely. Yet this is a matter of how the tools are used, not an inherent effect of the technology itself.",
       conclusion: "In conclusion, far from isolating people, technology has removed many of the barriers that once limited human connection. It preserves long-distance family relationships and gives vulnerable groups a sense of belonging. What ultimately matters is not the device itself, but how wisely individuals balance screen interaction with time spent in each other's company."
     },
-    fullParagraphsCN: {
-      introduction: "有时有人声称，从智能手机到社交网站的现代技术把人们推入了更深的社会孤立。然而，我强烈反对这一观点。数字工具非但没有削弱人际纽带，实际上反而让人们更容易跨越距离保持联系，并找到志趣相投的社群。",
-      body1: "最明显的好处是，交流不再依赖地理上的接近。最明显的例子是留学生和务工人员，他们如今几乎可以免费每晚与家人视频通话。四十年前，这些人只能依赖昂贵的电话或需要数周才能送达的航空信件，联系稀少而短暂。如今祖父母能够实时看着孙辈长大，这说明技术加强而非削弱了家庭纽带。",
-      body2: "此外，网络平台使地理上孤立的人得以建立有意义的关系。例如，偏远村庄的青少年、残障人士以及性少数群体，经常能在网上找到身边环境中根本不存在的同伴支持。诚然，被动刷屏有时会取代面对面的聚会，重度使用者可能感到孤独。但这是工具使用方式的问题，而非技术本身的固有影响。",
-      conclusion: "总之，技术远没有使人孤立，反而消除了曾经限制人际联系的许多障碍。它维系了远距离的家庭关系，并给弱势群体以归属感。最终重要的不是设备本身，而是人们能否明智地在屏幕互动与现实陪伴之间取得平衡。"
+        fullParagraphsCN: {
+      introduction: "有人有时声称，从智能手机到社交网站，现代科技把人们推向了更深的社交孤立。然而，我强烈反对这一观点。数字工具非但没有削弱人与人之间的纽带，反而使个人更容易跨越距离保持联系，并找到与自己志趣相投的社群。",
+      body1: "最明显的好处是，交流不再依赖地理上的接近。一个清晰的例子是留学生和务工人员的经历，他们如今几乎可以免费每晚与家人视频通话。四十年前，这些人只能依赖昂贵的电话或需要数周才能送达的航空信件，联系稀少而短暂。如今祖父母能够实时看着孙辈长大，这说明技术加强而非削弱了家庭纽带。",
+      body2: "此外，网络平台让地理上孤立的人能够建立有意义的关系。例如，偏远村庄的青少年、残障人士和性少数群体，常常能在网上找到在身边社区根本不存在的同伴支持。诚然，被动刷社交媒体偶尔会取代面对面聚会，重度使用者可能会感到孤独。但这是工具如何使用的问题，而非技术本身固有的影响。",
+      conclusion: "总之，技术非但没有孤立人们，反而消除了许多曾经限制人际联系的障碍。它维系了远距离的家庭关系，并给弱势群体带来归属感。真正重要的不是设备本身，而是个人如何明智地平衡屏幕互动与面对面相处的时间。"
     },
     vocabulary: [
       "proximity",
@@ -279,11 +279,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Secondly, prolonged exposure leads to desensitisation, meaning that children gradually react less strongly to pain and suffering. Studies of developmental psychology have found that heavy viewers of violent programmes tend to show greater physiological arousal during confrontations and less empathy for victims afterwards. Of course, parental guidance and stable family environments matter, and children raised in supportive homes are better protected. However, good parenting can reduce the risk; it cannot entirely remove the effect of thousands of violent images accumulated over childhood.",
       conclusion: "In conclusion, the weight of psychological evidence suggests that televised violence does encourage aggressive tendencies in children, through imitation and gradual desensitisation. While family supervision offers some protection, the simplest remedy is to limit children's access to graphic content. Broadcasters and parents therefore share responsibility for shielding young viewers from material they are not yet equipped to process."
     },
-    fullParagraphsCN: {
-      introduction: "人们常担忧电视上的暴力场面，尤其是动作片和犯罪剧，会助长年幼观众的攻击性行为。我在很大程度上同意这一观点。虽然大多数儿童不会成为暴力罪犯，但反复接触血腥攻击会影响他们的行为和情绪反应，家长和监管机构应认真对待。",
-      body1: "首先，儿童部分地通过模仿学习社会行为，而且他们比成人更难区分虚构与现实。当主角一再用武器或拳头解决冲突时，年幼观众可能接受这样一种信息：攻击是维护自己的有效甚至值得赞赏的方式。孩子在影片中看到角色因暴力行为得到回报，之后就可能在操场上推搡同学，尤其是在没有成人立即纠正时。屏幕暴力就这样为儿童提供了在现实情境中可套用的行为脚本。",
-      body2: "其次，长期接触会导致脱敏，即儿童对痛苦和苦难的反应逐渐减弱。发展心理学研究发现，大量观看暴力节目的儿童在冲突情境中往往表现出更强的生理唤醒，事后对受害者的同理心却更少。当然，父母引导和稳定的家庭环境很重要，在充满支持的家庭中长大的孩子受到的保护更好。然而，良好的养育只能降低风险，无法完全消除童年时期累积的成千上万幅暴力画面所带来的影响。",
-      conclusion: "总之，大量心理学证据表明，电视暴力确实会通过模仿和逐渐脱敏助长儿童的攻击倾向。家庭监督虽能提供一定保护，但最简单的对策仍是限制儿童接触血腥内容。播出方和家长因此共同承担责任，保护年幼观众远离他们尚无力消化的素材。"
+        fullParagraphsCN: {
+      introduction: "人们常担心电视上的暴力场景，尤其是动作片和犯罪剧中的暴力，会助长年轻观众的攻击性。我在很大程度上同意这一观点。虽然大多数儿童不会成为暴力罪犯，但反复接触血腥的攻击行为会影响他们的行为和情绪反应，这一点家长和监管者应当认真对待。",
+      body1: "首先，儿童部分通过模仿学习社会行为，而且他们比成人更难区分虚构与现实。当英雄反复用武器或拳头解决冲突时，年幼的观众可能会接受这样的信息：攻击是一种有效甚至值得钦佩的自我主张方式。一个在电影中看到角色因暴力行为而受到奖励的孩子，日后可能在操场上推搡同学，尤其是在没有成人立即纠正其行为时。这样一来，屏幕暴力为儿童提供了可在现实情境中套用的脚本。",
+      body2: "其次，长时间接触会导致脱敏，即儿童对痛苦和苦难的反应逐渐减弱。发展心理学研究发现，暴力节目的重度观众在面对冲突时往往表现出更强的生理唤醒，事后对受害者的同情心却更少。当然，家长的引导和稳定的家庭环境很重要，在充满支持的家庭中长大的孩子能得到更好的保护。然而，良好的教养只能降低风险，无法完全消除童年时期积累的数千幅暴力画面所产生的影响。",
+      conclusion: "总之，心理学证据的分量表明，电视暴力确实会通过模仿和逐渐脱敏助长儿童的攻击倾向。虽然家庭监督能提供一定保护，但最简单的补救办法是限制儿童接触血腥内容。因此，电视台和家长都有责任保护年幼的观众，让他们远离尚不具备处理能力的材料。"
     },
     vocabulary: [
       "graphic",
@@ -321,11 +321,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "That said, it would be wrong to deny that some advertising causes genuine harm, especially when it targets audiences unable to evaluate it critically. Television commercials for sugary cereals during children's programmes, and influencer endorsements that are not clearly labelled, exploit naivety rather than inform choice. The solution, however, lies in enforcing rules such as watershed restrictions, plain labelling and bans on misleading health claims, rather than condemning the entire industry. Responsible advertising is perfectly compatible with consumer protection.",
       conclusion: "In conclusion, advertising is on balance a positive force in society, since it spreads information, stimulates competition and finances a wide range of media. Its genuine abuses, particularly the exploitation of children, should be controlled through clear regulation rather than treated as evidence that all advertising is harmful."
     },
-    fullParagraphsCN: {
-      introduction: "广告常因助长物质主义、操纵消费者购买不需要的产品而受到批评。在我看来，这种批评很大程度上并不公允。广告提供了有助于市场运转的信息，并为人们消费的大量媒体提供资金，尽管某些形式，尤其是面向儿童的广告，显然需要更严格的监管。",
-      body1: "首先要注意的是，广告具有告知功能。当企业推出更安全的药物、更便宜的智能手机或续航更长的电动汽车时，公众只有知道这些创新的存在才能从中受益。没有广告，比较竞争产品会困难得多，新竞争者也难以挑战成熟品牌。此外，广告收入资助了报纸、网站、搜索引擎和广播电视，使这些服务能够免费或以远低于真实成本的价格提供。",
-      body2: "话虽如此，否认部分广告确实有害也是错误的，尤其是当它面向无力进行批判性判断的受众时。儿童节目前时段播放的高糖麦片广告，以及未明确标注的网红带货，利用的是天真而非告知选择。然而解决之道在于执行相关规则，如时段限制、清晰标注以及禁止误导性的健康宣传，而非谴责整个行业。负责任的广告与消费者保护完全可以并行不悖。",
-      conclusion: "总之，权衡之下广告在社会中是一种积极力量，因为它传播信息、刺激竞争并资助各类媒体。它确实存在的弊端，尤其是对儿童的利用，应通过明确的监管加以约束，而不应被当作所有广告皆有害的证据。"
+        fullParagraphsCN: {
+      introduction: "广告常被批评为鼓励物质主义，并操纵消费者购买他们不需要的产品。在我看来，这种批评在很大程度上是不公正的。广告提供了帮助市场运转的信息，并资助了人们消费的大部分媒体，尽管某些形式的广告，尤其是针对儿童的广告，显然需要更严格的监管。",
+      body1: "首先要注意的一点是，广告具有告知功能。当一家公司推出更安全的药品、更便宜的智能手机或续航更长的电动汽车时，公众只有知道它们的存在，才能从这些创新中受益。没有广告，竞品之间的比较会变得困难得多，新竞争者也难以挑战既有品牌。此外，广告收入资助了报纸、网站、搜索引擎和广播电视，使服务能以免费或远低于真实成本的价格提供。",
+      body2: "话虽如此，否认某些广告造成真实危害是错误的，尤其是当它瞄准无法批判性评估它的受众时。儿童节目期间播放的含糖麦片电视广告，以及没有明确标注的网红代言，利用的是天真而非告知选择。然而，解决方案在于执行诸如时段限制、清晰标注和禁止误导性健康声明等规则，而非谴责整个行业。负责任的广告与消费者保护完全可以并存。",
+      conclusion: "总之，广告总体上是社会中的一股积极力量，因为它传播信息、刺激竞争并资助广泛的媒体。它真正的滥用行为，尤其是对儿童的剥削，应当通过明确的法规加以管控，而非被当作所有广告都有害的证据。"
     },
     vocabulary: [
       "materialism",
@@ -363,11 +363,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "For another, constant exposure to carefully filtered images damages young people's self-image. Adolescents comparing their everyday appearance with professionally edited photographs often develop anxiety about body shape and skin, and clinics in Asia and the West report rising demand for cosmetic surgery among patients in their teens. Although some celebrities genuinely support charity campaigns and set admirable examples, the industry as a whole rewards controversy and self-promotion, meaning that responsible voices struggle to attract attention.",
       conclusion: "In conclusion, while individual role models can undoubtedly inspire, the overall culture surrounding fame encourages materialism, insecurity and unrealistic ambition. A healthier society would place less emphasis on glamorous celebrities and more attention on the quiet achievements of ordinary professionals."
     },
-    fullParagraphsCN: {
-      introduction: "常有人认为，现代社会对影星、歌手和网红的迷恋以有害的方式塑造着青少年的态度。我基本同意这一观点。虽然个别名人无疑能激励年轻人，但名人文化作为一种产业，往往扭曲价值观、损害自我形象，并且把名气看得比真正的成就更重。",
-      body1: "一方面，名人文化宣扬一种特定的成功观。社交媒体上充斥着豪车、名牌服装和异国度假的画面，仿佛这些仅仅是成名后的正常回报。在这种内容中长大的青少年可能认为，财富和知名度比勤奋、技能或善良更重要。多国调查发现，越来越多的学童把“成名”列为主要志向，而工程、护理或技工类职业几乎从不出现在以名人为核心的媒体中。",
-      body2: "另一方面，持续接触精心修图的画面会损害年轻人的自我形象。青少年把自己的日常外表与专业编辑过的照片比较，常常对体型和皮肤产生焦虑；亚洲和西方的诊所都报告，十几岁患者对整容手术的需求不断上升。尽管有些名人真心支持慈善活动、树立了令人钦佩的榜样，但整个行业奖励的是争议和自我炒作，负责任的声音反而难以获得关注。",
-      conclusion: "总之，虽然个别榜样无疑能激励人，但围绕名气的整体文化助长了物质主义、不安全感和不切实际的志向。一个更健康的社会会减少对耀眼名人的关注，而更重视普通专业人士安静踏实的成就。"
+        fullParagraphsCN: {
+      introduction: "人们常说，现代人对影星、音乐家和网络红人的痴迷以有害的方式塑造了青少年的态度。我大体上同意这一观点。虽然个别名人无疑能激励年轻人，但名人文化作为一个产业，往往扭曲价值观、损害自我形象，并把名望看得比真正的成就更重。",
+      body1: "一方面，名人文化宣扬一种特定的成功观。社交媒体信息流充斥着豪车、名牌服装和异国度假的照片，被呈现为仅仅因为出名就能获得的正常回报。在这种内容陪伴下长大的青少年可能会得出结论：财富和认可比勤奋、技能或善良更重要。多个国家的调查发现，越来越多的中小学生如今把「出名」列为自己的主要志向，而工程、护理或技工等职业在名人驱动的媒体中几乎从不出现。",
+      body2: "另一方面，不断接触经过精心筛选的图像损害了年轻人的自我形象。青少年把自己的日常外表与专业编辑过的照片相比，常常对体型和皮肤产生焦虑，亚洲和西方的诊所都报告称十几岁患者的整容需求在上升。虽然有些名人确实支持慈善活动并树立了令人钦佩的榜样，但这个行业整体上奖励争议和自我推销，这意味着负责任的声音很难吸引关注。",
+      conclusion: "总之，虽然个别的榜样人物无疑能带来启发，但围绕名望的整体文化助长了物质主义、不安全感和不切实际的野心。一个更健康的社会应当少强调光鲜的名人，多关注普通专业人士默默取得的成就。"
     },
     vocabulary: [
       "obsession",
@@ -405,11 +405,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "This does not mean animals deserve no protection. On the contrary, they should be granted the right to live without unnecessary suffering, supported by strict laws on farming conditions, laboratory testing and endangered species. In the case of highly intelligent creatures such as chimpanzees and elephants, a limited form of legal personhood may even be justified. The goal, however, should be welfare appropriate to each species, not an identical legal status borrowed from human society.",
       conclusion: "In conclusion, equal rights for animals and humans are both unworkable and unnecessary, since rights presuppose responsibilities that animals cannot carry. What is genuinely needed is stronger welfare protection, which prevents cruelty without imposing an artificial legal framework that no animal could meaningfully exercise."
     },
-    fullParagraphsCN: {
-      introduction: "动物权利活动人士要求赋予非人类动物与人类完全相同的法定权利，包括生命权以及免于被占有和拥有的权利。虽然我坚决支持保护动物免受虐待，但我不同意它们应享有与人完全相同的权利，因为权利与道德能动性及社会责任密切相关。",
-      body1: "权利通常与理解规则并承担相应义务的能力相联系。人类在法庭上为自己的行为负责、参加选举投票、签订契约，所享有的权利与这些义务并存。赋予动物相同权利会立即产生矛盾：狗不能因咬人而被起诉，不能指望老虎尊重他者的生命权，牲畜也无法订立法律协议。因此，把所有物种同等对待非但不能强化权利概念，反而会削弱它。",
-      body2: "这并不意味着动物不应受到保护。相反，应赋予它们免受不必要痛苦的权利，并以严格的法律规范养殖条件、实验测试和濒危物种保护。就黑猩猩、大象等高智能动物而言，有限形式的法律人格甚至可能是合理的。然而目标应是与各物种相适应的福利，而不是从人类社会照搬的同等法律地位。",
-      conclusion: "总之，动物与人享有相同权利既不可行也无必要，因为权利以动物无法承担的责任为前提。真正需要的是更强有力的福利保护，在防止虐待的同时，不把任何动物都无法真正行使的人造法律框架强加于它们。"
+        fullParagraphsCN: {
+      introduction: "动物权利倡导者要求赋予非人类生物与人类完全相同的法律权利，包括生命权和免于被拥有的自由。虽然我强烈支持保护动物免受虐待，但我不同意它们应当拥有与人完全相同的权利，因为权利与道德主体能力和社会责任密切相关。",
+      body1: "权利通常与理解规则并承担相应义务的能力相关联。人类可以在法庭上为自己的行为负责、在选举中投票并签订合同，他们享有的权利与这些义务并存。赋予动物完全相同的权利会立即产生矛盾：狗不能因咬人而被起诉，老虎不能被期望尊重陌生人的生命权，牲畜也不能签订法律协议。因此，同等对待所有物种非但不会强化权利的概念，反而会削弱它。",
+      body2: "这并不意味着动物不应得到任何保护。恰恰相反，应当赋予它们免于不必要痛苦的生活权利，并以关于养殖条件、实验室试验和濒危物种的严格法律作为支撑。对于黑猩猩和大象等高智商生物，甚至可以考虑赋予有限形式的法律人格。然而，目标应当是适合每个物种的福利，而非从人类社会借用的、完全相同的法律地位。",
+      conclusion: "总之，我反对给予动物与人类完全相同的法律权利，但这绝不是默许虐待。一个公正的制度应当为动物提供强有力的福利保护，同时承认权利与义务之间的联系。人类对其他物种的责任是真实的，但把动物当作法律意义上的人来对待既不现实，也无益处。"
     },
     vocabulary: [
       "campaigner",
@@ -448,11 +448,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "It is true that users often trade personal information for free services, and business models built on targeted advertising create genuine risks of surveillance and data breaches. The history of major leaks has shown how carelessly some firms treat even sensitive data such as health records and financial details. These problems, however, call for stricter enforcement, transparent alternatives and digital education in schools, not for accepting the fatalistic claim that privacy no longer exists.",
       conclusion: "In conclusion, privacy is neither obsolete nor technically impossible in the digital age. It should be actively defended through stronger regulation, better security tools and informed public choices, rather than surrendered simply because collecting data has become convenient."
     },
-    fullParagraphsCN: {
-      introduction: "既然电子邮件、位置数据和浏览习惯被科技公司例行记录，有些人便得出结论：数字时代的个人已不能再期待隐私。我完全反对这一观点。控制个人信息的权利依然一如既往地重要，数据收集的普及使法律保护变得更加必要，而非更不必要。",
-      body1: "第一个理由是，隐私在法律和技术层面仍然可以得到保护。欧盟《通用数据保护条例》等法规要求公司说明收集了哪些数据、应要求删除数据，并在处理前获得明确同意。同时，加密通讯、双重身份验证和注重隐私的浏览器让普通用户能够对其数字生活的相当一部分保密。当这些手段失效时，独立监管机构可以处以足以改变企业行为的高额罚款。",
-      body2: "诚然，用户常以个人信息换取免费服务，而建立在定向广告之上的商业模式确实带来监控和数据泄露的风险。历次重大泄露事件表明，部分公司对待健康记录、财务信息等敏感数据何其草率。然而这些问题需要的是更严格的执法、透明的替代方案以及学校中的数字素养教育，而不是接受隐私已不复存在这种宿命论调。",
-      conclusion: "总之，数字时代的隐私既没有过时，在技术上也并非不可能。应通过更强的监管、更好的安全工具和明智的公众选择积极捍卫隐私，而不是仅仅因为收集数据变得方便就将其拱手让出。"
+        fullParagraphsCN: {
+      introduction: "如今，许多大学让学生选择是否到课。有人认为这是对学生自主能力的信任，也有人担心这会削弱学习效果。我倾向于认为出勤应当保持义务性，因为结构化的课堂环境能提供自学难以替代的益处，尽管在线资源使远程学习在某些情况下更为灵活。",
+      body1: "强制出勤的主要理由是，面对面的课堂促进了主动学习。研讨课上的讨论、即时提问以及与同学和讲师的思想碰撞，能加深对材料的理解，而独自看屏幕时很容易走神。许多学生，尤其是刚入学的新生，缺乏足够的自律来维持稳定的自学节奏；规定的课表给了他们必须遵守的结构。研究还显示，出勤率与考试成绩之间存在正相关，这表明课堂参与本身就有价值。",
+      body2: "另一方面，反对者指出，优质的录播课和在线资料让学生可以按自己的节奏学习，而且通勤、兼职或健康问题可能使到校变得困难。这些观点有其道理，对于那些已证明能独立工作的成熟学生尤其如此。然而，这些优势可以通过混合模式来兼顾：把部分课程录播供复习，同时保留核心课程的面授出勤要求。完全取消出勤义务往往导致参与度骤降，尤其是在低年级。",
+      conclusion: "总之，我认为大学课程应当保留出勤要求，至少在必修和研讨课中如此。课堂提供的互动和结构是高质量教育的关键组成部分。技术可以作为补充，但不应取代学生定期到课、与师生直接交流的机会。"
     },
     vocabulary: [
       "routinely",
@@ -490,11 +490,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "After adolescence, however, the argument weakens considerably. Teenagers spend much of their day under the influence of classmates, social media and online communities whose values may conflict with those taught at home, and they are developing the capacity to make independent choices. Blaming parents automatically for bullying, theft or internet offences can be unjust, especially when parents have actively sought help. Responsibility should therefore be shared among families, schools and, where appropriate, the young offenders themselves.",
       conclusion: "In conclusion, parental responsibility is real but should be age-limited. For young children it provides a necessary incentive, while for teenagers automatic blame is often unfair. Legal and school systems should reflect this gradual shift from parental control towards individual accountability."
     },
-    fullParagraphsCN: {
-      introduction: "有时有人建议，只要子女行为不端——无论是在学校、商店还是网上——父母就应受到惩罚或罚款。我只是部分同意这一观点。父母确实应为年幼儿童的行为负责，但随着孩子步入青春期、受到家庭之外各种力量的塑造，让父母承担全部责任就变得越来越不公平。",
-      body1: "在幼儿期，父母无疑是对行为影响最大的人。他们教导基本的自控、对他人的尊重以及是非之分，学龄最初几年的大多数不当行为都反映了家庭中养成的习惯。例如，当幼儿一再损坏学校财物时，让父母负责能够形成合理的激励，促使他们尽早处理问题。许多法律制度已规定此类情况下父母须支付赔偿，这看起来既公平又可行。",
-      body2: "然而进入青春期后，这一观点便大大减弱。青少年一天中大部分时间受同学、社交媒体和网络社群的影响，其价值观可能与家庭所教相冲突，而且他们正在形成独立选择的能力。把欺凌、偷窃或网络过错自动归咎于父母可能并不公正，尤其是在父母已主动寻求帮助时。因此，责任应由家庭、学校以及在适当情况下由未成年过错者本人共同承担。",
-      conclusion: "总之，父母的责任真实存在但应受年龄限制。对年幼儿童而言，它提供必要的激励；而对青少年，自动归罪往往不公。法律与学校制度应体现这种从父母监管向个人责任的逐步过渡。"
+        fullParagraphsCN: {
+      introduction: "随着远程办公的普及，有人预测传统的办公空间将变得多余。我不同意这一看法。虽然远程工作在灵活性方面有明显优势，但办公室仍提供着难以在家中复制的协作、文化和培训功能，因此短期内不会消失。",
+      body1: "办公室之所以仍然重要，首先在于它能促进协作和团队凝聚力。自发的走廊交谈、白板头脑风暴以及共同完成项目时的即时反馈，往往催生远程交流难以产生的创意。许多公司，包括谷歌和苹果，都在设计时有意创造促进偶遇的空间，正是因为他们认识到非正式互动对创新的价值。新员工也从面对面的指导中获益匪浅，因为企业文化和隐性知识很难通过视频会议传授。",
+      body2: "当然，远程办公确实有其优势。它省去了通勤时间，让员工能更好地平衡工作与生活，还能让公司招聘到地理上分散的人才。对于需要专注的任务，在家工作可能比开放办公区更高效。然而，这些好处可以通过混合模式获得，而不必完全放弃办公室。完全远程的团队常报告孤独感、沟通不畅和归属感薄弱，这正是办公室能够解决的问题。",
+      conclusion: "总之，办公室不会因为远程办公的兴起而消失。它的角色可能会改变——从日常工作场所转变为协作、培训和团队建设的中心——但面对面交流的价值依然存在。最有效的模式很可能是两者的结合，而非非此即彼。"
     },
     vocabulary: [
       "accountable",
@@ -532,11 +532,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "At the societal level, the arts are also a major industry rather than a financial burden. Design, film, publishing, music and advertising employ millions of people worldwide and generate substantial export earnings, while museums and theatres drive tourism in cities such as London, Seoul and Florence. Beyond money, artworks preserve the memory of civilisations and allow each generation to question its values. Scientific progress and artistic culture therefore complement rather than compete with one another.",
       conclusion: "In conclusion, art is not decoration but a source of psychological wellbeing, employment and collective memory. Reducing cultural funding on the grounds that art is non-essential would damage both the quality of life and the long-term prosperity of society."
     },
-    fullParagraphsCN: {
-      introduction: "有些人把艺术视为现代社会中负担不起的奢侈品，认为公共资金应花在医院、道路和科研上，而不是画廊或音乐厅。我强烈反对这一观点。艺术对人类生活不可或缺，既关乎个人的情感福祉，也关乎社会的经济与文化健康。",
-      body1: "在个人层面，艺术提供了表达和理解情感的方式，而这些情感是日常语言无法捕捉的。绘画、音乐、舞蹈和文学使人们能够处理悲伤、确认身份、理解不确定性，正因如此，艺术治疗如今在医院中被用于治疗创伤、抑郁和孤独。对儿童而言，绘画和唱歌是他们发展想象力与协调能力的最早工具之一。把这些活动视为不必要的社会，将忽视心理健康的重要维度。",
-      body2: "在社会层面，艺术也是重要产业，而非财政负担。设计、电影、出版、音乐和广告在全球雇用数百万人并创造可观的出口收入，博物馆和剧院则带动伦敦、首尔、佛罗伦萨等城市的旅游业。除金钱之外，艺术品保存着文明的记忆，使每一代人都能审视自身的价值。因此，科学进步与艺术文化相互补充，而非彼此竞争。",
-      conclusion: "总之，艺术不是装饰，而是心理福祉、就业和集体记忆的源泉。以艺术非必需为由削减文化经费，既损害生活质量，也损害社会的长期繁荣。"
+        fullParagraphsCN: {
+      introduction: "人工智能正在迅速进入工作场所，引发了人们对大规模失业的担忧。我认为，人工智能更可能改变而非摧毁就业，虽然它无疑会淘汰某些岗位，但也会创造新的机会，并提高许多人的生产力。",
+      body1: "人工智能最直接的影响是自动化日常和重复性任务。数据录入、基本客户服务、常规会计和初级法律研究等工作，正越来越多地由算法处理，这确实会减少对这些岗位的需求。然而，历史表明，技术革命同时会创造新的就业：汽车取代了马车夫，却催生了汽车制造、道路建设和物流等整个产业。人工智能很可能带来类似的转变，产生训练、维护和监督这些系统的新岗位。",
+      body2: "更重要的是，人工智能可以增强而非取代人类劳动者。医生可以借助人工智能更快地诊断疾病，但对患者的关怀和复杂判断仍需人类来做；律师可以利用人工智能检索先例，但法庭辩论和策略制定依然依赖人的智慧。许多岗位会被重新定义而非消除，劳动者将与机器协作，把精力集中在更需要创造力和判断力的方面。挑战在于教育和再培训体系能否跟上变化的步伐。",
+      conclusion: "总之，人工智能不太可能造成大规模失业，而是会重组就业市场。某些岗位会消失，新的岗位会出现，许多现有的工作方式会被改变。关键不在于阻止自动化，而在于确保劳动者具备适应新技术的技能，让社会的整体收益得到公平分享。"
     },
     vocabulary: [
       "luxury",
@@ -574,11 +574,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "There is also little evidence that ordinary readers treat the two formats as rivals. Commuters and travellers choose e-books because an entire library weighs little more than a single novel, while the same readers often buy printed copies of favourite works, cookbooks and illustrated volumes. Rather than collapsing, the market for printed books has stabilised in many countries after an initial decline, and independent bookshops have even begun to recover. Second-hand book markets and library borrowing, which operate almost entirely with physical copies, continue to circulate millions of volumes every year.",
       conclusion: "In conclusion, the likely future is coexistence rather than replacement. E-books provide unmatched convenience, whereas printed books offer tactile pleasure, better concentration and durable ownership, and readers will continue to value both."
     },
-    fullParagraphsCN: {
-      introduction: "随着电子阅读器、平板电脑和智能手机迅速普及，有人预言纸质书很快将完全消失。我不同意这一预言。尽管电子文本无疑会继续流行，但纸质书具有数字设备无法完全取代的实用与情感优势。",
-      body1: "纸质书具备屏幕无法比拟的优点。它们永远不会没电，在强烈阳光下也能阅读，造成的眼疲劳更小，读者还可以在书页上批注、直观感受阅读进度。若干教育研究甚至表明，纸质书读者对长篇内容的理解和记忆优于屏幕阅读者，这可能是因为实体版面提供了空间记忆线索。尤其对幼儿而言，纸质绘本支持亲子共读，又没有消息通知带来的干扰。",
-      body2: "也几乎没有证据表明普通读者把两种形式视为对手。通勤者和旅行者选择电子书，因为整座图书馆的重量不过一本小说；而同样是这些读者，往往会购买喜爱作品、食谱和画册的纸质版。纸质书市场在经历最初下滑后已在许多国家趋于稳定，独立书店甚至开始复苏，并未崩溃。",
-      conclusion: "总之，未来更可能是共存而非替代。电子书提供无可比拟的便利，纸质书则带来触感的愉悦、更专注的阅读以及持久的拥有感，读者会继续同时珍视二者。"
+        fullParagraphsCN: {
+      introduction: "在许多国家，人们担心以标准化考试为核心的教育体系会扼杀创造力。我大体上同意这一担忧。虽然考试在评估基础技能方面有其作用，但过度依赖它们确实会鼓励死记硬背而非独立思考，损害学生的创新能力。",
+      body1: "标准化考试之所以抑制创造力，是因为它们通常奖励唯一正确的答案。为了备考，学生被训练去记忆事实和套用固定公式，而不是探索多种解题思路。当成绩取决于在限时内选对选项时，冒险、实验或提出非正统问题就变得没有意义。久而久之，学生习惯于寻找「正确答案」而非「最佳方案」，这种思维模式会延续到成年，抑制他们在工作和生活中的创新。",
+      body2: "当然，考试也有其价值。它们提供了相对客观的评估方式，帮助识别学习差距，并确保学生掌握基本的读写算能力。完全废除考试可能导致评估标准不透明，尤其不利于弱势学生。然而，这并不意味着考试应成为唯一的评估手段。将项目作业、作品集、口头展示和持续评估纳入考核，可以在保持问责的同时鼓励创造力。",
+      conclusion: "总之，虽然考试在教育中有其地位，但过度依赖它们确实会损害创造力。一个更好的体系应当把标准化考试作为多种评估手段之一，与注重过程和应用的任务相结合。只有当学生被鼓励探索、实验和犯错时，他们的创造力才能真正发展。"
     },
     vocabulary: [
       "e-reader",
@@ -616,11 +616,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Moreover, urbanisation and migration have spread rather than weakened traditions. Diaspora communities now celebrate Lunar New Year parades in London, Diwali lights in Leicester and Mid-Autumn gatherings across Southeast Asia, introducing local neighbours to the customs. Younger people, meanwhile, share festive greetings, costume photographs and recipes online, giving ancient rituals new forms of participation rather than abandoning them. Even critics who lament commercialisation rarely refuse the holiday itself, which suggests that the instinct behind these occasions remains intact.",
       conclusion: "In conclusion, living traditions rarely remain unchanged, and adaptation is evidence of vitality rather than decline. As long as festivals continue to bring families together and transmit shared values, their significance survives beneath the commercial surface."
     },
-    fullParagraphsCN: {
-      introduction: "常有人声称，农历新年、圣诞节、排灯节等传统节日正在失去真正的意义，不过是购物季而已。我不同意这一观点。外在形式无疑在变化，但家庭团聚、感恩和文化更新的核心意义依然牢固。",
-      body1: "商业化只是这些活动的一个层面。商场促销、网络平台提前数周开启节日打折，这些都是事实。然而，即便是最城市化的家庭，依然会聚在一起吃团圆饭、准备特色菜肴、走亲访友、给孩子红包或礼物。春节前的春运大潮中，数亿人在几天之内穿越中国，这表明回家的渴望而非消费才是节日的情感核心。",
-      body2: "此外，城市化和移民传播而非削弱了传统。侨民社群如今在伦敦举办新春游行、在莱斯特特点亮排灯节灯饰、在东南亚各地举行中秋聚会，并向当地邻居介绍这些习俗。与此同时，年轻人在网上分享节日祝福、盛装照片和食谱，让古老仪式获得新的参与形式，而不是将其抛弃。",
-      conclusion: "总之，活着的传统很少一成不变，适应与变化是活力而非衰落的证明。只要节日仍让家人团聚、传承共同的价值观，其意义便依然存在于商业化的表象之下。"
+        fullParagraphsCN: {
+      introduction: "气候变化被广泛视为当今世界面临的最紧迫挑战。我完全同意这一观点。气温上升、极端天气和海平面上升对人类安全、粮食供应和经济稳定构成威胁，其影响已经在全球范围内显现，紧迫性远超其他长期问题。",
+      body1: "气候变化之所以如此紧迫，是因为它的影响是全球性的、系统性的，而且一旦越过临界点就可能不可逆转。北极冰盖融化、海洋酸化和生物多样性丧失，威胁着支撑人类文明的生态系统。仅2023年，野火就摧毁了加拿大和夏威夷的大片地区，欧洲经历了致命热浪，巴基斯坦的洪水使数百万人流离失所。这些事件不再是预测，而是正在发生的现实，每一年的拖延都使应对成本更高。",
+      body2: "有人可能会说，贫困、疾病或战争等问题同样紧迫。的确，这些问题需要立即关注，但它们与气候变化相互交织：气候灾害加剧了粮食短缺和贫困，而干旱和资源竞争可能引发冲突。与许多其他挑战不同，气候变化有一个明确的时间窗口——如果本世纪中叶前不能大幅减排，最严重的影响将变得难以避免。这就是为什么它应当被置于全球议程的首位。",
+      conclusion: "总之，气候变化确实是我们这个时代最紧迫的挑战。它的全球性、不可逆性和时间紧迫性，使它区别于其他虽然严重但更具局部性或可逆转的问题。国际社会必须立即采取行动，转向可再生能源、提高能效并建设适应能力，否则将付出远超今天行动成本的代价。"
     },
     vocabulary: [
       "reunion",
@@ -659,11 +659,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Individuals also retain genuine agency. People can limit work notifications outside office hours, protect time for exercise and family, and choose employers whose practices match their priorities, although it would be unfair to ignore that low-paid workers and professions such as medicine face much harder constraints. Claiming that balance is impossible risks producing a self-fulfilling defeatism, treating a problem that legislation and negotiation can address as an unchangeable feature of modern life. Legal limits on excessive overtime, common in parts of Europe, show that such boundaries are already enforceable at scale.",
       conclusion: "In conclusion, a good work-life balance is difficult but far from impossible. Shorter-hour trials and flexible policies prove that sensible reform works, while personal discipline and supportive public policy can extend these benefits more widely."
     },
-    fullParagraphsCN: {
-      introduction: "漫长的工时、通勤时间以及深夜回复邮件的期待，使一些人得出结论：健康的工作与生活平衡已无法实现。我反对这一观点。在竞争激烈的现代经济中，平衡当然困难，但只要雇主、政府和个人作出审慎选择，它依然可以实现。",
-      body1: "来自职场的证据表明，组织可以在不牺牲绩效的前提下重新设计工作方式。冰岛、英国等国开展的四天工作制试点，以及斯堪的纳维亚部分地区的弹性工时和远程办公政策，均报告生产率持平或提高、员工流失率降低、病假减少。这些结果说明，疲惫并非繁荣不可避免的代价；它往往反映了过时的管理习惯——把看得见的工时当成可衡量成果的替代品。",
-      body2: "个人也拥有真正的主动权。人们可以在办公时间之外限制工作通知、保住锻炼和陪伴家人的时间，并选择做法与自身优先事项相符的雇主；不过，若忽视低收入劳动者以及医疗等行业面临的更严苛限制，也是不公平的。声称平衡不可能实现，可能造成自我实现的失败主义，把立法与协商可以解决的问题当成现代生活不可改变的特征。",
-      conclusion: "总之，良好的工作与生活平衡虽难但远非不可能。缩短工时试点和弹性政策证明明智的改革行之有效，而个人自律和支持性的公共政策能让这些益处惠及更多人。"
+        fullParagraphsCN: {
+      introduction: "长时间工作、通勤时间以及夜间回复邮件的期望，让一些人得出结论：健康的工作与生活平衡已不再可能实现。我不同意这一观点。在竞争激烈的现代经济中，平衡确实很难，但只要雇主、政府和个人做出有意识的选择，它仍然是可能的。",
+      body1: "来自工作场所的证据表明，组织可以在不牺牲绩效的情况下重新设计工作。冰岛、英国等国的四天工作制试验，以及斯堪的纳维亚部分地区的弹性工时和远程办公政策，都报告了持平或更高的生产率、更低的员工流失率和更少的病假。这些结果表明，疲惫并非繁荣不可避免的代价；它往往反映了过时的管理习惯——把看得见的工时当作可衡量成果的替代品。",
+      body2: "个人也仍然拥有真正的自主权。人们可以限制工作时间之外的工作通知、保护锻炼和陪伴家人的时间、选择做法与自己优先事项相符的雇主，尽管忽视低薪劳动者和医疗等行业面临的更大约束是不公平的。声称平衡不可能实现，有可能产生一种自我实现的失败主义，把一个可以通过立法和谈判解决的问题当作现代生活不可改变的特征。欧洲部分地区常见的对过度加班的法律限制，表明这种界限已经可以大规模执行。",
+      conclusion: "总之，良好的工作与生活平衡很难，但绝非不可能。短工时试验和灵活政策证明，合理的改革是有效的，而个人自律和支持性的公共政策可以把这些好处扩展到更广泛的人群。"
     },
     vocabulary: [
       "connectivity",
@@ -701,11 +701,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "There is, admittedly, a genuine risk of homogenisation, particularly when international chain stores replace distinctive local businesses and when children grow up seeing minority languages as economically useless. These dangers, however, can be addressed through bilingual education, support for cultural industries and planning rules that protect independent shops, rather than by rejecting openness itself. Isolation historically preserved traditions only by also preserving poverty. Many governments now support minority-language broadcasting precisely so that openness and cultural continuity reinforce one another.",
       conclusion: "In conclusion, globalisation is a genuine challenge to local cultures but not an inevitable destroyer. Cultures that engage confidently with the world, while receiving sensible protection for their most vulnerable elements, tend to adapt and thrive rather than disappear. Local traditions and global exchange can flourish together rather than at each other's expense."
     },
-    fullParagraphsCN: {
-      introduction: "全球品牌、好莱坞大片和英语常被指责席卷了地方传统，制造出单一的世界文化。我在很大程度上不同意这一说法。尽管全球化确实给小语种和传统手工艺带来压力，但文化之间的接触更多带来的是适应与融合创新，而不是毁灭。",
-      body1: "与外部世界的接触非但没有抹去传统，反而常常使其复兴。例如，韩国流行音乐结合西方制作技术与韩国表演传统，如今在各大洲都赢得了受众；同样，随着人们旅行和迁徙，泰国、墨西哥和埃塞俄比亚美食变得更知名、更受尊重。曾经只服务本地市场的工匠可以通过互联网把纺织品、陶器和珠宝销往全世界，让濒危手艺获得存续的经济理由。",
-      body2: "诚然，同质化的风险确实存在，尤其是当国际连锁店取代有特色的本地商铺、当孩子从小觉得小语种在经济上没有用处时。然而这些危险可以通过双语教育、扶持文化产业以及保护独立店铺的规划规则来应对，而不必拒绝开放本身。历史上，孤立在保存传统的同时也保存了贫困。",
-      conclusion: "总之，全球化对地方文化是真实挑战，但并非不可避免的毁灭者。自信地与世界互动、同时对最脆弱的文化要素给予合理保护的文化，往往会适应并繁荣，而不是消亡。"
+        fullParagraphsCN: {
+      introduction: "全球品牌、大片电影和英语常被指责为扫荡本土传统、制造单一的世界文化。我在很大程度上不同意这一说法。虽然全球化确实给小语种和传统工艺带来了压力，但不同文化之间的接触更常产生的是适应和混合创造，而非毁灭。",
+      body1: "与外界的接触非但不会抹除传统，反而常常使其焕发活力。例如，韩国流行音乐把西方的制作技术与韩国的表演惯例相结合，如今在每个大洲都赢得了观众；同样，随着人们旅行和迁移，泰国、墨西哥和埃塞俄比亚的菜肴变得更广为人知、更受尊重。曾经只服务于本地市场的工匠，如今可以通过互联网在全球销售纺织品、陶器和珠宝，为濒危工艺提供了生存的经济理由。",
+      body2: "诚然，存在同质化的真实风险，尤其是当国际连锁店取代了独具特色的本地商户，以及孩子们在成长过程中认为少数民族语言在经济上毫无用处时。然而，这些危险可以通过双语教育、对文化产业的支持以及保护独立商铺的规划规则来应对，而不是通过拒绝开放本身。历史上，孤立在保存传统的同时也保存了贫困。许多政府如今支持少数民族语言广播，正是为了让开放与文化延续相互强化。",
+      conclusion: "总之，全球化对本土文化是一个真正的挑战，但并非不可避免的毁灭者。那些自信地与世界接触、同时对最脆弱的元素给予合理保护的文化，往往会适应并繁荣，而非消失。本土传统与全球交流可以共同繁荣，而非以彼此为代价。"
     },
     vocabulary: [
       "homogenisation",
@@ -743,11 +743,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Secondly, curated profiles and constant comparison subtly introduce distrust. Friends display holidays, achievements and appearances while concealing failures, which can turn observers into audiences and nourish envy rather than sympathy. It is true that platforms help migrants and separated families maintain long-distance ties that would otherwise fade; nevertheless, those relationships survive when calls and occasional visits accompany the messages, not when timelines replace them.",
       conclusion: "In conclusion, social media is a genuinely useful tool for maintaining contact and discovering distant communities, but it has weakened friendship when treated as a substitute for personal presence. Deep relationships still require time, attention and the willingness to be vulnerable face to face."
     },
-    fullParagraphsCN: {
-      introduction: "社交平台让人们积累数百乃至数千个联系人，聚会照片也看似社交生活丰富。尽管如此，我在很大程度上同意：这些平台削弱了许多真实友谊的质量。轻松的浅层网络接触，逐渐减少了亲密关系所需要的深度与坦诚。",
-      body1: "首先，网络互动偏好简短和展示，而非真正的在场。点赞照片或发送生日贴纸只需几秒钟，用户可以感觉彼此有联系，却从不了解朋友真正经历着什么。若干针对重度用户的调查显示，网友众多却仍感孤独，说明频繁联系并不等于真正的亲近。友谊得以加深的从容活动——共餐、长谈、患难相助——无法用表情回应来完成。",
-      body2: "其次，精心经营的主页和不断比较会悄然引入不信任。朋友们展示假期、成就和外表，隐藏失败，这可能把旁观者变成观众，滋养嫉妒而非同情。平台确实帮助移民和分离的家庭维系本会淡化的远距离关系；然而，只有当信息之外还有通话和偶尔相见，这些关系才能存续，时间线并不能取代它们。",
-      conclusion: "总之，社交媒体作为保持联系、发现远方社群的工具确实有用，但当它被当作亲身陪伴的替代品时，便削弱了友谊。深厚关系仍需要时间、专注以及面对面坦诚相对的意愿。"
+        fullParagraphsCN: {
+      introduction: "社交网络平台让人们能够积累数百甚至数千个联系人，聚会的照片暗示着丰富的社交生活。然而，我在很大程度上同意这些平台削弱了许多真实友谊的质量。轻量级在线联系的便捷性，逐渐降低了亲密关系所需要的深度和诚实。",
+      body1: "首先，在线互动青睐简洁和可见性，而非真实在场。给一张照片点赞或发送一个生日贴纸只需要几秒钟，因此用户可以感到彼此联系，却从不了解朋友真正正在经历什么。几项针对重度使用者的调查报告显示，他们拥有大量在线好友的同时却感到孤独，这表明频繁的联系并不等同于真正的亲密。友谊得以深化的那些从容不迫的活动——共享的餐食、长谈、困难时的帮助——无法通过点赞表情来完成。时间使用研究一致表明，花在应用上的时间往往会挤占那些真正建立友谊的无拘无束的会面。",
+      body2: "其次，精心策划的个人主页和持续的比较会微妙地引入不信任。朋友们展示假期、成就和外表，却隐藏失败，这可能把旁观者变成观众，滋生嫉妒而非同情。诚然，平台帮助移民和分居家庭维持了原本会消退的远距离联系；然而，这些关系之所以得以延续，是因为消息之外还有通话和偶尔的探望，而非时间线取代了它们。",
+      conclusion: "总之，社交媒体是保持联系和发现远方社群的真正有用的工具，但当它被当作个人在场的替代品时，就削弱了友谊。深厚的关系仍然需要时间、关注，以及面对面袒露脆弱的意愿。"
     },
     vocabulary: [
       "brevity",
@@ -785,11 +785,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Moreover, studies of wellbeing repeatedly identify physical health, stable relationships and a sense of purpose as stronger predictors of happiness than earnings. A long-term study from Harvard, among others, found that the quality of close relationships was the clearest indicator of later wellbeing. Wealth can even undermine happiness when it requires exhausting work, erodes trust through disputes over inheritance, or isolates the rich behind walls and anxiety about status.",
       conclusion: "In conclusion, money is a valuable instrument for security and freedom, but it is not the foundation of happiness. Health, relationships and meaning produce more lasting satisfaction, which is why the wisest use of money is often to protect the very things it cannot itself buy."
     },
-    fullParagraphsCN: {
-      introduction: "在物质至上的社会里，财富常被描述为通往幸福最可靠的道路，人们牺牲闲暇、健康和人际关系去追求更高收入。我不同意金钱是幸福最重要的因素。它在消除困苦方面无疑有用，但一旦基本保障实现，生活中的其他要素便重要得多。",
-      body1: "第一点是，收入对幸福的影响在基本需要满足后会急剧减弱。对于面临饥饿、无家可归或疾病得不到治疗的人，更多金钱确实能改变生活，这解释了为什么最贫困群体从收入增长中受益最大。然而，在衣食、住房和医疗得到保障之后，多国调查发现收入进一步增加只带来很小的生活满意度提升，因为欲望随收入膨胀，比较对象也转向更富有的参照群体。",
-      body2: "此外，对幸福感的研究反复发现，身体健康、稳定的关系和意义感是比收入更强的幸福预测指标。哈佛一项长期研究发现，亲密关系的质量是晚年幸福感最清晰的指标。当财富需要以耗竭的工作为代价、因遗产纠纷侵蚀信任，或让富人困在高墙与地位焦虑之中时，甚至会损害幸福。",
-      conclusion: "总之，金钱是获得保障与自由的宝贵工具，但不是幸福的根基。健康、关系和意义带来更持久的满足，因此金钱最明智的用途，往往是去保护那些它本身买不到的东西。"
+        fullParagraphsCN: {
+      introduction: "在物质主义社会中，财富常被描绘为通往幸福的最可靠途径，人们为了追求更高收入而牺牲休闲、健康和人际关系。我不同意金钱是幸福最重要的因素这一观点。它在消除苦难方面无疑有用，但一旦基本安全得到保障，生活中的其他要素就重要得多。",
+      body1: "第一点是，在基本需求得到满足后，收入对幸福的影响会急剧减弱。对于面临饥饿、无家可归或未治愈疾病的人来说，额外的金钱确实能改变生活，这就解释了为什么最贫困的群体从收入增长中获益最多。然而，在获得充足的食物、住所和医疗保健之后，多个国家的调查发现，收入的进一步增加只会带来生活满意度的小幅提升，因为欲望会随收入一同膨胀，比较对象会转向更富裕的参照群体，而与更富有的同龄人相比，即使高收入者也可能感到匮乏。",
+      body2: "此外，关于福祉的研究反复表明，身体健康、稳定的人际关系和目标感是比收入更强的幸福预测因素。哈佛大学的一项长期研究等发现，亲密关系的质量是日后福祉最清晰的指标。财富甚至可能损害幸福——当它需要令人精疲力竭的工作、因遗产纠纷侵蚀信任，或把富人隔绝在高墙和对身份的焦虑之后时。",
+      conclusion: "总之，金钱是保障安全和自由的有价值工具，但并非幸福的根基。健康、关系和意义能带来更持久的满足感，这就是为什么最明智地使用金钱的方式，往往是去保护那些金钱本身买不到的东西。"
     },
     vocabulary: [
       "materialistic",
@@ -827,11 +827,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "In addition, performance is distorted by test anxiety, illness on a single day and expensive private coaching, which favours affluent families and turns supposed measurement into training in privilege. Cultural assumptions embedded in questions may further disadvantage students from minority backgrounds. A fairer system combines standardised tests with coursework, portfolios, teacher assessment and project work, providing several windows onto ability rather than one high-pressure event. Finland and other high-performing systems rely heavily on teacher evaluation and sampled monitoring rather than constant standardised examinations, demonstrating that alternatives already work well.",
       conclusion: "In conclusion, standardised testing offers useful comparability and administrative efficiency, but calling it the best way to assess students ignores the full range of human ability and the social biases that results often reflect. The fairest assessment is therefore a diverse and continuous one."
     },
-    fullParagraphsCN: {
-      introduction: "标准化考试在世界各地被用来给学生排名、选拔大学申请者、比较学校优劣。尽管方便，我并不认为它是评价能力的最佳方式。它在人工设定的条件下测量有限的技能，只应被当作评价的组成部分之一。",
-      body1: "主要弱点是，这类考试主要奖励记忆、速度和应试技巧，而非综合能力。经过题海训练的学生能针对熟悉题目套用公式化作答，却难以应对需要分析或创造的开放性问题。合作、口语表达、领导力和实际动手能力——雇主广泛看重的素质——在标准化形式中几乎不可见，因此高分者完全可能在考场之外判断力薄弱、不擅解决问题。",
-      body2: "此外，表现还会被考试焦虑、单日的身体不适以及昂贵的私人辅导所扭曲：后者偏向富裕家庭，使所谓的能力测量沦为特权训练。题目中嵌入的文化假设还可能让少数背景的学生处于不利地位。更公平的制度应把标准化考试与平时作业、档案袋评价、教师评估和项目制学习结合起来，提供多扇观察能力的窗口，而不是一场高压定终身。",
-      conclusion: "总之，标准化测试提供了有用的可比性和管理效率，但称其为评价学生的最佳方式，既忽视了人的完整能力，也忽视了成绩背后常有的社会偏见。"
+        fullParagraphsCN: {
+      introduction: "标准化考试在世界各地被用来给学生排名、选拔大学申请者和比较学校。尽管它们很方便，但我不同意它们代表了评估能力的最佳方式。它们在人为条件下衡量的是一套狭窄的技能，应当只被视为评估的一个组成部分。",
+      body1: "主要弱点在于，这类考试主要奖励记忆、速度和应试技巧，而非广泛的能力。被反复训练做历年真题的学生，能够对熟悉的问题给出公式化的答案，却在需要分析或创造力的开放式问题上举步维艰。协作、口头沟通、领导力和实践实验——这些雇主普遍看重的能力——在标准化形式中几乎不可见，因此高分可能与考场之外薄弱的判断力和糟糕的问题解决能力并存。",
+      body2: "此外，考试成绩会被考试焦虑、某一天的生病和昂贵的私人辅导所扭曲，这有利于富裕家庭，把本应是测量的东西变成了特权的训练。题目中嵌入的文化假设可能进一步使少数族裔背景的学生处于不利地位。一个更公平的制度应当把标准化考试与课程作业、作品集、教师评估和项目工作相结合，提供多个观察能力的窗口，而非一次高压事件。芬兰等表现优异的教育体系大量依赖教师评估和抽样监测，而非持续的标准化考试，证明了替代方案已经行之有效。",
+      conclusion: "总之，标准化考试提供了有用的可比性和行政效率，但称其为评估学生的最佳方式，忽视了人类能力的全部范围以及成绩往往反映的社会偏见。因此，最公平的评估是多样化且持续进行的评估。"
     },
     vocabulary: [
       "standardised",
@@ -870,11 +870,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Culturally, migration renews language, music and cuisine, and students in diverse classrooms learn to cooperate across difference. It is fair to acknowledge that sudden arrivals can pressure local housing, schools and low-wage labour markets, and that communities ignored by government may feel anxious. These strains, however, respond to integration programmes, language training and regional investment, rather than to border closures that create labour shortages and family separation. Cities with long migration histories, from Toronto to Singapore, demonstrate that diverse societies can be both stable and prosperous when newcomers are welcomed into shared institutions.",
       conclusion: "In conclusion, immigration is not a net burden but an asset when supported by fair integration policies and honest public planning. The problems associated with it arise largely from mismanagement, not from migration itself."
     },
-    fullParagraphsCN: {
-      introduction: "在接收国，移民有时被指责造成失业、住房压力以及国家认同的侵蚀。我不同意这一说法。管理不善时，快速移民确实会带来真实压力，但总体证据表明，移民让接收社会经济更强、文化更丰富。",
-      body1: "经济上，移民提供了老龄化人口无法提供的劳动力。他们填补医院、养老院、建筑、农业和酒店服务业的空缺，在关键研究实验室工作，而且其职业生涯中缴纳的税款通常超过领取的福利。许多人还成为企业家：例如在美国，移民创办了相当比例的大型科技公司，为本国出生者创造就业。移民不仅没有耗尽公共财政，反而支撑着否则将会萎缩的养老金和医疗体系。",
-      body2: "文化上，移民更新了语言、音乐和饮食，多元课堂里的学生学会跨越差异合作。承认突然涌入的移民会给当地住房、学校和低薪劳动力市场带来压力，承认被政府忽视的社区可能焦虑，这些都是公平的。然而这些压力应靠融入项目、语言培训和地区投资来化解，而不是靠制造劳动力短缺和家庭分离的边境关闭。",
-      conclusion: "总之，在公平的融入政策和务实的公共规划支持下，移民不是净负担而是财富。与之相关的问题主要源于管理不善，而非移民本身。"
+        fullParagraphsCN: {
+      introduction: "移民有时被指责为接受国的失业、住房压力和国家认同侵蚀的根源。我不同意这一说法。虽然管理不善时，快速移民确实会造成真实的压力，但总体证据表明，移民使接受社会在经济上更强、在文化上更丰富。",
+      body1: "在经济上，移民提供了老龄化人口无法提供的劳动力。他们填补了医院、养老院、建筑、农业和酒店业的空缺，在重要的研究实验室工作，而且在整个职业生涯中缴纳的税款通常多于领取的福利。许多人还成为企业家：例如在美国，移民创办了相当大比例的大型科技公司，为本国出生的工人创造了就业机会。移民非但没有耗尽公共财政，反而往往支撑着否则会萎缩的养老金和医疗体系。",
+      body2: "在文化上，移民更新了语言、音乐和美食，而多元化教室里的学生学会了跨越差异进行合作。公平地说，突如其来的移民涌入可能给当地住房、学校和低薪劳动力市场带来压力，被政府忽视的社区可能会感到焦虑。然而，这些压力可以通过融合项目、语言培训和区域投资来缓解，而边境关闭只会造成劳动力短缺和家庭分离。从多伦多到新加坡，有着悠久移民历史的城市证明，当新移民被欢迎进入共享机构时，多元社会既稳定又繁荣。",
+      conclusion: "总之，当得到公平的融合政策和诚实的公共规划的支持时，移民不是净负担，而是资产。与之相关的问题主要源于管理不善，而非移民本身。"
     },
     vocabulary: [
       "vacancy",
@@ -912,11 +912,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The second concern is cognitive and social. Outsourcing mental arithmetic to calculators, directions to navigation apps and memory to search engines weakens skills through simple disuse, while constant notifications shorten attention spans and discourage unhurried reflection. Children who grow up unable to read paper maps or memorise phone numbers are not necessarily less intelligent, but they lose independence when devices are lost, damaged or out of power.",
       conclusion: "In conclusion, technology's benefits are genuine, but uncritical dependence has made key services fragile and basic human skills less common. A wiser society would protect critical infrastructure and deliberately preserve the abilities that sustain life without a screen."
     },
-    fullParagraphsCN: {
-      introduction: "从银行、病历到导航和社交，现代生活依托于彼此相连的数字系统。我同意社会对这种技术已经依赖过度。其好处不可否认，但依赖之深造成了脆弱性，并悄然侵蚀着上几代人视为理所当然的能力。",
-      body1: "第一个担忧是系统性的脆弱。支付网络、电网、医院和物流链条都依赖软件和卫星链路，因此一次严重的网络攻击或自然灾害可在数小时内瘫痪服务。在区域性网络故障中，无法处理无现金支付的商店甚至连生活必需品也只能拒售；完全依赖卫星导航的司机曾被引向封闭道路。有韧性的社会需要备用流程，需要系统失灵时能手动操作的劳动者。",
-      body2: "第二个担忧在认知与社交层面。把心算交给计算器、把方向交给导航应用、把记忆交给搜索引擎，仅因废用就会削弱技能；不断弹出的通知缩短了注意力持续时间，让人难以从容思考。在不会看纸质地图、记不住电话号码的环境中长大的孩子未必不聪明，但设备一旦丢失、损坏或没电，他们便失去了独立性。",
-      conclusion: "总之，技术的好处真实存在，但不加判断的依赖使关键服务变得脆弱，使基本人类技能日渐稀少。更明智的社会会保护关键基础设施，并有意识地保留没有屏幕也能维持生活的能力。"
+        fullParagraphsCN: {
+      introduction: "从银行和医疗记录到导航和社交联系，现代生活建立在相互连接的数字系统之上。我同意社会已经过度依赖这项技术。它的好处不可否认，但依赖的规模造成了脆弱性，并悄然侵蚀了前几代人视为理所当然的能力。",
+      body1: "第一个担忧是系统性脆弱性。支付网络、电网、医院和物流链都依赖软件和卫星链路，因此一次严重的网络攻击或自然灾害可能在数小时内使服务瘫痪。在区域性互联网故障期间，无法处理无现金支付的商店甚至拒绝了购买基本商品的顾客，而完全依赖GPS导航的司机把车开进了封闭的道路。一个有韧性的社会需要后备程序，以及在系统失灵时能够手动操作的工作人员。军事和应急规划者已经把这类故障视为严重威胁，并越来越多地对人员进行手动、低技术程序的演练。",
+      body2: "第二个担忧是认知和社会性的。把心算外包给计算器、把方向外包给导航应用、把记忆外包给搜索引擎，会因为简单的弃用而削弱技能，而持续不断的通知会缩短注意力时长，阻碍从容的思考。在成长过程中不会看纸质地图或记电话号码的孩子，未必智力更低，但当设备丢失、损坏或没电时，他们就失去了独立性。",
+      conclusion: "总之，技术的好处是真实的，但不加批判的依赖使关键服务变得脆弱，使人类的基本技能变得不那么常见。一个更明智的社会会保护关键基础设施，并有意识地保留那些没有屏幕也能维持生活的能力。"
     },
     vocabulary: [
       "vulnerability",
@@ -954,11 +954,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Critics argue that parents should choose what children eat and that fast-food options are cheaper for tight budgets. Yet children are a captive audience with limited judgement, and schools already accept responsibility for safety in sport and transport; protecting their diet is consistent with this duty. Moreover, meals based on vegetables, grains and legumes can be inexpensive, while nutrition education shapes choices outside school as well.",
       conclusion: "In conclusion, banning fast food in schools protects long-term health, improves classroom concentration and establishes habits that serve children for life. It removes nothing from families, who remain free to make their own choices at weekends and during holidays."
     },
-    fullParagraphsCN: {
-      introduction: "随着许多国家儿童肥胖和2型糖尿病急剧增加，有人主张学校应停止在校内供应汉堡、炸鸡和含糖饮料。我同意这一措施。学校塑造着儿童的身体健康和习惯，允许快餐进入校园，恰恰损害了教育本应支持的成长。",
-      body1: "主要理由是健康。快餐通常富含饱和脂肪、盐和精制糖，在校频繁食用与体重增加、疲惫以及日后糖尿病风险上升相关。营养也影响学习：油腻餐食和含糖饮料带来能量骤升骤降，降低下午课堂的专注力。由于童年反复形成的习惯往往延续到成年，学校正是让均衡膳食成为常态而非例外的理想场所。",
-      body2: "批评者认为，孩子吃什么应由父母选择，而且快餐选项对紧张预算更便宜。然而儿童是判断力有限的 captive audience，学校既已在体育和交通方面承担安全责任，保护其饮食便与这一职责一致。此外，以蔬菜、谷物和豆类为主的餐食可以价格低廉，营养教育也会影响校外选择。",
-      conclusion: "总之，在校禁止快餐能保护长期健康、改善课堂专注，并建立让孩子受益终身的习惯。它对家庭毫无剥夺，周末和假期如何选择仍完全由家庭决定。"
+        fullParagraphsCN: {
+      introduction: "随着儿童肥胖症和2型糖尿病在许多国家急剧上升，有人主张学校应当停止在校内供应汉堡、炸鸡和含糖饮料。我同意这一措施。学校塑造着儿童的身体健康和习惯，而在校内容许快餐，恰恰破坏了教育本应支持的发展。",
+      body1: "主要原因是健康。快餐通常富含饱和脂肪、盐和精制糖，在校内频繁食用与体重增加、疲劳以及日后患糖尿病的风险增加相关。营养也影响学习：油腻的食物和含糖饮料之后会出现能量的高峰和低谷，降低下午课程的专注力。由于童年时期反复形成的习惯往往会延续到成年，学校是让均衡饮食成为常态而非例外的理想场所。即使每天只提供一顿均衡的校餐，也能切实改善那些家庭缺乏时间或烹饪知识的孩子的饮食。",
+      body2: "批评者认为，父母应当选择孩子吃什么，而且快餐选项对预算紧张的家庭来说更便宜。然而，儿童是判断力有限的被动受众，而学校已经承担了体育和交通方面的安全责任；保护他们的饮食与这一职责是一致的。此外，以蔬菜、谷物和豆类为主的餐食可以很便宜，而营养教育也能影响校外的选择。",
+      conclusion: "总之，在学校禁止快餐能保护长期健康、提高课堂专注力，并建立使儿童终身受益的习惯。它没有剥夺家庭的任何东西——家庭在周末和假期仍然可以自由做出自己的选择。"
     },
     vocabulary: [
       "obesity",
@@ -996,11 +996,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Online learning also depends on resources distributed very unequally. A student with a fast connection, private room and supportive family can thrive, whereas children sharing one phone, living in crowded housing or receiving little adult supervision easily fall behind. During school closures, attendance and attainment dropped most sharply among disadvantaged groups, widening gaps that classroom schools partly compress. Broadcasters and governments responded during closures precisely because they recognised that remote provision alone was leaving too many children behind.",
       conclusion: "In conclusion, distance learning is a valuable option for disciplined adults and a useful supplement in emergencies, but it is not equally effective for everyone. Blended models that combine digital convenience with classroom interaction offer the most promising path, keeping teachers rather than screens at the centre of learning."
     },
-    fullParagraphsCN: {
-      introduction: "疫情期间学校停课时，在线教育急剧扩张，录播讲座、直播辅导和电子作业此后变得普遍。我不同意远程学习总体上与传统课堂教学同样有效。它提供了显著的灵活性，但其成功高度依赖自律、技术条件以及往往受益于直接人际互动的学科。",
-      body1: "课堂提供屏幕难以复制的结构与互动。教师能察觉困惑的表情、停下来重新解释、把安静的学生带入讨论，而同学间即兴的争论常常带来最深刻的理解。在化学、音乐、工程等实践性学科，实验操作和有人监督的练习无法被视频取代；年幼的儿童尤其需要学校提供的作息与社交环境。",
-      body2: "在线学习还依赖分配极不均衡的资源。拥有快速网络、独立房间和家庭支持的学生可以如鱼得水，而共用一部手机、居住拥挤或缺少成人监督的孩子很容易掉队。停课期间，弱势群体的出勤率和成绩下降最明显，课堂学校本可部分弥合的差距反而扩大。",
-      conclusion: "总之，远程学习对自律的成年人是宝贵选择，在紧急情况下也是有用补充，但并非对所有人同样有效。结合数字便利与课堂互动的混合模式，才是最有前景的道路。"
+        fullParagraphsCN: {
+      introduction: "全球疫情期间学校停课时，在线教育急剧扩张，录播课、实时辅导和数字作业自此变得普遍。我不同意远程学习通常与传统课堂教学一样有效的观点。它提供了显著的灵活性，但其成功在很大程度上取决于自律、技术以及那些往往受益于直接人际互动的学科。",
+      body1: "课堂提供了屏幕难以复制的结构和互动。教师能注意到困惑的表情、停下来重新解释，并把安静的学生拉入讨论，而同学之间自发的争论往往产生最深刻的理解。在化学、音乐和工程等实践学科中，实验室工作和受监督的练习无法被视频取代，尤其是年幼的儿童需要学校提供的日常规律和社交环境。",
+      body2: "在线学习还依赖分配极不均衡的资源。拥有快速网络、独立房间和家庭支持的学生可以茁壮成长，而共用一部手机、居住拥挤或缺少成人监督的孩子很容易掉队。停课期间，弱势群体的出勤率和成绩下降最为明显，扩大了课堂学校本可部分弥合的差距。广播机构和政府在停课期间做出了回应，恰恰是因为他们认识到，仅靠远程教学把太多孩子落在了后面。",
+      conclusion: "总之，远程学习对自律的成年人来说是一个有价值的选择，在紧急情况下也是有用的补充，但它并非对每个人都同样有效。把数字便利与课堂互动相结合的混合模式提供了最有前景的路径，让教师而非屏幕处于学习的中心。"
     },
     vocabulary: [
       "self-discipline",
@@ -1038,11 +1038,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Cars also use urban space with striking inefficiency. Private vehicles spend most of their time parked, yet roads and parking lots occupy a large share of central land that could provide housing, gardens or cycle lanes. Bans should certainly include exceptions for emergency vehicles, disabled drivers, deliveries at fixed hours and residents with no alternatives, so the policy targets unnecessary commuting rather than mobility itself.",
       conclusion: "In conclusion, car-free city centres are realistic and desirable when reliable public transport and fair exceptions are in place. They reduce pollution, reclaim valuable land and make urban life healthier and more pleasant, producing cities designed for people rather than for vehicles."
     },
-    fullParagraphsCN: {
-      introduction: "交通拥堵、尾气和停车难使世界许多城市的中心拥挤而污浊，一些人因此提议禁止私家车进入中心城区。总体而言，我赞同这一政策，前提是实施前先建立可靠的替代方案和合理的例外安排。",
-      body1: "主要好处在环境与公共健康方面。移除过境车流将大幅减少氮氧化物和细颗粒物的局地排放——它们与哮喘和心血管疾病相关——并削减令居民紧张的发动机噪音。更安静的街道鼓励步行和骑行；哥本哈根以及马德里部分地区将中央大道改为步行街后，交通事故减少，更多人在公共空间停留，商店和咖啡馆也因此受益。",
-      body2: "汽车对城市空间的利用也极其低效。私家车大部分时间处于停放状态，道路和停车场却占用中心城区大量土地，这些土地本可用于住房、花园或自行车道。禁令当然应为急救车辆、残障驾驶者、固定时段的配送以及别无选择的居民保留例外，使政策针对的是不必要的通勤，而非出行本身。",
-      conclusion: "总之，当可靠的公共交通和公平的例外安排到位时，无车城市中心既现实又可取。它们减少污染、收回宝贵土地，让城市生活更健康宜人。"
+        fullParagraphsCN: {
+      introduction: "交通拥堵、尾气排放和停车位短缺使世界许多地方的市中心变得紧张而污染严重，这导致一些人提议禁止私家车进入中心区域。总体而言，我同意这一政策，前提是在实施前建立起可靠的替代方案和合理的例外规定。",
+      body1: "主要好处在于环境和公共健康。禁止过境车辆将大幅减少当地的氮氧化物和细颗粒物排放——这些与哮喘和心血管疾病相关——同时也会降低令居民紧张的发动机噪音。更安静的街道鼓励步行和骑行，而哥本哈根和马德里部分地区等已将中央大道步行化的城市，记录到了更少的交通事故和更多在公共空间逗留的人，这对商店和咖啡馆有利。步行化区域的零售商常常报告，一旦游客不再与车辆争夺空间和注意力，营业额就会上升。",
+      body2: "汽车使用城市空间的效率也低得惊人。私家车大部分时间都停着，而道路和停车场却占据了市中心大量土地，这些土地本可用于住房、花园或自行车道。禁令当然应当包括例外：紧急车辆、残障驾驶者、固定时段的送货以及别无选择的居民，这样政策针对的是不必要的通勤，而非出行本身。",
+      conclusion: "总之，当可靠的公共交通和公平的例外规定到位时，无车市中心是现实且可取的。它们减少了污染、回收了宝贵的土地，使城市生活更健康、更宜人，打造出为人而非为车辆设计的城市。"
     },
     vocabulary: [
       "congestion",
@@ -1081,11 +1081,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Artificial intelligence also lacks qualities that remain essential: empathy in nursing, accountability in courts, creative risk in research and the trust on which negotiation depends. Moreover, each major technology creates demand for new roles, from data specialists to AI trainers, although the transition can be painful for workers whose skills suddenly lose value, making retraining and social protection indispensable. Historical periods of intense technological change, from electrification to computing, ultimately expanded employment even while destroying particular jobs.",
       conclusion: "In conclusion, intelligent systems will transform employment and displace certain roles, but replacing tasks is not the same as replacing people. With serious investment in education and retraining, human workers are more likely to supervise and collaborate with machines than to be made obsolete by them."
     },
-    fullParagraphsCN: {
-      introduction: "机器学习和机器人技术的快速进展，重新引发了人们对智能系统终将大规模取代人类劳动者的担忧。我不同意这一预言。人工智能无疑会淘汰某些具体任务、重塑各行各业，但自动化的历史表明，它更多是改造职业，而非抹去职业。",
-      body1: "历史表明，机器替代的是具体任务，而非整个职业。自动取款机从20世纪60年代开始普及，银行网点员工数量并未崩溃；机器减少了例行的现金处理，而成本降低后网点反而增加，员工转向为客户提供咨询。同样，文字处理软件没有消灭秘书，会计软件也没有终结会计行业。人工智能很可能接手重复性起草、基础翻译和常规分析，让劳动者腾出精力处理同类工作中更需要判断力的部分。",
-      body2: "人工智能也缺乏仍然关键的品质：护理中的同理心、法庭上的责任承担、研究中的创造性冒险，以及谈判所依赖的信任。此外，每一项重大技术都会产生对新岗位的需求，从数据专家到人工智能训练师；不过，对于技能突然贬值的劳动者，转型可能很痛苦，因此再培训和社会保障必不可少。",
-      conclusion: "总之，智能系统会改变就业、取代某些角色，但替代任务不等于替代人。只要认真投资教育和再培训，人类劳动者更可能去监督机器、与机器协作，而不是被机器淘汰。"
+        fullParagraphsCN: {
+      introduction: "机器学习和机器人技术的快速进步，重新唤起了人们对智能系统终将大规模取代人类劳动者的担忧。我不同意这一预测。人工智能无疑会消灭某些特定任务并重塑产业，但自动化的历史表明，它更多地是改变职业，而非抹去职业。",
+      body1: "历史表明，机器替代的是具体任务，而非整个职业。自动取款机从20世纪60年代开始普及时，银行网点员工的数量并没有崩溃；机器减少了例行的现金处理，而成本降低后网点反而增多，员工转向为客户提供咨询。同样，文字处理软件没有消灭秘书，会计软件也没有终结会计行业。人工智能很可能接手重复性的起草、基础翻译和常规分析，让劳动者腾出精力处理同类工作中更需要判断力的部分。",
+      body2: "人工智能还缺乏一些仍然必不可少的品质：护理中的同理心、法庭上的问责、研究中的创造性冒险，以及谈判所依赖的信任。此外，每一项重大技术都会创造对新角色的需求，从数据专家到人工智能培训师，尽管对于技能突然失去价值的劳动者来说，转型可能是痛苦的，这使得再培训和社会保护不可或缺。从电气化到计算，历史上每一次激烈的技术变革时期，最终都在消灭特定岗位的同时扩大了就业。",
+      conclusion: "总之，智能系统将改变就业并取代某些角色，但替代任务并不等同于替代人。通过对教育和再培训的认真投资，人类劳动者更有可能监督机器并与之协作，而非被它们淘汰。"
     },
     vocabulary: [
       "automation",
@@ -1123,11 +1123,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Online retail also faces structural limits. Delivering thousands of individual parcels creates traffic and packaging waste, returning unsuitable goods is inconvenient, and consumers in smaller towns may wait days for delivery. Rather than disappearing, many chains now use shops as showrooms and collection points while their websites handle comparison and ordering, an omnichannel model that combines the strengths of both. Pop-up markets, craft fairs and shopping streets continue to attract large crowds, confirming that physical retail also answers a demand for experience.",
       conclusion: "In conclusion, e-commerce will continue growing and reshaping retail, but the complete disappearance of physical stores is unlikely. Human shopping involves experience, immediacy and sociability, which gives well-designed shops a durable place in the market. The future of retail therefore belongs to both channels working in harmony."
     },
-    fullParagraphsCN: {
-      introduction: "网购以惊人速度扩张，电商平台能在数小时内送来从生鲜到家具的各类商品。尽管如此，我不同意电子商务会完全取代传统商店。实体零售满足着数字交易无法提供的社交与感官需求，两种渠道越来越多地作为互补而非对手存在。",
-      body1: "许多购买确实需要直接体验。试穿衣服、掂量相机手感、闻香水气味，顾客需要实体产品，因为照片和描述无法传达合身度、质地或香味。人们也看重立即把商品带回家、向懂行的店主咨询，并把周末购物变成与家人外出的社交活动。书店、五金店和时装店能够存续，部分原因正是它们提供浏览本身的乐趣，这是算法无法复制的。",
-      body2: "线上零售还面临结构性局限。投递成千上万的零散包裹带来交通拥堵和包装废弃物，退回不合适的商品并不方便，小城镇消费者可能要等上数天。许多连锁店没有消失，而是把门店用作展示厅和取货点，网站则负责比价与下单，这种全渠道模式结合了两者的长处。",
-      conclusion: "总之，电子商务会继续增长并重塑零售业，但实体店完全消失并不可能。人类购物包含体验、即时性和社交性，这让设计良好的门店在市场中拥有持久位置。"
+        fullParagraphsCN: {
+      introduction: "网上购物以惊人的速度扩张，市场平台能在几小时内送达从食品杂货到家具的一切商品。然而，我不同意电子商务将完全取代传统商店的观点。实体零售满足了数字交易无法满足的社交和感官需求，两种渠道越来越多地作为互补而非竞争对手运作。",
+      body1: "许多购买确实需要直接体验。试穿衣服、测试相机的重量或闻香水的顾客需要实物，因为照片和描述无法传达合身度、质地或香味。人们还看重立即把商品带回家、向知识渊博的店主寻求建议，以及把周末购物变成与家人的社交出游。书店、五金店和时尚零售商之所以能生存下来，部分原因在于它们提供了浏览本身的体验，而这是算法无法复制的。",
+      body2: "网络零售也面临结构性限制。递送数千个单独包裹会造成交通和包装浪费，退回不合适的商品很不方便，而小城镇的消费者可能要等上几天才能收到货。许多连锁店非但没有消失，反而把商店用作展示厅和自提点，而由网站处理比较和订购，这种全渠道模式结合了两者的优势。快闪市场、手工艺品集市和商业街继续吸引着大量人群，证实了实体零售也回应了人们对体验的需求。",
+      conclusion: "总之，电子商务将继续增长并重塑零售，但实体店完全消失是不太可能的。人类的购物涉及体验、即时性和社交性，这使设计良好的商店在市场中拥有持久的位置。因此，零售业的未来属于两种渠道的和谐共存。"
     },
     vocabulary: [
       "e-commerce",
@@ -1165,11 +1165,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Individuals also act politically. Vectors of change such as elections, school climate strikes and shareholder campaigns depend on citizens willing to organise, and the strongest emissions policies in Europe emerged only after sustained public pressure. Governments must ultimately legislate carbon pricing, subsidies and infrastructure, but politicians rarely impose costs on voters who see no value in the action demanded.",
       conclusion: "In conclusion, personal action alone cannot stabilise the climate, but describing it as futile misunderstands how markets and democracies move. Individual choices are the foundation on which collective pressure, and eventually policy, are built. Every serious climate strategy must therefore begin with citizens themselves."
     },
-    fullParagraphsCN: {
-      introduction: "由于温室气体排放主要来自电厂、工厂和运输网络，一些人断定普通个人在应对气候变化方面无济于事。我不同意这一观点。孤立的个人举动显然不够，但公民的共同行动推动着消费市场和政治决策，而没有这些，系统性变革永远不会发生。",
-      body1: "当足够多的个人改变消费，市场便会大规模回应。植物基食品、电动汽车和屋顶太阳能板的快速增长，源于早期使用者用购买行为发出需求信号，促使制造商和投资者把资本从旧技术中撤出。数百万家庭在房屋保温、肉类消费和频繁飞行上的选择叠加起来，切实影响排放曲线；声誉压力也迫使企业公布本会被忽视的气候目标。",
-      body2: "个人还在政治上采取行动。选举、校园气候罢课和股东行动等变革载体，都依赖愿意组织起来的公民；欧洲最强有力的排放政策，也是在持续的公众压力之后才出现。政府最终必须就碳定价、补贴和基础设施立法，但如果选民认为相关行动毫无价值，政客很少会主动施加成本。",
-      conclusion: "总之，仅靠个人行动无法稳定气候，但把它说成徒劳，则误解了市场与民主运转的方式。个人选择是集体压力、最终也是政策得以建立的基础。"
+        fullParagraphsCN: {
+      introduction: "由于温室气体排放主要来自发电厂、工厂和交通网络，一些人得出结论：普通个人对应对气候变化几乎无能为力。我不同意这一观点。虽然孤立的个人姿态显然是不够的，但公民的集体行动既能推动消费市场，也能推动没有它就永远不会发生的系统性变革所依赖的政治决策。",
+      body1: "当足够多的个体改变消费方式时，市场会大规模响应。植物基产品、电动汽车和屋顶太阳能板的快速增长，正是早期采用者的购买发出了需求信号，促使制造商和投资者把资本从旧技术中转移出来。家庭在隔热、肉类消费和频繁乘飞机方面的选择，乘以数百万个家庭，会切实影响排放曲线，而声誉压力已迫使企业公布它们原本会忽视的气候目标。随着公众期望的转变，保险和金融业也开始从高排放项目中撤出资本。",
+      body2: "个人还会采取政治行动。选举、学校气候罢课和股东运动等变革渠道，依赖于愿意组织起来的公民，而欧洲最有力的排放政策都是在持续的公众压力之后才出台的。政府最终必须通过立法来制定碳定价、补贴和基础设施，但政客很少会对那些看不出所要求行动价值的选民施加成本。",
+      conclusion: "总之，仅凭个人行动无法稳定气候，但把它说成徒劳无益，是误解了市场和民主运作的方式。个人选择是集体压力、乃至最终政策得以建立的基础。因此，每一项严肃的气候战略都必须从公民自身开始。"
     },
     vocabulary: [
       "emissions",
@@ -1207,11 +1207,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Language learning also produces well-documented cognitive and cultural benefits. Studies associate bilingualism with stronger executive control, better multitasking and a delayed onset of dementia in older age. More importantly, a language is a window onto another way of life: learners discover untranslatable concepts, humour and historical references that reveal how other peoples reason, fostering the empathy on which international cooperation depends. Negotiators routinely observe that parties who understand each other's language build trust more quickly and reach agreements that interpreters alone rarely facilitate.",
       conclusion: "In conclusion, while technology assists cross-language communication, the professional opportunities, cognitive resilience and cultural insight gained from mastering another language remain indispensable. Language learning is therefore not a relic of the pre-digital era but an essential modern competence; few modern skills open as many doors or reward learners for as long as another language can."
     },
-    fullParagraphsCN: {
-      introduction: "翻译应用和实时传译设备日益强大，一些人开始质疑学习外语是否仍有必要。我坚信，在当今相互联结的世界里它依然不可或缺。机器可以转换词句，但掌握另一门语言带来经济优势、认知益处和文化理解，这些是软件无法替代的。",
-      body1: "经济上，掌握多种语言能打开单语者无法进入的大门。国际贸易、旅游、外交、航空和学术研究，都奖励能够直接谈判、无需中介阅读文件、跨文化建立信任的员工。翻译工具能应付日常询问，但雇主仍因语言专业毕业生能进行细致入微的沟通而看重他们；能说顾客语言的小企业主，则获得机器无法完全提供的切实商业优势。",
-      body2: "语言学习还带来有据可查的认知与文化益处。研究表明，双语与更强的执行控制、更好的多任务处理以及老年痴呆发病延迟相关。更重要的是，语言是通往另一种生活方式的窗口：学习者会发现不可直译的概念、幽默和历史典故，理解其他民族如何思考，从而培养国际合作所依赖的同理心。",
-      conclusion: "总之，尽管技术辅助跨语言交流，掌握另一门语言所获得的职业机会、认知韧性和文化洞察仍不可替代。因此语言学习不是前数字时代的遗物，而是一项必不可少的现代能力。"
+        fullParagraphsCN: {
+      introduction: "翻译应用和实时口译设备的能力越来越强，这导致一些人质疑学习外语是否仍然有必要。我坚信，在当今互联互通的世界中，它仍然必不可少。机器可以转换词语，但掌握另一门语言能带来软件无法替代的经济优势、认知益处和文化理解。",
+      body1: "在经济上，会多种语言打开了只会一种语言的劳动者无法企及的大门。国际贸易、旅游、外交、航空和学术研究，都奖励那些能够直接谈判、无需中介即可阅读文件并跨文化建立信任的员工。翻译工具有助于处理日常询问，但雇主仍然看重语言专业毕业生的细致沟通，而会说客户语言的小企业主能获得机器无法完全提供的切实商业优势。",
+      body2: "语言学习还带来了有据可查的认知和文化益处。研究表明，双语能力与更强的执行控制、更好的多任务处理能力以及老年痴呆症发病延迟相关。更重要的是，语言是通往另一种生活方式的窗口：学习者会发现无法翻译的概念、幽默和历史典故，这些揭示了其他民族的思维方式，培养了国际合作所依赖的同理心。谈判者经常观察到，理解彼此语言的各方能更快地建立信任，并达成仅凭口译员很少能促成的协议。",
+      conclusion: "总之，虽然技术辅助跨语言交流，但掌握另一门语言所获得的职业机会、认知韧性和文化洞察力仍然不可或缺。因此，语言学习不是前数字时代的遗物，而是一项必不可少的现代能力；很少有现代技能能像另一门语言那样打开如此多的大门，或给予学习者如此长久的回报。"
     },
     vocabulary: [
       "multilingualism",
@@ -1249,11 +1249,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "It is true that excessive play causes sleep loss, neglected homework and reduced physical activity, and that a small number of titles combine realistic violence with reward systems that desensitise players. These, however, are risks of misuse rather than features of the medium itself, just as addiction to junk food does not make eating inherently harmful. Parental time limits, age ratings and shared discussion of game content address the dangers without depriving children of genuine benefits. The most successful families treat games as a shared activity, which naturally limits excess and turns play into conversation.",
       conclusion: "In conclusion, video games are neither poison nor universal educator. Their impact depends overwhelmingly on content, duration and adult guidance, and children who play thoughtfully designed games in balance with study, exercise and social life can gain rather than lose."
     },
-    fullParagraphsCN: {
-      introduction: "电子游戏常被指责导致儿童学业下降、攻击性行为和久坐不动的生活方式。我不同意游戏对发展具有固有的负面影响。与电影或书籍一样，游戏的质量差异极大，只要审慎选择、适度游玩，它们能够支持认知、社交和情感成长。",
-      body1: "设计良好的游戏能以可衡量的方式支持发展。策略与模拟类游戏要求玩家规划、分配有限资源、检验假设，并在计划失败时迅速调整，锻炼的正是与数学相同的问题解决能力。合作类网游需要团队协作、沟通和领导力；教育类游戏则能通过课堂难以比拟的即时反馈教授语言、历史和编程。研究综述发现，游戏对注意力、空间推理和反应时间有适度而真实的益处。",
-      body2: "诚然，过度游玩会导致睡眠不足、作业荒废和体力活动减少；少数作品把逼真暴力与奖励机制结合，使玩家脱敏。然而这些是滥用风险，而非媒介本身的特征，正如垃圾食品成瘾并不意味着吃饭本身有害。父母设定游玩时间、执行年龄分级、与孩子讨论游戏内容，能够化解危险，又不剥夺他们获得真实益处的机会。",
-      conclusion: "总之，电子游戏既非毒药也非万能教师。其影响极大程度上取决于内容、时长和成人引导；游玩设计良好的游戏，并与学习、锻炼和社交生活保持平衡的孩子，能够有所收获，而非受到损害。"
+        fullParagraphsCN: {
+      introduction: "电子游戏常被指责为导致儿童学习成绩差、攻击性强和久坐生活方式的原因。我不同意游戏对发展有内在负面影响的观点。与电影或书籍一样，游戏的质量千差万别，只要精心选择并适度游玩，它们就能支持认知、社交和情感成长。",
+      body1: "设计良好的游戏能以可衡量的方式支持发展。策略和模拟类游戏要求玩家规划、分配有限资源、检验假设并在计划失败时迅速调整，锻炼了与数学相同的解决问题的能力。合作类网络游戏需要团队合作、沟通和领导力，而教育类游戏可以通过即时反馈教授语言、历史和编程，这是课堂难以匹敌的。研究综述发现，游戏对注意力、空间推理和反应时间有适度但真实的益处。",
+      body2: "诚然，过度游戏会导致睡眠不足、作业被忽视和体力活动减少，少数游戏还把逼真的暴力与奖励系统结合在一起，使玩家脱敏。然而，这些是滥用的风险，而非媒介本身的特征，正如对垃圾食品上瘾并不意味着吃东西本身有害。家长的时间限制、年龄分级和对游戏内容的共同讨论，能在不剥夺儿童真正益处的情况下应对这些危险。最成功的家庭把游戏当作一种共享活动，这自然限制了过度，并把玩耍变成了对话。",
+      conclusion: "总之，电子游戏既不是毒药，也不是万能的教育者。它们的影响在极大程度上取决于内容、时长和成人指导，而在学习、运动和社交生活之间平衡地游玩精心设计的游戏的儿童，会有所收获而非损失。"
     },
     vocabulary: [
       "sedentary",
@@ -1291,11 +1291,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the other hand, advocates of modern methods emphasise flexibility and access. Online platforms allow learners to study at their own pace, revisit recorded lectures and choose courses offered by top universities at a fraction of the traditional cost. This is particularly transformative for people in remote regions: a student in rural Yunnan, for instance, can now attend live classes from Tsinghua University without leaving home. During the COVID-19 pandemic, platforms such as Zoom and DingTalk enabled hundreds of millions of students worldwide to continue their education uninterrupted, proving that digital delivery can be scaled rapidly when needed.",
       conclusion: "In my opinion, neither extreme is ideal; a blended approach that combines classroom interaction with digital resources offers the best of both worlds. Traditional schooling remains essential for developing social and emotional skills, while online tools personalise revision and widen access to knowledge. Overall, the future of education lies not in choosing one method over the other, but in integrating them intelligently."
     },
-    fullParagraphsCN: {
-      introduction: "数字技术的迅速扩张使人们对教育应如何开展产生了分歧。一些人仍然忠于传统课堂教学，另一些人则认为在线学习代表着未来。本文将探讨争论的双方，然后解释为什么我认为混合式模式最为有效。",
-      body1: "一方面，传统教育的支持者强调面对面互动不可替代的价值。在实体课堂中，教师可以观察学生的表情、即时调整节奏并提供即时反馈，这很难通过屏幕复制。此外，学校培养纪律性和社交技能，因为孩子们学会合作、解决冲突并遵守常规。例如，经合组织2022年一项关于协作解决问题的研究发现，经常参加线下小组活动的学生在团队合作评估中表现优于同龄人。尤其对年幼学习者而言，真实课堂的结构化环境提供了自主在线学习往往缺乏的稳定性。",
-      body2: "另一方面，现代方法的倡导者强调灵活性和可及性。在线平台允许学习者按自己的节奏学习、重温录播课程，并以远低于传统成本的价格选修顶尖大学的课程。这对偏远地区的人们尤其具有变革意义：例如，云南农村的学生现在足不出户就能参加清华大学的直播课。新冠疫情期间，Zoom和钉钉等平台使全球数亿学生得以不间断地继续学业，证明数字化教学在需要时可以迅速规模化。",
-      conclusion: "在我看来，两个极端都不理想；将课堂互动与数字资源相结合的混合方式能兼顾两者之长。传统学校教育对培养社交和情感技能仍然必不可少，而在线工具则能实现个性化复习并拓宽获取知识的渠道。总的来说，教育的未来不在于二选一，而在于明智地将两者整合。"
+        fullParagraphsCN: {
+      introduction: "数字技术的迅速扩张，使人们对教育应如何实施产生了分歧。一些人仍然忠于传统的课堂教学，另一些人则主张在线学习代表着未来。本文将探讨双方观点，然后说明为什么我认为混合模式是最有效的。",
+      body1: "一方面，传统教育的支持者强调面对面互动不可替代的价值。在实体课堂中，教师能读懂学生的表情、即时调整节奏并提供即时反馈，这是通过屏幕难以复制的。此外，学校培养纪律和社交技能，因为孩子们学会合作、解决冲突和遵守日常规范。例如，经合组织2022年一项关于协作解决问题的研究发现，经常参与面对面小组活动的学生在团队合作评估中表现优于同龄人。尤其对年幼的学习者来说，真实课堂的结构化环境提供了自主在线学习往往缺乏的稳定性。",
+      body2: "另一方面，现代方法的倡导者强调灵活性和可及性。在线平台让学习者可以按自己的节奏学习、重看录播课，并以传统成本的零头选择顶尖大学开设的课程。这对偏远地区的人尤其具有变革意义：例如，云南农村的学生如今可以足不出户参加清华大学的直播课。新冠疫情期间，Zoom和钉钉等平台使全球数亿学生能够不间断地继续学业，证明了数字教学在需要时可以迅速规模化。",
+      conclusion: "在我看来，两个极端都不理想；将课堂互动与数字资源相结合的混合方法，能兼得两者之所长。传统学校对于培养社交和情感技能仍然至关重要，而在线工具能个性化复习并拓宽知识获取渠道。总之，教育的未来不在于在两种方法中选一，而在于明智地将它们整合起来。"
     },
     vocabulary: [
       "blended learning",
@@ -1333,11 +1333,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Those who prefer rural areas, however, value benefits that money cannot easily buy. Housing is far cheaper, the air is cleaner, and tight-knit communities provide a strong sense of belonging that anonymous city blocks rarely offer. The slower pace of life reduces stress and leaves more time for family. Since the pandemic, remote working has made this option realistic for many: in the United Kingdom, for instance, thousands of employees relocated to villages in Wales and Scotland, reporting higher life satisfaction despite lower pay. Such moves also help revive local economies that had been declining for decades.",
       conclusion: "In my opinion, city life suits people in the early and middle stages of their careers, while the countryside is ideal for raising children or enjoying retirement. The two environments serve different needs rather than competing absolutely. Ultimately, modern technology increasingly allows individuals to combine urban opportunity with rural peace, and that flexibility should be welcomed."
     },
-    fullParagraphsCN: {
-      introduction: "人们选择住在哪里对生活质量有深远影响。一些人被大城市的活力与机遇所吸引，而另一些人更喜欢乡村的宁静。本文将考量两种生活方式各自的吸引力，并论证最佳选择很大程度上取决于人生阶段。",
-      body1: "赞成城市生活的人通常指出职业前景和公共服务。大城市集中了金融、科技和创意产业的工作岗位，提供小城镇根本无法匹敌的薪资和晋升通道。此外，居民短途通勤即可享受一流的医院、大学和文化场所。上海很好地说明了这一点：其地铁系统、国际学校和专科医院吸引了全国雄心勃勃的专业人才，多项调查一再显示，年轻毕业生认为大城市更有利于个人发展和人脉积累。",
-      body2: "然而，偏爱乡村地区的人看重金钱难以买到的好处。住房便宜得多，空气更清新，紧密的社区提供了城市匿名街区很少能给予的归属感。较慢的生活节奏减轻压力，留出更多陪伴家人的时间。疫情以来，远程办公使这一选择变得切实可行：例如在英国，数千名员工迁居威尔士和苏格兰的村庄，尽管薪资降低，生活满意度却更高。这类迁移还帮助振兴了数十年来持续衰落的地方经济。",
-      conclusion: "在我看来，城市生活适合处于职业生涯早期和中期的人，而乡村则是养育子女或安享退休生活的理想之地。两种环境满足不同需求，而非绝对对立。归根结底，现代技术正日益让人们兼得城市机遇与乡村宁静，这种灵活性值得欢迎。"
+        fullParagraphsCN: {
+      introduction: "人们选择住在哪里，对其生活质量有着深远影响。一些人被大城市的刺激和机会吸引，另一些人则偏爱乡村的宁静。本文将考虑每种生活方式的吸引力，并论证最佳选择在很大程度上取决于一个人所处的人生阶段。",
+      body1: "支持城市生活的人通常指向职业前景和公共服务。大城市集中了金融、科技和创意产业的工作，提供小城镇根本无法比拟的薪资和晋升路径。此外，居民在短途通勤范围内就能享受一流的医院、大学和文化场所。上海就是很好的例证：其地铁系统、国际学校和专科医院吸引了来自全中国的雄心勃勃的专业人士，调查反复显示，年轻毕业生在个人发展和人脉方面给大城市打了更高的分。",
+      body2: "然而，偏爱乡村的人看重的是金钱难以买到的好处。住房便宜得多，空气更清洁，紧密的社区提供了匿名城市街区很少能给予的强烈归属感。较慢的生活节奏减轻了压力，留出了更多陪伴家人的时间。疫情以来，远程办公使这一选择对许多人变得现实：例如在英国，数千名员工搬到了威尔士和苏格兰的村庄，尽管收入较低，却报告了更高的生活满意度。这类迁移也有助于振兴那些已经衰退了几十年的地方经济。",
+      conclusion: "在我看来，城市生活适合职业生涯早期和中期的人，而乡村则是抚养孩子或享受退休生活的理想之地。两种环境服务于不同的需求，而非绝对竞争。归根结底，现代技术越来越允许个人把城市的机会与乡村的宁静结合起来，这种灵活性应当受到欢迎。"
     },
     vocabulary: [
       "career prospects",
@@ -1375,11 +1375,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the other hand, there are strong grounds for preferring online channels in many situations. Video calls connect colleagues across continents in seconds, eliminating travel costs and saving enormous amounts of time. During the pandemic, platforms such as Zoom and Tencent Meeting allowed businesses, schools and even court hearings to function despite lockdowns, proving the resilience of digital interaction. Moreover, online messages create automatic written records, which improves accountability in workplaces. For routine updates and long-distance relationships, logging on is simply more efficient than travelling.",
       conclusion: "Having considered both sides, I would argue that the context should determine the channel: sensitive conversations, first meetings and conflict resolution deserve face-to-face contact, whereas routine coordination is best handled online. This is because each medium compensates for the other's weaknesses. In conclusion, technology should complement rather than replace genuine human presence, and using each tool wisely produces the strongest relationships."
     },
-    fullParagraphsCN: {
-      introduction: "通信技术改变了人们的互动方式，引发了关于当面交流是否仍然重要的争论。一些人声称面对面交流本质上更优越，而另一些人坚持认为线上沟通是更务实的选择。本文将评估两种说法，然后提出我自己的观点。",
-      body1: "一方面，有人认为面对面沟通更好，因为非语言信号承载了大部分意义。面部表情、手势和语调所传达的情绪在屏幕上很容易丢失或失真，而亲身见面能更快建立信任。高风险的谈判和医疗问诊可以证明这一点，它们至今仍倾向于当面进行：加州大学洛杉矶分校心理学中经常被引用的研究表明，肢体语言在信息接收中占相当大比例，因此身体在场显然能加深相互理解。",
-      body2: "另一方面，在许多情况下偏爱线上渠道也有充分依据。视频通话能在几秒钟内连接跨大洲的同事，省去差旅费用并节省大量时间。疫情期间，Zoom和腾讯会议等平台使企业、学校甚至法庭听证在封锁中仍能运转，证明了数字互动的韧性。此外，线上信息会自动留下书面记录，提高了工作场所的问责性。对于日常汇报和异地联络，上线显然比奔波更高效。",
-      conclusion: "权衡双方之后，我认为应由情境决定渠道：敏感谈话、初次见面和冲突解决值得当面进行，而日常协调最好在线处理。这是因为每种媒介恰好弥补对方的弱点。总之，技术应补充而非取代真实的人际在场，明智地运用每种工具才能建立最牢固的关系。"
+        fullParagraphsCN: {
+      introduction: "通信技术改变了人们互动的方式，引发了关于面对面见面是否仍然重要的争论。一些人声称面对面交流本质上更优越，另一些人则坚持认为在线沟通是更实际的选择。本文将评估这两种说法，然后提出我自己的观点。",
+      body1: "一方面，有人认为面对面交流更好，因为非语言信号承载了很大一部分意义。面部表情、手势和语调能揭示情绪，而这些在屏幕上很容易丢失或被扭曲，亲自见面也能更快地建立信任。这方面的证据可见于高风险谈判和医疗咨询——它们仍然倾向于当面进行：加州大学洛杉矶分校心理学常被引用的研究表明，肢体语言在信息接收方式中占相当大的比例，因此身体在场显然能加深相互理解。",
+      body2: "另一方面，在许多情况下，有充分理由偏爱在线渠道。视频通话能在几秒钟内连接各大洲的同事，消除了差旅成本并节省了大量时间。疫情期间，Zoom和腾讯会议等平台使企业、学校甚至法庭听证会在封锁期间仍能运转，证明了数字互动的韧性。此外，在线消息会自动生成书面记录，提高了工作场所的问责性。对于日常更新和远距离关系来说，登录比出行更高效。",
+      conclusion: "在考虑了双方观点后，我认为渠道应由情境决定：敏感的对话、初次见面和解决冲突值得面对面接触，而日常协调最好在线上处理。这是因为每种媒介都弥补了对方的弱点。总之，技术应当补充而非取代真实的人类在场，明智地使用每种工具才能建立最牢固的关系。"
     },
     vocabulary: [
       "non-verbal cues",
@@ -1416,11 +1416,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the other hand, classroom learning provides benefits that self-study cannot match, above all expert feedback and social motivation. A skilled teacher identifies misconceptions immediately and adjusts explanations accordingly, while classmates create healthy competition and emotional support. Language learning demonstrates this clearly: students who attend regular speaking classes typically achieve fluency faster than those studying alone, because teachers correct pronunciation errors that learners cannot hear themselves. Moreover, fixed schedules and deadlines combat procrastination, which defeats many independent learners before they reach their goals.",
       conclusion: "In my view, the two approaches are complementary rather than rivals. Classroom instruction is indispensable for building solid foundations, particularly in the early stages, while self-study becomes increasingly valuable as learners mature and specialise. While freedom motivates some students, the evidence suggests that most people need guidance first. Overall, the most successful learners combine structured lessons with disciplined independent practice, drawing strength from both traditions."
     },
-    fullParagraphsCN: {
-      introduction: "教育已不再局限于课堂，学习者越来越多地问：独自学习是否与正规课程同样有效。一些人拥护自学的自由，另一些人则捍卫课堂教学的结构。本文将审视双方，并解释为什么我认为两种方法按先后顺序结合效果最佳。",
-      body1: "一方面，自学有明显优势，主要是能完全掌控进度和内容。有动力的人可以跳过已掌握的内容，在难点上多花功夫，并选择适合自己学习风格的资源。一个突出的例子是软件行业，无数开发者通过在线文档和开源项目自学成才，在没有任何正规计算机科班训练的情况下建立了成功的职业生涯。可汗学院和Coursera等免费平台让任何能上网的人都能获得高质量学习材料，大幅降低了独立学习的门槛。",
-      body2: "另一方面，课堂学习提供了自学无法比拟的好处，最重要的是专家反馈和社交动力。优秀的教师能立即发现学生的误解并相应调整讲解，而同学之间则形成良性竞争和情感支持。语言学习清楚地证明了这一点：定期上口语课的学生通常比独自学习者更快达到流利，因为老师会纠正学习者自己听不出的发音错误。此外，固定的时间表和截止日期能对抗拖延，而拖延正是许多独立学习者在达成目标前失败的原因。",
-      conclusion: "在我看来，两种方式相辅相成而非相互对立。课堂教学对打下坚实基础不可或缺，尤其在早期阶段；而自学则随着学习者的成熟和专业化变得越来越有价值。虽然自由能激励部分学生，但证据表明大多数人需要先获得引导。总的来说，最成功的学习者将结构化课程与自律的独立练习相结合，从两种传统中汲取力量。"
+        fullParagraphsCN: {
+      introduction: "教育不再局限于课堂，学习者越来越多地问：自学是否与正式课程一样有效。一些人推崇自学的自由，另一些人则捍卫课堂教学的结构性。本文将考察双方观点，并解释为什么我认为这两种方法最好按顺序使用。",
+      body1: "一方面，自学有明显的优势，主要是对节奏和内容的完全控制。有动力的人可以跳过已掌握的内容、在困难概念上多花时间，并选择适合自己学习风格的资源。一个突出的例子是软件行业，无数开发者通过在线文档和开源项目自学成才，建立了成功的职业生涯，而没有接受过正式的计算机科学培训。可汗学院和Coursera等免费平台让任何有互联网连接的人都能获得高质量的学习材料，极大地降低了独立学习的门槛。",
+      body2: "另一方面，课堂学习提供了自学无法比拟的好处，最重要的是专家反馈和社交动力。熟练的教师能立即识别误解并相应调整解释，而同学则创造了良性竞争和情感支持。语言学习清楚地证明了这一点：定期参加口语课的学生通常比独自学习的人更快达到流利，因为教师能纠正学习者自己听不出的发音错误。此外，固定的日程和截止日期能对抗拖延，而拖延在许多独立学习者达到目标之前就击败了他们。",
+      conclusion: "在我看来，这两种方法是互补的，而非竞争对手。课堂教学对于打下坚实基础不可或缺，尤其是在早期阶段，而随着学习者成熟和专业化，自学变得越来越有价值。虽然自由能激励一些学生，但证据表明大多数人首先需要指导。总之，最成功的学习者把结构化课程与有纪律的独立实践结合起来，从两种传统中汲取力量。"
     },
     vocabulary: [
       "self-directed",
@@ -1458,11 +1458,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Conversely, supporters of spending contend that money is a tool for living well now, not a trophy to be hoarded. Travel, hobbies and shared experiences create memories and personal growth that no bank balance can provide, and pleasures postponed indefinitely may never return. Consider the wider economy as well: household consumption accounts for the majority of GDP in most developed nations, so excessive caution during downturns can actually deepen recessions. This highlights the fact that someone who saves obsessively but never invests in health, education or relationships may end up wealthy in money yet poor in life.",
       conclusion: "On balance, I side with the view that extreme positions in either direction are unwise. A sensible rule is to save a fixed proportion of income first, then spend the remainder without guilt on things that genuinely improve life. Ultimately, financial wellbeing comes from balancing future security against present happiness rather than sacrificing one for the other."
     },
-    fullParagraphsCN: {
-      introduction: "理财方式把人分为储蓄派和消费派，双方都坚信自己的观念更明智。对一些人来说，省下每一分闲钱是唯一明智的做法，而另一些人坚持认为钱就是用来当下享受的。本文将讨论两种观念，最后得出审慎平衡才是最稳妥之道的结论。",
-      body1: "倡导储蓄的人主要因为储蓄能保障安全和长期自由。应急基金能缓冲失业、医疗账单等意外冲击，而持续储蓄能实现购房或资助子女教育等重大目标。新冠疫情的经历表明，有储蓄的家庭比月光家庭更能安然度过封锁期；像新加坡这样家庭储蓄率高的国家，经济复苏时社会阵痛也更小。储蓄还能换来独立自主，让人无惧地转换职业或提前退休。",
-      body2: "相反，消费派主张钱是过好当下生活的工具，而非囤积的奖杯。旅行、爱好和共同体验创造了任何银行余额都无法提供的回忆和个人成长，无限期推迟的享受可能永远不会再来。再从整体经济来看：家庭消费在多数发达国家占GDP的大头，因此经济下行期过度节俭反而可能加深衰退。这凸显了一个事实：一个拼命储蓄却从不在健康、教育或人际关系上投入的人，最终可能金钱上富有、生活上贫穷。",
-      conclusion: "权衡之下，我支持任何极端都不可取的观点。明智的法则是先把收入的固定比例存起来，再无愧疚地把余下的钱花在真正改善生活的事情上。归根结底，财务健康来自未来保障与当下幸福之间的平衡，而非牺牲一方成全另一方。"
+        fullParagraphsCN: {
+      introduction: "理财把人们分为储蓄者和消费者，每一方都坚信自己的哲学更明智。对一些人来说，省下每一分多余的钱是唯一明智的做法，而另一些人则坚持认为钱就是用来当下享受的。本文将讨论这两种哲学，然后得出结论：有意的平衡才是最稳妥的做法。",
+      body1: "倡导储蓄的人主要是因为储蓄能保障安全和长期自由。应急基金能缓冲家庭因失业、医疗账单和其他冲击造成的影响，而持续储蓄能实现购房或资助子女教育等重大目标。新冠疫情的经历表明，有储蓄的家庭比月光族更能安然度过封锁期，而像新加坡这样家庭储蓄率高的国家，经济复苏时社会阵痛也更小。储蓄还能换来独立自主，让人无惧地转换职业或提前退休。",
+      body2: "相反，支持消费的人认为，金钱是当下好好生活的工具，而非囤积的战利品。旅行、爱好和共享经历能创造银行存款无法提供的回忆和个人成长，而无限期推迟的快乐可能永远不会再回来。也从更广泛的经济来看：家庭消费占大多数发达国家国内生产总值的大部分，因此经济低迷期间的过度谨慎实际上可能加深衰退。这凸显了一个事实：一个痴迷于储蓄却从不投资健康、教育或人际关系的人，最终可能在金钱上富有，在生活上却贫乏。",
+      conclusion: "总的来说，我倾向于认为任何方向上的极端立场都是不明智的。一个合理的规则是，先把收入的固定比例存起来，然后问心无愧地把剩余的钱花在真正能改善生活的事情上。归根结底，财务福祉来自于在未来安全与当下幸福之间取得平衡，而非为了一方牺牲另一方。"
     },
     vocabulary: [
       "emergency fund",
@@ -1499,11 +1499,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Supporters of private healthcare, by contrast, stress efficiency and choice. Competition between providers drives shorter waiting times, newer equipment and more personalised service. In Singapore's hybrid system, for instance, citizens can top up public provision with private insurance, and the country consistently achieves world-leading health outcomes while spending a smaller share of GDP than most Western nations. This demonstrates that market incentives, when regulated properly, can raise standards without abandoning universal protection.",
       conclusion: "In my opinion, healthcare is too important to be left entirely to the market, yet pure state monopoly often breeds inefficiency. The ideal system would guarantee comprehensive public coverage for essential treatment while allowing private providers to offer faster or more comfortable alternatives. Overall, the goal should be a safety net that no one falls through, combined with the innovation that healthy competition encourages."
     },
-    fullParagraphsCN: {
-      introduction: "世界各国的医疗体系反映了一个根本分歧：医疗应当是普惠的公共服务，还是私人购买的商品？两种模式的支持者都极力为其辩护。本文将审视两种方式，并论证以坚实的公共医疗为基础、辅以私人选择最能造福社会。",
-      body1: "公共医疗的倡导者强调平等与社会团结。当医疗费用由税收承担时，没有人会因贫困而被拒诊，预防性服务也让全体人口更健康。例如，在英国国家医疗服务体系（NHS）中，患者在就诊时免费获得治疗，这意味着清洁工和公司董事都按医疗需要而非财富多寡得到救治。这证明公共体系保护弱势群体，并让数百万人免于在没有全民医保的国家里挥之不去的医疗破产恐惧。",
-      body2: "相比之下，私人医疗的支持者强调效率和选择权。医疗机构之间的竞争推动更短的候诊时间、更新的设备和更个性化的服务。例如，在新加坡的混合体系中，公民可以用私人保险补充公共保障，该国以低于多数西方国家的GDP占比持续取得世界领先的健康成果。这表明，只要监管得当，市场激励可以在不放弃全民保障的前提下提高标准。",
-      conclusion: "在我看来，医疗太重要，不能完全交给市场，但纯粹的国家垄断又往往滋生低效。理想的体系应为基本治疗提供全面的公共保障，同时允许私人机构提供更快捷或更舒适的选择。总的来说，目标应当是既有无人会跌穿的安全网，又有良性竞争所激励的创新。"
+        fullParagraphsCN: {
+      introduction: "世界各地的医疗体系反映了一个根本性分歧：医疗应当是普遍的公共服务，还是私人购买的产品？每种模式的支持者都为之激烈辩护。本文将考察两种做法，并论证以强大的公共基础为主体、辅以私人选择，最能服务社会。",
+      body1: "公共医疗的倡导者强调平等和社会团结。当治疗通过税收资助时，没有人会因为贫困而被拒绝治疗，预防性服务也让全体人口更健康。例如，在英国国家医疗服务体系中，患者在使用时免费接受治疗，这意味着清洁工和公司董事是根据医疗需要而非财富来接受治疗的。这证明公共体系能保护弱势群体，并减少了困扰着没有全民覆盖的国家中数百万人的医疗破产恐惧。",
+      body2: "相反，私人医疗的支持者强调效率和选择。服务提供者之间的竞争会缩短等待时间、更新设备并提供更个性化的服务。例如在新加坡的混合体系中，公民可以用私人保险补充公共保障，该国在取得世界领先的健康成果的同时，国内生产总值中医疗支出的占比却低于大多数西方国家。这表明，市场激励在受到适当监管时，能够在不放弃全民保护的前提下提高标准。",
+      conclusion: "在我看来，医疗太重要了，不能完全交给市场，但纯粹的国家垄断往往滋生低效。理想的体系应当保证基本治疗的全面公共覆盖，同时允许私人提供者提供更快或更舒适的替代方案。总之，目标应当是一张没有人会漏网的安全网，加上良性竞争所鼓励的创新。"
     },
     vocabulary: [
       "universal coverage",
@@ -1540,11 +1540,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the other hand, working alone brings focus and personal accountability. A clear example is writing: novelists, researchers and programmers frequently produce their best work in solitude, free from meetings and interruptions. Deep, concentrated effort allows ideas to mature without compromise, and individuals receive full credit or blame for the results, which sharpens responsibility. Studies on productivity also find that open-plan offices, designed for collaboration, often reduce output because of constant distraction. Hence, for tasks demanding sustained concentration, solitude remains superior.",
       conclusion: "In my view, neither mode is universally better because different tasks reward different structures: brainstorming and execution benefit from teamwork, while analysis and creative drafting flourish in solitude. Overall, the most effective professionals move fluidly between the two, collaborating to set direction and then withdrawing to do deep work. Employers should design environments that allow both."
     },
-    fullParagraphsCN: {
-      introduction: "团队工作好还是独自工作好，这一问题在职场和课堂中都引发分歧。两种风格都有忠实的追随者。本文将考量双方，并论证应由任务的性质决定采用哪种方式。",
-      body1: "一方面，团队合作汇聚了综合专业知识的力量。设计飞机或开发智能手机应用等复杂项目需要工程师、设计师、营销人员和测试人员的协作，因为没有任何个人掌握全部必要技能。例如，阿波罗登月计划的成功依靠约40万人的协作；现代研究也表明，多元化团队在处理复杂问题时始终优于单打独斗的个人。因此，对于雄心勃勃的跨学科目标，合作不是可选项，而是必需品。",
-      body2: "另一方面，独自工作带来专注和个人责任感。一个明显的例子是写作：小说家、研究者和程序员往往在独处时产出最佳作品，远离会议和干扰。深度专注让想法不经妥协地成熟，个人对结果承担全部功过，这强化了责任心。关于生产力的研究还发现，为协作设计的开放式办公室往往因持续干扰而降低产出。因此，对于需要持续专注的任务，独处仍然更胜一筹。",
-      conclusion: "在我看来，没有哪种模式普遍更优，因为不同任务需要不同结构：头脑风暴和执行受益于团队协作，而分析和创意草拟则在独处中蓬勃发展。总的来说，最高效的专业人士在两种模式间灵活切换——协作确定方向，然后退隐进行深度工作。雇主应当设计允许两者并存的环境。"
+        fullParagraphsCN: {
+      introduction: "团队合作好还是独自工作好，这个问题在工作场所和课堂上都存在分歧。每种方式都有忠实的追随者。本文将考虑双方观点，并论证任务的性质应当决定方法。",
+      body1: "一方面，团队合作提供了综合专业知识的力量。设计飞机或开发智能手机应用等复杂项目，需要工程师、设计师、营销人员和测试人员协作，因为没有任何个人掌握全部必要技能。例如，阿波罗太空计划的成功依靠了约40万人的协作，现代研究也表明，多元化团队在处理复杂的解决问题任务时始终优于单打独斗的个人。因此，对于雄心勃勃的多学科目标，合作不是可选项，而是必需品。",
+      body2: "另一方面，独自工作带来专注和个人责任感。一个明显的例子是写作：小说家、研究人员和程序员往往在独处时产出最好的作品，免受会议和干扰。深入、集中的努力能让想法不受妥协地成熟，个人则为结果获得全部的赞誉或指责，这强化了责任感。关于生产力的研究还发现，为协作设计的开放式办公室，往往因为持续的干扰而降低产出。因此，对于需要持续专注的任务，独处仍然更优越。",
+      conclusion: "在我看来，两种模式都不普遍更优，因为不同的任务需要不同的结构：头脑风暴和执行受益于团队合作，而分析和创造性起草则在独处中蓬勃发展。总之，最有效的专业人士能在两者之间流畅切换——协作以确定方向，然后抽身进行深度工作。雇主应当设计出允许两者并存的环境。"
     },
     vocabulary: [
       "collaboration",
@@ -1581,11 +1581,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "However, defenders of television counter that visual media can educate powerfully and accessibly. For example, documentaries such as the BBC's Planet Earth series bring science and nature to millions who would never open a textbook, combining expert narration with footage that took years to capture. Television also unites societies around shared events, from moon landings to World Cup finals, creating common cultural reference points. This means the medium's value depends on content quality rather than the technology itself, and dismissing all television ignores its genuine educational reach.",
       conclusion: "In my opinion, reading remains the superior habit for developing imagination, language and sustained attention, though high-quality documentaries deserve a place in a balanced media diet. The passive nature of most television makes it easy to consume without thinking, whereas books demand active participation. Overall, choosing to read daily while watching selectively offers the richest intellectual life."
     },
-    fullParagraphsCN: {
-      introduction: "在屏幕时代，阅读这一老派习惯与电视争夺着我们的注意力。一些人坚持认为书籍以屏幕永远无法企及的方式开发心智，而另一些人则认为电视同样是观察世界的宝贵窗口。本文将权衡双方并给出我的看法。",
-      body1: "阅读的支持者认为，阅读主动调动大脑而非仅仅娱乐大脑。解码文字迫使读者想象人物、跟随复杂论证并积累词汇，从而增强专注力和批判性思维。研究表明，以阅读为乐的孩子不仅在读写能力上，在数学上的得分也显著更高——这是伦敦教育学院长期追踪研究的结论。此外，深度阅读与更强的同理心相关，因为沉浸于虚构人物的内心能训练我们理解现实中的人。",
-      body2: "然而，电视的捍卫者反驳说，视觉媒体能够强有力且无障碍地发挥教育作用。例如，BBC的《地球脉动》系列纪录片把科学与自然带给数百万永远不会翻开教科书的观众，将专家解说与耗时数年拍摄的影像结合在一起。电视还围绕共同事件凝聚社会——从登月到世界杯决赛——创造了共同的文化参照点。这意味着媒介的价值取决于内容质量而非技术本身，一概否定电视忽视了它真实的教育影响力。",
-      conclusion: "在我看来，对于培养想象力、语言能力和持续注意力，阅读仍是更优的习惯，不过高质量纪录片在均衡的媒介饮食中也应有一席之地。大多数电视节目的被动性质使人不费思考就能消费，而书籍则要求主动参与。总的来说，坚持每日阅读、有选择地观看电视，能带来最丰富的精神生活。"
+        fullParagraphsCN: {
+      introduction: "在屏幕时代，阅读这一古老习惯与电视争夺着我们的注意力。一些人坚称书籍能以屏幕永远无法做到的方式塑造心智，另一些人则认为电视是一扇同样有价值的了解世界的窗口。本文将权衡双方并给出我的观点。",
+      body1: "阅读的支持者认为，它积极调动大脑，而非仅仅娱乐。解码文字迫使读者想象人物、跟随复杂论证并积累词汇，这能加强专注力和批判性思维。研究表明，根据伦敦教育学院的长期研究，为乐趣而阅读的儿童不仅在读写能力上得分显著更高，在数学上也是如此。此外，深度阅读与更强的同理心相关，因为进入虚构人物的内心能训练我们理解真实的人。",
+      body2: "然而，电视的捍卫者反驳说，视觉媒体能强有力且可及地进行教育。例如，BBC《行星地球》系列等纪录片把科学和自然带给了数百万永远不会翻开教科书的人，把专家解说与花了数年才拍摄到的画面结合在一起。电视还能让社会围绕共同事件团结起来——从登月到世界杯决赛——创造共同的文化参照点。这意味着这种媒介的价值取决于内容质量而非技术本身，而否定所有电视就忽视了它真正的教育覆盖面。",
+      conclusion: "在我看来，阅读仍然是培养想象力、语言和持续注意力的更优越习惯，尽管高质量的纪录片在平衡的媒体饮食中应有一席之地。大多数电视的被动性使人们容易不加思考地消费，而书籍则要求主动参与。总之，每天选择阅读、同时有选择地观看，能提供最丰富的精神生活。"
     },
     vocabulary: [
       "critical thinking",
@@ -1622,11 +1622,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Independent travellers, by contrast, argue that freedom is the essence of travel. Without a fixed itinerary, they can linger in a Lisbon café, accept a local's dinner invitation or change plans when they discover a hidden village. For instance, backpackers through Southeast Asia routinely report that their most memorable experiences — a festival stumbled upon in Chiang Mai, a family homestay in Vietnam — happened precisely because no schedule forced them onward. Consequently, independent travel fosters genuine cultural exchange and personal growth that a forty-minute coach stop cannot replicate.",
       conclusion: "In my view, both styles have their place: first-time visitors to challenging destinations gain confidence from organised tours, while experienced travellers thrive on spontaneity. Many people now blend the two, booking transport and hotels but exploring freely each day. Ultimately, the goal of travel is meaningful experience, and whichever style delivers it for a given person is the right one."
     },
-    fullParagraphsCN: {
-      introduction: "规划旅行时，旅行者面临一个基本选择：参加跟团游还是自由行。两种方式每年都吸引数百万忠实拥趸。本文将讨论两种选择各自的吸引力，然后论证正确的选择取决于旅行者的经验和目的地。",
-      body1: "跟团游的爱好者指出其便利与安心。从机票、酒店到景点门票，一切都预先安排妥当，免去了规划的压力和在陌生国家犯下昂贵错误的风险。以赴欧的中国老年游客为例：语言障碍和复杂的铁路系统令自由行令人生畏，因此配备中文导游的旅行团让他们能舒适安全地游览卢浮宫和瑞士阿尔卑斯山。因此，跟团游为本可能终身不敢远行的人打开了世界，而且批量预订使价格出奇地低廉。",
-      body2: "相比之下，自由行旅行者认为自由才是旅行的本质。没有固定行程，他们可以在里斯本的咖啡馆里消磨一下午，接受当地人的晚餐邀请，或在发现隐秘村落时改变计划。例如，东南亚的背包客常说，他们最难忘的经历——在清迈偶遇的节日、在越南的民宿家庭——恰恰是因为没有行程催着他们赶路才得以发生。因此，自由行培养了真正的大巴车四十分钟停靠无法复制的文化交流和个人成长。",
-      conclusion: "在我看来，两种方式各有其适用场景：首次前往有挑战性目的地的游客能从旅行团中获得信心，而经验丰富的旅行者则在随性发挥中如鱼得水。如今许多人将两者结合——预订交通和酒店，但每天自由探索。归根结底，旅行的目标是获得有意义的体验，哪种方式能为特定的人实现它，哪种就是正确的选择。"
+        fullParagraphsCN: {
+      introduction: "计划旅行时，旅行者面临一个基本选择：参加旅行团还是独立旅行。两种方式每年都吸引数百万忠实追随者。本文将讨论每种选择的吸引力，然后论证正确的选择取决于旅行者的经验和目的地。",
+      body1: "旅行团的爱好者指向便利性和安全感。从机票、酒店到博物馆门票，一切都提前安排好了，这消除了规划的压力和在陌生国家犯代价高昂错误的风险。以游览欧洲的中国老年游客为例：语言障碍和复杂的铁路系统让独立旅行令人却步，因此有普通话导游的有组织团队让他们能舒适安全地参观卢浮宫和瑞士阿尔卑斯山。因此，旅行团向原本不会走出家门的人打开了世界的大门，而批量预订也使价格低得惊人。",
+      body2: "相反，独立旅行者认为自由是旅行的本质。没有固定的行程，他们可以在里斯本的咖啡馆流连、接受当地人的晚餐邀请，或在发现一个隐秘村庄时改变计划。例如，穿越东南亚的背包客常报告说，他们最难忘的经历——在清迈偶然遇到的一个节日、在越南的一个家庭寄宿——恰恰是因为没有日程逼迫他们前行才发生的。因此，独立旅行能促进真正的文化交流和个人成长，这是四十分钟的大巴停留无法复制的。",
+      conclusion: "在我看来，两种方式各有其位置：初次前往具有挑战性目的地的游客能从有组织的旅行中获得信心，而经验丰富的旅行者则在随性中茁壮成长。许多人现在把两者结合起来——预订交通和酒店，但每天自由探索。归根结底，旅行的目标是有意义的体验，而对某个人而言能实现这一点的方式就是正确的方式。"
     },
     vocabulary: [
       "itinerary",
@@ -1663,11 +1663,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Those who welcome modern culture reply that traditions are living things that must evolve or become museum pieces. Clinging to the past can entrench harmful customs, from gender inequality to resistance to scientific progress. In South Korea, for instance, the deliberate fusion of traditional music with pop production created K-pop, a global industry worth billions that spreads Korean culture further than preservation alone ever could. Hence, embracing modernity does not erase identity but translates it into forms new generations actually want to inherit.",
       conclusion: "In my opinion, the choice is falsely framed. Cultures thrive when they preserve their core values while adapting their expression to contemporary life, as both Japan and Korea demonstrate. Societies should fund museums, language programmes and traditional crafts while also encouraging creative reinterpretation. Overall, a culture that only looks backwards becomes a relic, while one that only looks forwards becomes rootless; the healthiest societies manage to do both."
     },
-    fullParagraphsCN: {
-      introduction: "全球化使一个古老的困境更加尖锐：社会应当守护传统文化，还是拥抱现代文化？这场辩论涉及从语言、饮食到建筑和价值观的方方面面。本文将审视两种立场，并解释为什么我认为守护与更新必须并行。",
-      body1: "捍卫传统的人警告说，失去文化遗产就是失去身份本身。语言、节日和手工艺承载着世代积累的智慧，一旦消亡便无法再造。当世界上最后一位能流利使用某种原住民语言的人去世时——这大约每两周就在某地发生一次——一整套理解自然与社群的方式也随之消逝。日本提供了正面的反例：它在摩天都市之外精心守护茶道、寺庙和和服制作，赋予公民一种纯粹未来主义社会所缺乏的扎根感。因此，守护传统能让人在令人迷惘的时代有所依傍。",
-      body2: "欢迎现代文化的人回应说，传统是活的事物，必须演化，否则就会沦为博物馆展品。固守过去可能固化有害习俗——从性别不平等到抵制科学进步。例如在韩国，传统音乐与流行制作的刻意融合催生了K-pop，这个价值数十亿美元的全球性产业把韩国文化传播得比单纯保护所能及的范围更远。因此，拥抱现代性并非抹去身份，而是将其转译为新一代真正愿意继承的形式。",
-      conclusion: "在我看来，这种非此即彼的框定是错误的。正如日本和韩国所展示的，文化在守护核心价值的同时让表现形式适应当代生活时才会繁荣。社会应当资助博物馆、语言项目和传统工艺，同时鼓励创造性的重新诠释。总的来说，只向后看的文化会成为遗物，只向前看的文化会失去根基；最健康的社会两者兼顾。"
+        fullParagraphsCN: {
+      introduction: "全球化加剧了一个古老的困境：社会应当保护传统文化还是拥抱现代文化？这场辩论触及从语言、饮食到建筑和价值观的方方面面。本文将考察两种立场，并解释为什么我认为保护与更新必须携手并进。",
+      body1: "捍卫传统的人警告说，失去文化遗产意味着失去身份本身。语言、节日和工艺承载着几代人积累的智慧，一旦灭绝就无法重建。当一种原住民语言的最后一位流利使用者去世时——世界上大约每两周就会发生一次——一整套理解自然和社群的方式也随之消失。日本提供了一个积极的反例：它在超现代城市之外，精心保护茶道、寺庙和服制作，这让公民拥有了纯粹未来主义社会所缺乏的根基感。因此，在一个令人迷失方向的时代，守护传统能让人们扎根。",
+      body2: "欢迎现代文化的人回应说，传统是活的东西，必须进化，否则就会变成博物馆里的展品。固守过去可能固化有害的习俗，从性别不平等到抵制科学进步。例如在韩国，有意地把传统音乐与流行制作相融合，创造了K-pop——一个价值数十亿美元的全球产业，比单纯的保护更广泛地传播了韩国文化。因此，拥抱现代性并不会抹去身份，而是把它转化为新一代真正愿意继承的形式。",
+      conclusion: "在我看来，这个选择的提出方式本身就是错误的。文化在保护核心价值观的同时，把表达方式适应当代生活时才会蓬勃发展，日本和韩国都证明了这一点。社会应当资助博物馆、语言项目和传统工艺，同时也鼓励创造性的重新诠释。总之，只向后看的文化会变成遗物，只向前看的文化会失去根基；最健康的社会能两者兼顾。"
     },
     vocabulary: [
       "cultural heritage",
@@ -1704,11 +1704,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Conversely, champions of infrastructure point out that basic services are prerequisites for any civilised life. Roads and public transport determine whether people can reach work, hospitals save lives, and clean water prevents disease. In many developing countries, for instance, millions of schoolchildren still walk for hours each day on unsafe paths, limiting attendance and academic progress; building even modest rural roads would transform educational and economic outcomes. As a result, infrastructure spending benefits the greatest number of people in the most direct way, and its absence traps communities in poverty.",
       conclusion: "In my view, a government with limited funds should prioritise essential infrastructure, because health, safety and education are the foundations upon which cultural life later thrives. Arts funding is desirable once those foundations are secure, but not before. Ultimately, the most responsible policy is to ensure that every citizen has reliable roads and clean water, then to enrich life with the arts that those improvements make possible."
     },
-    fullParagraphsCN: {
-      introduction: "政府预算在艺术投资和基础设施（如道路、医院和学校）投资之间不断拉锯。双方都声称自己的优先事项能带来更大的公共利益。本文将审视两种立场，并解释为什么我认为基础设施必须优先。",
-      body1: "艺术资金的倡导者认为，文化以超越简单经济回报的方式丰富社会。博物馆、剧院和音乐节提升公民生活质量、吸引旅游并维护国家认同。以西班牙毕尔巴鄂古根海姆博物馆为例：1997年开放时，弗兰克·盖里设计的前卫建筑将一座衰落的工业城市转变为重要的文化旅游目的地，酒店预订和本地就业随之增长。这表明战略性艺术投资能够振兴整个地区，并赋予社区自豪感。",
-      body2: "相反，基础设施的拥护者指出，基本服务是文明生活的先决条件。道路和公共交通决定人们能否上班，医院挽救生命，清洁水源预防疾病。例如，在许多发展中国家，数百万学童每天仍需在不安全的道路跋涉数小时，限制了出勤率和学业进步；哪怕修建简易的乡村公路，也能改变教育和经济成果。因此，基础设施支出以最直接的方式惠及最多的人，而缺乏基础设施会让社区陷入贫困。",
-      conclusion: "在我看来，资金有限的政府应优先保障基本基础设施，因为健康、安全和教育是文化生活日后繁荣的基础。一旦这些基础稳固，艺术投资才是可取的，但在此之前不宜优先。归根结底，最负责任的政策是确保每位公民都有可靠的道路和清洁的水源，然后再用那些改善所创造的条件来丰富生活。"
+        fullParagraphsCN: {
+      introduction: "政府预算在艺术投资与道路、医院、学校等基础设施投资之间始终面临拉锯。每一方都声称自己的优先事项能带来更大的公共利益。本文将考察两种立场，并解释为什么我认为基础设施必须放在首位。",
+      body1: "艺术资助的倡导者认为，文化丰富社会的方式超越了简单的经济回报。博物馆、剧院和音乐节能提升公民的生活质量、吸引旅游业并保存国家认同。以西班牙毕尔巴鄂古根海姆博物馆为例：1997年开放时，弗兰克·盖里大胆的建筑设计把一座衰落的工业城市变成了重要的文化目的地，增加了酒店预订和当地就业。这表明，战略性的艺术投资能振兴整个地区，并给予社区自豪感。",
+      body2: "相反，基础设施的拥护者指出，基本服务是任何文明生活的前提。道路和公共交通决定人们能否上班，医院拯救生命，清洁用水预防疾病。例如在许多发展中国家，数百万学童每天仍要在不安全的道路上步行数小时，这限制了出勤率和学业进步；哪怕修建最简陋的农村公路也能改变教育和经济成果。因此，基础设施支出以最直接的方式惠及最多的人，而它的缺失会让社区困在贫困之中。",
+      conclusion: "在我看来，资金有限的政府应当优先考虑基本基础设施，因为健康、安全和教育是文化生活日后得以繁荣的基础。一旦这些基础稳固，艺术资助就是可取的，但不能在此之前。归根结底，最负责任的政策是确保每个公民都有可靠的道路和清洁用水，然后用这些改善所促成的艺术来丰富生活。"
     },
     vocabulary: [
       "regenerate",
@@ -1745,11 +1745,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the other hand, defenders of school education argue that formal institutions introduce children to specialised knowledge, diverse perspectives and democratic interaction. Take Finland's education system, for instance: teachers there are highly trained, curricula emphasise critical thinking over rote memorisation, and students consistently rank among the world's top performers in mathematics and reading. Hence, schools offer resources, expert guidance and peer networks that most families cannot replicate at home, and they expose children to worldviews wider than their own neighbourhood.",
       conclusion: "In my opinion, neither sphere can replace the other. Family education instils the love of learning, character and self-esteem that make formal schooling possible, while schools then teach the academic skills and social maturity needed for adult life. While some parents are exceptionally gifted educators, most children benefit enormously from professional teachers and diverse classmates. Overall, the greatest educational success comes when families and schools work in partnership, each reinforcing what the other provides."
     },
-    fullParagraphsCN: {
-      introduction: "家庭教育和学校教育哪个更重要的问题已困扰思想家数百年。每种环境以不同方式塑造年轻的心智。本文将探讨两种视角，然后解释为什么我认为家庭奠定基础，学校构筑大厦。",
-      body1: "一方面，强调家庭教育的人指出，价值观、习惯和情感安全感在孩子进教室之前很久就已扎根。早期语言习得是一个明显的例子：儿童在头三年主要从父母和兄弟姐妹那里学习词汇、发音和社交规则。此外，家庭传递文化认同和道德标准——从尊敬长辈到对诚实的态度。这表明，如果没有支持性的家庭环境，即便最好的学校也收效甚微，因为饥饿、焦虑或被忽视的孩子无法专注于功课。",
-      body2: "另一方面，学校教育的捍卫者认为，正规机构让孩子接触专业知识、多元视角和民主互动。以芬兰的教育体系为例：那里的教师训练有素，课程强调批判性思维而非死记硬背，学生在数学和阅读上始终位列世界前茅。因此，学校提供大多数家庭无法在家中复制的资源、专业指导和同伴网络，并让孩子接触到比自家社区更宽广的世界观。",
-      conclusion: "在我看来，两者不可替代。家庭教育培养了对学习的热爱、品格和自尊，使正规学校教育成为可能；而学校则教授成人生活所需的学术技能和社交成熟度。虽然一些父母天生是卓越的教育者，但大多数孩子从专业教师和多元化同学中获益匪浅。总的来说，当家庭和学校携手合作、互相强化时，教育才能取得最大的成功。"
+        fullParagraphsCN: {
+      introduction: "家庭教育和学校教育哪个更重要的问题，困扰了思想家几个世纪。每个环境都以不同的方式塑造着年轻的心灵。本文将探讨两种观点，然后解释为什么我认为家庭奠定基础，而学校搭建结构。",
+      body1: "一方面，强调家庭教育的人指出，价值观、习惯和情感安全感早在孩子进入课堂之前就已扎根。一个明显的例子是早期语言习得：儿童在头三年主要从父母和兄弟姐妹那里学习词汇、发音和社会规则。此外，家庭传递文化认同和道德标准，从对长辈的尊敬到对诚实的态度。这表明，没有支持性的家庭环境，即使是最好的学校也收效甚微，因为饥饿、焦虑或被忽视的孩子无法专注于课程。",
+      body2: "另一方面，学校教育的捍卫者认为，正规机构让孩子接触到专业知识、多元视角和民主互动。以芬兰的教育体系为例：那里的教师受过高等培训，课程强调批判性思维而非死记硬背，学生在数学和阅读方面始终名列世界前茅。因此，学校提供了大多数家庭无法在家复制的资源、专家指导和同伴网络，并让孩子接触到比自己社区更广阔的世界观。",
+      conclusion: "在我看来，两个领域都无法替代对方。家庭教育灌输对学习的热爱、品格和自尊，这使正规教育成为可能，而学校随后教授成人生活所需的学术技能和社交成熟度。虽然有些家长是天赋异禀的教育者，但大多数孩子都能从专业教师和多元同学中获益良多。总之，当家庭和学校伙伴合作、各自强化对方所提供的内容时，教育才能取得最大成功。"
     },
     vocabulary: [
       "acquisition",
@@ -1786,11 +1786,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Nevertheless, those who choose entrepreneurship argue that independence, unlimited earning potential and the chance to build something meaningful outweigh the risks. Consider the story of the Chinese technology company ByteDance: founded by Zhang Yiming in 2012 with a small team, it grew into a global giant valued at hundreds of billions of dollars, creating tens of thousands of jobs worldwide. Moreover, even failed ventures teach resilience, adaptability and market insight that employees in rigid hierarchies rarely develop. This means that while most start-ups do not succeed, the experience itself is valuable, and the few that do transform industries.",
       conclusion: "In my view, stable jobs suit people with family responsibilities, health concerns or limited savings, while entrepreneurship fits those with passion, resources and tolerance for failure. The question is not which path is superior in general, but which matches the individual's situation and ambitions. Ultimately, both employment and enterprise are vital to a thriving economy, and a healthy society supports both choices."
     },
-    fullParagraphsCN: {
-      introduction: "几乎每个人在人生的某个时刻都必须在稳定工作的安全感和创业的风险与回报之间做出选择。每条路吸引不同性格和处境的人。本文将评估两条路，然后得出正确的选择取决于个人情况和目标的结论。",
-      body1: "稳定就业的吸引力显而易见：可预测的工资、带薪假期、养老金缴纳和法律保护。在日本和德国等国家，大型企业几十年来提供终身雇佣和优厚福利，让员工有信心买房、养家和长期规划。在经济下行期间，正如2008年金融危机所示，老牌企业的员工远比小企业主安全——那些店主和餐馆老板一夜之间关门大吉。这说明稳定工作提供了一种创业根本无法匹敌的社会安全网。",
-      body2: "然而，选择创业的人认为，独立、无限的收入潜力和创造有意义事物的机会超过了风险。以字节跳动的故事为例：2012年张一鸣带着小团队创立，它成长为估值数千亿美元的全球巨头，在全球创造了数万个工作岗位。此外，即便失败的创业也教会了韧性、适应性和市场洞察力，这些是僵化层级中的员工很少能培养出来的。这意味着，虽然大多数初创企业不会成功，但经历本身就有价值，而少数成功的企业则能改变整个行业。",
-      conclusion: "在我看来，稳定工作适合有家庭责任、健康顾虑或积蓄有限的人，而创业则适合有热情、资源和承受失败能力的人。问题不在于哪条路普遍更优，而在于哪条符合个人的处境和抱负。归根结底，就业和创业对繁荣的经济都至关重要，健康的社会应当支持两种选择。"
+        fullParagraphsCN: {
+      introduction: "在人生的某个阶段，几乎每个人都必须在稳定工作的安全感与创业的风险和回报之间做出选择。每条路径吸引着不同的性情和境遇。本文将评估两条路径，然后得出结论：正确的选择取决于个人情况和目标。",
+      body1: "稳定就业的吸引力显而易见：可预测的薪水、带薪休假、养老金缴款和法律保护。在日本和德国等国，大公司几十年来提供终身雇佣和优厚福利，这让工人有信心买房、养家并做长期规划。在经济低迷时期——正如2008年金融危机所显示的那样——老牌公司的员工远比那些店铺和餐馆一夜倒闭的小企业主更不可能失去一切。这说明稳定工作提供了创业根本无法比拟的社会安全网。",
+      body2: "然而，选择创业的人认为，独立性、无限的收入潜力和创造有意义事物的机会，超过了风险。以中国科技公司字节跳动的故事为例：张一鸣于2012年带着一个小团队创立了它，后来成长为估值数千亿美元的全球巨头，在全球创造了数万个就业岗位。此外，即使是失败的创业也能教会韧性、适应能力和市场洞察力，这些是僵化等级制度中的员工很少能培养的。这意味着，虽然大多数初创企业不会成功，但经历本身是有价值的，而少数成功的企业会改变整个行业。",
+      conclusion: "在我看来，稳定工作适合有家庭责任、健康顾虑或储蓄有限的人，而创业适合有热情、有资源且能容忍失败的人。问题不在于哪条路径总体上更优越，而在于哪条匹配个人的处境和抱负。归根结底，就业和创业对繁荣的经济都至关重要，健康的社会会支持这两种选择。"
     },
     vocabulary: [
       "predictable income",
@@ -1827,11 +1827,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Conversely, advocates of online shopping claim that convenience, selection and price transparency give it the edge. Take the annual Singles' Day sale on Chinese e-commerce platforms: in 2023, consumers bought over one trillion yuan of goods in a single twenty-four-hour period, thanks to deep discounts and one-click ordering that no physical mall could match. Moreover, user reviews and comparison tools help buyers make informed decisions without travelling between shops, and home delivery saves hours of commuting and queuing. Thus, for standardised products such as books, electronics and household staples, buying online is faster, cheaper and often more reliable.",
       conclusion: "In my opinion, neither method will disappear, because they serve different needs. For everyday essentials and repeat purchases, online shopping is clearly superior, but for major decisions such as buying a sofa or a winter coat, physical inspection still matters. Overall, the smartest consumers use both: researching online, then visiting a store if the item demands careful evaluation."
     },
-    fullParagraphsCN: {
-      introduction: "人们的购物方式发生了巨大变化，消费者分成了偏爱传统购物和网上购物两派。每种方式都有明显优势。本文将比较两种方式，并论证最佳策略取决于商品和购物者的优先事项。",
-      body1: "传统购物的支持者强调线上商店无法复制的感官体验和即时性。购物者可以在付款前亲手触摸面料、测试电子产品、用眼睛判断新鲜度，这避免了收到与屏幕所见不同商品时的失望。例如，伦敦的哈罗德奢侈品百货已繁荣了一个多世纪，部分原因就在于它提供私人造型咨询和亲自检查商品的机会。因此，对于质量、合身度或口味至关重要的商品，许多消费者仍然远比网站描述和评论更相信自己的判断。",
-      body2: "相反，网购的倡导者声称，便利性、选择范围和价格透明度使其占据优势。以中国电商平台的双十一为例：2023年，消费者在24小时内购买了超过万亿元的商品，这要归功于深度折扣和一键下单——这是任何实体商场都无法匹敌的。此外，用户评价和比较工具帮助买家无需奔波于各店之间就能做出知情决策，送货上门则节省了通勤和排队的时间。因此，对于书籍、电子产品和家庭日用品等标准化商品，网购更快、更便宜，而且通常更可靠。",
-      conclusion: "在我看来，两种方式都不会消失，因为它们满足不同需求。对于日常必需品和重复购买，网购显然更胜一筹；但对于购买沙发或冬装等重大决策，实地检查仍然重要。总的来说，最聪明的消费者两者兼顾：先在线研究，如果商品需要仔细评估，再去实体店看看。"
+        fullParagraphsCN: {
+      introduction: "人们购买商品的方式发生了巨大变化，消费者分为偏爱传统购物的人和网上购物的人。每种方式都有明显的优势。本文将比较两种方法，并论证最佳策略取决于产品和购物者的优先事项。",
+      body1: "传统购物的支持者强调网上商店无法复制的感官体验和即时性。购物者可以触摸面料、测试电子产品、用眼睛判断新鲜度，然后再付款，这消除了收到与屏幕上看起来不同的商品的失望。例如，伦敦的奢侈品百货公司哈罗德一个多世纪以来长盛不衰，部分原因在于它提供个人造型咨询和亲自审视商品的机会。因此，对于质量、合身度或口味很重要的商品，许多消费者仍然比网站描述和评价更信任自己的判断。",
+      body2: "相反，网上购物的倡导者声称，便利性、选择范围和价格透明度使它更具优势。以中国电商平台每年的双十一特卖为例：2023年，消费者在24小时内购买了超过一万亿元的商品，这得益于没有任何实体商场能匹敌的大幅折扣和一键下单。此外，用户评价和比较工具帮助买家无需穿梭于商店之间就能做出知情决定，送货上门还节省了数小时的通勤和排队时间。因此，对于书籍、电子产品和家庭日用品等标准化产品，网上购物更快、更便宜，往往也更可靠。",
+      conclusion: "在我看来，两种方式都不会消失，因为它们服务于不同的需求。对于日常必需品和重复购买，网上购物明显更优越，但对于购买沙发或冬装等重大决定，亲自检查仍然很重要。总之，最聪明的消费者两者并用：先在网上研究，如果商品需要仔细评估，再去商店。"
     },
     vocabulary: [
       "sensory experience",
@@ -1868,11 +1868,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the other hand, supporters of responsible use maintain that humans have always depended on animals for food, clothing and medical research, and that complete abolition is neither practical nor morally necessary. For instance, insulin for diabetes was first extracted from pigs, and even today many life-saving vaccines are tested on animals before human trials. Therefore, they argue, the ethical standard should be minimising suffering through strict welfare regulations rather than ending all use. Many indigenous communities also rely on hunting for both nutrition and cultural identity, and banning these practices would destroy livelihoods and traditions.",
       conclusion: "In my opinion, the two extremes are unnecessary. We should protect animals from cruelty and habitat destruction while recognising that some human uses, such as necessary medical research and sustainable harvesting, can be justified when welfare standards are rigorous. Exploitation without compassion is indefensible, but so is a moral absolutism that ignores human needs. Overall, the goal should be a world in which animals live free from unnecessary suffering, and humans meet their needs responsibly."
     },
-    fullParagraphsCN: {
-      introduction: "人与动物的关系是当今最具争议的伦理问题之一：是否应保护所有动物免受人类利用，还是它们可以正当地服务于我们的需求？这场辩论涉及饮食、医药和工业。本文将讨论两种立场，并解释为什么我认为保护与负责任的使用可以兼容。",
-      body1: "倡导完全保护的人认为，有感知能力的生命不论物种都应得到道德考量。他们指出工厂化养殖造成的痛苦：动物被拥挤在肮脏的环境中，以工业规模被屠宰。例如，2019年，多个国家的卧底调查揭示，猪和鸡被关在狭小得无法转身的空间里，伤口得不到治疗。这意味着，如果我们认为虐待猫狗是错误的，就应将这一原则延伸到农场动物和实验动物身上，而非仅仅根据人类的便利画一条武断的界线。",
-      body2: "另一方面，支持负责任使用的人坚持认为，人类历来依赖动物获取食物、衣物和医学研究，完全废除既不现实，在道德上也不必要。例如，糖尿病用的胰岛素最初从猪身上提取，时至今日，许多救命的疫苗仍需在动物身上测试后才能进行人体试验。因此，他们认为伦理标准应是通过严格的福利法规将痛苦降至最低，而非终止一切使用。许多原住民社区也依赖狩猎获取营养和文化认同，禁止这些做法将摧毁生计和传统。",
-      conclusion: "在我看来，两种极端都不必要。我们应保护动物免受虐待和栖息地破坏，同时认识到某些人类用途——如必要的医学研究和可持续采集——在福利标准严格时可以正当化。没有怜悯的利用是不可辩护的，但忽视人类需求的道德绝对主义也同样不可取。总的来说，目标应是建立一个动物免受不必要痛苦、人类负责任地满足自身需求的世界。"
+        fullParagraphsCN: {
+      introduction: "人与动物的关系是当今最具争议的伦理问题之一：应当保护所有动物免受人类利用，还是它们可以合理地服务于我们的需求？这场辩论影响着饮食、医药和工业。本文将讨论两种立场，并解释为什么我认为保护和负责任的使用是可以兼容的。",
+      body1: "主张完全保护的人认为，有感知能力的生物应当得到道德考量，无论其物种如何。他们指出工厂化农场造成的痛苦——动物被挤在不卫生的环境中，并被工业化规模屠宰。例如2019年，多国的秘密调查揭示，猪和鸡被关在连转身都不够大的空间里，伤口得不到治疗。这意味着，如果我们认为虐待猫狗是错误的，就应当把这一原则延伸到农场动物和实验对象身上，而非基于人类便利画任意的界限。",
+      body2: "另一方面，负责任使用的支持者认为，人类一直依赖动物获取食物、衣物和医学研究，完全废除既不实际也无道德必要。例如，治疗糖尿病的胰岛素最初是从猪身上提取的，即使在今天，许多救命疫苗在人体试验之前也要先在动物身上测试。因此，他们主张，伦理标准应当是通过严格的福利法规尽量减少痛苦，而非终止一切使用。许多原住民社区也依赖狩猎获取营养和文化认同，禁止这些做法会摧毁生计和传统。",
+      conclusion: "在我看来，两个极端都是不必要的。我们应当保护动物免受残忍和栖息地破坏，同时承认某些人类用途——如必要的医学研究和可持续的采集——在福利标准严格时是可以合理化的。没有同情心的剥削是不可辩护的，但忽视人类需求的道德绝对主义同样不可取。总之，目标应当是一个动物免于不必要痛苦、人类负责任地满足自身需求的世界。"
     },
     vocabulary: [
       "sentient",
@@ -1909,11 +1909,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Meanwhile, supporters of private schools claim that smaller classes, better facilities and greater autonomy produce stronger academic outcomes. In the United Kingdom, institutions such as Eton College offer teacher-to-student ratios that state schools cannot match, along with extensive music, sport and leadership programmes. Parents paying fees also gain influence over school policy, which encourages responsiveness. However, this advantage often reflects wealth rather than pedagogy: private schools select motivated students whose parents can afford tutors and enrichment, so their higher grades may simply mirror the advantages their pupils already enjoy at home.",
       conclusion: "In my opinion, the success of private schools owes more to selective intake and parental wealth than to superior teaching, whereas strong public systems benefit entire societies. Rather than funding two parallel tracks, governments should raise the quality of state schools so that no parent feels forced to pay for a decent education. Ultimately, education should be a ladder for every child, not a privilege reserved for those who can afford it."
     },
-    fullParagraphsCN: {
-      introduction: "在公立学校和私立学校之间做选择是许多家长面临的难题。一些人认为公办学校更公平、更能促进社会融合，另一些人则认为收费学校能带来更优异的成果。本文将审视双方，并解释为什么我认为资金充足的公立学校应当始终是教育的支柱。",
-      body1: "支持公立学校的人认为，它们促进平等和社会融合。来自不同经济背景的孩子并肩学习，减少了阶层隔离，在整个社会中培养了同理心。例如，在私立学校极为罕见的芬兰，公立体系在PISA等国际评估中始终位居世界前列，证明国家教育可以既卓越又包容。这表明，只要政府在教师培训和设施上投入得当，公立学校就能与私立学校媲美甚至超越，同时不制造精英阶层。",
-      body2: "与此同时，私立学校的支持者声称，更小的班级、更好的设施和更大的自主权限能带来更强的学业成果。在英国，伊顿公学等机构提供公立学校无法企及的师生比，以及丰富的音乐、体育和领导力项目。付费的家长还能对校政策施加影响，这促使学校更积极回应需求。然而，这种优势往往反映的是财富而非教学法：私立学校挑选的是积极上进的学生，其家长本就有能力聘请家教和提供课外拓展，因此更高的分数可能只是镜像了学生在家中已享有的优势。",
-      conclusion: "在我看来，私立学校的成功更多归功于选择性生源和家长财富，而非更优的教学；而强大的公立体系惠及整个社会。政府不应资助两条平行轨道，而应提升公办学校的质量，让任何家长都不必为了体面的教育而被迫付费。归根结底，教育应当是每个孩子的阶梯，而非只属于付得起钱的人的特权。"
+        fullParagraphsCN: {
+      introduction: "在公立学校和私立学校之间做出选择，是许多家长面临的困境。一些人认为公立资助的学校更公平、更具社会凝聚力，另一些人则认为付费机构能提供更优异的成绩。本文将考察双方，并解释为什么我认为资金充足的公立学校应当仍然是教育的支柱。",
+      body1: "支持公立学校的人认为，它们促进了平等和社会融合。来自不同经济背景的孩子并肩学习，这减少了阶级隔离并在全社会建立同理心。例如在私立学校极为罕见的芬兰，公立体系在PISA等国际评估中始终名列世界前茅，证明公立教育既可以卓越，也可以包容。这表明，当政府在教师培训和设施上适当投资时，公立学校可以匹敌甚至超越私立学校，而不必制造精英阶层。",
+      body2: "与此同时，私立学校的支持者声称，更小的班级、更好的设施和更大的自治权能带来更强的学业成果。在英国，伊顿公学等机构提供了公立学校无法比拟的师生比，以及广泛的音乐、体育和领导力项目。付费的家长也能对学校政策施加影响，这鼓励了响应性。然而，这种优势往往反映的是财富而非教学法：私立学校挑选的是那些家长能负担得起家教和丰富活动的有动力的学生，所以他们较高的成绩可能只是映射了学生在家中早已享有的优势。",
+      conclusion: "在我看来，私立学校的成功更多归功于择优录取和家长的财富，而非更优越的教学，而强大的公立体系惠及整个社会。政府不应资助两条平行轨道，而应提高公立学校的质量，使任何家长都不必为良好的教育被迫付费。归根结底，教育应当是每个孩子的阶梯，而非保留给负担得起的人的特权。"
     },
     vocabulary: [
       "social cohesion",
@@ -1950,11 +1950,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Conversely, defenders of long-term goals believe that only a distant vision gives life direction. For example, the Japanese concept of ikigai encourages people to identify their deepest purpose and organise decades of work around it; similarly, Amazon's founder Jeff Bezos famously ran the company with a seven-year horizon, investing in projects like cloud computing that lost money for years before dominating their markets. Consequently, without long-term thinking, people and organisations drift from one urgent task to another, never building anything lasting. Short-termism in business, such as cutting research budgets to boost quarterly profits, often destroys companies within a decade.",
       conclusion: "In my view, the debate presents a false choice. Long-term goals provide the compass, but short-term goals are the steps on the path; neither functions without the other. The wisest approach is to define a clear destination, then break it into monthly and yearly milestones that keep motivation alive. Overall, those who combine a bold vision with disciplined short-term execution achieve far more than devotees of either extreme."
     },
-    fullParagraphsCN: {
-      introduction: "规划未来时，人们分为两大阵营：追逐短期目标的人和投资长期抱负的人。每种策略都有热情的捍卫者。本文将讨论两种方式，并论证以长期愿景为纲、分解为短期步骤的做法能带来最大的成功。",
-      body1: "短期目标的倡导者指出，即时的成果能建立动力和势头。完成小而可实现的任务会释放进步感，支撑持续的努力，而速胜还能提供关于何种方法有效的宝贵反馈。以一位设定本月获取十个客户目标的年轻创业者为例：达成它能带来现金流、信心和实战经验，而'成为行业领袖'这样模糊的梦想却给不出明确的第一步。这意味着短期目标对于把抽象抱负转化为日常行动必不可少，尤其在环境快速变化时。",
-      body2: "相反，长期目标的捍卫者相信，只有远方的愿景才能赋予人生方向。例如，日本的'ikigai'（生之意义）理念鼓励人们找到最深层的使命，并围绕它规划数十年的工作；同样，亚马逊创始人杰夫·贝索斯以七年为期经营公司闻名，投资于云计算等亏损多年才称霸市场的项目。因此，没有长期思考，人和组织就会从一个紧急任务漂向另一个，永远建立不起持久的事业。商业中的短视行为——如削减研发预算来美化季度利润——往往在十年内毁掉公司。",
-      conclusion: "在我看来，这场辩论呈现的是一个假选择。长期目标提供指南针，短期目标则是路上的脚步；缺了任何一方，另一方都无法运转。最明智的做法是先定义清晰的目的地，再将其分解为保持动力的月度与年度里程碑。总的来说，将大胆愿景与自律的短期执行相结合的人，远比任一极端的信徒成就更大。"
+        fullParagraphsCN: {
+      introduction: "规划未来时，人们分为两派：追求短期目标的人和投资于长期抱负的人。每种策略都有热情的捍卫者。本文将讨论两种方法，并论证把长期愿景分解为短期步骤，能带来最大的成功。",
+      body1: "短期目标的倡导者指出，立竿见影的结果能建立动力和势头。完成小而可实现的任务会释放一种进步感，维持努力，而快速的胜利能提供关于什么有效的宝贵反馈。以一个设定本月获得十个客户目标的年轻创业者为例：达成目标能带来现金流、信心和实践经验，而一个模糊的成为行业领袖的梦想则没有明确的第一步。这意味着，短期目标对于把抽象的抱负转化为日常行动是必不可少的，尤其是在环境迅速变化的时候。",
+      body2: "相反，长期目标的捍卫者认为，只有远大的愿景才能给人生方向。例如，日本的「生き甲斐」（ikigai）概念鼓励人们识别自己最深层的目标，并围绕它组织数十年的工作；同样，亚马逊创始人杰夫·贝索斯以七年的视野经营公司，投资于云计算等在主导市场之前亏损多年的项目。因此，没有长期思维，人和组织会从一个紧急任务漂向下一个，永远无法建立持久的东西。商业中的短期主义，如削减研究预算以提振季度利润，往往会在十年内毁掉公司。",
+      conclusion: "在我看来，这场辩论提出了一个虚假的选择。长期目标提供了指南针，而短期目标是道路上的台阶；缺一不可。最明智的做法是定义一个清晰的目的地，然后把它分解为每月和每年的里程碑，以保持动力。总之，那些把大胆的愿景与有纪律的短期执行相结合的人，比任何一个极端的拥护者都能取得多得多的成就。"
     },
     vocabulary: [
       "momentum",
@@ -1991,11 +1991,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Those who prize academic qualifications counter that formal education provides foundations that experience cannot easily replace. In medicine, for example, no country allows doctors to practise without years of accredited training, because mistakes cost lives; similarly, engineers who design bridges must master mathematics that few learn outside university. Hence, in professions where errors are catastrophic or knowledge is highly theoretical, degrees act as essential quality control. Qualifications also signal discipline and learning ability to employers screening thousands of applicants.",
       conclusion: "In my opinion, the answer varies by field. For trades, sales, design and much of technology, demonstrable experience should outweigh paper credentials, while for medicine, law, academia and engineering, rigorous qualifications remain indispensable. The wisest students combine both: earning a solid degree while seeking internships that prove they can apply their knowledge. Overall, rather than asking which matters more, we should ask which matters more for a particular career, and plan accordingly."
     },
-    fullParagraphsCN: {
-      introduction: "雇主和学生无休止地争论：在职业发展中，工作经验和学历哪个更重要。本文将考量双方，然后论证两者的相对重要性取决于具体职业。",
-      body1: "看重工作经验的人认为，实践技能只能在岗位上学到。课堂传授理论，而职场要求在真实压力下的判断力、沟通力和解决问题的能力。例如，在科技行业，谷歌和苹果等公司多年前就取消了学位要求，改为依据作品集和面试招聘程序员；他们最优秀的工程师中许多都是自学成才。这表明，在快速变化的实践领域，真实项目的履历比任何证书都更能说明候选人的能力。",
-      body2: "珍视学历的人反驳说，正规教育提供了经验难以替代的基础。以医学为例，任何国家都不允许医生未经数年认证培训就执业，因为失误会以生命为代价；同样，设计桥梁的工程师必须掌握大学里才能系统学到的数学。因此，在错误代价惨重或知识高度理论化的职业中，学位是必不可少的质量把关。学历还向需要从数千份申请中筛选的雇主传递纪律性和学习能力的信号。",
-      conclusion: "在我看来，答案因领域而异。对于技工、销售、设计和大部分科技行业，可证明的经验应高于一纸文凭；而对于医学、法律、学术和工程，严格的学历仍然不可或缺。最明智的学生两者兼顾：既取得扎实的学位，又寻找实习机会来证明自己能学以致用。总的来说，与其问哪个更重要，不如问对某个特定职业哪个更重要，并据此规划。"
+        fullParagraphsCN: {
+      introduction: "雇主和学生无休止地争论，在建立职业生涯时，工作经验和学历哪个更重要。本文将考虑双方观点，然后论证它们的相对重要性取决于职业。",
+      body1: "重视工作经验的人认为，实践技能只能在工作中学到。课堂教授理论，但工作场所要求在真实压力下做出判断、沟通和解决问题。例如，在科技行业，谷歌和苹果等公司多年前就取消了学位要求，转而根据作品集和面试招聘程序员；他们许多最优秀的工程师都是自学成才的。这表明，对于快速变化的实践领域，真实项目的记录比任何证书都更能说明候选人的能力。",
+      body2: "看重学历的人反驳说，正规教育提供了经验难以替代的基础。例如在医学领域，没有哪个国家允许医生在没有多年认证培训的情况下执业，因为错误会付出生命代价；同样，设计桥梁的工程师必须掌握很少有人能在大学之外学到的数学。因此，在错误代价惨重或知识高度理论化的行业，学位是必不可少的质量控制。学历也向筛选数千名申请者的雇主传递了纪律和学习能力的信号。",
+      conclusion: "在我看来，答案因领域而异。对于技工、销售、设计和大部分科技领域，可证明的经验应当重于纸面凭证，而对于医学、法律、学术和工程，严格的学历仍然不可或缺。最明智的学生两者兼备：在获得扎实学位的同时，寻找能证明自己能应用知识的实习机会。总之，与其问哪个更重要，不如问对某个特定职业而言哪个更重要，并据此规划。"
     },
     vocabulary: [
       "track record",
@@ -2032,11 +2032,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Proponents of collectivism respond that humans are social creatures whose wellbeing depends on strong communities. In Japan, the emphasis on group harmony and shared responsibility contributed to the country's remarkably orderly response to the 2011 earthquake and tsunami, when citizens queued calmly for supplies and voluntarily conserved electricity for months. This shows that collective discipline achieves what isolated individuals cannot: disaster recovery, public health and social trust. Moreover, collectivist cultures report lower loneliness among the elderly, because family and community obligations ensure that no one is abandoned.",
       conclusion: "In my view, both extremes carry risks. Pure individualism can produce loneliness and inequality, while unchecked collectivism can suppress dissent and personal fulfilment. The most successful societies protect individual rights and reward initiative while fostering solidarity through shared institutions and mutual obligation. Ultimately, individuals and communities are interdependent: people thrive as unique persons precisely when they belong to groups that support them."
     },
-    fullParagraphsCN: {
-      introduction: "不同社会在崇尚个人主义还是集体主义上存在深刻差异。本文将探讨两种价值体系，并论证健康的社群需要两者的平衡。",
-      body1: "个人主义的拥护者声称，个人自由驱动创造力和进步。当人们被鼓励独立思考、质疑权威、追逐自己的梦想时，社会就会孕育出创新者和企业家。例如，硅谷的文化颂扬打破常规的特立独行者，这种态度催生了从苹果到特斯拉等重塑整个行业的企业。心理学研究也把个人自主权与动机和生活满意度联系起来，说明人们在掌控自己的选择而非屈从于群体期望时更能蓬勃发展。",
-      body2: "集体主义的支持者回应说，人类是社会性生物，幸福依赖于强大的共同体。在日本，对群体和谐与共同责任的重视促成了该国对2011年地震和海啸极为有序的应对——市民平静地排队领取物资，并自愿节电数月。这表明集体纪律能实现孤立个体无法做到的事：灾后重建、公共卫生和社会信任。此外，集体主义文化中老年人的孤独感更低，因为家庭和社群义务确保无人被抛弃。",
-      conclusion: "在我看来，两个极端都有风险。纯粹的个人主义会滋生孤独和不平等，而不受约束的集体主义会压制异议和个人成就。最成功的社会在保护个人权利、奖励主动精神的同时，通过共同的制度和相互的义务来培养团结。归根结底，个人与共同体相互依存：人恰恰在属于支持自己的群体时，才能作为独特的个体而绽放。"
+        fullParagraphsCN: {
+      introduction: "社会在重视个人主义还是集体主义方面存在深刻分歧。本文将探讨两种价值体系，并论证健康的社区需要两者的平衡。",
+      body1: "个人主义的拥护者声称，个人自由驱动创造力和进步。当人们被鼓励独立思考、质疑权威并追求自己的梦想时，社会就会产生创新者和企业家。例如，硅谷的文化颂扬那些蔑视常规的特立独行者，这种态度造就了从苹果到特斯拉等重塑了整个行业的公司。心理学研究也把个人自主与动力和生活满意度联系起来，说明当人们控制自己的选择而非遵从群体期望时，他们会蓬勃发展。",
+      body2: "集体主义的支持者回应说，人类是社会性生物，其福祉依赖于强大的社区。在日本，对群体和谐和共同责任的强调，促成了该国在2011年地震和海啸中秩序井然的应对——公民平静地排队领取物资，并自愿节电数月。这表明，集体纪律能实现孤立个人无法实现的东西：灾难恢复、公共卫生和社会信任。此外，集体主义文化中老年人的孤独感更低，因为家庭和社区的义务确保了没有人被抛弃。",
+      conclusion: "在我看来，两个极端都有风险。纯粹的个人主义会产生孤独和不平等，而不受约束的集体主义会压制异议和个人成就。最成功的社会保护个人权利并奖励主动性，同时通过共享机构和相互义务培养团结。归根结底，个人和社区是相互依存的：人们正是在属于支持他们的群体时，才作为独特的个体蓬勃发展。"
     },
     vocabulary: [
       "individualism",
@@ -2073,11 +2073,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Advocates of cooperation insist that humanity's greatest achievements are collective. Consider the Human Genome Project, where scientists from twenty countries shared data openly to map human DNA by 2003, years ahead of schedule and at a fraction of the projected cost; the same spirit enabled dozens of nations to build the International Space Station, something no single country could afford alone. Hence, when problems are vast — climate change, pandemics, poverty — cooperation multiplies resources and expertise in ways rivalry cannot. Excessive competition, by contrast, encourages secrecy, duplication and even sabotage.",
       conclusion: "In my opinion, neither force should dominate. Competition without cooperation becomes destructive, while cooperation without competition can become stagnant; the healthiest systems harness both. Companies compete in the market yet cooperate on shared standards, and scientists publish openly while racing to be first. Overall, progress happens fastest when we compete to contribute the most, turning rivalry into a form of collaboration that benefits everyone."
     },
-    fullParagraphsCN: {
-      introduction: "很少有辩论像竞争与合作哪个对人类进步更重要这样古老。本文将审视两种主张，并解释为什么我认为两种力量结合时最为强大。",
-      body1: "竞争的捍卫者认为，较量推动个人和组织超越极限。对手逼近时运动员训练更刻苦，市场份额攸关时企业更会创新。20世纪60年代的太空竞赛证明了这一点：美苏之间的激烈角逐在短短十年内催生了第一颗卫星、第一次载人轨道飞行和登月——仅靠和平时期的预算，这些成就需要几代人的投入才能实现。因此，竞争凝聚努力、加速创新并奖励卓越。",
-      body2: "合作的倡导者坚持认为，人类最伟大的成就都是集体完成的。以人类基因组计划为例：来自二十个国家的科学家公开共享数据，于2003年提前数年、以远低于预算的成本完成了人类DNA图谱；同样的精神让数十个国家建成了国际空间站——这是任何一国都无力独自承担的。因此，当问题足够宏大——气候变化、疫情、贫困——合作能以竞争无法企及的方式汇聚资源和专长。相比之下，过度竞争会助长保密、重复建设甚至暗中破坏。",
-      conclusion: "在我看来，任何一方都不应占主导。没有合作的竞争会变得破坏性十足，而没有竞争的合作可能陷入停滞；最健康的体系驾驭两者。企业在市场上竞争，却在共同标准上合作；科学家公开发表成果，又竞相争先。总的来说，当我们竞相做出最大贡献时，进步最快——这能把竞争转化为一种惠及所有人的协作形式。"
+        fullParagraphsCN: {
+      introduction: "很少有辩论像竞争还是合作对人类进步更重要一样古老。本文将考察两种说法，并解释为什么我认为这两种力量结合起来最强大。",
+      body1: "竞争的捍卫者认为，竞争驱使个人和组织超越极限。当对手逼近时，运动员训练更刻苦；当市场份额受到威胁时，企业进行创新。20世纪60年代太空竞赛的例子证明了这一点：美国和苏联之间的激烈竞争，在短短十年内催生了第一颗卫星、第一个进入轨道的人类和登月——这些成就是和平时期的预算 alone 需要几代人才能资助的。因此，竞争集中了精力、加速了创新并奖励了卓越。",
+      body2: "合作的倡导者坚持认为，人类最伟大的成就是集体性的。以人类基因组计划为例，来自20个国家的科学家公开共享数据，到2003年绘制出了人类DNA图谱，比计划提前了数年，成本也只是预测的一小部分；同样的精神使数十个国家得以建造国际空间站，这是任何一个国家都独自负担不起的。因此，当问题巨大时——气候变化、疫情、贫困——合作能以竞争无法做到的方式倍增资源和专长。相反，过度的竞争会鼓励保密、重复甚至破坏。",
+      conclusion: "在我看来，两种力量都不应占据主导。没有合作的竞争会变得具有破坏性，而没有竞争的合作可能变得停滞；最健康的体系会驾驭两者。公司在市场上竞争，却在共享标准上合作；科学家公开发表成果，同时竞相成为第一。总之，当我们竞争着做出最大贡献，把竞争转化为一种惠及所有人的合作形式时，进步最快。"
     },
     vocabulary: [
       "rivalry",
@@ -2114,7 +2114,7 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "However, there are significant disadvantages, chiefly social isolation and the erosion of work-life boundaries. For instance, a Buffer survey of remote workers consistently identifies loneliness and difficulty unplugging as the top two struggles: when the bedroom becomes the office, many people work longer hours than before and find it harder to relax. New employees especially suffer, because casual mentoring and team culture are difficult to replicate over video calls. This can lead to weaker professional networks, slower career progression and, in some cases, burnout that goes unnoticed by distant managers.",
       conclusion: "In conclusion, while working from home delivers valuable flexibility and time savings, the drawbacks of isolation and overwork should not be ignored. On balance, a hybrid model — two or three days in the office combined with remote days — appears to capture most of the benefits while limiting the costs, which explains why so many large employers have settled on it."
     },
-    fullParagraphsCN: {
+        fullParagraphsCN: {
       introduction: "远程办公已从罕见的福利转变为主流的工作方式，尤其自新冠疫情迫使数百万员工转为线上办公以来。虽然远程工作提供了灵活性和节省时间等明显好处，但也带来了孤独感和界限模糊等弊端。本文将审视正反两面。",
       body1: "主要的优点是免除了通勤以及由此创造的灵活性。例如，斯坦福大学经济学家尼古拉斯·布鲁姆2023年的一项调查发现，远程工作者平均每天节省72分钟原本用于通勤的时间，并将这些时间重新投入工作、家庭和睡眠。员工还可以围绕自己注意力最集中的时段安排日程，照顾孩子或赴约而无需请假。因此，许多人报告工作满意度更高、压力更低；GitLab和Automattic等公司多年来完全远程运营，同时保持着极高的生产力。",
       body2: "然而，也存在显著缺点，主要是社交孤立和工作与生活界限的侵蚀。例如，Buffer对远程工作者的调查一直将孤独感和难以「下线」列为前两大困扰：当卧室变成办公室，许多人的工作时间反而比以前更长，也更难放松。新员工尤其受影响，因为非正式的指导和团队文化很难通过视频通话复制。这可能导致职业人脉变弱、晋升变慢，在某些情况下还会出现被远程管理者忽视的职业倦怠。",
@@ -2156,7 +2156,7 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the negative side, the financial and emotional burdens are substantial. Tuition and living costs at popular destinations routinely exceed 300,000 yuan per year, forcing many families into debt, and scholarships cover only a small minority. For instance, surveys of international students in Australia have found high rates of loneliness, with some reporting they barely interact with locals outside class because of language anxiety. Homesickness, discrimination and difficulty with foreign academic conventions can push vulnerable students toward depression. This may result in underperformance or even dropping out, wasting both money and years.",
       conclusion: "In summary, studying abroad brings both transformative opportunities and serious costs. For most students, the experience is worthwhile when the family can afford it comfortably and the student prepares linguistically and psychologically; those who stretch finances to breaking point or go merely to escape domestic competition may find the disadvantages outweigh the gains."
     },
-    fullParagraphsCN: {
+        fullParagraphsCN: {
       introduction: "每年，数百万学生选择去外国求学。尽管这一经历带来学术声望和个人成长，但也伴随着高昂费用和文化挑战。本文将讨论两个方面。",
       body1: "积极的一面是，出国留学让学生接触世界一流的教学、全新的视角和第二语言。一个很好的例子是中国学生在英国大学读研的经历：除了获得国际认可的学位，他们还学会在研讨课上辩论、独立开展研究并建立跨文化的友谊。雇主也注意到了这一点——跨国公司经常为证明自己能适应陌生环境的毕业生支付溢价。因此，海外求学往往以留在国内难以匹敌的方式加速职业前景和个人成熟。",
       body2: "消极的一面是，经济和情感负担相当沉重。热门留学目的地的学费和生活费通常每年超过30万元人民币，迫使许多家庭负债，而奖学金只覆盖极少数人。例如，对在澳大利亚的国际学生的调查发现孤独感比例很高，一些学生表示由于语言焦虑，课外几乎不与当地人交流。思乡、歧视以及对国外学术规范的不适应可能把脆弱的学生推向抑郁。这可能导致学业表现不佳甚至辍学，既浪费金钱又浪费年华。",
@@ -2198,11 +2198,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Nevertheless, smartphones have serious drawbacks. The most worrying is compulsive use, particularly among teenagers. For example, research published by psychologist Jean Twenge linked the rise of smartphones after 2012 to sharp increases in adolescent depression and sleep deprivation, and average users now check their phones over 100 times a day. The constant stream of notifications fragments attention, making deep reading and sustained conversation harder. Consequently, many families report that meals pass in silence while everyone stares at separate screens, and pedestrians absorbed in phones have created a new category of traffic accidents.",
       conclusion: "In conclusion, the smartphone is a powerful tool that offers unprecedented convenience but also carries risks of addiction and social disconnection. The key is deliberate use: disabling unnecessary notifications, keeping phones away from meals and bedrooms, and treating the device as a servant rather than a master. Used with discipline, its advantages comfortably outweigh its drawbacks."
     },
-    fullParagraphsCN: {
+        fullParagraphsCN: {
       introduction: "很少有发明像智能手机那样深刻地改变了日常生活。尽管它有明显的好处，尤其是即时获取信息和服务，但也带来了成瘾和注意力缩短等问题。本文将评估两者。",
-      body1: "智能手机最大的优点是，它把一整个世界的工具装进了一个口袋大小的设备。例如，肯尼亚农村的农民无需拥有电脑，就能查询农产品价格、通过M-Pesa接收移动支付并获取天气预报；而城市用户则用它导航城市、翻译外语标识并远程问诊。在紧急情况下，智能手机还能救命：日本的地震警报为居民争取到宝贵的避险秒数。这意味着这台设备同时充当银行、图书馆、办公室和生命线，缩小了贫富地区在获取服务上的差距。",
-      body2: "然而，智能手机也有严重的缺点。最令人担忧的是强迫性使用，尤其在青少年中。例如，心理学家珍·特文格发表的研究将2012年后智能手机的普及与青少年抑郁和睡眠不足的急剧上升联系起来；普通用户如今每天查看手机超过100次。源源不断的通知流割裂了注意力，使深度阅读和持续交谈变得更加困难。因此，许多家庭反映用餐时在沉默中度过，每个人都盯着各自的屏幕；低头看手机的行人还制造了一类新型交通事故。",
-      conclusion: "总之，智能手机是一个强大的工具，既提供前所未有的便利，也伴随成瘾和社交疏离的风险。关键在于有意识地使用：关闭不必要的通知、让手机远离餐桌和卧室、把设备当作仆人而非主人。只要自律地使用，其优点便稳稳超过缺点。"
+      body1: "智能手机最大的优点是，它把一整个世界的工具塞进了一个口袋大小的设备里。例如，肯尼亚农村的农民无需拥有电脑，就能查看农作物价格、通过M-Pesa接收移动支付并获取天气预报；而城市用户可以导航城市、翻译外国标牌并远程咨询医生。在紧急情况下，智能手机能拯救生命：日本的地震预警给居民宝贵的几秒钟来寻找掩护。这意味着，这个设备同时充当着银行、图书馆、办公室和生命线，缩小了贫富地区在获取服务方面的差距。",
+      body2: "然而，智能手机也有严重的缺点。最令人担忧的是强迫性使用，尤其是在青少年中。例如，心理学家珍·特温格发表的研究把2012年后智能手机的普及与青少年抑郁和睡眠剥夺的急剧增加联系起来，而普通用户现在每天查看手机超过100次。源源不断的通知分散了注意力，使深度阅读和持续对话变得更难。因此，许多家庭报告说，用餐时每个人都盯着各自的屏幕，饭就在沉默中度过，而专注于手机的行人引发了一种新的交通事故。",
+      conclusion: "总之，智能手机是一个强大的工具，提供了前所未有的便利，但也带来成瘾和社交脱节的风险。关键在于有意识地使用：关闭不必要的通知、让手机远离餐桌和卧室，并把设备当作仆人而非主人。有纪律地使用，它的优点完全超过缺点。"
     },
     vocabulary: [
       "addiction",
@@ -2240,11 +2240,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The main drawback, however, is the loss of comfort and flexibility. Commuters must follow fixed routes and timetables, often endure rush-hour crowding, and may face delays beyond their control. In many cities, such as parts of the United States where buses run infrequently, travelling without a car can turn a fifteen-minute drive into an hour-long journey with transfers. Late-night service gaps and safety concerns on empty trains add to the inconvenience. This leads many middle-class families to abandon public transport as soon as they can afford a car, draining the passenger base that funds service improvements.",
       conclusion: "To conclude, while public transportation clearly provides environmental and economic benefits at scale, its weaknesses of inflexibility and crowding remain real deterrents. Overall, the solution is not to abandon transit but to invest in frequency, cleanliness and safety so that choosing the train over the car becomes the convenient option rather than a sacrifice."
     },
-    fullParagraphsCN: {
-      introduction: "随着城市发展，公共交通成为日益重要的议题。它提供了减少拥堵和降低排放等好处，但也存在拥挤和不灵活等弊端。本文将探讨两者。",
-      body1: "主要的好处是规模化效率：一列地铁可以载客上千人，替代数百辆私家车。例如，东京的铁路网络每天运送约4000万人次出行，使这个世界最大都市圈的运转远比洛杉矶这样依赖汽车的城市更畅通、更清洁。公共交通还很公平，让学生、老人和低收入劳动者都能负担得起通勤，获得就业和服务机会。因此，公交系统强大的城市空气更清洁、家庭交通支出更低、城市形态也更紧凑宜居。",
-      body2: "然而，主要的缺点是舒适度和灵活性的损失。通勤者必须遵循固定的线路和时刻表，常常要忍受高峰期的拥挤，还可能面临无法掌控的延误。在许多城市——比如美国部分地区公交车班次稀少——没有汽车会让十五分钟的车程变成换乘一小时的路程。深夜服务的空白和空荡车厢里的安全隐患进一步增加了不便。这导致许多中产家庭一旦买得起车就抛弃公共交通，乘客流失又削弱了改善服务的资金来源。",
-      conclusion: "总而言之，虽然公共交通显然提供规模化的环境和经济效益，但其不灵活和拥挤的弱点仍是真实的劝退因素。总体而言，解决办法不是放弃公交，而是投资于班次密度、清洁度和安全性，让选择火车而非汽车成为便利之选，而非一种牺牲。"
+        fullParagraphsCN: {
+      introduction: "随着城市的发展，公共交通变得越来越重要。它有减少拥堵和降低排放等优点，但也有拥挤和缺乏灵活性等缺点。本文将探讨两者。",
+      body1: "主要的好处是规模效率：一列地铁可以搭载一千多名乘客，取代数百辆私家车。例如，东京的铁路网络每天运送约4000万人次的出行，使这个世界最大的都市圈在交通和污染方面远少于洛杉矶等依赖汽车的城市。公共交通也是公平的，让学生、老年人和低收入劳动者能负担得起地获得工作和服务。因此，拥有强大交通系统的城市享有更清洁的空气、更低的家庭交通成本，以及更紧凑、更适合步行的城市形态。",
+      body2: "然而，主要缺点是舒适度和灵活性的丧失。通勤者必须遵循固定的路线和时刻表，常常忍受高峰期的拥挤，还可能面临无法控制的延误。在许多城市，例如美国部分地区公交车班次稀少，没有车的话，15分钟的车程可能变成需要换乘的一小时旅程。深夜服务的空白和空车厢上的安全顾虑，增加了不便。这导致许多中产阶级家庭一旦买得起车就放弃公共交通，流失了为服务改善提供资金的乘客基础。",
+      conclusion: "总之，虽然公共交通在规模上明显提供了环境和经济效益，但其不灵活和拥挤的弱点仍是真正的阻碍。总体而言，解决方案不是放弃公共交通，而是投资于班次频率、清洁度和安全性，使选择火车而非汽车成为便利之举，而非一种牺牲。"
     },
     vocabulary: [
       "congestion",
@@ -2282,11 +2282,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The strongest argument against is the damage to attention and truth. Platforms are engineered to maximise engagement, which rewards outrage and sensationalism over accuracy. For instance, MIT researchers found that false news stories on Twitter spread six times faster than true ones, and during elections and pandemics such misinformation has had deadly real-world consequences. Heavy use also correlates with anxiety and body-image problems among teenagers, as endless comparison with curated highlight reels erodes self-esteem. This can cause a distracted, polarised public that struggles to agree on basic facts.",
       conclusion: "In conclusion, social media delivers connection and opportunity but at the cost of attention, truth and mental wellbeing. Whether it is a net positive depends largely on how consciously it is used: curated feeds, time limits and source-checking allow users to harvest the benefits, while passive, endless scrolling invites the harms. Regulation of algorithms, alongside better digital literacy education, would tilt the balance further toward good."
     },
-    fullParagraphsCN: {
-      introduction: "社交媒体重塑了数十亿人的交流方式。支持者赞美前所未有的连接和表达自由，批评者则警告虚假信息和心理健康下滑。本文将考量双方。",
-      body1: "最有力的支持论据是，社交平台让发声和社群实现了民主化。一个突出的例子是#MeToo等运动如何在几天内传遍全球，让传统媒体几十年来忽视的性骚扰幸存者拥有了集体发声的渠道；同样，海外侨胞家庭通过微信和WhatsApp零成本地跨洲保持日常联系。小企业也获益巨大：云南的手工艺人仅凭一条爆款视频就能把工艺品卖给欧洲客户。因此，社交媒体把出版、组织和创业的门槛降到了二十年前难以想象的高度。",
-      body2: "最有力的反对论据是对注意力和真相的损害。平台的设计目标是最大化用户参与度，这会奖励愤怒和耸动而非准确。例如，麻省理工学院的研究者发现，Twitter上的假新闻传播速度是真新闻的六倍；在选举和疫情期间，这类虚假信息造成了致命的现实后果。重度使用还与青少年的焦虑和体像问题相关——与精心修饰的高光时刻无休止地比较会侵蚀自尊。这可能导致公众注意力涣散、两极分化，连基本事实都难以达成共识。",
-      conclusion: "总之，社交媒体带来了连接和机遇，但代价是注意力、真相和心理健康。它是利是弊很大程度上取决于使用方式是否有意识：精心管理的关注列表、时间限制和核实信源能让用户收获好处，而被动地无尽刷屏则会招致伤害。对算法的监管加上更好的数字素养教育，会让天平进一步向好的一方倾斜。"
+        fullParagraphsCN: {
+      introduction: "社交媒体重新连接了数十亿人的沟通方式。它的支持者赞颂前所未有的连接和言论自由，而批评者则警告错误信息和心理健康下降。本文将考虑正反两面。",
+      body1: "最有力的支持理由是，社交平台使发声和社群民主化。一个突出的例子是「#我也是」（#MeToo）等运动如何在几天内传遍全球，让性骚扰幸存者获得了传统媒体忽视了数十年的集体声音；同样，散居海外的家庭通过微信和WhatsApp以零成本在各大洲保持日常联系。小企业也受益匪浅：云南的手工艺人可以通过一段爆红的视频把工艺品卖给欧洲的顾客。因此，社交媒体把出版、组织和创业的门槛降低到了二十年前难以想象的水平。",
+      body2: "最有力的反对理由是对注意力和真相的损害。平台的设计目的是最大化参与度，这奖励的是愤怒和煽情而非准确性。例如，麻省理工学院的研究人员发现，Twitter上的假新闻比真新闻传播快六倍，而在选举和疫情期间，这类错误信息已产生了致命的现实后果。重度使用还与青少年的焦虑和身体形象问题相关，因为与精心策划的精彩片段无休止的比较侵蚀了自尊。这可能导致一个分心、两极分化的公众，连基本事实都难以达成一致。",
+      conclusion: "总之，社交媒体带来了连接和机会，但代价是注意力、真相和心理健康。它是否是净收益，在很大程度上取决于使用的自觉程度：策划信息流、设置时间限制和核查来源能让用户收获好处，而被动、无休止地刷手机则会招来危害。对算法的监管，加上更好的数字素养教育，将使平衡进一步向好的方向倾斜。"
     },
     vocabulary: [
       "misinformation",
@@ -2324,7 +2324,7 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The most serious disadvantage is the destruction of industries and identities at home. For instance, manufacturing towns in the American Rust Belt and northern England lost hundreds of thousands of stable jobs when factories moved offshore, fuelling political anger that reshaped elections in both countries. Meanwhile, global brands displace local businesses: identical Starbucks outlets and fast-fashion stores now dominate high streets from Bangkok to Berlin. As a result, many communities feel that globalization delivered cheaper goods at the price of stable livelihoods and distinctive local culture.",
       conclusion: "In conclusion, globalization brings prosperity and efficiency alongside dislocation and cultural flattening. The challenge for policymakers is to keep trade open while protecting the losers — through retraining programmes, regional investment and support for local culture — so that the enormous gains are shared rather than concentrated. Managed wisely, its benefits can outweigh its costs; unmanaged, the backlash can reverse them entirely."
     },
-    fullParagraphsCN: {
+        fullParagraphsCN: {
       introduction: "全球化在过去半个世纪重塑了世界经济。捍卫者指出贫困减少和商品降价，批评者则强调就业岗位流失和文化同质化。本文将权衡两者。",
       body1: "最明显的优点是前所未有的经济增长，尤其在发展中国家。例如，中国2001年加入世界贸易组织后，随着国家成为世界制造业中心，数以亿计的公民摆脱了极端贫困；与此同时，全球消费者享受到了更便宜的电子产品、服装和家具。全球供应链还把技术和管理经验传播到了此前两者皆缺的地区。这带来了人类历史上最快的全球减贫速度，以及贫富国家之间生活水平的趋同。",
       body2: "最严重的缺点是本土产业与身份的瓦解。例如，当工厂迁往海外，美国铁锈带和英格兰北部的制造业城镇失去了数十万个稳定岗位，由此激发的政治愤怒重塑了两国的选举格局。与此同时，全球品牌挤压本地商户：从曼谷到柏林，千篇一律的星巴克门店和快时尚商店如今主宰着商业大街。因此，许多社区感到，全球化以更便宜的商品为代价，换走了稳定的生计和独特的地方文化。",
@@ -2365,11 +2365,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The major disadvantage is that unplanned growth produces slums, congestion and social strain. In megacities such as Mumbai and Lagos, millions live in informal settlements without clean water or sanitation, and commuters lose hours daily in gridlock. Housing costs spiral beyond ordinary salaries — young professionals in Beijing and London commonly spend half their income on rent — while the elderly and poor are pushed to the margins. This results in cities that are engines of wealth for some and daily hardship for others, with air pollution and mental stress affecting nearly everyone.",
       conclusion: "To sum up, urbanization offers prosperity and services while producing inequality and congestion. Whether it improves lives depends on governance: cities that invest early in affordable housing, transit and sanitation, like Singapore and Vienna, turn density into livability, whereas those that let markets run unchecked turn it into misery. The trend itself is irreversible, so planning is everything."
     },
-    fullParagraphsCN: {
-      introduction: "如今超过半数的人类居住在城市，城市化趋势还在加速。它带来了经济机会和更好的服务，但也造成了拥挤和不平等。本文将审视两种影响。",
-      body1: "主要的优点是城市汇聚了机会。例如，从湖南农村来到深圳的农民工可以找到比务农收入高数倍的工厂或服务行业工作，同时获得乡村无法支撑的医院、学校和文化设施。高密度城市还很高效：公共交通、集中供暖和共享基础设施降低了人均公共服务成本，企业和人才的聚集则驱动创新。因此，城市化历来是收入增长最强大的引擎，城市化率越高的国家几乎无一例外地更富裕。",
-      body2: "主要的缺点是无序增长会制造贫民窟、拥堵和社会压力。在孟买和拉各斯这样的超大城市，数百万人生活在缺乏清洁水和卫生设施的非正式定居点，通勤者每天在交通瘫痪中耗费数小时。房价飙升至普通薪资难以承受的水平——北京和伦敦的年轻专业人士普遍把一半收入花在房租上——老人和穷人被挤向边缘。这导致城市对一部分人是财富的引擎，对另一部分人则是日常的艰辛，空气污染和精神压力几乎影响着每一个人。",
-      conclusion: "综上所述，城市化在提供繁荣与服务的同时，也制造了不平等和拥堵。它能否改善生活取决于治理：像新加坡和维也纳这样及早投资于保障性住房、公共交通和卫生设施的城市，把高密度转化成了宜居性；而放任市场失控的城市则把高密度变成了苦难。这一趋势本身不可逆转，因此规划就是一切。"
+        fullParagraphsCN: {
+      introduction: "如今超过一半的人类居住在城市，城市化仍在加速。它带来了经济机会和更好的服务，但也造成了过度拥挤和不平等。本文将考察两种影响。",
+      body1: "主要的优点是城市集中了机会。例如，一个从湖南农村来到深圳的移民，可以找到工资是农业数倍的工厂或服务行业工作，同时获得村庄无法支持的医院、学校和文化设施。高密度的城市也更高效：公共交通、集中供暖和共享基础设施降低了每人基本服务的成本，而企业和人才的聚集推动了创新。因此，城市化历史上一直是收入增长最强大的单一引擎，城市化率较高的国家几乎无一例外地更富裕。",
+      body2: "主要的缺点是，无计划的增长会产生贫民窟、拥堵和社会压力。在孟买和拉各斯等特大城市，数百万人居住在没有清洁用水或卫生设施的非正式定居点，通勤者每天在交通堵塞中损失数小时。住房成本飙升到超出普通薪水——北京和伦敦的年轻专业人士通常把一半收入花在房租上——而老人和穷人被推到边缘。这导致城市对一些人来说是财富的引擎，对另一些人来说是日常的苦难，空气污染和精神压力则几乎影响到每个人。",
+      conclusion: "总之，城市化带来了繁荣和服务，同时也产生了不平等和拥堵。它能否改善生活取决于治理：像新加坡和维也纳那样及早投资于保障性住房、交通和卫生设施的城市，把密度转化为宜居性；而任由市场失控的城市则把它变成了苦难。这一趋势本身不可逆转，因此规划至关重要。"
     },
     vocabulary: [
       "urbanization",
@@ -2407,11 +2407,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The chief danger lies in displacement and loss of control. For instance, the World Economic Forum estimates that automation could displace tens of millions of jobs this decade — not only factory workers but paralegals, translators and junior programmers — while new roles emerge more slowly than old ones vanish. Deepfake technology already undermines trust in evidence and elections, and autonomous weapons raise the prospect of machines making life-and-death decisions. If unchecked, this could lead to mass unemployment, manipulation at scale and power concentrated in the hands of a few companies that own the most capable systems.",
       conclusion: "In conclusion, artificial intelligence offers extraordinary benefits but risks serious social disruption. The priority now is governance that keeps pace with capability: retraining displaced workers, labelling synthetic media, and requiring human oversight of high-stakes decisions. With deliberate stewardship, AI can amplify human potential; without it, the same power could erode employment, truth and ultimately human agency."
     },
-    fullParagraphsCN: {
-      introduction: "人工智能的发展速度超过历史上几乎任何技术。它有望在医学和生产力上实现突破，但也威胁着就业和人类的主导权。本文将评估双方。",
+        fullParagraphsCN: {
+      introduction: "人工智能的发展速度几乎超过了历史上任何技术。它有望在医学和生产力方面取得突破，但也威胁到就业和人类的控制。本文将评估正反两面。",
       body1: "主要的优点在于人工智能以超越人类的速度和规模解决问题的能力。例如，DeepMind的AlphaFold预测了超过2亿个蛋白质的结构——这项工作原本需要生物学家数个世纪——加速了从疟疾到癌症等疾病的药物研发。在日常生活中，人工智能已经可以即时翻译语言、比放射科医生更早地在扫描影像中发现肿瘤，还能优化电网以减少能源浪费。这使人类得以攻克此前算力无法企及的挑战，可能为全球经济增加数万亿美元产值，同时延长健康寿命。",
-      body2: "主要的危险在于岗位替代和失控。例如，世界经济论坛估计，自动化在本十年内可能取代数千万个工作岗位——不仅是工厂工人，还有律师助理、翻译和初级程序员——而新岗位的出现速度慢于旧岗位的消失。深度伪造技术已经在侵蚀人们对证据和选举的信任，自主武器更让人担忧机器做出生死决定的前景。如果任其发展，可能导致大规模失业、规模化的操纵，以及权力集中于少数掌握最强系统的公司之手。",
-      conclusion: "总之，人工智能带来非凡的好处，但也有严重社会动荡的风险。眼下的当务之急是让治理跟上能力的发展：再培训被替代的劳动者、标注合成媒体、要求高风险的决策必须有人类监督。通过审慎的引导，人工智能可以放大人类的潜能；缺乏引导，同样的力量可能侵蚀就业、真相，最终侵蚀人类的主体性。"
+      body2: "主要的危险在于岗位替代和控制的丧失。例如，世界经济论坛估计，自动化可能在本十年内取代数千万个工作岗位——不仅是工厂工人，还包括律师助理、翻译和初级程序员——而新岗位的出现速度慢于旧岗位的消失。深度伪造技术已经削弱了对证据和选举的信任，自主武器则带来了机器做出生死决定的前景。如果不加约束，这可能导致大规模失业、规模化操纵，以及权力集中在少数拥有最强大系统的公司手中。",
+      conclusion: "总之，人工智能带来了非凡的好处，但也存在严重的社会动荡风险。当前的优先事项是与能力同步的治理：再培训被替代的工人、标记合成媒体，并要求对高风险决策进行人工监督。通过有意的管理，人工智能可以放大人类的潜力；没有它，同样的力量可能侵蚀就业、真相，最终侵蚀人类的能动性。"
     },
     vocabulary: [
       "artificial intelligence",
@@ -2449,11 +2449,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The principal disadvantage is that mass tourism often destroys what it celebrates. In Venice, thirty million annual visitors have driven out residents, turning a living city into a theme park where locals can no longer afford to live; in Maya Bay in Thailand, the beach from the film The Beach had to be closed for years to let its ecosystem recover from thousands of daily visitors. Aviation emissions accelerate climate change, cruise ships pollute harbours, and souvenir economies can reduce sacred ceremonies to staged performances. Consequently, destinations risk exchanging their authentic character and environment for short-term cash.",
       conclusion: "In conclusion, while tourism brings vital income and intercultural understanding, it risks degrading the very places and cultures it depends on. The answer lies in sustainable management: visitor caps, environmental taxes, and promotion of lesser-known destinations. Handled responsibly, tourism remains one of the few industries that can enrich both the visitor and the visited."
     },
-    fullParagraphsCN: {
-      introduction: "旅游业是全球最大的产业之一，疫情前约占全球就业岗位的十分之一。它带来收入和文化交流，但也可能造成环境破坏和文化侵蚀。本文将讨论两方面影响。",
-      body1: "主要的优点是经济性的：旅游业把钱直接导入当地社区。例如，在泰国，该产业支撑了约五分之一的GDP，养活了酒店、餐厅、导游和手工艺生产者；在卢旺达，观赏山地大猩猩的许可费同时资助了生态保护和乡村学校。金钱之外，旅行还开阔眼界：游客带着对其他文化的第一手理解回国，东道主社区也因游客慕名而来的传统而获得自豪感和保护传统的动力。这意味着旅游业可以同时提高收入、保护遗产并建立国际友好关系。",
-      body2: "主要的缺点是大规模旅游往往毁掉它所赞美的事物。在威尼斯，每年三千万游客逼走了本地居民，把一座活着的城市变成了本地人再也住不起的主题公园；在泰国玛雅湾，因电影《海滩》闻名的沙滩不得不关闭数年，让生态系统从每天数千名游客的压力下恢复。航空排放加剧气候变化，邮轮污染港口，纪念品经济还可能把神圣的仪式降格为表演。因此，旅游目的地面临着用真实性和环境换取短期现金的风险。",
-      conclusion: "总之，虽然旅游业带来至关重要的收入和跨文化理解，但也有损害其所依赖的地方与文化的风险。答案在于可持续管理：游客数量上限、环境税，以及推广知名度较低的目的地。只要负责任地经营，旅游业仍是少数能让游客与东道主双赢的产业之一。"
+        fullParagraphsCN: {
+      introduction: "旅游业是世界上最大的产业之一，疫情前约占全球就业岗位的十分之一。它创造收入和文化交流，但也可能造成环境破坏和文化侵蚀。本文将讨论两种影响。",
+      body1: "主要的优点是经济上的：旅游业把资金直接引入当地社区。例如在泰国，该产业支撑了约五分之一的国内生产总值，为酒店、餐馆、导游和手工艺生产者提供资金；而在卢旺达，参观山地大猩猩的许可费既资助了保护工作，也资助了乡村学校。除了金钱，旅行还开阔了视野：游客带着对其他文化的第一手了解回家，而接待社区获得了自豪感和保护游客慕名而来的传统的动力。这意味着旅游业可以同时提高收入、保护遗产并建立国际善意。",
+      body2: "主要的缺点是，大众旅游往往摧毁了它所赞颂的东西。在威尼斯，每年三千万的游客把居民赶了出去，把一座有生命的城市变成了主题公园，当地人再也住不起；在泰国的玛雅湾，电影《海滩》的拍摄地因每天数千名游客而不得不关闭数年，让生态系统得以恢复。航空排放加速了气候变化，游轮污染了港口，而纪念品经济可能把神圣的仪式降格为表演。因此，目的地冒着用真实的特色和环境换取短期现金的风险。",
+      conclusion: "总之，虽然旅游业带来了至关重要的收入和跨文化理解，但它也有可能损害它所依赖的地方和文化。答案在于可持续管理：游客上限、环境税，以及推广知名度较低的目的地。负责任地经营，旅游业仍然是少数能同时丰富游客和被访者的产业之一。"
     },
     vocabulary: [
       "mass tourism",
@@ -2491,11 +2491,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The clearest disadvantage is the cumulative cost, financial and environmental. For example, analyses by the American Automobile Association put the true annual cost of owning a new car — including depreciation, insurance, fuel, parking and repairs — at over ten thousand dollars, often the second-largest household expense after housing. Cars sit unused roughly 95 percent of the time while occupying valuable urban space, and transport remains one of the largest sources of urban air pollution and carbon emissions. As a result, the convenience of driving is subsidised by traffic jams, climate damage and household debt that owners rarely calculate in full.",
       conclusion: "In summary, car ownership provides unmatched flexibility at the cost of heavy ongoing expense and environmental harm. Whether it is worthwhile depends chiefly on location: in rural areas and sprawling cities it remains close to a necessity, while in dense cities with good transit, ride-hailing and car-sharing, many households find that occasional rental beats permanent ownership."
     },
-    fullParagraphsCN: {
-      introduction: "对许多家庭来说，拥有汽车既是梦想中的大件消费，也是一笔重大开支。它提供了自由与便利，但也让车主背负高昂的成本和环境上的愧疚。本文将审视双方。",
-      body1: "最明显的优点是个人的自由。例如，有车的家庭可以说走就走地探望乡下的长辈，采购食品杂货、接送孩子无需迁就公交时刻表，还能去公共交通难以覆盖的地方上班。紧急情况下差别可能至关重要：午夜开车送生病的孩子去医院只需几分钟，而不是等待救护车或夜班公交。汽车还拓宽了就业选择，因为许多工作——从销售到技工——实际上都要求有车。这让车主能掌控自己的日程，获得无车者难以触及的机会。",
-      body2: "最明显的缺点是累积的成本，包括金钱和环境两方面。例如，美国汽车协会的分析显示，拥有一辆新车的真实年度成本——包括折旧、保险、油费、停车和维修——超过一万美元，通常是仅次于住房的家庭第二大开支。汽车约95%的时间处于闲置，却占着宝贵的城市空间；交通运输也仍是城市空气污染和碳排放的最大来源之一。因此，开车的便利实际上由堵车、气候破坏和家庭债务在补贴，而车主很少把这些成本算全。",
-      conclusion: "综上所述，拥有汽车以沉重的持续开支和环境损害为代价，提供了无可比拟的灵活性。是否值得主要取决于居住地：在农村和摊大饼式的城市里，它仍近乎必需品；而在公共交通发达、有网约车和共享汽车的密集城市，许多家庭发现偶尔租车胜过长期拥有。"
+        fullParagraphsCN: {
+      introduction: "对许多家庭来说，拥有一辆车既是梦想中的购买，也是一笔大开销。它提供了自由和便利，但也让车主背负高昂成本和环境负罪感。本文将审视正反两面。",
+      body1: "最明显的优点是个人自由。例如，有车的家庭可以一时兴起去乡下探望年迈的亲戚，无需费力安排公交时刻表就能运送食品杂货和孩子，还能到达公共交通服务不佳的工作地点。在紧急情况下，差别可能至关重要：午夜开车送生病的孩子去医院只需几分钟，而不必等救护车或夜班车。汽车还扩大了就业选择，因为许多工作——从销售到技工——实际上都要求有车。这让车主能掌控自己的日程，并获得无车者根本无法触及的机会。",
+      body2: "最明显的缺点是累积的成本，包括经济和环境两方面。例如，美国汽车协会的分析把拥有一辆新车的真实年成本——包括折旧、保险、燃油、停车和维修——定在一万多美元，往往是仅次于住房的第二大家庭开支。汽车大约95%的时间停着不用，却占据着宝贵的城市空间，而交通仍然是城市空气污染和碳排放的最大来源之一。因此，驾车的便利是由交通堵塞、气候损害和车主很少完整计算的家庭债务来补贴的。",
+      conclusion: "总之，拥有汽车以高昂的持续开支和环境危害为代价，提供了无可比拟的灵活性。它是否值得主要取决于地点：在农村地区和布局分散的城市，它几乎仍然是必需品；而在拥有良好公共交通、网约车和共享汽车的密集城市，许多家庭发现偶尔租车胜过永久拥有。"
     },
     vocabulary: [
       "depreciation",
@@ -2533,11 +2533,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "On the other hand, the internet poses serious risks, particularly misinformation and the erosion of privacy. For instance, during the COVID-19 pandemic, false cures and vaccine conspiracy theories spread faster on social media than corrections from health authorities, and the World Health Organization coined the term infodemic to describe the damage. Meanwhile, platforms harvest users' behaviour to sell advertising: the 2018 Cambridge Analytica scandal revealed that data from 87 million Facebook profiles had been exploited for political targeting without meaningful consent. This can result in manipulated elections, polarised societies and citizens who no longer know which sources to trust, while children face additional dangers from cyberbullying and online predators.",
       conclusion: "In conclusion, the internet is both the greatest library and marketplace ever built and a channel for manipulation and surveillance. Ultimately, its value depends on how wisely societies govern it — through media literacy education, enforceable privacy laws and responsible platform design — and on whether users approach it critically rather than passively."
     },
-    fullParagraphsCN: {
-      introduction: "互联网改变了现代生活的几乎每一个方面。它既带来即时获取知识和前所未有的连接，也产生了信息混乱和隐私风险。本文将探讨两个维度。",
-      body1: "互联网最宝贵的优点是信息与机会的民主化。一个明显的例子是在线教育：Coursera和可汗学院等平台让印度农村的学生可以免费学习斯坦福大学教授的计算机课程，这在三十年前是不可想象的。小企业同样受益——摩洛哥的工匠可以通过Etsy或阿里巴巴直接向欧洲客户销售，无需中间商。远程医疗、在线法律咨询和科学论文的免费开放同样拉平了曾经受地理与财富限制的领域。因此，互联网缩小了机会差距，赋能了曾被排除在知识和市场之外的个人。",
-      body2: "另一方面，互联网带来严重风险，尤其是虚假信息和隐私的侵蚀。例如，新冠疫情期间，虚假疗法和疫苗阴谋论在社交媒体上的传播速度快于卫生机构的辟谣，世界卫生组织甚至创造了「信息疫情」一词来描述其危害。与此同时，各平台收集用户行为用于广告变现：2018年剑桥分析丑闻曝光，8700万脸书用户的数据在未经有效同意的情况下被用于政治定向投放。这可能导致选举被操纵、社会两极化、公民不知该信任哪些信息源，而儿童还面临网络欺凌和网络捕食者的额外危险。",
-      conclusion: "总之，互联网既是有史以来最伟大的图书馆和市场，也是操纵与监控的渠道。归根结底，其价值取决于社会如何明智地治理它——通过媒介素养教育、可执行的隐私法律和负责任的平台设计——以及用户能否以批判而非被动的方式使用它。"
+        fullParagraphsCN: {
+      introduction: "互联网改变了现代生活的几乎每一个方面。它提供了对知识的即时获取和前所未有的连接，但也造成了信息混乱和隐私风险。本文将探讨两个维度。",
+      body1: "互联网最宝贵的优点是信息和机会的民主化。一个明显的例子是在线教育：Coursera和可汗学院等平台让印度农村的学生可以免费选修斯坦福大学教授的计算机科学课程，这在三十年前是不可想象的。小企业同样受益——摩洛哥的手工艺人可以通过Etsy或阿里巴巴直接向欧洲的顾客销售，无需中介。远程医疗、远程法律咨询和免费获取科学论文，同样拉平了曾经受地理和财富限制的领域。因此，互联网缩小了机会差距，赋予了此前被排除在知识和市场之外的个人权力。",
+      body2: "另一方面，互联网带来了严重的风险，尤其是错误信息和隐私的侵蚀。例如，在新冠疫情期间，虚假的治疗方法和疫苗阴谋论在社交媒体上的传播速度快于卫生当局的纠正，世界卫生组织因此创造了「信息疫情」（infodemic）一词来描述这种损害。与此同时，平台收集用户行为数据来出售广告：2018年的剑桥分析丑闻揭示，8700万个Facebook个人资料的数据被用于政治定向，而没有获得有意义的同意。这可能导致选举被操纵、社会两极分化，以及公民不再知道该信任哪些来源；而儿童还面临网络欺凌和在线掠食者的额外危险。",
+      conclusion: "总之，互联网既是有史以来最伟大的图书馆和市场，也是操纵和监视的渠道。归根结底，它的价值取决于社会治理它的智慧——通过媒体素养教育、可执行的隐私法和负责任的平台设计——也取决于用户是否以批判性而非被动的态度对待它。"
     },
     vocabulary: [
       "democratisation",
@@ -2575,11 +2575,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "However, television also causes harm, most notably through sedentary habits and distorted worldviews. Studies show that children who watch more than three hours daily are significantly more likely to be obese and to perform worse academically; the American Academy of Pediatrics links excessive screen time to sleep problems and attention difficulties. Advertising compounds the problem by promoting junk food directly to young audiences. For adults, constant exposure to crime coverage cultivates what researchers call mean world syndrome — a belief that society is far more dangerous than statistics justify. This leads to declining physical health, reduced family conversation and, in heavy viewers, anxiety and misperception of social reality.",
       conclusion: "In conclusion, television offers education and cultural cohesion but risks passivity, obesity and distorted perception. The answer lies in selective, limited viewing: households that treat it as an occasional shared activity rather than a constant background presence can keep its benefits while avoiding most of its documented harms."
     },
-    fullParagraphsCN: {
-      introduction: "自发明以来，电视一直主导着家庭娱乐。支持者看重它的教育和共同文化体验价值，批评者则指责它造成被动消费和健康损害。本文将考虑两种观点。",
-      body1: "电视的主要优点在于其无与伦比的信息传播和凝聚大众的能力。例如，BBC《地球脉动》系列等自然纪录片把偏远生态系统带进全球客厅，唤醒了一代人的环保意识，推动了真实的政策变革——海洋污染画面震撼观众后，多国出台了塑料袋禁令。重大直播还创造了全民共同时刻——估计有6亿人共同观看了1969年登月，奥运会、王室婚礼等活动至今仍在凝聚社会的集体体验。此外，教育频道和新闻节目仍是老年人和识字有限者最容易获得的信息来源。这使得电视能够发挥真正的公共服务功能，而不仅仅是娱乐。",
-      body2: "然而，电视也带来危害，最明显的是久坐习惯和扭曲的世界观。研究表明，每天看电视超过三小时的儿童肥胖概率显著更高，学业表现也更差；美国儿科学会将过度的屏幕时间与睡眠问题和注意力困难联系起来。广告直接向年轻观众推销垃圾食品，使问题雪上加霜。对成年人而言，持续接触犯罪报道会催生研究者所称的「冷酷世界综合征」——即认为社会远比统计数据显示的更加危险。这导致身体健康下降、家庭交流减少，重度观众还会出现焦虑和对社会现实的错误认知。",
-      conclusion: "总之，电视提供教育和文化凝聚力，但有被动、肥胖和认知扭曲的风险。答案在于有选择、有限度地观看：把电视当作偶尔的共享活动而非持续背景音的家庭，能够保留它的好处，同时避开大部分已被证实的危害。"
+        fullParagraphsCN: {
+      introduction: "自发明以来，电视一直主导着家庭娱乐。支持者重视它的教育和共享文化体验，批评者则指责它导致被动消费和健康损害。本文将考虑两种观点。",
+      body1: "电视的主要优势在于它无与伦比的告知和团结大量观众的能力。例如，BBC《地球脉动》系列等自然纪录片把偏远的生态系统带进了全球千家万户的客厅，唤醒了一代人的环保意识，并推动了真实的政策变革——海洋污染的画面震撼观众后，多国出台了塑料袋禁令。重大直播还创造了全民共同时刻——估计有6亿人共同观看了1969年登月，奥运会、王室婚礼等活动至今仍在凝聚社会的集体体验。此外，教育频道和新闻节目仍然是老年人和识字有限者最容易获得的信息来源。这使得电视能够发挥真正的公共服务功能，而不仅仅是娱乐。",
+      body2: "然而，电视也造成伤害，最显著的是久坐习惯和扭曲的世界观。研究表明，每天看电视超过三小时的儿童明显更可能肥胖，学业表现也更差；美国儿科学会把过度屏幕时间与睡眠问题和注意力困难联系起来。广告通过直接向年轻观众推销垃圾食品加剧了这一问题。对成年人来说，不断接触犯罪报道培养了研究人员所说的「Mean World Syndrome」（邪恶世界综合症）——一种认为社会比数据所证明的更危险的信念。这导致身体健康下降、家庭对话减少，以及在重度观众中出现焦虑和对社会现实的误解。",
+      conclusion: "总之，电视提供了教育和文化凝聚力，但也带来了被动、肥胖和扭曲认知的风险。答案在于有选择、有限度地观看：把电视当作偶尔的共享活动而非持续的背景存在的家庭，能在避免大多数有记录的危害的同时，保留它的好处。"
     },
     vocabulary: [
       "sedentary",
@@ -2617,11 +2617,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The most serious disadvantage is the damage fast food inflicts on public health. Research indicates that a typical burger meal contains more than half of an adult's recommended daily calories, saturated fat and salt; the Global Burden of Disease study attributes millions of premature deaths annually to diets heavy in processed food. Countries that adopt Western fast food see obesity rates climb accordingly — Mexico's adult obesity rate approached 40 percent within a generation of the industry's rapid expansion there. Marketing targets children with toys and cartoon mascots, building habits that persist into adulthood. As a consequence, societies face epidemics of diabetes and heart disease, and healthcare systems bear costs that far exceed the savings at the till.",
       conclusion: "In conclusion, fast food provides unmatched convenience and affordability at the cost of long-term health damage. A sensible approach is moderation combined with smarter policy: occasional consumption harms nobody, while clearer calorie labelling, restrictions on child-targeted advertising and reformulated recipes can keep the industry's genuine benefits without letting it quietly tax public health."
     },
-    fullParagraphsCN: {
-      introduction: "快餐已成为全球现象，因便利和实惠而受到欢迎，也因健康后果而受到批评。本文将审视这一问题的两面。",
-      body1: "快餐的主要优点是它几乎能瞬间提供便宜且品质可预期的餐食。例如，一位打两份工的单亲家长花几美元就能让孩子吃上热饭，省去一小时的做饭和洗碗，这解释了为何免下车窗口集中在低收入和时间紧张的社区。该行业还提供了大量就业：仅麦当劳在全球就雇有约200万人，常给青少年提供第一份工作经历和可配合学业的灵活工时。此外，标准化的厨房在街头食品卫生不可靠的国家保证了清洁与稳定品质。因此，快餐填补了一个传统餐馆难以覆盖的真实的经济与后勤空缺。",
-      body2: "最严重的缺点是快餐对公共健康造成的损害。研究表明，一份典型的汉堡套餐所含热量、饱和脂肪和盐分超过成人每日建议摄入量的一半；《全球疾病负担》研究将每年数百万例过早死亡归因于高度依赖加工食品的饮食。接纳西式快餐的国家肥胖率随之攀升——在快餐业迅速扩张的一代人时间里，墨西哥成人肥胖率逼近40%。商家用玩具和卡通吉祥物向儿童营销，培养出延续到成年的饮食习惯。因此，各国面临糖尿病和心脏病的流行，医疗系统承担的成本远超收银台前省下的钱。",
-      conclusion: "总之，快餐以长期健康损害为代价提供了无与伦比的便利和实惠。明智的做法是适度消费配合更明智的政策：偶尔吃一次无伤大雅，而更清晰的热量标注、限制针对儿童的广告以及改良配方，可以在保住行业真实好处的同时，不让它悄悄向公共健康征税。"
+        fullParagraphsCN: {
+      introduction: "快餐已成为一种全球现象，因其便利和价格实惠而受重视，又因其健康后果而受批评。本文将考察这一问题的正反两面。",
+      body1: "快餐的主要优点是它几乎能立即提供便宜、可预测的餐食。例如，一个打两份工的单亲家长可以用几美元给孩子提供一顿热饭，而无需花一小时做饭和洗碗，这就解释了为什么免下车窗口聚集在低收入和时间匮乏的社区。该产业还提供大规模就业：仅麦当劳就在全球雇用了约200万人，常常给青少年提供第一份工作经验和适合学习的灵活工时。此外，标准化厨房在街头食品安全不可靠的国家保证了卫生和一致的质量。因此，快餐填补了传统餐馆无法始终服务的真正的经济和后勤缺口。",
+      body2: "最严重的缺点是快餐对公共健康造成的损害。研究表明，一份典型的汉堡套餐含有成年人每日推荐摄入的一半以上的卡路里、饱和脂肪和盐；全球疾病负担研究把每年数百万过早死亡归因于重度加工食品的饮食。采用西方快餐的国家，肥胖率也相应攀升——墨西哥的成人肥胖率在该产业快速扩张后不到一代人就接近40%。营销用玩具和卡通吉祥物针对儿童，建立了延续到成年的习惯。因此，社会面临糖尿病和心脏病的流行，而医疗系统承担的成本远远超过了在收银台省下的钱。",
+      conclusion: "总之，快餐以长期健康损害为代价，提供了无可比拟的便利和价格实惠。合理的做法是适度结合更明智的政策：偶尔食用对谁都无害，而更清晰的卡路里标签、限制针对儿童的广告以及改良配方，可以保留该产业真正的好处，同时不让它悄然加重公共健康负担。"
     },
     vocabulary: [
       "affordability",
@@ -2659,11 +2659,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The most common criticism is that advertising manipulates emotions and creates unnecessary wants. For example, luxury brands sell watches and handbags not on function but on manufactured status anxiety, while beauty advertising profits from insecurity by presenting digitally altered bodies as normal. Children are especially vulnerable: research shows most cannot distinguish adverts from content until around age eight, yet they are exposed to thousands of marketing messages yearly, fuelling pester power and materialism. Online, behavioural targeting follows users across websites in ways few understand or consent to. Consequently, advertising contributes to overconsumption, debt, body image disorders and a culture that equates happiness with purchasing.",
       conclusion: "In conclusion, advertising plays a useful role in informing consumers and funding free media, but it also manipulates insecurities and drives overconsumption. The balance depends on regulation and literacy: banning advertising to young children, requiring honest labelling of edited images and teaching critical media skills would preserve its economic benefits while curbing its psychological harms."
     },
-    fullParagraphsCN: {
-      introduction: "广告围绕着我们生活的每一块屏幕和每一条街道。支持者认为它为消费者提供信息并资助免费服务，反对者则抱怨它制造虚假欲望。本文将评估两种主张。",
-      body1: "支持广告最有力的理由是它传递有用信息，并资助了大部分现代媒体。一个很好的例子是公众宣传：关于酒驾、吸烟和疫苗接种的广告活动已可量化地改变了行为，商业广告也提供类似服务——告诉消费者存在更便宜或更好的产品，迫使企业在质量和价格上竞争。同样重要的是，广告为人们免费享用的服务买单——没有它，谷歌、YouTube、独立新闻网站和广播电台都需要订阅付费。小企业尤其依赖精准广告触达它们原本无法触及的客户。这意味着广告润滑了经济，并维持了一个多元、可及的媒体生态。",
-      body2: "最常见的批评是广告操纵情感并制造不必要的需求。例如，奢侈品牌推销手表和手袋靠的不是功能，而是人为制造的地位焦虑；美妆广告则通过把数字修图后的身体呈现为常态，利用人们的不安全感牟利。儿童尤其脆弱：研究显示大多数儿童约八岁前无法区分广告与内容，然而他们每年接触数千条营销信息，助长了「纠缠力」和物质主义。在线上，行为定向广告以少数人理解或同意的方式跨网站追踪用户。因此，广告助长了过度消费、负债、身体形象障碍，以及一种把幸福等同于购物的文化。",
-      conclusion: "总之，广告在为消费者提供信息和资助免费媒体方面发挥着有益作用，但它也操纵不安全感并驱动过度消费。平衡取决于监管与素养：禁止面向幼儿的广告、要求修图广告如实标注、教授批判性媒介技能，这些都能在保留其经济利益的同时遏制其心理危害。"
+        fullParagraphsCN: {
+      introduction: "广告在每一个屏幕和街道上包围着我们。它的倡导者认为它告知消费者并资助免费服务，而反对者则抱怨它制造了人为的欲望。本文将评估两种说法。",
+      body1: "支持广告的最有力理由是，它传递有用的信息并资助了大部分现代媒体。一个很好的例子是公众意识宣传：关于酒驾、吸烟和疫苗接种的运动已显著改变了行为，而商业广告通过告诉消费者存在更便宜或更好的产品，迫使公司在质量和价格上竞争，也起到了类似的作用。同样重要的是，广告为人们免费享受的服务买单——没有它，谷歌、YouTube、独立新闻网站和电台都需要订阅。小企业尤其依赖定向广告来找到它们原本无法触及的顾客。这意味着广告润滑了经济，并维持了一个多元化、可及的媒体格局。",
+      body2: "最常见的批评是，广告操纵情感并制造不必要的欲望。例如，奢侈品牌销售手表和手袋时，靠的不是功能，而是人为制造的身份焦虑；而美容广告通过把数字修改过的身体呈现为常态来从不安全感中获利。儿童尤其脆弱：研究显示，大多数孩子在八岁左右之前无法区分广告和内容，却每年接触到数千条营销信息，助长了「纠缠力」和物质主义。在网上，行为定向在用户几乎不理解或不同意的情况下跨网站追踪他们。因此，广告助长了过度消费、债务、身体形象障碍，以及一种把幸福等同于购买的文化。",
+      conclusion: "总之，广告在告知消费者和资助免费媒体方面发挥了有益作用，但它也操纵不安全感并驱动过度消费。平衡取决于监管和素养：禁止向幼儿做广告、要求对编辑过的图像如实标注，以及教授批判性媒体技能，可以在遏制其心理危害的同时，保留其经济效益。"
     },
     vocabulary: [
       "consumerism",
@@ -2701,11 +2701,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "However, immigration also creates difficulties, including pressure on public services and integration challenges. For instance, rapid arrivals can strain housing, schools and hospitals faster than governments expand them, as Sweden discovered after accepting large numbers of refugees in 2015, when waiting lists lengthened and public support for immigration fell sharply. Language barriers and discrimination can confine newcomers to low-paid work despite their qualifications, breeding frustration on both sides. Meanwhile, home countries suffer brain drain: sub-Saharan Africa loses thousands of desperately needed doctors and nurses to wealthy health systems each year. This may lead to social tension in destination countries and hollowed-out public services in origin countries.",
       conclusion: "In conclusion, immigration offers economic vitality and cross-cultural exchange but poses integration pressures and brain drain. Successful outcomes require active policy: language training, credential recognition, housing investment and circular migration programmes that let skills flow back home. Managed well, it enriches both societies; managed passively, it strains both."
     },
-    fullParagraphsCN: {
-      introduction: "移民是我们这个时代最具定义性的现象之一。它带来经济活力和文化丰富性，但也引发对融合问题和人才外流的担忧。本文将讨论两个方面。",
-      body1: "对接收国而言，最明显的好处是移民填补劳动力短缺并驱动创新。例如，美国科技行业在很大程度上由移民建立——谢尔盖·布林从俄罗斯移民后联合创立了谷歌，研究显示财富500强企业中超过40%由移民或其后代创办。老龄化社会受益更多：德国和加拿大积极招募外国护士和护工，因为本国劳动力无法支撑不断增长的老年人口。移民还纳税、以高于本地人的比例创业，并让衰落的社区重获生机。对移民输出国而言，侨汇意义重大——世界银行估计2022年侨汇超过6000亿美元，远超外国援助，直接资助了尼泊尔、菲律宾等国的教育和住房。",
-      body2: "然而，移民也造成困难，包括公共服务压力和融合挑战。例如，移民的快速涌入可能使住房、学校和医院的紧张速度快于政府的扩张速度——瑞典在2015年接收大量难民后就深有体会，当时轮候名单变长，公众对移民的支持率急剧下降。语言障碍和歧视可能使拥有资质的新移民困于低薪工作，在双方心中都滋生挫败感。与此同时，输出国遭受人才流失：撒哈拉以南非洲每年流失数千名急需的医生和护士，流向富裕国家的医疗体系。这可能导致目的地国的社会紧张和来源国公共服务的空心化。",
-      conclusion: "总之，移民提供经济活力和跨文化交流，但也带来融合压力和人才流失。成功的结果需要积极的政策：语言培训、学历资历认证、住房投资以及让技能回流祖国的循环移民计划。管理得当，移民能丰富两个社会；消极放任，则会让双方都承受压力。"
+        fullParagraphsCN: {
+      introduction: "移民是我们这个时代的决定性现象之一。它带来了经济活力和文化丰富，但也引发了关于融合和人才流失的担忧。本文将讨论两个方面。",
+      body1: "对接收国来说，最明显的好处是移民填补了劳动力短缺并推动创新。例如，美国的科技部门很大程度上是由移民建立的——谢尔盖·布林从俄罗斯移民后共同创立了谷歌，研究表明，财富500强公司中超过40%由移民或其子女创立。老龄化社会获益更多：德国和加拿大积极招募外国护士和护理人员，因为国内劳动力无法支撑日益增长的老年人口。移民还纳税、创业率高于本地人，并振兴衰落的社区。对移民的母国来说，汇款至关重要——世界银行估计2022年汇款超过6000亿美元，远超外国援助，直接资助了尼泊尔和菲律宾等国的教育和住房。",
+      body2: "然而，移民也造成了困难，包括对公共服务的压力和融合挑战。例如，快速到来的移民可能比政府扩大服务的速度更快地给住房、学校和医院带来压力，正如瑞典在2015年接收大量难民后发现的那样——当时等待名单变长，公众对移民的支持急剧下降。语言障碍和歧视可能把新来者限制在低薪工作中，尽管他们有资历，这在双方都滋生了挫败感。与此同时，母国遭受人才流失：撒哈拉以南非洲每年有数千名急需的医生和护士流向富裕国家的医疗体系。这可能导致目的地国的社会紧张，以及来源国公共服务的空心化。",
+      conclusion: "总之，移民带来了经济活力和跨文化交流，但也带来了融合压力和人才流失。成功的结果需要积极的政策：语言培训、学历认证、住房投资，以及让技能回流祖国的循环移民计划。管理得当，它能让两个社会都受益；被动管理，它会让两个社会都紧张。"
     },
     vocabulary: [
       "brain drain",
@@ -2743,11 +2743,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Nevertheless, technology in education has drawbacks, above all distraction and the digital divide. For instance, studies by the OECD found that students who used computers intensively at school performed worse in reading than moderate users, partly because devices invite multitasking — a pupil ostensibly taking notes may actually be messaging friends. Screen-based learning also weakens handwriting and deep reading habits that underpin sustained concentration. Most seriously, expensive devices and fast connections are not universal: during the pandemic, pupils without laptops or stable internet simply disappeared from virtual classrooms, and UNESCO estimates hundreds of millions lacked any access to remote learning. This can cause existing achievement gaps between rich and poor students to widen dramatically.",
       conclusion: "In conclusion, educational technology offers personalisation and access but threatens concentration and equality. The best approach is purposeful integration: devices should serve clear pedagogical goals, screen time should be balanced with books and discussion, and governments must guarantee baseline connectivity for all families. Used as a disciplined tool rather than a substitute teacher, technology amplifies good education; used carelessly, it undermines it."
     },
-    fullParagraphsCN: {
-      introduction: "科技已进入各级课堂，带来个性化学习和全球可及性，但也引发对注意力分散和不平等的担忧。本文将审视两种影响。",
+        fullParagraphsCN: {
+      introduction: "科技已进入各个层级的课堂，带来了个性化学习和全球访问，但也引发了关于分心和不平等的担忧。本文将考察两种影响。",
       body1: "科技在教育中最大的好处是它能让教学适应每个学生，并拆除地理壁垒。例如，可汗学院等自适应平台会分析学生做错的题目并自动调整难度，让跟不上的学生获得额外练习，让学得快的学生加速前进——这是面对四十名学生的老师无法复制的。新冠封控期间，视频会议让超过十亿儿童的学业得以延续，录播课程让偏远村庄的学生获得与首都学生相同的教学内容。因此，设计良好的教育科技可以缩小学习差距，用语音转文字工具支持残障学生，并把教师从照本宣科中解放出来专注于辅导。",
-      body2: "然而，教育科技也有缺点，最重要的是注意力分散和数字鸿沟。例如，经合组织的研究发现，在校高强度使用电脑的学生阅读成绩反而不如适度使用者，部分原因是设备诱发多任务——一个看似在记笔记的学生可能实际在给朋友发消息。基于屏幕的学习还会削弱手写和深度阅读习惯，而这些习惯是持续专注力的基础。最严重的是，昂贵的设备和快速的网络并非人人可得：疫情期间，没有笔记本电脑或稳定网络的学生干脆从虚拟课堂消失，联合国教科文组织估计数以亿计的学生完全无法获得远程学习。这可能导致贫富学生之间既有的成绩差距急剧扩大。",
-      conclusion: "总之，教育科技提供个性化与可及性，但威胁专注力与公平。最佳做法是有目的的整合：设备应服务于明确的教学目标，屏幕时间应与书本和讨论平衡，政府必须保障所有家庭的基础网络连接。把科技当作有纪律的工具而非替代教师，它能放大优质教育；用得草率，它就会侵蚀教育。"
+      body2: "然而，教育中的科技也有缺点，最重要的是分心和数字鸿沟。例如，经合组织的研究发现，在学校密集使用电脑的学生在阅读方面的表现不如适度使用者，部分原因是设备会让人分心——一个表面上在记笔记的学生可能实际上在给朋友发消息。基于屏幕的学习还削弱了支撑持续专注的手写和深度阅读习惯。最严重的是，昂贵的设备和快速的网络并非人人都有：疫情期间，没有笔记本电脑或稳定互联网的学生干脆从虚拟课堂中消失了，联合国教科文组织估计有数亿人完全无法获得远程学习。这可能导致贫富学生之间现有的成绩差距急剧扩大。",
+      conclusion: "总之，教育科技提供了个性化和可及性，但也威胁到专注力和平等。最佳方法是有目的的整合：设备应服务于明确的教学目标，屏幕时间应与书籍和讨论相平衡，政府必须保证所有家庭的基本网络连接。作为有纪律的工具而非代课老师来使用，科技能放大良好的教育；轻率地使用，则会削弱教育。"
     },
     vocabulary: [
       "adaptive learning",
@@ -2785,11 +2785,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The main disadvantage is intermittency: the sun does not always shine and the wind does not always blow. For instance, during calm winter evenings, Germany's massive wind fleet sometimes produces almost nothing, forcing the country to restart coal plants or import nuclear power from France, while South Australia suffered blackouts in 2016 when storms damaged transmission infrastructure. Storing energy at scale remains expensive — batteries cover hours, not weeks — and vast solar farms and wind turbines consume land and can harm bird populations and landscapes. Mining lithium, cobalt and rare earths for batteries and turbines also creates pollution and human rights concerns in producer countries. Consequently, a renewables-only grid still requires backup capacity and storage that add hidden costs.",
       conclusion: "In conclusion, renewables deliver clean, increasingly cheap energy despite intermittency and material demands. The sensible path is a managed transition: invest in grid-scale storage and interconnectors, keep diverse backup sources available, and recycle battery materials, so that the clear environmental benefits are captured without gambling on reliability."
     },
-    fullParagraphsCN: {
-      introduction: "随着气候担忧加剧，可再生能源正在全球范围内取代化石燃料。尽管可再生能源提供清洁电力和不断下降的成本，但也存在间歇性和土地利用方面的挑战。本文将评估两者。",
-      body1: "可再生能源的主要优点是发电无需燃料成本也不产生碳排放，且价格持续下降。例如，2010年至2023年间太阳能发电成本下降约90%，据国际能源署称，它已成为世界大部分地区新建电力中最便宜的来源。丹麦一半以上的电力已来自风电，乌拉圭在十年内几乎把全国电网转为可再生能源，同时降低了排放和能源进口账单。可再生能源设施还创造了无法外包的制造和维护岗位，屋顶光伏让家庭摆脱波动的能源市场。这带来更清洁的空气、更强的能源安全，以及免受化石燃料依赖所招致的地缘政治冲击。",
-      body2: "主要缺点是间歇性：太阳不总是照耀，风不总是吹。例如，在平静的冬夜，德国庞大的风电装机有时几乎不发电，迫使该国重启煤电厂或从法国进口核电；南澳大利亚州2016年因风暴损毁输电设施而发生大停电。大规模储能仍然昂贵——电池只能支撑数小时而非数周——而庞大的太阳能电场和风力发电机占用土地，可能危害鸟类种群和自然景观。为电池和涡轮机开采锂、钴和稀土也在生产国造成污染和人权问题。因此，纯可再生能源电网仍需要备用容量和储能，这些都增加了隐性成本。",
-      conclusion: "总之，尽管存在间歇性和材料需求问题，可再生能源仍带来清洁且日益便宜的能源。明智的路径是有管理的转型：投资电网级储能和跨区域联网，保留多元备用电源，并回收电池材料，从而在不为可靠性冒险的前提下获得明确的环境效益。"
+        fullParagraphsCN: {
+      introduction: "随着气候问题加剧，可再生能源正在全球范围内取代化石燃料。虽然可再生能源提供了清洁电力和不断下降的成本，但它也带来了间歇性和土地使用的挑战。本文将评估两者。",
+      body1: "可再生能源的主要优点是它在没有燃料成本或碳排放的情况下发电，而且价格持续下降。例如，太阳能的成本在2010年至2023年间下降了约90%，据国际能源署称，这使它成为世界大部分地区最便宜的新增电力来源。丹麦已经有一半以上的电力来自风能，乌拉圭在十年内几乎把整个电网转向了可再生能源，同时削减了排放和进口账单。可再生能源装置还创造了无法外包的制造和维护岗位，而屋顶太阳能让家庭摆脱了波动的能源市场。这带来了更清洁的空气、更强的能源安全，以及免于化石燃料依赖所招致的地缘政治冲击。",
+      body2: "主要的缺点是间歇性：太阳并不总是照耀，风也不总是吹。例如，在平静的冬夜，德国庞大的风电车队有时几乎不发电，迫使该国重启燃煤电厂或从法国进口核电；而南澳大利亚在2016年暴风雨损坏输电基础设施时遭遇了停电。大规模储能仍然昂贵——电池只能覆盖数小时而非数周——而庞大的太阳能农场和风力涡轮机消耗土地，并可能伤害鸟类种群和景观。为电池和涡轮机开采锂、钴和稀土，也在生产国造成了污染和人权问题。因此，纯可再生能源电网仍需要备用容量和储能，这增加了隐性成本。",
+      conclusion: "总之，尽管存在间歇性和材料需求，可再生能源提供了清洁且日益廉价的能源。明智的道路是有管理的转型：投资于电网级储能和互联器、保持多元化的备用来源、回收电池材料，这样既能获取明确的环境效益，又不会在可靠性上冒险。"
     },
     vocabulary: [
       "intermittency",
@@ -2827,11 +2827,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Its most serious drawback is environmental cost and systemic fragility. For instance, air-freighted asparagus and perishable berries generate dozens of times more emissions per kilogram than local seasonal produce, and the food system as a whole accounts for roughly a third of global greenhouse gases. Long supply chains also break: when Russia invaded Ukraine in 2022, wheat exports collapsed and bread prices spiked from Egypt to Bangladesh, showing how dependent nations are on a few exporters. Small farmers in developing countries, meanwhile, compete against subsidised industrial agriculture and volatile world prices, and many abandon their land. This results in unnecessary emissions, vulnerability to distant shocks and the hollowing out of local food cultures.",
       conclusion: "In conclusion, global food trade gives us variety, affordability and famine insurance but costs the climate and creates dependency. A balanced policy would favour regional supply for staples and seasonal produce, reserve long-distance trade for genuinely scarce goods, and invest in storage and diverse sourcing, so that efficiency never overrides resilience."
     },
-    fullParagraphsCN: {
-      introduction: "现代超市的货架上摆满来自地球每个角落的食品。这种全球食品贸易提供了多样性、低价格和粮食安全，但也产生了排放和脆弱的供应链。本文将讨论两者。",
-      body1: "全球食品贸易的主要好处是它让人们不受季节和本地条件限制地获得食物。一个明显的例子是北欧：没有进口，那里半年没有新鲜蔬菜——英国消费者在一月吃到西班牙番茄，而阿联酋这样几乎没有耕地的中东国家靠贸易养活全部人口。专业化还降低了价格——各地区种植最适合其气候的作物，从新西兰羊肉到泰国大米，全球竞争压低了成本。至关重要的是，贸易提供了保险：当干旱或洪水摧毁一国收成时，进口能防止饥荒。这使得饮食比任何单一国家所能做到的更加多样、有营养且实惠。",
-      body2: "它最严重的缺点是环境成本和系统脆弱性。例如，空运芦笋和易腐浆果每公斤产生的排放是本地应季农产品的数十倍，而整个食品系统约占全球温室气体排放的三分之一。漫长的供应链也会断裂：2022年俄罗斯入侵乌克兰时，小麦出口骤减，从埃及到孟加拉国面包价格飙升，显示出各国对少数出口国的依赖程度。与此同时，发展中国家的小农户要与享受补贴的工业化农业和波动的世界价格竞争，许多人被迫放弃土地。这导致不必要的排放、对遥远冲击的脆弱性，以及本地饮食文化的空心化。",
-      conclusion: "总之，全球食品贸易带来多样性、实惠和饥荒保险，但付出了气候代价并制造了依赖。平衡的政策应当主粮和应季农产品优先区域供应，长途贸易留给真正稀缺的商品，并投资仓储和多元化采购，使效率永远不应凌驾于韧性之上。"
+        fullParagraphsCN: {
+      introduction: "现代超市库存着来自地球每个角落的食品。这种全球食品贸易提供了多样性、低价格和粮食安全，但也造成了排放和脆弱的供应链。本文将讨论两者。",
+      body1: "全球食品贸易的主要好处是，无论季节或当地条件如何，它都能养活人们。一个明显的例子是北欧：如果没有进口，新鲜蔬菜在半年内都会消失；英国消费者在一月吃西班牙的西红柿，而阿联酋等几乎没有农田的中东国家通过贸易养活了全部人口。专业化也降低了价格——各地区种植最适合其气候的作物，从新西兰的羊肉到泰国的大米，全球竞争使成本保持低位。至关重要的是，贸易提供了保险：当干旱或洪水摧毁一国的收成时，进口能防止饥荒。这使饮食比任何单个国家独自管理时更多样、更有营养、更实惠。",
+      body2: "它最严重的缺点是环境成本和系统性脆弱性。例如，空运的芦笋和易腐烂的浆果每公斤产生的排放是当地当季产品的几十倍，而食品系统整体约占全球温室气体的三分之一。长供应链也会断裂：2022年俄罗斯入侵乌克兰时，小麦出口崩溃，从埃及到孟加拉国的面包价格飙升，显示各国对少数出口国的依赖程度。与此同时，发展中国家的小农户与补贴的工业化农业和波动的世界价格竞争，许多人放弃了土地。这导致不必要的排放、对远方冲击的脆弱性，以及本土饮食文化的空心化。",
+      conclusion: "总之，全球食品贸易给我们带来了多样性、可负担性和饥荒保险，但代价是气候和依赖性。平衡的政策应当倾向于主食和季节性产品的区域供应，把长距离贸易留给真正稀缺的商品，并投资于仓储和多元化采购，使效率永远不会凌驾于韧性之上。"
     },
     vocabulary: [
       "food miles",
@@ -2869,11 +2869,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "The most significant disadvantage is the destruction of domestic jobs and the loss of control over quality. For instance, when American manufacturers shifted production to Mexico and China, entire towns in states like Ohio and Michigan lost their economic foundations; research by economist David Autor links this China shock to lasting unemployment and social decline in affected regions. Service outsourcing carries its own risks: customers struggle with call centres staffed by agents reading scripts, and several airlines and banks have brought operations back home after quality complaints damaged their brands. Data security is another concern, since sensitive information crosses borders into jurisdictions with different privacy rules. This can lead to hollowed-out communities at home, frustrated customers abroad and political backlash against trade itself.",
       conclusion: "In conclusion, outsourcing offers efficiency and shared prosperity at the risk of domestic dislocation and quality erosion. Companies should outsource selectively — keeping core expertise and customer-critical functions in-house — while governments invest in retraining so that displaced workers move into the higher-value jobs a globalised economy still creates."
     },
-    fullParagraphsCN: {
-      introduction: "外包已成为标准的商业战略。企业追求它以降低成本、获取全球人才，但它也因国内岗位流失和质量风险而受到批评。本文将审视两面。",
-      body1: "外包的主要优点是大幅降低成本，同时获得稀缺技能。例如，当一家英国银行把客服中心迁往菲律宾、把软件开发迁往波兰时，人力成本可下降一半甚至更多，这些节省可用于降价、提高利润或进一步投资。印度科技行业展示了对接收国的好处：印孚瑟斯和塔塔咨询等公司雇用数十万高薪工程师服务全球客户，该行业把班加罗尔等城市变成了全球枢纽。时区甚至可以成为资产——伦敦下班时交给悉尼的项目整夜持续推进。这使企业能够在国际上竞争，同时把收入导入发展中经济体。",
-      body2: "最显著的缺点是国内岗位的流失和对质量控制的削弱。例如，当美国制造商把生产转移到墨西哥和中国时，俄亥俄、密歇根等州的整个城镇失去了经济基础；经济学家戴维·奥特的研究把这种「中国冲击」与受影响地区持续的失业和社会衰退联系起来。服务外包也有自身风险：客户苦于应对照本宣科的呼叫中心客服，多家航空公司和银行在质量投诉损害品牌后已把业务迁回国内。数据安全是另一个担忧，因为敏感信息跨越边境进入隐私法规不同的司法辖区。这可能导致国内社区空心化、国外客户失望，以及针对贸易本身的政治反弹。",
-      conclusion: "总之，外包提供效率和共享繁荣，但有国内动荡和质量滑坡的风险。企业应当有选择地外包——把核心专业能力和对客户至关重要的职能留在内部——同时政府投资再培训，让失业工人转入全球化经济仍在创造的高价值岗位。"
+        fullParagraphsCN: {
+      introduction: "外包已成为一种标准的商业策略。公司追求它是为了节省成本和获取全球人才，但它也因国内就业流失和质量风险而受到批评。本文将考察正反两面。",
+      body1: "外包的主要优点是大幅降低成本，同时获得稀缺技能。例如，当一家英国银行把客户服务中心迁往菲律宾或把软件开发迁往波兰时，劳动力成本可能下降一半或更多，节省下来的资金可用于降低价格、提高利润或进一步投资。印度的科技部门说明了接收国的好处：Infosys和TCS等公司雇用了数十万高薪工程师，为全球客户服务，该行业把班加罗尔等城市变成了全球中心。时区甚至可以成为资产——一个在一天结束时从伦敦交给悉尼的项目可以在夜间继续推进。这使公司能够在国际上竞争，同时把收入引入发展中经济体。",
+      body2: "最显著的缺点是国内就业的摧毁和对质量控制的丧失。例如，当美国制造商把生产转移到墨西哥和中国时，俄亥俄州和密歇根州等州的整个城镇失去了经济基础；经济学家大卫·奥托的研究把这种「中国冲击」与受影响地区的持久失业和社会衰退联系起来。服务外包也有其自身的风险：客户与照着脚本念的客服人员打交道感到困难，几家航空公司和银行在质量投诉损害品牌后把业务迁回了国内。数据安全是另一个问题，因为敏感信息跨越国界进入隐私规则不同的司法管辖区。这可能导致国内社区空心化、海外客户不满，以及对贸易本身的政治反弹。",
+      conclusion: "总之，外包以国内动荡和质量侵蚀为风险，提供了效率和共享繁荣。公司应当有选择地外包——把核心专长和对客户至关重要的职能留在内部——而政府应投资于再培训，使被替代的工人进入全球化经济仍然创造的高价值岗位。"
     },
     vocabulary: [
       "cost reduction",
@@ -2911,11 +2911,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Its most dangerous disadvantage is that brands lose control of their own narrative and become hostages to platform rules. For example, a single critical video can go viral and erase years of brand building overnight, as United Airlines discovered in 2017 when footage of a passenger being dragged from a flight was viewed hundreds of millions of times and its market value briefly fell by nearly a billion dollars. Meanwhile, organic reach has steadily collapsed — Facebook pages that once reached most followers now reach a few percent unless the company pays — so supposed free marketing becomes an escalating advertising bill. Algorithm changes can destroy a business model overnight, and influencer partnerships risk association with personal scandals. This can result in fragile visibility, unpredictable costs and reputational crises beyond any marketing team's control.",
       conclusion: "In conclusion, social media marketing delivers unmatched targeting and engagement but demands constant vigilance against volatility. Success requires treating it as one channel among several: brands should build owned audiences through email lists and websites, monitor sentiment continuously, and never let a rented platform become their only home."
     },
-    fullParagraphsCN: {
-      introduction: "社交媒体已成为必不可少的营销渠道。它承诺精准定向和直接的客户关系，但也伴随着声誉波动和对算法的依赖。本文将评估两者。",
-      body1: "社交媒体营销最大的优点是，它让哪怕极小的企业也能以极低成本触达恰好正确的客户。一个很好的例子是直接面向消费者品牌的崛起：Gymshark等公司从车库创业成长为十亿英镑企业，几乎完全依靠Instagram网红和社区内容，从未买过电视广告。各平台的定向工具允许一家社区面包房只向五公里内关注烘焙账号的用户投放广告，这是任何广告牌或报纸都做不到的。社交渠道还创造双向关系——客户评论、分享并捍卫他们喜爱的品牌，规模化地产生真实的口碑。这意味着当对话显得真诚时，营销预算花得更值，客户忠诚度也更深。",
-      body2: "它最危险的缺点是品牌失去对自身叙事的控制，并沦为平台规则的人质。例如，一条批评视频可能一夜之间疯传，抹掉多年的品牌建设——美联航2017年就深有体会，当时一名乘客被拖下航班的画面被观看了数亿次，其市值一度蒸发近十亿美元。与此同时，自然触达持续崩塌——曾经能触达大多数粉丝的脸书主页，如今不付费只能触达百分之几——所谓的免费营销变成了不断攀升的广告账单。算法变更可以一夜之间摧毁一种商业模式，网红合作则可能因对方个人丑闻而受牵连。这可能导致脆弱的可见度、不可预测的成本，以及超出任何营销团队控制的声誉危机。",
-      conclusion: "总之，社交媒体营销带来无与伦比的定向和互动，但需要时刻警惕波动。成功需要把它当作众多渠道之一：品牌应通过邮件列表和官网建立自己的受众，持续监测舆情，永远不让租来的平台成为唯一的家。"
+        fullParagraphsCN: {
+      introduction: "社交媒体已成为必不可少的营销渠道。它有望实现精准定位和直接的客户关系，但也伴随着声誉波动和对算法的依赖。本文将评估两者。",
+      body1: "社交媒体最大的营销优势是，它让哪怕是微小的企业也能以最低成本找到恰恰合适的顾客。一个很好的例子是直销品牌的崛起：Gymshark等公司几乎完全通过Instagram网红和社区内容，从车库运营成长为价值十亿英镑的企业，从未购买过电视广告。平台的定位工具让一家邻里面包店能只向五公里内关注烘焙账号的用户做广告，这是任何广告牌或报纸都无法提供的。社交渠道还创造了双向关系——客户评论、分享并捍卫他们喜爱的品牌，规模化地产生真实的口碑。这意味着营销预算能延伸得更远，而当对话感觉真诚时，客户忠诚度也会加深。",
+      body2: "它最危险的缺点是，品牌失去了对自身叙事的控制，成为平台规则的人质。例如，一条批判性视频可能病毒式传播，一夜之间抹去多年的品牌建设，正如联合航空在2017年发现的那样——一名乘客被拖下飞机的视频被观看了数亿次，其市值一度下跌了近十亿美元。与此同时，自然覆盖率稳步下降——曾经能触达大多数粉丝的Facebook主页，现在除非公司付费，否则只能触达几个百分点——所以所谓的免费营销变成了不断攀升的广告账单。算法变化可能一夜之间摧毁一种商业模式，而网红合作则可能因个人丑闻而受到牵连。这可能导致脆弱的可见性、不可预测的成本，以及任何营销团队都无法控制的声誉危机。",
+      conclusion: "总之，社交媒体营销提供了无与伦比的定位和参与度，但需要对波动保持持续警惕。成功要求把它当作众多渠道之一：品牌应通过邮件列表和网站建立自有受众，持续监控情绪，并永远不要让一个租来的平台成为自己唯一的家园。"
     },
     vocabulary: [
       "targeting",
@@ -2953,11 +2953,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To tackle this issue, governments should invest massively in clean public transport while restricting private car use. London's Ultra Low Emission Zone, which charges the dirtiest vehicles, cut roadside nitrogen dioxide by almost half within four years, and Shenzhen has electrified its entire fleet of 16,000 buses. Moreover, stricter industrial regulation can help by forcing factories to install scrubbers and by accelerating the shift from coal to renewables, as China's cap-and-trade programme and plant closures demonstrate. Congestion pricing, cycling infrastructure and green building standards reinforce these gains.",
       conclusion: "In conclusion, although air pollution results from vehicle emissions and coal-based industry, a combination of clean public transport and enforced industrial standards can substantially improve urban air quality. The experience of London, Shenzhen and Beijing shows that determined policy produces measurable results within years rather than decades."
     },
-    fullParagraphsCN: {
-      introduction: "空气污染已成为最紧迫的城市挑战之一。世界卫生组织估计，室外空气污染每年导致超过四百万人过早死亡；在德里这样的城市，冬季雾霾经常使颗粒物浓度达到安全上限的二十倍。本文将审视其主要原因，即机动车排放和煤炭工业，并提出包括清洁公共交通和更严格工业监管在内的对策。",
-      body1: "该问题主要源于以化石燃料为动力的私家车的爆炸式增长。例如，北京的机动车保有量从2000年的不足两百万辆增长到今天的六百多万辆，在无风天气里，交通尾气约占全市PM2.5的三分之一。此外，燃煤电厂和重工业也有重要贡献：在中国北方和印度工业带，冬季供暖和工厂生产释放的二氧化硫和细颗粒物会跨区域漂移，这意味着即使是本地政策清洁的城市也会遭受输入性雾霾。",
+        fullParagraphsCN: {
+      introduction: "空气污染已成为最紧迫的城市挑战之一。世界卫生组织估计，室外空气污染每年导致超过400万人过早死亡，而在德里等城市，冬季雾霾经常使颗粒物水平达到安全限值的二十倍。本文将考察其主要原因，即机动车排放和以煤炭为基础的工业，并提出包括清洁公共交通和更严格工业监管在内的解决方案。",
+      body1: "这一问题主要源于以化石燃料为动力的私家车的爆炸式增长。例如，北京的汽车保有量从2000年的不到200万辆增长到如今的600多万辆，在无风天，交通尾气约占该市PM2.5的三分之一。此外，燃煤电厂和重工业贡献显著：在中国北方和印度的工业带，冬季取暖和工厂排放释放出二氧化硫和细颗粒物，飘散到整个地区，这意味着即使是当地政策清洁的城市也遭受输入性雾霾。",
       body2: "为解决这一问题，政府应当大力投资清洁公共交通，同时限制私家车使用。伦敦的超低排放区对污染最严重的车辆收费，四年内使路边二氧化氮减少了近一半；深圳已将其全部1.6万辆公交车电动化。此外，更严格的工业监管也能发挥作用，例如强制工厂安装脱硫设备，并加速从煤炭向可再生能源转型，中国的碳交易试点和关停高污染工厂就是证明。拥堵收费、自行车基础设施和绿色建筑标准则能巩固这些成效。",
-      conclusion: "总之，尽管空气污染源于机动车排放和煤炭工业，但通过清洁公共交通与严格工业标准的组合可以显著改善城市空气质量。伦敦、深圳和北京的经验表明，坚定的政策能在数年而非数十年内产生可量化的成果。"
+      conclusion: "总之，虽然空气污染源于机动车排放和以煤炭为基础的工业，但清洁公共交通与强制执行的工业标准相结合，可以大幅改善城市空气质量。伦敦、深圳和北京的经验表明，坚定的政策能在数年内而非数十年内产生可衡量的成果。"
     },
     vocabulary: [
       "particulate matter",
@@ -2995,11 +2995,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Several measures can alleviate congestion. The most effective is charging drivers for scarce road space: Singapore's Electronic Road Pricing has kept traffic flowing since 1975, and London's congestion charge reduced vehicles entering the centre by around a third. Another useful approach is investing in attractive alternatives — metros, bus rapid transit and protected cycle lanes — which works by giving commuters a genuinely faster option; Bogotá's TransMilenio buses move more passengers per hour than a twelve-lane motorway. Flexible working hours and remote work policies also spread peak demand.",
       conclusion: "In conclusion, congestion arises from car-dependent design and free road access, but cities that adopt pricing and serious public transport investment have shown that gridlock is not inevitable. The lesson from Singapore, London and Bogotá is that managing demand works better than endlessly building supply."
     },
-    fullParagraphsCN: {
-      introduction: "交通拥堵在全球城市浪费了数十亿小时。根据INRIX全球交通记分卡，伊斯坦布尔和墨西哥城的司机每年在拥堵中损失超过100小时，这些时间本可用于工作或陪伴家人。本文将找出其根本原因，包括依赖汽车的城市设计和道路使用定价过低，并提出拥堵收费和公共交通投资等补救措施。",
-      body1: "第一个主要原因是迫使人们开车的城市规划。例如，许多中国和美国城市围绕宽阔的干道和单一用途分区建成或改建，住宅、办公室和商店相距遥远，每次出行都需要汽车；随着收入增长，汽车保有量爆炸式地填满这种设计。其次，道路在使用环节实际上是免费的，这鼓励了过度使用。每个司机只考虑自己的时间，忽视了强加给其他所有人的延误——经济学家称之为未定价的外部性，这也解释了为何新车道几个月内就会再次被填满，即「诱导需求」现象。",
-      body2: "一些措施可以缓解拥堵。最有效的是对稀缺的道路空间收费：新加坡的电子道路收费系统自1975年以来保持了交通畅通，伦敦的拥堵费使进入市中心的车辆减少了约三分之一。另一个有用的方法是投资有吸引力的替代方式——地铁、快速公交和受保护的自行车道——通过为通勤者提供真正更快的选择来实现；波哥大的TransMilenio公交每小时运送的乘客超过一条十二车道高速公路。弹性工作制和远程办公政策也能削平高峰需求。",
-      conclusion: "总之，拥堵源于依赖汽车的设计和免费的道路使用，但采取定价和认真投资公共交通的城市已经证明，交通瘫痪并非不可避免。新加坡、伦敦和波哥大的经验是，管理需求比无休止地扩大供给更有效。"
+        fullParagraphsCN: {
+      introduction: "交通拥堵浪费了全球城市数十亿小时。根据INRIX全球交通记分卡，伊斯坦布尔和墨西哥城的司机每年在交通中损失超过100小时，这些时间本可用于工作或陪伴家人。本文将确定其根本原因，包括依赖汽车的城市设计和道路使用定价过低，并提出拥堵收费和公共交通投资等补救措施。",
+      body1: "第一个主要原因是迫使人们开车的城市规划。例如，许多中国和美国城市围绕宽阔的主干道和单一用途分区建设或重建，因此住宅、办公和商业场所相距甚远，每一次出行都需要汽车；随着收入增长，汽车保有量激增以填补这一设计。其次，道路在使用时实际上是免费的，这鼓励了过度使用。每个司机只考虑自己的时间，忽略了他们给其他人造成的延误——经济学家称之为未定价的外部性，这解释了为什么新车道在几个月内就会挤满，这种现象被称为「诱导需求」。",
+      body2: "几项措施可以缓解拥堵。最有效的是向司机收取稀缺的道路空间费用：新加坡的电子道路收费自1975年以来一直保持交通畅通，伦敦的拥堵收费使进入市中心的车辆减少了约三分之一。另一个有用的方法是投资有吸引力的替代方案——地铁、快速公交和受保护的自行车道——通过为通勤者提供真正更快的选择来发挥作用；波哥大的TransMilenio公交车每小时运送的乘客比十二车道高速公路还多。弹性工作时间和远程办公政策也能分散高峰需求。",
+      conclusion: "总之，拥堵源于依赖汽车的设计和免费的道路使用，但采用定价和认真的公共交通投资的城市已经证明，交通瘫痪并非不可避免。新加坡、伦敦和波哥大的教训是，管理需求比无休止地建设供给更有效。"
     },
     vocabulary: [
       "gridlock",
@@ -3037,11 +3037,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Schools and families can address this by embedding mental health support into daily school life. Finland trains teachers to spot distress early and provides free access to school psychologists, which helps because problems are treated before they become crises; mindfulness programmes and reasonable homework limits show similar benefits. In addition, governments should regulate the digital environment — age verification, restrictions on addictive design features and phone-free school hours, as France has implemented for pupils under fifteen — would reduce pressure by cutting exposure to comparison and harassment. Parents modelling healthy device habits matters just as much.",
       conclusion: "In conclusion, youth stress is driven by academic pressure and the comparison economy of social media, but through school-based mental health care and sensible digital regulation we can protect the mental health of the next generation. Treating stress as a systemic issue rather than individual weakness is the essential first step."
     },
-    fullParagraphsCN: {
-      introduction: "年轻人的压力已达到令人担忧的水平。美国心理学会的调查一直显示青少年报告的压力水平高于成年人，发达国家青少年自残的住院人数也急剧上升。本文将探讨其关键驱动因素，即学业竞争和社交媒体攀比，并提出学校心理咨询改革和限制数字接触等对策。",
-      body1: "一个主要原因是无休止的学业竞争。例如，韩国学生通常在名为「学院」的补习班学习到午夜以后，全国青少年自杀率在大学入学考试前后激增；即使在竞争不那么极端的体系里，学生也内化了「一次考试决定整个未来」的观念。另一个重要因素是社交媒体，因为Instagram等平台不断推送经过修饰的完美形象，青少年拿自己的平凡生活与之比较。发表在《柳叶刀》上的研究将青春期早期的重度社交媒体使用与后来的抑郁联系起来，女孩尤其如此；而网络欺凌意味着人们再也无法逃离同伴的评判，哪怕在午夜家中。",
-      body2: "学校和家庭可以通过把心理健康支持嵌入日常校园生活来应对。芬兰培训教师及早发现心理困扰，并提供免费的学校心理学家服务，之所以有帮助，是因为问题在演变成危机之前就得到处理；正念课程和合理的作业量上限也显示出类似的益处。此外，政府应当监管数字环境——年龄验证、限制成瘾性设计功能、以及像法国对15岁以下学生实施的无手机校园时段——能通过减少攀比和骚扰接触来减轻压力。父母以身作则养成健康的设备使用习惯同样重要。",
-      conclusion: "总之，青少年压力由学业压力和社交媒体的攀比经济驱动，但通过校本心理健康服务和合理的数字监管，我们可以保护下一代的心理健康。把压力当作系统性问题而非个人软弱，是必不可少的第一个认知。"
+        fullParagraphsCN: {
+      introduction: "年轻人的压力已达到令人警惕的程度。美国心理学会的调查持续显示，青少年报告的压力水平高于成年人，而在发达国家，青少年因自残入院的人数急剧上升。本文将探讨主要驱动因素，即学业竞争和社交媒体比较，并提出学校心理咨询改革和限制数字接触等解决方案。",
+      body1: "一个主要原因是无情的学业竞争。例如，在韩国，学生通常在名为「学院」（hagwon）的私立学校学习到午夜以后，而青少年自杀率在大学入学考试前后飙升；即使在不那么极端的体系中，学生也内化了这样的信息：一场考试决定了他们的整个未来。另一个重要因素是社交媒体，因为Instagram等平台不断展示经过编辑的完美，青少年以此衡量自己平凡的生活。《柳叶刀》上发表的研究把青春期早期重度使用社交媒体与日后的抑郁症联系起来，尤其是在女孩中；而网络欺凌意味着，即使在午夜的家里，也无法逃离同龄人的评判。",
+      body2: "学校和家庭可以通过把心理健康支持嵌入日常校园生活来应对。芬兰培训教师及早发现心理困扰，并提供免费的学校心理学家服务，之所以有帮助是因为问题在演变成危机之前就得到处理；正念课程和合理的作业量上限也显示出类似的益处。此外，政府应当监管数字环境——年龄验证、对成瘾性设计功能的限制，以及法国已对15岁以下学生实施的校内无手机时间——将通过减少接触比较和骚扰来降低压力。家长以身作则，养成健康的设备使用习惯同样重要。",
+      conclusion: "总之，青少年压力由学业压力和社交媒体的比较经济驱动，但通过基于学校的心理健康护理和合理的数字监管，我们可以保护下一代的心理健康。把压力当作系统性问题而非个人弱点来对待，是至关重要的第一步。"
     },
     vocabulary: [
       "academic competition",
@@ -3079,11 +3079,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To restore water quality, authorities must enforce mandatory treatment standards with real penalties. The European Union's Water Framework Directive, which requires member states to bring rivers to good ecological status, has visibly cleaned formerly dead rivers like the Rhine, proving that regulation works when monitoring is transparent and fines exceed the cost of compliance. Equally important, precision agriculture addresses the problem by cutting chemical use at the source: drip irrigation and sensor-guided fertiliser application, widespread in Israel, deliver nutrients only where crops need them, reducing runoff by a third or more. Constructed wetlands offer a low-cost final filter for rural communities.",
       conclusion: "In conclusion, water pollution caused by industrial discharge and farm runoff can be reversed through enforced treatment standards and smarter agriculture, provided governments act decisively. The Rhine's recovery shows that even severely degraded rivers can return to life within a generation when polluters pay and farmers are given better tools."
     },
-    fullParagraphsCN: {
-      introduction: "清洁水源在许多地区正变得稀缺。联合国报告，超过二十亿人生活在水资源高度紧张的国家，受污染的水每年造成的死亡超过所有形式的暴力总和。本文将分析水污染的主要来源，特别是工业排放和农业径流，并提出包括强制执行处理标准和精准农业在内的措施。",
-      body1: "最重要的原因是未经处理的工业废水。例如，孟加拉国达卡周边的制衣区把染料和重金属直接排入河流，下游社区却用这些水饮用和灌溉；恒河的某些河段粪便污染超出安全上限数千倍，尽管治理计划已实施数十年。此外，农业也破坏水资源，因为化肥和农药从田地冲入水道：来自美国中西部的硝酸盐径流每年夏天在墨西哥湾制造出一个面积相当于新泽西州的「死亡区」，鱼类无法生存。塑料垃圾和在暴雨中溢流的老旧污水系统进一步加剧了污染。",
-      body2: "要恢复水质，当局必须执行有真正惩罚力的强制处理标准。欧盟《水框架指令》要求成员国将河流恢复至良好生态状态，已让莱茵河这样曾经「死亡」的河流明显变清，证明只要监测透明、罚款超过合规成本，监管就能奏效。同样重要的是，精准农业从源头减少化学品使用：在以色列广泛应用的滴灌和传感器制导施肥只在作物需要的地方输送养分，使径流减少三分之一甚至更多。人工湿地则为农村社区提供了低成本的末端过滤。",
-      conclusion: "总之，由工业排放和农业径流造成的水污染可以通过强制执行处理标准和更聪明的农业得到扭转，前提是政府果断行动。莱茵河的复苏表明，当污染者付出代价、农民获得更好的工具时，即使严重退化的河流也能在一代人的时间里恢复生机。"
+        fullParagraphsCN: {
+      introduction: "清洁水在许多地区正变得稀缺。联合国报告称，超过20亿人生活在水资源紧张程度较高的国家，而受污染的水每年造成的死亡人数超过所有形式暴力的总和。本文将分析水污染的主要来源，特别是工业排放和农业径流，并建议包括强制处理标准和精准农业在内的措施。",
+      body1: "最重要的原因是未经处理的工业废水。例如，孟加拉国达卡周边的服装区把染料和重金属直接排入河流，而下游社区把这些河水用于饮用和灌溉；恒河的部分河段，尽管有数十年的清理计划，粪便污染仍是安全限值的数千倍。此外，农业损害了水供应，因为化肥和农药从田地冲入水道：美国中西部的硝酸盐径流每年夏天在墨西哥湾制造一个新泽西州大小的死区，那里鱼类无法生存。塑料垃圾和老化的污水系统在暴风雨时溢出，加剧了污染。",
+      body2: "要恢复水质，当局必须以真正的处罚执行强制处理标准。欧盟《水框架指令》要求成员国把河流恢复到良好的生态状态，已经明显清洁了莱茵河等曾经死亡的河流，证明当监测透明且罚款超过合规成本时，监管是有效的。同样重要的是，精准农业从源头上减少化学品使用来解决问题：滴灌和传感器引导的施肥在以色列广泛应用，只在作物需要的地方输送养分，将径流减少了三分之一以上。人工湿地为农村社区提供了低成本的最终过滤。",
+      conclusion: "总之，由工业排放和农田径流造成的水污染，可以通过强制执行的处理标准和更智能的农业来扭转，前提是政府果断行动。莱茵河的复苏表明，当污染者付费、农民获得更好的工具时，即使是严重退化的河流也能在一代人之内恢复生机。"
     },
     vocabulary: [
       "effluent",
@@ -3121,11 +3121,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Combating deforestation requires pressure through global supply chains. When the major soy traders signed the Amazon Soy Moratorium in 2006, refusing to buy from newly cleared land, deforestation linked to soy collapsed within two years — this works because it removes the profit from destruction, and similar zero-deforestation commitments now cover much of the beef and palm oil trade. Additionally, legally enforced protection helps by making standing forest more valuable than cleared land: Brazil cut Amazon deforestation by over 80 percent between 2004 and 2012 through satellite monitoring, fines and protected indigenous territories, while payment-for-ecosystem programmes in Costa Rica reversed deforestation entirely.",
       conclusion: "In conclusion, although forests fall to agricultural expansion and lawlessness, a strategy combining supply-chain pressure with enforced protection can halt and eventually reverse the destruction. Brazil's earlier success proves the tools exist; what is required is the political will to apply them consistently."
     },
-    fullParagraphsCN: {
-      introduction: "森林正以毁灭性的速度消失。地球每年失去约一千万公顷森林——相当于韩国的国土面积——而亚马逊已经失去了约五分之一的原始覆盖，正逼近一个临界点，越过之后雨林可能退化为草原。本文将审视其主要驱动因素，即商业农业和土地治理薄弱，并提出供应链压力和依法保护等对策。",
-      body1: "森林砍伐的主要驱动因素是商业农业的扩张。例如，养牛业和大豆种植占亚马逊砍伐的绝大部分；在印度尼西亚，古老的泥炭林被烧毁以为棕榈油种植园让路，既释放碳排放，又制造出几乎每年都笼罩东南亚的烟霾。另一个原因是土地治理薄弱，让非法伐木者和土地掠夺者逍遥法外：在边境地区，道路被开辟进原始森林深处，地契被伪造，执法机构资金不足或腐败。贫困也起了作用，因为当没有其他生计时，小农户只能靠开荒求生。",
-      body2: "打击森林砍伐需要通过全球供应链施压。2006年主要大豆贸易商签署《亚马逊大豆停购协议》，拒绝购买新开垦土地上的大豆后，与大豆相关的毁林在两年内崩溃——之所以有效，是因为它消除了破坏的利润；类似的零毁林承诺现已覆盖大部分牛肉和棕榈油贸易。此外，依法保护通过让留存的森林比被开垦的土地更有价值来实现：2004至2012年间，巴西通过卫星监测、罚款和受保护的原住民领地将亚马逊砍伐率降低了80%以上，而哥斯达黎加的生态系统服务付费项目则彻底扭转了森林砍伐。",
-      conclusion: "总之，尽管森林毁于农业扩张和法治缺失，但结合供应链压力与依法保护的战略可以阻止并最终扭转破坏。巴西此前的成功证明工具已经存在，需要的是持之以恒运用它们的政治意愿。"
+        fullParagraphsCN: {
+      introduction: "森林正以毁灭性的速度消失。地球每年损失约1000万公顷森林——相当于韩国的面积——而亚马逊已经丧失了约五分之一的原始覆盖，正逼近一个可能干涸成稀树草原的临界点。本文将考察主要驱动因素，即商业农业和薄弱的土地治理，并提出供应链压力和法律强制保护等解决方案。",
+      body1: "森林砍伐的主要驱动因素是商业农业的扩张。例如，养牛业和大豆种植占了亚马逊清理的绝大部分，而在印度尼西亚，古老的泥炭森林被烧毁，为油棕种植园让路，释放出碳和每年都让东南亚窒息的烟雾。另一个原因是薄弱的土地治理，这让非法伐木者和土地掠夺者逍遥法外：在边境地区，道路被深入原始森林，产权被伪造，执法机构资金不足或腐败。贫困也起了作用，因为小农户在没有其他生计的情况下清理地块以求生存。",
+      body2: "打击森林砍伐需要通过全球供应链施压。2006年主要大豆贸易商签署《亚马逊大豆停购协议》，拒绝购买新开垦土地上的大豆后，与大豆相关的毁林在两年内大幅下降——之所以有效是因为它消除了破坏的利润；类似的零毁林承诺现已覆盖大部分牛肉和棕榈油贸易。此外，法律强制保护通过让留存的森林比被开垦的土地更有价值来实现保护：2004至2012年间，巴西通过卫星监测、罚款和受保护的原住民领地将亚马逊砍伐率降低了80%以上，而哥斯达黎加的生态系统服务付费项目则彻底扭转了森林砍伐。",
+      conclusion: "总之，虽然森林因农业扩张和无法无天而倒下，但把供应链压力与强制保护相结合的战略可以阻止并最终逆转破坏。巴西早前的成功证明工具已经存在；所需要的是持续应用它们的政治意愿。"
     },
     vocabulary: [
       "deforestation",
@@ -3163,11 +3163,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Governments can reduce unemployment by investing in active labour market programmes rather than passive benefits. Denmark's flexicurity model combines easy hiring and firing with generous support and compulsory, high-quality retraining, keeping unemployment low because workers move quickly between jobs instead of being trapped in dying industries; Singapore's SkillsFuture credits similarly fund mid-career retraining for every adult. Furthermore, public investment addresses joblessness directly: infrastructure projects, green energy retrofits and care-sector expansion create jobs that cannot be offshored, and Germany's short-time work scheme, which subsidises reduced hours instead of layoffs during downturns, preserved millions of jobs through the 2008 and 2020 crises.",
       conclusion: "In conclusion, while unemployment stems from automation and economic restructuring, targeted policies such as active retraining and strategic public investment can bring joblessness down to manageable levels. The countries that succeed treat unemployed workers as assets to be redeployed rather than costs to be minimised."
     },
-    fullParagraphsCN: {
-      introduction: "失业损害个人和社会。除了收入损失，失业与抑郁、家庭破裂甚至预期寿命缩短密切相关，而长期失业的地区往往陷入持久衰退。本文将讨论其主要原因，包括自动化和经济结构调整，并提出积极再培训和公共投资刺激等补救措施。",
-      body1: "失业的一个根本原因是技术性替代。例如，自动收银、机器人仓库以及如今的AI软件已经消灭了数以百万计曾经雇用低技能劳动者的常规岗位；仅美国卡车运输业就雇有三百万司机，其工作最终面临自动化。另一个促成因素是经济结构调整，因为全球化把制造业从高工资国家转移到低工资国家——当小镇上唯一一家工厂关闭时，周边的商店和服务也随之崩溃，形成集中的长期失业区，英格兰北部和美国中西部铁锈带就是如此。经济衰退又会在这些结构性伤口上叠加周期性失业。",
-      body2: "政府可以通过投资积极的劳动力市场项目而非消极的救济来降低失业率。丹麦的「灵活保障」模式把宽松的雇用解雇制度与慷慨的支持和强制的高质量再培训结合起来，使失业率保持低位，因为工人在岗位之间快速流动，而不是被困在衰亡的行业；新加坡的「技能创前程」补贴同样为每位成年人的职业中期再培训提供资金。此外，公共投资直接创造就业：基础设施项目、绿色能源改造和护理行业扩张创造的岗位无法外包；德国的短时工作制在经济下行期补贴缩减工时而非裁员，在2008年和2020年危机中保住了数百万个岗位。",
-      conclusion: "总之，尽管失业源于自动化和经济结构调整，但积极再培训和战略性公共投资等针对性政策可以把失业率降到可控水平。成功的国家把失业工人视为需要重新部署的资产，而非需要削减的成本。"
+        fullParagraphsCN: {
+      introduction: "失业既损害个人，也损害社会。除了收入损失，失业还与抑郁症、家庭破裂甚至预期寿命缩短密切相关，而长期失业的地区往往陷入持久的衰退。本文将讨论其主要原因，包括自动化和经济结构调整，并提出积极再培训和通过公共投资刺激等补救措施。",
+      body1: "失业的一个根本原因是技术替代。例如，自动结账、机器人仓库，以及如今人工智能驱动的软件，已经消灭了数百万曾经雇用具备基本资格人员的常规岗位；仅美国卡车运输业就雇用了300万名司机，而他们的工作最终面临自动化。另一个原因是经济结构调整，因为全球化把制造业从高工资国家转移到了低工资国家——当一个小镇的一家工厂关闭时，周围的商店和服务也会崩溃，在英格兰北部或美国中西部等地造成集中的长期失业区域。随后，经济衰退又在这些结构性创伤之上叠加了周期性失业。",
+      body2: "政府可以通过投资于积极的劳动力市场计划而非被动的福利来减少失业。丹麦的「弹性保障」（flexicurity）模式把容易的雇佣和解雇与慷慨的支持和强制的高质量再培训结合起来，保持了低失业率，因为工人能在不同工作之间快速流动，而非被困在垂死的行业中；新加坡的「技能未来」（SkillsFuture）积分同样为每个成年人资助职业中期再培训。此外，公共投资直接解决失业问题：基础设施项目、绿色能源改造和护理部门扩展创造了无法外包的工作岗位，而德国的短时工作计划——在经济低迷期间补贴减少的工时而非裁员——在2008年和2020年的危机中保住了数百万个工作岗位。",
+      conclusion: "总之，虽然失业源于自动化和经济结构调整，但积极再培训和战略性公共投资等有针对性的政策可以把失业率降到可控水平。成功的国家把失业工人当作需要重新部署的资产，而非需要最小化的成本。"
     },
     vocabulary: [
       "technological displacement",
@@ -3205,11 +3205,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Effective solutions include direct cash transfers. Evidence from Brazil's Bolsa Família and Mexico's Progresa shows that giving poor families small regular payments, conditional on school attendance and vaccinations, cuts poverty while improving children's nutrition and education at remarkably low cost; randomised trials of unconditional transfers in Kenya found similar gains with no reduction in work effort. Another powerful measure is investing in basic health and education, which works by raising the productivity of the next generation: deworming programmes in East Africa, costing pennies per child, increased adult earnings substantially, and China's mass literacy and rural health campaigns laid the groundwork for the fastest poverty reduction in history.",
       conclusion: "In conclusion, poverty persists because of self-reinforcing scarcity and institutional failure, but experience proves that cash transfers and human-capital investment can break the cycle. The task is not discovering what works — it is delivering it honestly, at scale."
     },
-    fullParagraphsCN: {
-      introduction: "尽管全球繁荣，贫困仍然普遍存在。近七亿人仍生活在每天不足两美元的极端贫困中，还有数十亿人无法稳定获得食物、医疗和教育。本文将探究其根本原因，特别是资本与机会缺失造成的贫困陷阱以及制度薄弱，并提出直接现金支持和投资教育健康等对策。",
-      body1: "贫困最深的原因是贫困陷阱本身：没有储蓄、信贷或土地，穷人无法投资那些恰恰能提高收入的东西。例如，买不起化肥的农民收成太少而无法储蓄，让孩子辍学打工的家庭牺牲了孩子未来的收入——贫困自我复制。贫困还因制度薄弱而延续，因为腐败官员、不安全的产权和冲突摧毁了经济生活的基础：南苏丹和刚果民主共和国拥有巨大的自然财富，但数十年的治理不善和战争使其人口成为地球上最贫困的群体之一；进入这类体系的援助往往在到达穷人手中之前就被截留。",
-      body2: "有效的解决方案包括直接现金转移支付。巴西「家庭补助金」和墨西哥「进步计划」的证据表明，以入学和接种疫苗为条件向贫困家庭提供小额定期付款，能以极低成本削减贫困，同时改善儿童的营养和教育；在肯尼亚对无条件转移支付的随机试验也发现了类似的收益，且工作意愿并未下降。另一个有力措施是投资基础医疗和教育，其作用机制是提高下一代的生产力：东非的驱虫项目每个儿童仅花费几美分，却显著提高了成年后的收入；中国的扫盲运动和农村医疗运动为人类历史上最快的减贫奠定了基础。",
-      conclusion: "总之，贫困因自我强化的稀缺和制度失灵而持续存在，但经验证明现金转移支付和人力资本投资可以打破这一循环。任务不在于发现什么有效——而在于诚实、大规模地将其落实。"
+        fullParagraphsCN: {
+      introduction: "尽管全球繁荣，贫困仍然普遍存在。近7亿人仍然生活在每天不足两美元的极端贫困中，还有数十亿人缺乏获得食物、医疗和教育的可靠途径。本文将探究其根本原因，特别是缺少资本和机会的贫困陷阱，以及薄弱的制度，并提出包括直接现金支持和投资教育与健康在内的解决方案。",
+      body1: "贫困最深层的原因是贫困陷阱本身：没有储蓄、信贷或土地，穷人无法投资于那些能提高他们收入的东西。例如，一个买不起化肥的农民收成太少，无法储蓄；而一个让孩子辍学打工的家庭牺牲了他们未来的收入——贫困自我复制。贫困还因薄弱的制度而延续，因为腐败的官员、不安全的产权和冲突摧毁了经济生活的基础：南苏丹和刚果民主共和国拥有巨大的自然财富，然而数十年的暴政和战争使它们的人民成为地球上最贫困的，而到达这类体系的援助在到达穷人之前往往被挪用。",
+      body2: "有效的解决方案包括直接现金转移支付。巴西「家庭补助金」（Bolsa Família）和墨西哥「进步计划」（Progresa）的证据表明，以入学和接种疫苗为条件，向贫困家庭提供小额定期付款，能以极低的成本削减贫困，同时改善儿童的营养和教育；在肯尼亚对无条件转移支付的随机试验也发现了类似的收益，且工作意愿并未下降。另一个有力措施是投资基本医疗和教育，其作用是提高下一代的生产力：东非的驱虫项目每个儿童仅花费几美分，却显著提高了成年后的收入；中国的扫盲运动和农村医疗保健运动则为人类历史上最快的减贫奠定了基础。",
+      conclusion: "总之，贫困因自我强化的稀缺和制度失灵而持续存在，但经验证明，现金转移支付和人力资本投资可以打破这个循环。任务不在于发现什么有效，而在于诚实、规模化地交付它。"
     },
     vocabulary: [
       "poverty trap",
@@ -3247,11 +3247,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To manage waste sustainably, governments should make producers responsible for the entire life of their products. Extended Producer Responsibility laws in Germany and South Korea, which oblige manufacturers to fund collection and recycling, have pushed recycling rates above 50 percent — Germany now recycles around two-thirds of its municipal waste, the highest rate in the world. Another essential step is investing in proper infrastructure, which means safe sanitary landfills, separate collection of organic waste for composting, and deposit-return schemes that achieve over 90 percent bottle recovery in countries like Norway. Landfill taxes and plastic bag charges, as introduced across the UK, reinforce the shift by making wasteful behaviour expensive.",
       conclusion: "In conclusion, the waste crisis driven by disposable culture and underpriced dumping can be overcome through producer responsibility and serious recycling infrastructure, turning a linear economy into a circular one. The countries that lead on this issue show that high living standards need not mean high waste."
     },
-    fullParagraphsCN: {
-      introduction: "现代社会产生的垃圾已超过其处理能力。世界银行预测，全球城市垃圾将从今天的二十亿吨增长到2050年的三十四亿吨，每年估计有八百万吨塑料进入海洋。本文将找出其原因，最重要的是一次性消费文化和倾倒成本过低，并提出生产者责任法和回收基础设施投资等对策。",
-      body1: "垃圾增长主要因为建立在廉价材料之上的一次性经济。例如，Shein等快时尚零售商每天发布数千款低价新品，一件衣服的平均穿着次数如今只有寥寥几次就被丢弃；包装也讲述着同样的故事——约40%的塑料只使用一次就被扔掉。问题还因倾倒被人为压低成本而加剧，因为填埋费和塑料价格不包含环境成本，制造商没有经济动机为耐用性或可回收性而设计。发展中国家承受双重痛苦，接收从富裕国家出口而来、自己却没有设施安全处理的垃圾。",
-      body2: "要可持续地管理垃圾，政府应当让生产者对产品的整个生命周期负责。德国和韩国的《生产者责任延伸法》要求制造商出资回收，已将回收率推高至50%以上——德国目前的城市垃圾回收率约三分之二，居世界首位。另一个必要步骤是投资恰当的基础设施，即安全的卫生填埋场、有机垃圾分类堆肥，以及押金返还制度——挪威等国通过押金制实现了超过90%的瓶子回收率。英国推行的填埋税和塑料袋收费则通过让浪费行为变得昂贵来巩固这一转变。",
-      conclusion: "总之，由一次性文化和低成本倾倒驱动的垃圾危机可以通过生产者责任和认真的回收基础设施建设来克服，把线性经济转变为循环经济。在这一领域领先的国家证明，高生活水平并不意味着高垃圾量。"
+        fullParagraphsCN: {
+      introduction: "现代社会产生的垃圾超出了其处理能力。世界银行预测，全球城市垃圾将从如今的20亿吨增长到2050年的34亿吨，而据估计每年有800万吨塑料进入海洋。本文将确定原因，首先是一次性消费文化和倾倒成本低廉，并建议包括生产者责任法和回收基础设施投资在内的解决方案。",
+      body1: "垃圾的增长主要是因为建立在廉价材料之上的一次性经济。例如，Shein等快时尚零售商每天推出数千种新的低价商品，而普通服装现在只穿几次就被丢弃；包装讲述了同样的故事，大约40%的塑料只用一次就被扔掉。问题因倾倒人为地廉价而加剧，因为垃圾填埋费和塑料价格排除了环境成本，所以制造商没有设计耐用或可回收产品的经济理由。发展中国家遭受双重打击，接收了从富裕国家出口的、它们缺乏安全处理设施的垃圾。",
+      body2: "为了可持续地管理垃圾，政府应当让生产者对其产品的整个生命周期负责。德国和韩国的「延伸生产者责任」法律要求制造商资助收集和回收，已把回收率推高到50%以上——德国如今回收了约三分之二的城市垃圾，是世界上最高的比例。另一个必要步骤是投资适当的基础设施，这意味着安全的卫生填埋场、单独收集有机垃圾进行堆肥，以及像挪威这样实现超过90%瓶子回收率的押金返还计划。英国各地推行的垃圾填埋税和塑料袋收费，通过使浪费行为变得昂贵，巩固了这一转变。",
+      conclusion: "总之，由一次性文化和定价过低的倾倒驱动的垃圾危机，可以通过生产者责任和认真的回收基础设施来克服，把线性经济转变为循环经济。在这个问题上领先的国家表明，高生活水平不必意味着高垃圾量。"
     },
     vocabulary: [
       "throwaway economy",
@@ -3289,11 +3289,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To fight cybercrime, authorities should strengthen international cooperation so that no jurisdiction offers safe harbour. The Budapest Convention on Cybercrime already enables cross-border evidence sharing among dozens of countries, and joint operations by Europol and the FBI have dismantled major ransomware networks and dark-web markets — this works because it raises the risk that makes crime profitable. At the same time, mandatory security standards reduce vulnerability at the source: requiring multi-factor authentication, timely patching and staff training, as regulations like the EU's NIS2 directive now demand of essential services, has been shown to block the great majority of opportunistic attacks.",
       conclusion: "In conclusion, cybercrime flourishes because of high rewards, low risks and weak defences, but a combination of international enforcement and compulsory security hygiene can make the digital world substantially safer. Since attackers exploit the weakest link, defence must be universal rather than optional."
     },
-    fullParagraphsCN: {
-      introduction: "网络犯罪如今每年给全球经济造成数万亿美元的损失。网络安全公司的估计显示，年度损失超过八万亿美元——超过除美国和中国以外每个国家的GDP——涵盖勒索软件、诈骗和数据盗窃。本文将分析其增长原因，聚焦低风险网络攻击的高收益和数字防御的薄弱，并提出国际法律合作和更好的安全习惯等对策。",
-      body1: "网络犯罪扩张主要因为它以极小风险提供巨额回报。例如，2021年针对科洛尼尔管道公司的勒索软件攻击切断了美国东海岸的燃料供应，一次行动就为犯罪分子赚取数百万美元，然而从没有引渡协议的司法辖区发起的攻击很少导致逮捕；东南亚的工业化诈骗园区以几乎完全不受惩罚的方式运营着「杀猪盘」和投资诈骗。第二个驱动因素是糟糕的安全实践，因为受害者让攻击变得容易：2017年的WannaCry蠕虫利用一个补丁已发布数月的漏洞，感染了全球数十万台电脑，包括英国国民医疗服务体系的部分机构。弱密码、未打补丁的软件和未经培训的员工仍是常态。",
-      body2: "要打击网络犯罪，当局应当加强国际合作，使任何司法辖区都无法提供避风港。《布达佩斯网络犯罪公约》已使数十个国家能够跨境共享证据，欧洲刑警组织与FBI的联合行动已捣毁多个主要勒索软件网络和暗网市场——之所以有效，是因为它提高了犯罪的风险，从而侵蚀其利润。同时，强制性安全标准从源头降低脆弱性：要求多因素认证、及时打补丁和员工培训——正如欧盟NIS2指令如今对关键服务机构的要求——已被证明能阻挡绝大多数机会主义攻击。",
-      conclusion: "总之，网络犯罪因高回报、低风险和防御薄弱而猖獗，但国际执法与强制安全规范的组合可以让数字世界变得安全得多。由于攻击者专挑最薄弱的环节，防御必须普及而非可有可无。"
+        fullParagraphsCN: {
+      introduction: "网络犯罪如今给全球经济造成数万亿美元的损失。网络安全公司估计年损失超过8万亿美元——超过了除美国和中国以外任何国家的国内生产总值——涵盖勒索软件、欺诈和数据盗窃。本文将分析其增长的原因，重点关注低风险在线攻击的盈利能力和数字防御的薄弱，并提出包括国际法律合作和更好的安全习惯在内的对策。",
+      body1: "网络犯罪扩张的主要原因是它以极小的风险提供了巨大回报。例如，2021年对殖民管道（Colonial Pipeline）的勒索软件攻击切断了美国东海岸的燃料供应，一次行动就让犯罪分子赚了数百万美元，而从没有引渡协议的司法管辖区发起的攻击很少导致逮捕；东南亚的工业级诈骗园区以几乎完全不受惩罚的方式运营着爱情和投资诈骗。第二个驱动因素是糟糕的安全实践，因为受害者使攻击变得容易：2017年的「想哭」（WannaCry）蠕虫病毒感染了全球数十万台计算机，包括英国国家医疗服务体系的部分机构，利用的是一个数月前就已有补丁的漏洞。弱密码、未打补丁的软件和未经培训的员工仍然是常态。",
+      body2: "要打击网络犯罪，当局应当加强国际合作，使任何司法辖区都无法提供避风港。《布达佩斯网络犯罪公约》已使数十个国家能够跨境共享证据，欧洲刑警组织与FBI的联合行动已捣毁多个主要勒索软件网络和暗网市场——之所以有效是因为它提高了使犯罪有利可图的风险。同时，强制性安全标准从源头降低脆弱性：要求多因素认证、及时打补丁和员工培训——正如欧盟NIS2指令如今对关键服务机构的要求——已被证明能阻挡绝大多数机会主义攻击。",
+      conclusion: "总之，网络犯罪因高回报、低风险和薄弱的防御而猖獗，但国际执法和强制安全习惯相结合，可以使数字世界安全得多。由于攻击者利用最薄弱的环节，防御必须是普遍的，而非可选的。"
     },
     vocabulary: [
       "ransomware",
@@ -3331,11 +3331,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To narrow the gap, governments should fund schools progressively, sending more money to schools with more need. England's pupil premium, which pays schools extra for each disadvantaged student, and per-pupil funding formulas used in the Netherlands show this helps because resources finally match need rather than neighbourhood wealth. A further measure is universal, high-quality early childhood education, which equalises the starting line: France's free écoles maternelles and programmes like Head Start in the United States demonstrably raise the achievement of poor children, with benefits persisting into higher graduation rates and adult earnings. Targeted tutoring and school meals, as Finland combines with its famously equal outcomes, reinforce the effect.",
       conclusion: "In conclusion, educational inequality rooted in wealth-based funding and unequal early childhoods can be reduced through progressive funding and universal preschool, giving every child a fair start. Societies that invest early spend less later on welfare, prisons and lost potential."
     },
-    fullParagraphsCN: {
-      introduction: "教育不平等限制社会流动性并浪费人才。在许多国家，一个孩子的邮编比他的能力更能预测考试成绩，富裕家庭的孩子完成大学学业的可能性是同等聪明的贫困孩子的数倍。本文将审视其原因，尤其是与地方财富挂钩的教育经费和不平等的早期儿童发展，并提出加权教育拨款和普及早期教育等补救措施。",
-      body1: "教育不平等的主要原因是学校质量随房产财富而定。例如，美国学校主要由地方房产税资助，因此富裕郊区每名学生的经费可能是几英里外贫困学区的两倍，可以购买更小的班额、经验丰富的教师和高级课程；中国则呈现镜像——优质城市学校集中资源，而农村学校难以留住合格教师。不平等在入学前就已被强化，因为弱势儿童听到的词汇更少、读的书更少、上的学前教育更少：多个国家的研究发现，词汇量和入学准备度的差距在三岁时就已可测量，起步落后的孩子很少能赶上。",
-      body2: "要缩小差距，政府应当实行累进式拨款，向需求更大的学校投入更多资金。英格兰的「学生补贴」为每名弱势学生向学校支付额外经费，荷兰的生均拨款公式也表明这有帮助，因为资源终于与需求而非社区财富相匹配。进一步的措施是普及高质量的学前教育，让起跑线平等：法国的免费公立幼儿园和美国的「开端计划」明显提高了贫困儿童的学业成就，其益处延续到更高的毕业率和成年收入。芬兰把针对性辅导和校餐结合起来，实现了著名的平等结果，进一步强化了这种效果。",
-      conclusion: "总之，根植于财富拨款和不平等童年的教育不平等，可以通过累进拨款和普及学前教育来缩小，让每个孩子都有公平的起点。在早期投资的社会，日后在福利、监狱和浪费的潜能上的支出会更少。"
+        fullParagraphsCN: {
+      introduction: "教育不平等限制了社会流动，浪费了人才。在许多国家，一个孩子的邮政编码比其能力更能准确预测其考试成绩，而富裕家庭的孩子完成大学学业的可能性是同样聪明的贫困孩子的数倍。本文将考察其原因，特别是与地方财富挂钩的资金和不平等的幼儿发展，并提出加权学校拨款和普及学前教育等补救措施。",
+      body1: "教育不平等的主要原因是学校质量跟随财产财富。例如，在美国，学校主要由地方财产税资助，因此富裕的郊区每个学生的花费可以是几英里外贫困学区的两倍，用以购买更小的班级、经验丰富的教师和高级课程；中国呈现了镜像般的情况，精英城市学校集中资源，而农村学校难以留住合格的教师。不平等在学校开始之前就已被强化，因为弱势儿童听到的词汇更少、读的书更少、上的学前班更少：多个国家的研究发现，词汇量和入学准备方面的差距在三岁时就已经可衡量，而起步落后的孩子很少能赶上。",
+      body2: "为缩小差距，政府应当以累进方式资助学校，把更多资金拨给需求更大的学校。英格兰的「学生津贴」（pupil premium）为每个弱势学生向学校支付额外费用，荷兰使用的按学生拨款公式也证明了这一点，因为资源终于与需求而非社区财富相匹配。另一个措施是普及、高质量的幼儿教育，这能拉平起跑线：法国免费的「母育学校」（écoles maternelles）和美国的「开端计划」（Head Start）等项目已证明能提高贫困儿童的成绩，其益处持续到更高的毕业率和成年收入。芬兰把有针对性的辅导和校餐与其著名的平等成果相结合，进一步强化了这一效果。",
+      conclusion: "总之，植根于基于财富的资助和不平等的幼儿期的教育不平等，可以通过累进资助和普及学前教育来减少，给每个孩子一个公平的起点。及早投资的社会，日后在福利、监狱和流失的潜力上花费更少。"
     },
     vocabulary: [
       "social mobility",
@@ -3373,11 +3373,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To contain costs, governments can shift the system from treating sickness to preventing it. This works by attacking demand at the source: Mexico's sugar tax cut purchases of sugary drinks, and Britain's screening and smoking-cessation programmes catch disease early when treatment is cheapest, since every dollar spent on prevention saves several in treatment. Another effective strategy is collective price negotiation, which uses the state's purchasing power as a counterweight: Australia and New Zealand negotiate drug prices nationally and pay a fraction of American prices for identical medicines, while reference pricing in Germany caps what insurers will pay for equivalent treatments.",
       conclusion: "In conclusion, healthcare inflation caused by chronic disease and supplier pricing power can be controlled through prevention and collective negotiation, keeping care affordable for all. Countries that treat health as a public good to be managed, rather than a market to be left alone, consistently achieve better outcomes for less money."
     },
-    fullParagraphsCN: {
-      introduction: "多数国家的医疗成本上涨速度超过收入增长。美国将近五分之一的GDP用于医疗——约为其他富裕国家平均水平的两倍——却仍让数百万人没有医保，而随着人口老龄化，即便是全民医保体系也面临不断膨胀的预算。本文将审视其主要驱动因素，特别是慢性生活方式疾病和药企与保险公司的定价权，并提出以预防为主的医疗和集体价格谈判等对策。",
-      body1: "成本首先被向昂贵的慢性病转移的趋势推高。例如，糖尿病、心脏病和癌症——很大程度上与肥胖、吸烟和久坐生活方式相关——如今消耗了医疗预算的大头；治疗一名美国糖尿病患者每年花费约1.7万美元，且是终身支出。第二个驱动因素是供给方的市场力量，因为分散的买家面对的是集中的卖家：制药公司在专利保护允许的范围内随意定价，美国胰岛素价格在二十年间涨了两倍就是一个例证，而这种药已有百年历史；医院合并则让占主导地位的医院集团得以在不改善服务的情况下提价。多保险公司体系中的行政浪费又增加了数千亿美元。",
-      body2: "要控制成本，政府可以把医疗体系从治病转向防病。其原理是从源头削减需求：墨西哥的糖税减少了含糖饮料的购买，英国的筛查和戒烟项目在疾病最便宜治疗的早期就将其发现，因为在预防上花的每一美元能省下数美元的治疗费。另一个有效策略是集体价格谈判，用国家的购买力作为制衡：澳大利亚和新西兰全国统谈药价，为完全相同的药品支付的价格仅为美国的零头；德国的参考定价则为同等疗效药物设定了医保支付上限。",
-      conclusion: "总之，由慢性病和供给方定价权导致的医疗成本上涨，可以通过预防和集体谈判得到控制，让所有人负担得起医疗。把健康当作需要管理的公共产品而非放任的市场，这样的国家始终以更少的钱取得更好的结果。"
+        fullParagraphsCN: {
+      introduction: "在大多数国家，医疗成本的增长速度超过了收入。美国将近五分之一的国内生产总值用于医疗——大约是其他富裕国家平均水平的两倍——却仍有数百万人没有保险，而即使是全民体系也面临着因人口老龄化而膨胀的预算。本文将考察主要驱动因素，特别是慢性生活方式疾病和药品与保险公司的定价权，并提出包括以预防为重点的护理和集体价格谈判在内的解决方案。",
+      body1: "成本上升首先由向昂贵慢性疾病的转变驱动。例如，糖尿病、心脏病和癌症——很大程度上与肥胖、吸烟和久坐生活方式相关——如今消耗了大部分医疗预算，而治疗一名美国糖尿病患者每年终身花费约1.7万美元。第二个驱动因素是供应商的市场势力，因为分散的买家面对集中的卖家：制药公司收取专利保护允许的任何价格，美国的胰岛素价格在二十年内上涨了两倍，而这种药物已有百年历史；医院合并让占主导地位的医院集团在不改善护理的情况下提高价格。多保险体系中的行政浪费又增加了数千亿。",
+      body2: "要控制成本，政府可以把体系从治病转向防病。其原理是从源头削减需求：墨西哥的糖税减少了含糖饮料的购买，英国的筛查和戒烟项目在疾病最便宜治疗的早期就将其发现，因为在预防上花的每一美元能省下数美元的治疗费。另一个有效策略是集体价格谈判，用国家的购买力作为制衡：澳大利亚和新西兰在全国范围内谈判药品价格，对相同的药品只支付美国价格的一小部分，而德国的参考定价限制了保险公司为等效治疗支付的金额。",
+      conclusion: "总之，由慢性病和供应商定价权造成的医疗通胀，可以通过预防和集体谈判来控制，使护理对所有人都负担得起。那些把健康当作需要管理的公共产品、而非放任不管的市场的国家，始终能用更少的钱取得更好的成果。"
     },
     vocabulary: [
       "chronic disease",
@@ -3415,11 +3415,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Governments can respond by extending working lives. Raising retirement ages in line with life expectancy, as Denmark and the Netherlands have done automatically by law, helps because it expands the contributor base while shrinking the beneficiary years; flexible partial retirement and age-friendly workplaces keep older workers productive rather than pushed out. A complementary approach is expanding the working-age population through immigration and family support: Canada's points-based immigration system deliberately recruits young skilled workers to rebalance its demographics, while France's generous childcare and parental benefits have sustained one of Europe's highest fertility rates. Investing in automation and healthcare productivity lets fewer workers support more retirees.",
       conclusion: "In conclusion, aging driven by low fertility and rising longevity is irreversible, but through longer working lives, managed immigration and family-friendly policy societies can adapt successfully. The countries that plan early will age gracefully; those that deny the arithmetic will face fiscal crisis."
     },
-    fullParagraphsCN: {
-      introduction: "社会正以前所未有的速度老龄化。日本65岁以上人口已几乎是15岁以下人口的两倍，到2050年全球每六人中就有一人超过65岁，养老金体系、医疗服务和劳动力市场都承受压力。本文将审视其原因，聚焦出生率下降和预期寿命延长，并提出提高退休年龄、吸纳劳动年龄移民以及生育支持等应对。",
-      body1: "人口老龄化首先由生育率崩溃造成。例如，韩国的总和生育率已跌破每位女性0.8个孩子——有记录以来全球最低——因为住房成本、教育压力和女性职业代价让生育失去吸引力；中国在数十年计划生育之后，人口已于2022年开始缩减。老龄化还被惊人的长寿加速，因为医学进步大幅延长了寿命：1970年以来多数富裕国家的预期寿命上升了十年以上，意味着退休人员如今领取养老金二十年而非十年，而供养他们的劳动人口却在缩减。现收现付养老金制度的算术逻辑已经无法成立。",
-      body2: "政府可以通过延长工作年限来应对。像丹麦和荷兰那样通过立法让退休年龄与预期寿命自动挂钩，之所以有帮助，是因为它扩大了缴费者基础，同时缩短了领取年限；灵活的部分退休和年龄友好型工作场所让年长员工保持生产力，而不是被排挤出去。一个互补的方法是通过移民和家庭支持扩大劳动年龄人口：加拿大的积分制移民体系有意招募年轻的技术工人来重新平衡人口结构；法国慷慨的托儿和育儿福利则维持了欧洲最高的生育率之一。投资自动化和医疗生产率，能让更少的劳动者供养更多的退休者。",
-      conclusion: "总之，由低生育率和寿命延长驱动的老龄化不可逆转，但通过延长工作年限、有管理的移民和家庭友好政策，社会可以成功适应。早做规划的国家将优雅地老去；否认算术规律的国家将面临财政危机。"
+        fullParagraphsCN: {
+      introduction: "社会正以前所未有的速度老龄化。日本65岁以上人口已经是15岁以下人口的近两倍，到2050年，全球每六个人中就有一个超过65岁，这给养老金体系、医疗服务和劳动力市场带来了压力。本文将考察原因，重点关注出生率下降和预期寿命上升，并提出提高退休年龄、欢迎适龄劳动移民以及加大生育支持等应对措施。",
+      body1: "人口老龄化首先由生育率的暴跌引起。例如，韩国的生育率已降至每名妇女0.8个孩子以下——有史以来最低——因为住房成本、教育压力和女性的职业惩罚使养育孩子缺乏吸引力，而中国在数十年的计划生育后，人口于2022年开始缩减。老龄化因显著的长寿而加速，因为医学进步让人活得更久：自1970年以来，大多数富裕国家的预期寿命增加了十多年，这意味着退休人员现在领取养老金的时间是二十年而非十年，而为他们支付费用的劳动人口却在萎缩。现收现付养老金的算术简单地崩溃了。",
+      body2: "政府可以通过延长工作年限来应对。像丹麦和荷兰那样通过立法让退休年龄与预期寿命自动挂钩，之所以有帮助是因为它扩大了缴费者基础，同时缩短了领取年限；灵活的部分退休和年龄友好型工作场所让年长员工保持生产力，而不是被排挤出去。一个互补的方法是通过移民和家庭支持扩大劳动年龄人口：加拿大的积分移民制度有意招募年轻的技术工人来重新平衡其人口结构，而法国慷慨的儿童保育和育儿福利维持了欧洲最高的生育率之一。投资于自动化和医疗生产力，让更少的工人能支撑更多的退休人员。",
+      conclusion: "总之，由低生育率和长寿驱动的老龄化是不可逆转的，但通过更长的工作年限、有管理的移民和家庭友好政策，社会可以成功适应。及早规划的国家将优雅地老去；否认算术的国家将面临财政危机。"
     },
     vocabulary: [
       "fertility rate",
@@ -3457,11 +3457,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To secure energy supplies, governments must accelerate domestic renewable deployment and the grids that support it. Spain and Portugal, which generate most of their electricity from wind, solar and hydro, suffered far smaller price shocks in 2022 than gas-dependent neighbours — renewables are not only clean but uninterruptible by foreign powers, and permitting reform can cut wind farm approval times from years to months. In parallel, energy efficiency helps by shrinking demand itself: building retrofits, heat pumps and industrial efficiency can reduce consumption permanently, as demonstrated when Europe cut gas demand by nearly a fifth in one year through efficiency and substitution. Strategic reserves and diversified suppliers provide insurance during the transition.",
       conclusion: "In conclusion, the energy crisis rooted in concentrated fossil dependence and underinvestment can be resolved through rapid renewables and relentless efficiency, building a more resilient system. Every wind turbine and insulated home is, in a real sense, an act of energy security."
     },
-    fullParagraphsCN: {
-      introduction: "能源安全已成为我们时代的决定性议题。2022年俄罗斯切断对欧天然气供应时，价格数月内上涨十倍，工厂关闭，各国政府紧急应对以避免冬季停电，暴露了全球能源体系何等脆弱。本文将分析这场危机的原因，主要是对不可靠供应国的化石燃料依赖和对替代能源的长期投资不足，并提出加速可再生能源部署和提高能效等对策。",
-      body1: "危机起源于集中的化石燃料依赖。例如，德国把自己的工业模式建立在廉价的俄罗斯管道天然气之上，一半以上的进口来自单一供应国，因此乌克兰战争后管道被切断时，这个欧洲最大经济体在一个冬天内就面临去工业化的风险。危机还因数十年的投资不足和政策摇摆而加深：核电站在没有替代的情况下被关闭——德国在燃烧更多煤炭的同时于2023年关停了最后的反应堆——可再生能源建设虽快，却跟不上可调峰容量退役的速度。石油市场更添波动：欧佩克的产量决定能在一夜之间撬动全球价格，而在交通仍依赖石油的情况下，每一次电动化转型都不完整。",
-      body2: "要保障能源供应，政府必须加速本土可再生能源部署及配套电网。西班牙和葡萄牙大部分电力来自风电、光伏和水电，2022年遭受的价格冲击远小于依赖天然气的邻国——可再生能源不仅清洁，而且无法被外国势力切断；审批改革可以把风电场的核准时间从数年缩短到数月。与此同时，提高能效通过压缩需求本身来实现：建筑改造、热泵和工业节能能永久性降低消费——欧洲在一年内通过节能和替代把天然气需求削减了近五分之一就是证明。战略储备和多元化供应国则为转型期提供保险。",
-      conclusion: "总之，根植于集中化石依赖和投资不足的能源危机，可以通过快速部署可再生能源和坚持不懈的节能来化解，建立一个更具韧性的体系。每一台风力发电机和每一栋保温住宅，在真实意义上都是能源安全的行动。"
+        fullParagraphsCN: {
+      introduction: "能源安全已成为我们这个时代的一个核心关切。2022年俄罗斯切断对欧洲的天然气供应时，价格在几个月内上涨了十倍，工厂关闭，各国政府仓促防止冬季停电，暴露了全球能源体系已变得多么脆弱。本文将分析危机的原因，主要是对不可靠供应商的化石燃料依赖和对替代能源的长期投资不足，并建议包括加速可再生能源部署和能效措施在内的解决方案。",
+      body1: "危机源于集中的化石燃料依赖。例如，德国建立在廉价俄罗斯管道天然气之上的工业模式，从单一供应商进口了一半以上的供应，因此当入侵乌克兰后管道被切断时，欧洲最大的经济体在一个冬天内就面临着去工业化的可能。危机因数十年的投资不足和政策摇摆而加深，因为核电站在没有替代的情况下被关闭——德国在2023年关闭了最后一座反应堆，同时却燃烧了更多的煤炭——而可再生能源的建设虽然迅速，却跟不上可调度产能的退役速度。石油市场增加了波动性：欧佩克的产量决定可以在一夜之间在全球范围内移动价格，而在交通仍依赖石油的情况下，任何向电动汽车的转型都是不完整的。",
+      body2: "要保障能源供应，政府必须加速本土可再生能源部署及配套电网。西班牙和葡萄牙大部分电力来自风电、光伏和水电，2022年遭受的价格冲击远小于依赖天然气的邻国——可再生能源不仅清洁，而且无法被外国势力切断；审批改革可以把风电场的核准时间从数年缩短到数月。与此同时，提高能效通过压缩需求本身来发挥作用：建筑改造、热泵和工业节能能永久性降低消费——欧洲在一年内通过节能和替代把天然气需求削减了近五分之一就是证明。战略储备和多元化供应商在转型期间提供保险。",
+      conclusion: "总之，植根于集中的化石燃料依赖和投资不足的能源危机，可以通过快速发展可再生能源和不懈提高能效来解决，建立一个更有韧性的体系。每一台风力涡轮机和每一座隔热的房屋，在真正意义上都是能源安全的行动。"
     },
     vocabulary: [
       "energy security",
@@ -3499,11 +3499,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To preserve heritage, societies should protect it in law and pay for its survival. France funds the restoration of historic buildings through dedicated taxes and lottery proceeds, and UNESCO World Heritage status brings both money and obligation — protection works because it makes preservation a public duty rather than a private burden. Equally important is keeping heritage alive rather than frozen: New Zealand integrated Maori into school curricula and broadcasting, reviving a language once near extinction, and Japan designates master craftspeople as Living National Treasures, paying them to train apprentices. Community-based tourism, when managed locally, converts heritage into income that motivates its own preservation.",
       conclusion: "In conclusion, although heritage is threatened by modernisation and cultural homogenisation, determined action through legal protection and living transmission can pass it on to future generations. Heritage survives only when people can live in it, speak it and earn from it."
     },
-    fullParagraphsCN: {
-      introduction: "从语言到古迹，文化遗产正在消失。联合国教科文组织警告，大约每两周就有一种语言消亡；从阿勒颇到威尼斯，历史城区在一代人的时间内被破坏或掏空。本文将审视其原因，聚焦现代化和同化的全球文化，并提出依法保护加资金支持、通过教育和旅游实现活态传承等保护措施。",
-      body1: "遗产主要通过现代化的压力而流失。例如，中国的快速城市化在保护法律跟上之前拆除了无数历史胡同街区；在世界各地，当工厂商品以低价冲击传统手工艺、年轻人离开乡村进城工作时，传承数百年的学徒链条就断裂了。同化的全球文化加速了流失，因为英语媒体、全球品牌和社交平台挤压了本土表达：从亚马逊到西伯利亚，原住民社区的孩子在强势语言中长大，当最后一批流利的老人去世，整部口头文学也随之消失。战争和大规模旅游加剧破坏，帕尔米拉古城的废墟和过度拥挤的威尼斯都是例证。",
-      body2: "要保护遗产，社会应当将其纳入法律保护并为其存续出资。法国通过专项税收和彩票收益资助历史建筑修复，联合国教科文组织的世界遗产称号既带来资金也带来义务——保护有效是因为它让保护成为公共责任而非私人负担。同样重要的是让遗产保持活态而非凝固：新西兰把毛利语纳入学校课程和广播，复兴了一门曾濒临消亡的语言；日本把大师级匠人认定为「人间国宝」，出资让他们带徒授艺。由本地人管理的社区旅游，则能把遗产转化为激励自我保护的收入。",
-      conclusion: "总之，尽管遗产受到现代化和文化同质化的威胁，但通过依法保护和活态传承的坚定行动，可以将其传给后代。只有当人们能在遗产中生活、使用它并从中获利时，遗产才能真正存续。"
+        fullParagraphsCN: {
+      introduction: "从语言到纪念碑，文化遗产正在消失。联合国教科文组织警告说，大约每两周就有一种语言消亡，从阿勒颇到威尼斯的历史市中心在一代人之内就遭到了破坏或空心化。本文将考察原因，重点关注现代化和同质化的全球文化，并提出法律保护与资金、通过教育和旅游进行活态传承等保护措施。",
+      body1: "遗产的丧失主要源于现代化的压力。例如，中国的快速城市化在保护法律跟上之前拆除了无数历史悠久的胡同社区；而在世界各地，当工厂商品压低了传统手工艺品的价格，年轻人离开村庄去城市工作，打破了延续数百年的学徒链条时，传统工艺就消失了。同质化的全球文化加速了这种丧失，因为英语媒体、全球品牌和社交平台排挤了本土表达：从亚马逊到西伯利亚的原住民社区的孩子成长中说的是主流语言，当最后一位流利的长者去世时，整个口述文学也随之消失。战争和大众旅游加剧了破坏，巴尔米拉的废墟和过度拥挤的威尼斯都说明了这一点。",
+      body2: "要保护遗产，社会应当在法律上保护它，并为它的存续买单。法国通过专项税收和彩票收益资助历史建筑的修复，而联合国教科文组织世界遗产地位既带来了资金也带来了义务——保护之所以有效，是因为它把保存变成了公共责任而非私人负担。同样重要的是让遗产保持活力而非冻结：新西兰把毛利语纳入学校课程和广播，复兴了一种一度濒临灭绝的语言；日本把大师级工匠指定为「人间国宝」，出资让他们培训学徒。由当地管理的社区旅游把遗产转化为收入，从而激励其自身的保护。",
+      conclusion: "总之，虽然遗产受到现代化和文化同质化的威胁，但通过法律保护和活态传承的坚定行动，可以把它传递给后代。遗产只有在人们能在其中生活、说它的语言并从中谋生时才能存续。"
     },
     vocabulary: [
       "cultural heritage",
@@ -3541,11 +3541,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To reduce teenage smoking, governments should regulate products and sales with real teeth. Evidence shows that raising the legal age to 21, banning flavours and requiring plain packaging cut youth uptake significantly: Australia's world-leading plain-packaging and tax policies drove teenage smoking down to low single digits, and New Zealand's law banning tobacco sales to anyone born after 2008 aims to create a smoke-free generation. Schools and parents can also help through honest, skill-based prevention education, which works when it teaches refusal skills and exposes industry manipulation rather than simply preaching; smoke-free norms at home matter, since children of non-smokers rarely start.",
       conclusion: "In conclusion, teenage smoking driven by social pressure and industry targeting can be cut substantially through strict regulation and smart prevention, protecting a generation's health. The goal should not be merely reducing cigarettes but preventing nicotine addiction in any form."
     },
-    fullParagraphsCN: {
-      introduction: "尽管开展了数十年的反吸烟运动，青少年仍在吸烟和吸电子烟。在许多国家，青少年吸烟率虽然下降，但调味电子烟造就了一代新的尼古丁成瘾者——美国调查发现超过十分之一的高中生经常吸电子烟。本文将审视其原因，特别是同伴压力和行业营销，并提出严格销售监管和校本预防教育等对策。",
-      body1: "青少年开始吸烟主要因为尼古丁使用已织入他们的社交环境。例如，朋友吸烟的青少年自己开始吸烟的可能性要高出数倍；在同伴认可最为重要的年纪，吸烟仍然充当着叛逆和归属的徽章。行业刻意的针对使问题恶化，因为烟草和电子烟公司就是为年轻人设计产品：水果和糖果口味、看似U盘的时尚设备，以及在青少年使用的平台上投放网红营销——Juul在监管机构出手之前就是这样做的。易得性完成了这个陷阱——尽管有年龄限制，未成年人仍能从街角商店或年长学生那里买到电子烟，廉价的一次性电子烟比一张电影票还便宜。",
-      body2: "要减少青少年吸烟，政府应当以真正的力度监管产品和销售。证据显示，把合法年龄提高到21岁、禁止调味产品、强制素面包装能显著降低青少年的尝试率：澳大利亚世界领先的素面包装和税收政策把青少年吸烟率压低到个位数；新西兰禁止向2008年后出生者售烟的法律旨在创造无烟一代。学校和家长也可以通过诚实、以技能为基础的预防教育提供帮助——教育有效的方式是教授拒绝技巧、揭露行业操纵，而非简单说教；家庭中的无烟规范很重要，因为父母不吸烟的孩子很少开始吸烟。",
-      conclusion: "总之，由同伴压力和行业针对驱动的青少年吸烟，可以通过严格监管和聪明的预防大幅减少，保护一代人的健康。目标不应只是减少卷烟，而是防止任何形式的尼古丁成瘾。"
+        fullParagraphsCN: {
+      introduction: "尽管开展了数十年的反吸烟运动，青少年仍然开始吸烟和吸电子烟。虽然许多国家的青年卷烟使用率已下降，但调味电子烟创造了新一代尼古丁成瘾者——在美国，调查发现超过十分之一的高中生经常吸电子烟。本文将考察原因，特别是同伴压力和行业营销，并提出包括严格销售监管和基于学校的预防在内的对策。",
+      body1: "青少年开始吸烟主要是因为尼古丁的使用被编织进了他们的社交环境。例如，朋友吸烟的青少年自己开始吸烟的可能性要高出数倍，而在同龄人认可最为重要的年龄，吸烟仍然充当着叛逆和归属的标志。问题因行业有意的定向营销而恶化，因为烟草和电子烟公司为年轻人设计产品：水果和糖果口味、看起来像U盘的时尚设备，以及在青少年使用的平台上进行网红营销，正如Juul在监管机构采取行动之前所展示的那样。易得性完成了这个陷阱——尽管有年龄限制，未成年人仍经常从街角商店或年长的学生那里购买电子烟，而廉价的一次性电子烟比一张电影票还便宜。",
+      body2: "为减少青少年吸烟，政府应当以真正的力度监管产品和销售。证据表明，把法定年龄提高到21岁、禁止调味和要求素面包装能显著降低青少年使用率：澳大利亚世界领先的素面包装和税收政策把青少年吸烟率降到了很低的个位数，而新西兰禁止向2008年以后出生的人销售烟草的法律，旨在创造一个无烟的一代。学校和家长也可以通过诚实、基于技能的预防教育来帮助——当它教授拒绝技巧并揭露行业操纵，而非单纯说教时，就能发挥作用；家里的无烟规范也很重要，因为非吸烟者的孩子很少会开始吸烟。",
+      conclusion: "总之，由社会压力和行业定向营销驱动的青少年吸烟，可以通过严格监管和明智的预防大幅减少，保护一代人的健康。目标不应仅仅是减少卷烟，而是防止任何形式的尼古丁成瘾。"
     },
     vocabulary: [
       "vaping",
@@ -3583,11 +3583,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "Employers can reduce stress by redesigning work around realistic demands and genuine autonomy. Trials of the four-day week in Britain and Iceland, involving hundreds of companies, found burnout fell sharply while productivity held steady or rose — this helps because rest restores the focus that exhausted workers lose. Governments should also establish legal boundaries, which France pioneered with its 2017 right to disconnect law requiring companies to negotiate rules for after-hours email; enforcing real holidays, capping overtime and regulating gig work address insecurity at its root. Managers trained to spot overload early complete the system.",
       conclusion: "In conclusion, workplace stress caused by overload, digital intrusion and insecurity can be alleviated through organisational redesign and legal protection of rest, benefiting workers and employers alike. Chronic exhaustion is not a badge of productivity but a failure of design."
     },
-    fullParagraphsCN: {
-      introduction: "工作压力已成为现代经济中的流行病。世界卫生组织2019年正式把「职业倦怠」认定为一种职业现象，调查显示主要经济体中相当大比例的劳动者每天都在工作中感到压力。本文将审视其原因，最重要的是过重负荷与永远在线的科技以及工作不安全感，并提出组织再造和休息的法律保障等对策。",
-      body1: "工作压力首先源于高要求与低掌控感的组合。例如，日本的「过劳死」现象在一名31岁女记者一个月加班159小时后被迫引发全国性讨论；中国的996工作制——早九晚九、每周六天——也造成了类似的悲剧和公众反弹。永远在线的科技加剧了压力，因为智能手机废除了工作与家庭之间的界限：员工在午夜和假期仍回复消息，神经系统永远无法彻底放松。工作不安全感让一切雪上加霜，零工合同和裁员潮让劳动者对生计处于持续的焦虑之中。",
-      body2: "雇主可以通过围绕合理要求和真实自主权重新设计工作来减轻压力。英国和冰岛涉及数百家公司的四天工作制试验发现，倦怠率大幅下降而生产率保持稳定甚至上升——之所以有帮助，是因为休息能恢复疲惫劳动者失去的专注力。政府也应当设立法律边界，法国2017年的「离线权」法律率先要求企业就下班后收发邮件的规则进行协商；落实真正的假期、限制加班、规范零工经济则从根源上解决不安全感。培训管理者及早发现过劳迹象则使整个体系完整。",
-      conclusion: "总之，由过载、数字侵入和不安全感造成的职场压力，可以通过组织再造和休息的法律保障来缓解，让劳动者和雇主共同受益。长期的精疲力竭不是生产力的勋章，而是设计的失败。"
+        fullParagraphsCN: {
+      introduction: "与工作相关的压力已成为现代经济体中的流行病。世界卫生组织于2019年正式把职业倦怠认定为一种职业现象，而调查显示，主要经济体中有大量工人每天在工作中感到压力。本文将考察其原因，首要的是过度工作负荷与始终在线的技术，以及工作不安全感，并提出组织重新设计和休息的法律保护等解决方案。",
+      body1: "工作压力首先源于高要求与低控制的结合。例如，日本的「过劳死」（karoshi）现象——因过度工作而死亡——在一名31岁记者一个月加班159小时的案例后引发了全国性辩论，而在中国，「996」工作制（朝九晚九，每周六天）也产生了类似的悲剧和公众反弹。始终在线的技术加剧了压力，因为智能手机消除了工作与家庭之间的界限：员工在午夜和假期回复消息，神经系统因此从未完全脱离。工作不安全感使一切雪上加霜，因为零工合同和裁员潮让工人对生计处于永久焦虑之中。",
+      body2: "雇主可以通过围绕合理要求和真实自主权重新设计工作来减轻压力。英国和冰岛涉及数百家公司的四天工作制试验发现，倦怠率大幅下降而生产率保持稳定甚至上升——之所以有帮助是因为休息能恢复疲惫劳动者失去的专注力。政府也应当设立法律边界，法国在这方面率先垂范，其2017年的「离线权」法律要求企业就下班后收发邮件的规则进行协商；落实真正的假期、限制加班和规范零工经济则从根源上解决不安全感。培训管理者及早发现过劳迹象则使整个体系完整。",
+      conclusion: "总之，由超负荷、数字入侵和不安全感造成的工作场所压力，可以通过组织重新设计和对休息的法律保护来缓解，对工人和雇主都有利。慢性疲惫不是生产力的徽章，而是设计的失败。"
     },
     vocabulary: [
       "burnout",
@@ -3625,11 +3625,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To ensure food safety, authorities must build traceability from farm to fork. The European Union's system, which requires every animal and batch to be trackable, allowed rapid recalls during scandals and deterred fraud — this works because opacity is the fraudster's greatest ally, and modern tools from QR codes to blockchain make tracking cheap. In addition, severe enforcement strengthens protection: China's later reforms jailed executives in the melamine case, created a single powerful food safety agency and made punishment severe enough to change incentives. Regular unannounced inspections, laboratory testing funded by industry fees and protected whistle-blower channels, as under the US Food Safety Modernization Act, catch problems before they reach the plate.",
       conclusion: "In conclusion, food safety threatened by profitable fraud and opaque supply chains can be guaranteed through traceability and real punishment, restoring public trust in what we eat. Safe food is not a luxury but the minimum a society owes its members."
     },
-    fullParagraphsCN: {
-      introduction: "食品安全丑闻屡屡动摇公众信心。世界卫生组织估计，受污染的食品每年使六亿人患病——接近人类的十分之一——并导致其中四十二万人死亡。本文将分析其原因，主要是逐利驱动的掺假和对漫长供应链的检验薄弱，并提出可追溯体系和严厉执法等保障措施。",
-      body1: "食品变得不安全主要因为掺假有利可图而被发现的概率极低。例如，中国2008年的三聚氰胺事件毒害了三十万名婴儿，因为奶农稀释牛奶后添加工业化学品来伪造蛋白含量，其财务动机强烈且检测容易被规避；欧洲2013年的马肉丑闻同样揭露出十几个国家的「牛肉」制品中含马肉。漫长而不透明的供应链使问题加剧，因为一份即食餐可能包含来自二十个国家的原料，每个环节都是潜在的污染或掺假点。对农户的成本压力还驱使农药和抗生素滥用，残留物和耐药菌最终抵达消费者。",
-      body2: "要确保食品安全，当局必须建立从农田到餐桌的可追溯体系。欧盟要求每头牲畜和每个批次都可追踪的制度，在丑闻期间实现了快速召回并震慑了掺假——之所以有效，是因为不透明是造假者最大的盟友，而从二维码到区块链的现代工具让追踪成本极低。此外，严厉执法加强保护：中国随后的改革把三聚氰胺案的高管送进监狱，成立了统一的强大食药监管机构，并让惩罚严厉到足以改变动机。定期突击检查、由行业费用资助的实验室检测、以及美国《食品安全现代化法》所保护的举报人渠道，能在问题端上餐桌之前将其拦截。",
-      conclusion: "总之，受到暴利掺假和不透明供应链威胁的食品安全，可以通过可追溯体系和真正的惩罚得到保障，恢复公众对食物的信任。安全的食品不是奢侈品，而是一个社会对其成员最起码的亏欠。"
+        fullParagraphsCN: {
+      introduction: "食品安全丑闻经常动摇公众信心。世界卫生组织估计，受污染的食物每年使6亿人患病——将近每十个人中就有一个——并导致42万人死亡。本文将分析原因，主要是利润驱动的掺假和对长供应链的检查薄弱，并提出包括可追溯体系和严格执法在内的保障措施。",
+      body1: "食物变得不安全，主要是因为欺诈有利可图而被发现的概率很低。例如，中国2008年的三聚氰胺丑闻毒害了30万名婴儿，当时牛奶供应商稀释牛奶并添加工业化学品来伪造蛋白质含量，因为经济激励很强而检测很容易规避；欧洲2013年的马肉丑闻同样揭露了十多个国家的牛肉产品中含有马肉。问题因漫长、不透明的供应链而加剧，因为一份现成餐可能含有来自二十个国家的成分，每一个都是潜在的污染或欺诈点。对农民的成本压力也导致农药和抗生素的过度使用，留下残留物并滋生能到达消费者的耐药细菌。",
+      body2: "要确保食品安全，当局必须建立从农田到餐桌的可追溯体系。欧盟要求每头牲畜和每个批次都可追踪的制度，在丑闻期间实现了快速召回并震慑了掺假——之所以有效是因为不透明是造假者最大的盟友，而从二维码到区块链的现代工具让追踪成本极低。此外，严厉的执法加强了保护：中国后来的改革把三聚氰胺案中的高管判刑，设立了一个权力强大的统一食品安全机构，并使惩罚严厉到足以改变激励。定期的突击检查、由行业费用资助的实验室检测，以及美国《食品安全现代化法案》下的受保护举报人渠道，能在问题到达餐桌之前发现它们。",
+      conclusion: "总之，受到利润驱动的欺诈和不透明供应链威胁的食品安全，可以通过可追溯性和真正的惩罚来保障，恢复公众对我们所吃食物的信任。安全食品不是奢侈品，而是社会对其成员的最低责任。"
     },
     vocabulary: [
       "food adulteration",
@@ -3667,11 +3667,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To prevent cyberbullying, schools should make digital citizenship part of the curriculum. Programmes like Finland's KiVa, which trains students to support victims and refuse to reward bullies with attention, reduced bullying substantially in controlled trials — this helps because bullies perform for an audience, and removing the audience removes the incentive. At the same time, platforms must be held accountable through law: the UK's Online Safety Act and Australia's eSafety Commissioner can now compel platforms to remove abusive content quickly and face fines for systematic failure, while default privacy settings, easy reporting and verified identities make cruelty harder. Parents maintaining open dialogue, so victims report rather than suffer silently, is equally essential.",
       conclusion: "In conclusion, cyberbullying rooted in anonymity and engagement-driven platform design can be prevented through peer-focused education and legal accountability, making online spaces safe for the young. Technology created this problem; technology firms must be required to help solve it."
     },
-    fullParagraphsCN: {
-      introduction: "网络欺凌已成为对青少年福祉的决定性威胁。联合国儿童基金会报告，在三十多个国家中，三分之一的年轻人经历过网络欺凌；多起与持续网络暴力相关的青少年自杀事件震惊了全球公众。本文将审视其原因，特别是匿名性和奖励恶行的平台设计，并提出学校教育和平台问责等预防措施。",
-      body1: "网络欺凌猖獗是因为互联网移除了约束面对面行为的规范。例如，应用和游戏里的匿名性让孩子说出在教室里绝不敢说的话，欺凌者与受害者之间的距离消除了正常会触发同理心的痛苦画面——心理学实验一致表明，当后果不可见时，人们会表现得更残忍。数字内容的持久性和传播力让情况更糟：一张羞辱性的照片或一条刻薄的评论几分钟内就能传遍全校，多年内可被搜索，并跟着受害者回家，而传统欺凌至少在校门口就结束了。平台从用户互动中获利，对清除恶行行动迟缓，因为愤怒情绪能让用户不停刷屏。",
-      body2: "要预防网络欺凌，学校应当把数字公民素养纳入课程。芬兰的KiVa项目训练学生支持受害者、拒绝用关注奖励欺凌者，在对照试验中大幅减少了欺凌——之所以有效，是因为欺凌者是为观众表演，移除观众就移除了动机。同时，必须通过法律让平台承担责任：英国的《在线安全法》和澳大利亚的电子安全专员现在可以强制平台迅速删除霸凌内容，并对系统性失职处以罚款；默认隐私设置、便捷的举报和实名认证让恶行更难实施。父母保持开放的沟通同样重要，这样受害者会报告而非默默忍受。",
-      conclusion: "总之，根植于匿名性和互动导向平台设计的网络欺凌，可以通过以同伴为中心的教育和法律问责得到预防，让网络空间对年轻人更安全。科技制造了这个问题，就必须要求科技公司参与解决它。"
+        fullParagraphsCN: {
+      introduction: "网络欺凌已成为年轻人福祉的一个核心威胁。联合国儿童基金会报告称，在30多个国家，每三个年轻人中就有一个经历过网络欺凌，而几起与无休止的网络虐待相关的高调青少年自杀震惊了全球公众。本文将考察其原因，特别是匿名性和奖励残忍的平台设计，并提出包括学校项目和平台问责制在内的预防措施。",
+      body1: "网络欺凌之所以猖獗，是因为互联网去除了支配面对面行为的约束。例如，应用和游戏上的匿名性让孩子们说出他们在课堂上绝不敢说的话，而欺凌者和受害者之间的距离去除了通常触发同理心的痛苦画面——心理学实验一致表明，当后果不可见时，人们的行为会更残忍。数字内容的永久性和覆盖面使情况更糟，因为一张羞辱性的照片或一条残忍的评论可以在几分钟内传遍整个学校，数年都能被搜索到，并跟随受害者回家，而传统欺凌至少在学校门口就结束了。平台从参与度中获利，且对移除虐待内容行动迟缓，因为愤怒让用户持续滚动。",
+      body2: "为预防网络欺凌，学校应当把数字公民素养纳入课程。芬兰的KiVa项目训练学生支持受害者、拒绝用关注奖励欺凌者，在对照试验中大幅减少了欺凌——之所以有帮助是因为欺凌者是为观众表演，移除观众就移除了动机。同时，必须通过法律让平台承担责任：英国的《在线安全法》和澳大利亚的电子安全专员如今可以强制平台迅速移除虐待内容，并因系统性失败而面临罚款，而默认隐私设置、便捷举报和实名认证使残忍行为更难实施。家长保持开放对话，让受害者敢于报告而非默默忍受，同样至关重要。",
+      conclusion: "总之，植根于匿名性和以参与度为驱动的平台设计的网络欺凌，可以通过以同伴为中心的教育和法律问责来预防，使网络空间对年轻人安全。技术创造了这个问题；技术公司必须被要求帮助解决它。"
     },
     vocabulary: [
       "cyberbullying",
@@ -3709,11 +3709,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To restore affordability, governments should release land and speed up construction. Tokyo demonstrates this works: flexible zoning allows abundant building, and despite a growing economy, real house prices there stayed flat for decades because supply matched demand. A further measure is curbing speculative demand: New Zealand banned most foreign buyers, Singapore taxes additional properties heavily and uses public housing to house 80 percent of its population at stable prices, and vacancy taxes in Vancouver pushed thousands of empty units back onto the rental market. Rent regulation and social housing construction, as Vienna's century-long municipal building programme proves, can keep even a capital city broadly affordable.",
       conclusion: "In conclusion, the housing crisis caused by undersupply and speculation can be solved through building more and restraining investors, making decent homes attainable again. Cities exist for their residents, not for capital seeking a parking place."
     },
-    fullParagraphsCN: {
-      introduction: "多数大城市的住房已变得难以负担。在香港、悉尼、温哥华和伦敦，房价中位数是收入中位数的十二到二十倍，迫使年轻家庭背负数十年债务或终身租房。本文将审视其原因，尤其是长期供给不足和住房被当作金融资产，并提出供给侧改革和遏制投机等对策。",
-      body1: "住房成本飙升主要因为供给没有跟上需求。例如，英格兰四十年来新建住房一直少于家庭形成的数量；就业机会密集城市周边的限制性规划体系——绿化带、限高和无休止的听证——意味着即使面对旧金山和东京级别的需求，新建供应也只有涓涓细流；经济学家估计，在受限最严重的城市，规划限制为房价推高了数十万美元。住房金融化加深了危机，因为房产成了全球最爱的投资品：低利率让投资者和外国买家出价压过本地居民，伦敦和温哥华数千套公寓空置着充当价值储藏工具，购房出租的房东把家庭住宅变成租赁资产，把价格推到工资无力支撑的高度。",
-      body2: "要恢复可负担性，政府应当释放土地并加快建造。东京证明这有效：灵活的用途分区允许大量建设，尽管经济在增长，其实际房价数十年保持平稳，因为供给跟上了需求。进一步的措施是抑制投机性需求：新西兰禁止了大部分外国买家，新加坡对购买多套房产课以重税、并用公共住房以稳定价格安置了80%的人口；温哥华的空置税把数千套空置单元推回了租赁市场。租金管制和社会住房建设同样有效——维也纳持续百年的市政建房计划证明，即使首都也能保持大体可负担。",
-      conclusion: "总之，由供给不足和投机造成的住房危机，可以通过增加建设和约束投资者来解决，让体面的住房重新可以企及。城市为它的居民而存在，而不是为寻找停泊之地的资本而存在。"
+        fullParagraphsCN: {
+      introduction: "在大多数主要城市，住房已变得负担不起。在香港、悉尼、温哥华和伦敦，住房中位数价格是收入中位数的12到20倍，迫使年轻家庭背负数十年债务或永久租房。本文将考察原因，特别是长期的供应不足和把住房当作金融资产对待，并提出包括供给侧改革和抑制投机在内的解决方案。",
+      body1: "住房成本飙升主要是因为供给未能跟上需求。例如，英格兰四十年来建造的住房少于家庭组建数量，而就业机会丰富的城市周边限制性的规划体系——绿化带、高度限制和无休止的咨询——意味着即使旧金山和东京规模的需求也只遇到涓涓细流般的新建；经济学家估计，规划限制在受约束最严重的城市给房价增加了数十万美元。危机因住房的金融化而加深，因为房地产成了世界上最受欢迎的投资：低利率让投资者和外国买家出价比居民高，伦敦和温哥华数以千计的公寓作为价值储藏手段空置着，而购房出租的房东把家庭住宅变成租赁资产，把价格推到工资无法支撑的程度。",
+      body2: "为恢复可负担性，政府应当释放土地并加快建设。东京证明了这一点是有效的：灵活的分区允许充足的建设，尽管经济增长，那里的实际房价数十年来保持平稳，因为供给与需求相匹配。另一个措施是遏制投机性需求：新西兰禁止了大多数外国买家，新加坡对额外房产征收重税，并用公共住房以稳定的价格为80%的人口提供住房，而温哥华的空置税把数千套空置单元重新推向了租赁市场。租金管制和社会住房建设，正如维也纳长达一个世纪的市政建设计划所证明的，可以让即使是首都城市也大致可负担。",
+      conclusion: "总之，由供应不足和投机造成的住房危机，可以通过多建住房和抑制投资者来解决，让体面的住房再次可及。城市是为其居民而存在的，而非为寻求停车位的资本而存在。"
     },
     vocabulary: [
       "affordability",
@@ -3751,11 +3751,11 @@ export const essayTemplates: EssayTemplate[] = [
       body2: "To preserve endangered languages, communities should teach children through them, not just about them. Hawaii revived its language from a few hundred elderly speakers to thousands of fluent children through Punana Leo immersion schools, where all instruction happens in Hawaiian — this works because a language survives only as a living medium of daily life, not as a museum subject. Furthermore, documentation and technology help secure what cannot yet be revived: projects recording the last speakers create permanent archives, while apps, social media content and smartphone keyboards in minority languages, as used by Welsh and Maori communities, make old languages usable in modern life. Legal status matters too — Welsh television and bilingual public services in Wales proved that official recognition restores prestige.",
       conclusion: "In conclusion, although languages are dying because of economic pressure and broken transmission, committed action through immersion education and digital revitalisation can keep them alive for future generations. Every language saved preserves a library of human knowledge that exists in no other form."
     },
-    fullParagraphsCN: {
-      introduction: "全球约七千种语言中有一半正濒临灭绝。语言学家估计，每两周就有一种语言归于沉寂，每种语言都带着别处不存在的关于生态系统、医药和思维方式的独特知识。本文将审视语言消亡的原因，聚焦主要语言的经济主导地位和向儿童传承的中断，并提出沉浸式教育和数字化记录等保护策略。",
-      body1: "语言消失主要因为经济机会说的是强势语言。例如，印度尼西亚巴布亚地区或印度东北部的父母用印尼语或印地语而非祖先语言养育孩子，他们有理由相信，流利掌握国语是获得教育和就业的代价；而每一代人的语言转换都让少数语言变得更弱。只用主要语言办学的学校和媒体加速了衰落，因为孩子们整天沉浸在强势语言中，很快把传承语言与落后联系起来：二十世纪，从加拿大到威尔士的学校曾积极惩罚说原住民语言的儿童，那时造成的羞耻感至今仍在压制语言传承。",
-      body2: "要保护濒危语言，社区应当通过传承语言来教育孩子，而不仅仅是教他们关于这种语言的知识。夏威夷通过Punana Leo沉浸式学校，把夏威夷语从几百名老年使用者复兴为数千名流利的儿童——所有教学都用夏威夷语进行——之所以有效，是因为语言只有作为日常生活的活媒介才能存续，而不是作为博物馆展品。此外，记录和科技能为尚无法复兴的语言提供保障：记录最后使用者言语的项目创造了永久档案；威尔士语和毛利语社区所使用的应用、社交媒体内容和智能手机键盘，则让古老语言能在现代生活中使用。法律地位同样重要——威尔士语电视台和威尔士的双语公共服务证明，官方认可能够恢复语言的声望。",
-      conclusion: "总之，尽管语言因经济压力和传承中断而消亡，但通过沉浸式教育和数字化复兴的坚定行动，可以让它们为后代存续。每拯救一种语言，就保存了一座以其他任何形式都不存在的人类知识宝库。"
+        fullParagraphsCN: {
+      introduction: "世界上大约七千种语言中有一半濒临灭绝。语言学家估计，每两周就有一种语言沉寂，每一种都带走了关于生态系统、医学和思维方式的独特知识，这些知识在其他任何地方都不存在。本文将考察语言消亡的原因，重点关注主要语言的经济主导地位和向儿童传承的中断，并提出包括沉浸式教育和数字记录在内的保护策略。",
+      body1: "语言消失主要是因为经济机会说的是一种占主导地位的语言。例如，印度尼西亚巴布亚地区或印度东北部的父母用印度尼西亚语或印地语抚养孩子，而非他们祖先的语言，他们合理地相信流利掌握国家语言是接受教育和就业的代价，而每一代转换语言的人都使少数民族语言变得更弱。只以主要语言运作的学校和媒体加速了这种衰落，因为孩子们整天沉浸在主流语言中，并很快把自己的传统语言与落后联系起来：在20世纪，从加拿大到威尔士的学校积极惩罚说原住民语言的孩子，而当时造成的羞耻感至今仍在抑制传承。",
+      body2: "要保护濒危语言，社区应当通过传承语言来教育孩子，而不仅仅是教他们关于这种语言的知识。夏威夷通过Punana Leo沉浸式学校，把夏威夷语从几百名老年使用者复兴为数千名流利的儿童——所有教学都用夏威夷语进行——之所以有效是因为语言只有作为日常生活的活媒介才能存续，而不是作为博物馆展品。此外，记录和科技能为尚无法复兴的语言提供保障：记录最后使用者言语的项目创造了永久档案；威尔士语和毛利语社区所使用的应用、社交媒体内容和智能手机键盘，让古老语言在现代生活中可用。法律地位也很重要——威尔士的威尔士语电视和双语公共服务证明，官方认可能恢复声望。",
+      conclusion: "总之，虽然语言因经济压力和传承中断而消亡，但通过沉浸式教育和数字复兴的坚定行动，可以让它们为后代存续。每拯救一种语言，就保存了一座以其他任何形式都不存在的人类知识宝库。"
     },
     vocabulary: [
       "endangered language",
