@@ -14,9 +14,23 @@ import MockExam from '@/components/MockExam';
 import { loadMockData } from '@/services/database';
 
 function App() {
-  const [activeTab, setActiveTab] = useState('flashcards');
+  // 支持通过 URL ?tab=xxx 直接打开指定模块
+  const validTabs = ['flashcards', 'wordlist', 'roots', 'patterns', 'synonyms', 'templates', 'listening', 'reading', 'speaking', 'questions', 'exam'];
+  const initialTab = (() => {
+    const tab = new URLSearchParams(window.location.search).get('tab');
+    return tab && validTabs.includes(tab) ? tab : 'flashcards';
+  })();
+  const [activeTab, setActiveTab] = useState(initialTab);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+
+  // 切换标签时同步更新 URL，便于刷新保持当前模块
+  const handleTabChange = (tab: string) => {
+    setActiveTab(tab);
+    const url = new URL(window.location.href);
+    url.searchParams.set('tab', tab);
+    window.history.replaceState({}, '', url.toString());
+  };
 
   useEffect(() => {
     const initApp = async () => {
@@ -102,7 +116,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50">
-      <Navigation activeTab={activeTab} onTabChange={setActiveTab} />
+      <Navigation activeTab={activeTab} onTabChange={handleTabChange} />
       <main>
         {renderContent()}
       </main>
