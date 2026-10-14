@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ielts-study-v26.10.14.85';
+const CACHE_NAME = 'ielts-study-v26.10.15.85';
 const urlsToCache = [
   '/',
   '/index.html',
