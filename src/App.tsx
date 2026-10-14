@@ -14,23 +14,34 @@ import MockExam from '@/components/MockExam';
 import { loadMockData } from '@/services/database';
 
 function App() {
-  // 支持通过 URL ?tab=xxx 直接打开指定模块
+  // 各模块独立路径路由：/wordlist、/templates、/listening 等均可作为独立界面直接打开
   const validTabs = ['flashcards', 'wordlist', 'roots', 'patterns', 'synonyms', 'templates', 'listening', 'reading', 'speaking', 'questions', 'exam'];
-  const initialTab = (() => {
+
+  const tabFromLocation = (): string => {
+    const path = window.location.pathname.replace(/\/+$/, '');
+    const seg = path.startsWith('/') ? path.slice(1) : path;
+    if (validTabs.includes(seg)) return seg;
+    // 兼容旧的 ?tab=xxx 参数
     const tab = new URLSearchParams(window.location.search).get('tab');
     return tab && validTabs.includes(tab) ? tab : 'flashcards';
-  })();
-  const [activeTab, setActiveTab] = useState(initialTab);
+  };
+
+  const [activeTab, setActiveTab] = useState(tabFromLocation);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  // 切换标签时同步更新 URL，便于刷新保持当前模块
+  // 切换标签时跳转到对应独立路径
   const handleTabChange = (tab: string) => {
     setActiveTab(tab);
-    const url = new URL(window.location.href);
-    url.searchParams.set('tab', tab);
-    window.history.replaceState({}, '', url.toString());
+    window.history.pushState({}, '', `/${tab}`);
   };
+
+  // 浏览器前进/后退时同步当前模块
+  useEffect(() => {
+    const onPopState = () => setActiveTab(tabFromLocation());
+    window.addEventListener('popstate', onPopState);
+    return () => window.removeEventListener('popstate', onPopState);
+  }, []);
 
   useEffect(() => {
     const initApp = async () => {
@@ -122,7 +133,7 @@ function App() {
       </main>
       <footer className="bg-white/80 backdrop-blur-sm border-t border-gray-100 mt-12">
         <div className="max-w-6xl mx-auto px-4 py-6 text-center text-gray-400 text-sm">
-          <p>雅思学习工具 v26.10.09.85 - 专业级备考助手 | 全真模考 | 覆盖8000+词汇 | 80篇听力真题</p>
+          <p>雅思学习工具 v26.10.14.85 - 专业级备考助手 | 全真模考 | 覆盖8000+词汇 | 80篇听力真题</p>
         </div>
       </footer>
     </div>
